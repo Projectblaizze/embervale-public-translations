@@ -1,0 +1,90 @@
+silver_bar:Lingot d'argent
+gold_bar:Lingot d'or
+iron_bar:Barre en fer
+copper_bar:Barre en cuivre
+brass_bar:Barre en laiton
+embervale-key:Clé d'Embervale
+bastion_of_light-key:Touche du Bastion de la Lumière
+infested_gardens-key:Clé de Infested Gardens
+abandonded_wastelands-key:Clé de Abandoned Wastelands
+dried_out_riverlands-key:Clé Riverlands séchée
+occupied_river_crossing-key:Clé d'Occupied River Crossing
+island_of_beasts-key:Clé de l'île des bêtes
+hidden_kingdom-key:Clé Hidden Kingdom
+eternal_ice-key:Clé Eternal Ice
+silver_mountains-key:Clé de Silver Mountains
+stranded_seafire-key:Clé Stranded Seafire
+deepwater_passage-key:Clé Deepwater Passage
+graveyard_of_the_nameless-key:Cimetière de la clé sans nom
+duskwood-key:Clé Duskwood
+distillate:Distillat
+pumpkin_soup:Soupe à la citrouille
+pumpkin_soup_description:Cette soupe épicée redonne {quantité} d'endurance
+fruit_basket:Corbeille de fruits
+fruit_basket_description:Restaure {quantité} d'endurance
+salad:Salade
+salad_description:Restaure {quantité} d'endurance
+stone:Pierre
+flint:Silex
+iron_ore:Minerai de fer
+copper_ore:Minerai de cuivre
+silver_ore:Minerai d'argent
+gold_ore:Minerai d'or
+pewter:Étain
+sapphire:Saphir
+ruby:Rubis
+eternal_ice:Glace éternelle
+clover:Trèfle
+midnight_rose:Rose de minuit
+rose:Rose
+maggot:asticot
+caterpillar:Caterpillar
+toadstool:Tabouret crapaud
+frog:Grenouille
+mandrake:Mandragore
+water:Eau
+brain_stool:Tabouret Brain
+choncap:Choncap
+deeproot_truffle:Truffe à racines profondes
+dragon's_breath_mint:Dragon's Breath Menthe
+duskgloom_morels:Modèles Duskgloom
+duskwight_berries:Baies Duskwight
+echostem_reeds:Anches Echostem
+emberstalk_toadstool:Tabouret Emberstalk Toadstool
+giant's_blood_essence:Essence de sang de géant
+glacierthorn_flower:Fleur d'épine glaciaire
+maple_leaves:Feuilles d'érable
+skytear_crystals:Cristaux Skytear
+spider_root:Racine d'araignée
+starfall_lavender:Lavande Starfall
+starlight_blossoms:Fleurs étoilées
+stormleaf_plant:Plante Stormleaf
+twilight_jasmine:Jasmine au crépuscule
+whisperroot_fiber:Fibre Whisperroot
+pumpkin:Potiron
+parsley:Persil
+strawberry:Fraise
+blueberries:Myrtilles
+grapes:Raisins
+lettuce:Laitue
+cucumber:Concombre
+tomato:Tomate
+onion:Oignon
+chicken_leg:Cuisse de poulet
+deep_sea_shrimp:Crevettes de haute mer
+fine_rice:Riz fin
+lime_berry:Baies de lime
+pepper:Poivre
+raw_pork:Porc cru
+riverland_potato:Pomme de terre Riverland
+sea_salt:Sel de mer
+silver_key:Clé en argent
+silver_key_description:Sert à débloquer quelque chose...
+mysterious_potion:Potion mystérieuse
+mysterious_potion_description:Une potion d'apparence suspecte... dois-je la boire?
+smoke_bomb:Bombe fumigène
+smoke_bomb_description:Sert à s'échapper du donjon sans perdre de butin.
+rare_gem:Gemme rare
+rare_gem_description:Une perle étrange. Cela pourrait être utile
+stack_of_coins:Pile de pièces
+stack_of_coins_description:Une belle somme de pièces d'or

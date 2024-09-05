@@ -1,0 +1,19 @@
+evhelp:Alle Befehle findest du hier
+notStarted:Deine Reise hat noch nicht begonnen!
+cmdUnknownError:Ein unbekannter Fehler ist aufgetreten!
+serverOverload:Der Server ist überlastet! Bitte versuchen Sie es später erneut!
+twitchbotNoAccount:Bitte erstelle deinen Charakter in der Embervale-Erweiterung!
+twitchbotNoActiveChar:Bitte wähle deinen aktiven Charakter in der Embervale-Erweiterung aus!
+adventureNotActive:Es gibt kein aktives Abenteuer!
+adventureAlreadyIn:Du bist schon in einem Abenteuer!
+adventureMultipleCharactersAlreadyIn:Du hast dich bereits mit einem deiner Charaktere an diesem Abenteuer beteiligt!
+adventureNoActiveVoting:Es gibt keine aktive Abstimmung!
+adventureYouAreNotIn:Du bist nicht in einem Abenteuer!
+adventureInvalidVoting:Deine Abstimmung war ungültig!
+achievements:Erfolge
+rank:Rang
+itemsDiscovered:Entdeckte Artikel
+materialDiscovered:Entdeckte Materialien
+bestiary:Bestiarium
+defeated:Besiegt
+cantFindMonster:Ich kann dieses Monster nicht finden!

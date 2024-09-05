@@ -1,0 +1,94 @@
+statDMG-mage:El rango de daño mágico que puedes infligir.
+statDMG-F-mage:Daño promedio: daño de arma * (sabiduría/40 + 1)
+statDMG-knight:El rango de daño físico que puedes infligir.
+statDMG-F-knight:Daño por arma * (fuerza/40 + 1)
+statDMG-ranger:El rango de daño físico que puedes infligir.
+statDMG-F-ranger:Daño promedio: daño de arma * (destreza /40 + 1)
+statDMG-warrior:El rango de daño físico que puedes infligir.
+statDMG-F-warrior:Daño promedio: daño de arma * (fuerza/40 + 1)
+statDMG-rogue:El rango de daño físico que puedes infligir.
+statDMG-F-rogue:Daño promedio: daño de arma * (destreza /40 + 1)
+statVIT-mage:La cantidad de daño que puedes recibir.
+statVIT-F-mage:(1 + hp * 0.08) * (1 + 0.01 * lvl) * 11.5
+statVIT-knight:La cantidad de daño que puedes recibir.
+statVIT-F-knight:(1 + hp * 0.08) * (1 + 0.01 * lvl) * 22
+statVIT-ranger:La cantidad de daño que puedes recibir.
+statVIT-F-ranger:(1 + hp * 0.08) * (1 + 0.01 * lvl) * 15
+statVIT-warrior:La cantidad de daño que puedes recibir.
+statVIT-F-warrior:(1 + hp * 0.08) * (1 + 0.01 * lvl) * 18
+statVIT-rogue:La cantidad de daño que puedes recibir.
+statVIT-F-rogue:(1 + hp * 0.08) * (1 + 0.01 * lvl) * 15
+statArmor-mage:Reduce todo el daño físico.
+statArmor-M-mage:Valor máximo 50%.
+statArmor-F-mage:(Armadura + Fuerza/4) /lvl * 0.08
+statArmor-knight:Reduce todo el daño físico.
+statArmor-F-knight:Armadura//nivel * 0.08
+statArmor-M-knight:Valor máximo 50%.
+statArmor-ranger:Reduce todo el daño físico.
+statArmor-F-ranger:(Armadura + Fuerza/4) /lvl * 0.08
+statArmor-M-ranger:Valor máximo 50%.
+statArmor-warrior:Reduce todo el daño físico.
+statArmor-M-warrior:Valor máximo 50%.
+statArmor-rogue:Reduce todo el daño físico.
+statArmor-F-rogue:(Armadura + Fuerza/4) /lvl * 0.08
+statArmor-M-rogue:Valor máximo 50%.
+statMagRes-mage:Reduce todo el daño mágico.
+statMagRes-F-mage:Mag. Res/lvl * 0.08
+statMagRes-M-mage:Valor máximo 50%.
+statMagRes-knight:Reduce todo el daño mágico.
+statMagRes-F-knight:(Mag. Res + Wisdom/4) /lvl * 0.08
+statMagRes-M-knight:Valor máximo 50%.
+statMagRes-ranger:Reduce todo el daño mágico.
+statMagRes-F-ranger:(Mag. Res + Wisdom/4) /lvl * 0.08
+statMagRes-M-ranger:Valor máximo 50%.
+statMagRes-warrior:Reduce todo el daño mágico.
+statMagRes-F-warrior:(Mag. Res + Wisdom/4) /lvl * 0.08
+statMagRes-M-warrior:Valor máximo 50%.
+statMagRes-rogue:Reduce todo el daño mágico.
+statMagRes-F-rogue:(Mag. Res + Wisdom/4) /lvl * 0.08
+statMagRes-M-rogue:Valor máximo 50%.
+statCritMod-mage:Determina la potencia de los golpes críticos.
+statCritMod-F-mage:Suerte/((lvl + 1) * 2) + 1.1
+statCritMod-M-mage:Valor máximo x3.0.
+statCritMod-knight:Determina la potencia de los golpes críticos.
+statCritMod-F-knight:Suerte/((lvl + 1) * 2) + 1.1
+statCritMod-M-knight:Valor máximo x1.8.
+statCritMod-ranger:Determina la potencia de los golpes críticos.
+statCritMod-F-ranger:Suerte/((lvl + 1) * 2) + 1.1
+statCritMod-M-ranger:Valor máximo x1.8.
+statCritMod-warrior:Determina la potencia de los golpes críticos.
+statCritMod-F-warrior:Suerte/((lvl + 1) * 2) + 1.1
+statCritMod-M-warrior:Valor máximo x1.8.
+statCritMod-rogue:Determina la potencia de los golpes críticos.
+statCritMod-F-rogue:Suerte/((lvl + 1) * 2) + 1.1
+statCritMod-M-rogue:Valor máximo x1.8.
+statCritPerc-mage:Determina la probabilidad de recibir un golpe crítico.
+statCritPerc-F-mage:Precisión//lvl * 0.25
+statCritPerc-M-mage:Valor máximo 50%
+statCritPerc-knight:Determina la probabilidad de recibir un golpe crítico.
+statCritPerc-F-knight:Precisión//lvl * 0.25
+statCritPerc-M-knight:Valor máximo 50%
+statCritPerc-ranger:Determina la probabilidad de recibir un golpe crítico.
+statCritPerc-F-ranger:Precisión//lvl * 0.25
+statCritPerc-M-ranger:Valor máximo 80%
+statCritPerc-warrior:Determina la probabilidad de recibir un golpe crítico.
+statCritPerc-F-warrior:Precisión/ nivel * 0,25
+statCritPerc-M-warrior:Valor máximo 50%
+statCritPerc-rogue:Determina la probabilidad de recibir un golpe crítico.
+statCritPerc-F-rogue:Precisión//lvl * 0.25
+statCritPerc-M-rogue:Valor máximo 50%
+statEvasion-mage:Posibilidad de esquivar un golpe físico.
+statEvasion-F-mage:(Evasión + destreza/3) /lvl * 0,075
+statEvasion-M-mage:Valor máximo del 20%.
+statEvasion-knight:Posibilidad de esquivar un golpe físico.
+statEvasion-F-knight:(Evasión + destreza/3) /lvl * 0.025
+statEvasion-M-knight:Valor máximo 10%.
+statEvasion-ranger:Posibilidad de esquivar un golpe físico.
+statEvasion-F-ranger:Evasión//lvl * 0.1
+statEvasion-M-ranger:Valor máximo 30%.
+statEvasion-warrior:Posibilidad de esquivar un golpe físico.
+statEvasion-F-warrior:(Evasión + destreza/3) /lvl * 0.05
+statEvasion-M-warrior:Valor máximo 15%.
+statEvasion-rogue:Posibilidad de esquivar un golpe físico.
+statEvasion-F-rogue:Evasión//lvl * 0.0875
+statEvasion-M-rogue:Valor máximo 30%.

@@ -1,0 +1,100 @@
+// general
+error:Error
+errInvalidAction:Invalid action!
+errNoPermission:You don't have the permission to do that!
+tosNotAccepted:Please accept the Terms of Service!
+
+errUnknownErrorHeadline:Unhandled Error!
+errUnknownError:An unknown error occurred! Please try to refresh the webpage! If the problem still persists report it to us on our discord https://discord.com/invite/Gum9bS2dyw
+errUnknownErrorChatbot:An unknown error occurred! If the problem still persists report it to us on our discord https://discord.com/invite/Gum9bS2dyw
+
+tokenExpired:The Twitch authentication token expired. Please reload the website or restart your app,
+invalidToken:<h3>Authentication failed</h5> Please be sure that your system clock is synced! <br> Otherwise the authentication will fail!<br><br>More solutions:<br>1) Page refresh<br>2) Disabling browser extensions<br>3) Revoke and grant the extension permission<br>4) Login and logout on twitch<br>5) Trying out a different browser<br><br>For more help join our discord <br> https://discord.gg/cT3ThCj,
+
+
+// twitch
+errNotReleased:Embervale will be released in September!
+
+errTwitchAccessNotGranted:Please grant access to your TwitchID by clicking the little human on the bottom right!
+errNoInventoryItem:Empty!
+errInventoryIsFull:Your inventory is full! Please sell some items!
+errMaterialInventoryIsFull:Your inventory is full of Materials! You can spend them to the Merchant in the shop or craft something!
+errConsumableInventoryIsFull:Your inventory is full of Consumables!
+
+errNotEnoughArcanites:You don't have enough Arcanites
+errNotEnoughMoney:You don't have enough gold to buy this!
+errNotEnoughGold:You don't have enough gold to buy this!
+errNotEnoughSkillPoints:You don't have enough skill points to perform this action!
+
+errStatDoesNotExist:You can't increase this stat!
+errBountyDoesNotExist:The Bounty doesn't exist (anymore?)! This could mean that you had the webpage open for more than 24 hours or that your clock is not synchronized!
+errOpponentDoesNotExist:The enemy doesn't exist (anymore?)!
+errItemDoesNotExist:The item doesn't belong to you or doesn't exist anymore!
+errLevelToLowToEquip:Your level is too low to equip that item!
+
+errCantFindRandomOpponent:Can't find a random opponent in your division!
+
+errCantFindCharacter:Can't find this character.
+errCantFindGuild:Can't find this guild.
+
+errBountyAlreadyStarted:The bounty was already started.
+
+errInvalidAppearance:The appearance is invalid!
+errInvalidAppearanceName:This attribute is invalid!
+errInvalidAppearanceType:This appearance type is invalid!
+errInvalidAppearanceColor:This appearance color is invalid!
+
+errNoStamina:You don't have stamina anymore!
+
+twitchBotRemoved:The bot will leave now. Thank you for playing Embervale.
+
+//dungeon
+errDungeonNotFound:No dungeon
+errItemAlreadyInInventory:You can only buy this item 1 time!
+errUserAtFullHealth:You are on full health already!
+open:Open
+use:Use
+
+// arena
+noShield:No shield
+youAreAboutToBuy:You are about to buy:
+arenaShieldExplaination:This Shield protects you {days} day(s). In this time you can't lose money when someone attacks and defeats you!
+arenaNotEnoughEmeralds:You need { shards } more shards to buy this shield.
+errYourNotHungry:You are not hungry!
+activateShield:activate Shield
+arenaShieldActiveTooltip:The player has a shield active and therefore you won't receive any money from the battle.
+ranks:Ranks
+
+// creating account
+errTokenExpired:Your token is invalid! Try to refresh the page or revoke and grant access again (clicking on the figure on the bottom right)!
+errAccessNotGranted:Please grant access (clicking on the figure on the bottom right)!
+errTwitchAccountAlreadyExists:You already have a twitch account connected!
+errNameNoSpace:The name can't have any whitespaces!
+errNameRegexInvalid:The name can only contain Letters (A-Z) and Numbers (0-9).
+errCantUseThisName:You can't use that name!
+errThatNameIsTooLong:Your name can have up to 16 characters!
+errThatNameIsTooShort:Your name needs to have at least 4 characters!
+errThatNameIsAlreadyInUse:This name is not available anymore!
+
+// Guild
+errAlreadyInvitedToGuild:This Person is already invited into your Guild!
+
+errGuildBattleLineIsFull:The Line is full!
+
+
+// dungeon error
+noHealPotions:You don't have any healing potions!
+
+yourStomachFull:You stomach is full!
+// materials
+youDontHaveMaterials:You don't have materials in this category
+youDontHaveChests:You don't have chests! Complete achivements or dungeons to get some!
+
+connectionLost:Connection lost. Reconnecting in {timeLeft} seconds...
+reconnectingFailedRetry:Reconnecting failed. Reconnect attempt: {reconnectAmount}. Reconnecting in {timeLeft} seconds...
+reconnectingFailed:Reconnecting failed. Please reload your browser.
+
+// steam
+connectTwitchBrowser:A new window in your  browser has opened. Please login with your Twitch account and then connect your Steam account.
+connectTwitchConfirm:When done please press the confirm button below
+isSteamRunning:An error occured. Is steam running?

@@ -1,0 +1,163 @@
+consumables:Consumables
+consumable:Consumable
+other:Other
+
+small_health_potion:Small Health Potion
+small_health_potion_craft_description:Heals you by {amount_min1}% to {amount_max1}% in dungeons
+small_health_potion_description:Heals you by {amount_min1}% in dungeons
+
+medium_health_potion:Medium Health Potion
+medium_health_potion_craft_description:Heals you by {amount_min1}% to {amount_max1}% in dungeons
+medium_health_potion_description:Heals you by {amount_min1}% in dungeons
+
+large_health_potion:Large Health Potion
+large_health_potion_craft_description:Heals you by {amount_min1}% to {amount_max1}% in dungeons
+large_health_potion_description:Heals you by {amount_min1}% in dungeons
+
+small_accuracy_potion:Small Accuracy Potion
+small_accuracy_potion_craft_description:Increases accuracy by {amount_min1}% to {amount_max1}%.
+small_accuracy_potion_description:Increases accuracy by {amount_min1}% for {time}.
+
+medium_accuracy_potion:Medium Accuracy Potion
+medium_accuracy_potion_craft_description:Increases accuracy by {amount_min1%} to {amount_max1}%.
+medium_accuracy_potion_description:Increases accuracy by {amount_min1}% for {time}.
+
+large_accuracy_potion:Large Accuracy Potion
+large_accuracy_potion_craft_description:Increases accuracy by {amount_min1}% to {amount_max1}%.
+large_accuracy_potion_description:Increases accuracy by {amount_min1}% for {time}.
+
+small_dexterity_potion:Small Dexterity Potion
+small_dexterity_potion_craft_description:Increases dexterity by {amount_min1}% to {amount_max1}%.
+small_dexterity_potion_description:Increases dexterity by {amount_min1}% for {time}.
+
+medium_dexterity_potion:Medium Dexterity Potion
+medium_dexterity_potion_craft_description:Increases dexterity by {amount_min1}% to {amount_max1}%.
+medium_dexterity_potion_description:Increases dexterity by {amount_min1}% for {time}.
+
+large_dexterity_potion:Large Dexterity Potion
+large_dexterity_potion_craft_description:Increases dexterity by {amount_min1}% to {amount_max1}%.
+large_dexterity_potion_description:Increases dexterity by {amount_min1}% for {time}.
+
+small_luck_potion:Small Luck Potion
+small_luck_potion_craft_description:Increases luck by {amount_min1}% to {amount_max1}%.
+small_luck_potion_description:Increases luck by {amount_min1}% for {time}.
+
+medium_luck_potion:Medium Luck Potion
+medium_luck_potion_craft_description:Increases luck by {amount_min1}% to {amount_max1}%.
+medium_luck_potion_description:Increases luck by {amount_min1}% for {time}.
+
+large_luck_potion:Large Luck Potion
+large_luck_potion_craft_description:Increases luck by {amount_min1}% to {amount_max1}%.
+large_luck_potion_description:Increases luck by {amount_min1}% for {time}.
+
+small_strength_potion:Small Strength Potion
+small_strength_potion_craft_description:Increases strength by {amount_min1}% to {amount_max1}%.
+small_strength_potion_description:Increases strength by {amount_min1}% for {time}.
+
+medium_strength_potion:Medium Strength Potion
+medium_strength_potion_craft_description:Increases strength by {amount_min1}% to {amount_max1}%.
+medium_strength_potion_description:Increases strength by {amount_min1}% for {time}.
+
+large_strength_potion:Large Strength Potion
+large_strength_potion_craft_description:Increases strength by {amount_min1}% to {amount_max1}%.
+large_strength_potion_description:Increases strength by {amount_min1}% for {time}.
+
+small_vitality_potion:Small Vitality Potion
+small_vitality_potion_craft_description:Increases vitality by {amount_min1}% to {amount_max1}%.
+small_vitality_potion_description:Increases vitality by {amount_min1}% for {time}.
+
+medium_vitality_potion:Medium Vitality Potion
+medium_vitality_potion_craft_description:Increases vitality by {amount_min1}% to {amount_max1}%.
+medium_vitality_potion_description:Increases vitality by {amount_min1}% for {time}.
+
+large_vitality_potion:Large Vitality Potion
+large_vitality_potion_craft_description:Increases vitality by {amount_min1}% to {amount_max1}%.
+large_vitality_potion_description:Increases vitality by {amount_min1}% for {time}.
+
+small_wisdom_potion:Small Wisdom Potion
+small_wisdom_potion_craft_description:Increases wisdom by {amount_min1}% to {amount_max1}%.
+small_wisdom_potion_description:Increases wisdom by {amount_min1}% for {time}.
+
+medium_wisdom_potion:Medium Wisdom Potion
+medium_wisdom_potion_craft_description:Increases Wisdom by {amount_min1}% to {amount_max1}%.
+medium_wisdom_potion_description:Increases wisdom by {amount_min1}% for {time}.
+
+large_wisdom_potion:Large Wisdom Potion
+large_wisdom_potion_craft_description:Increases wisdom by {amount_min1}% to {amount_max1}%.
+large_wisdom_potion_description:Increases wisdom by {amount_min1}% for {time}.
+
+pumpkin_soup:Pumpkin Soup
+pumpkin_soup_craft_description:Replenishes {amount_min1} to {amount_max1} stamina.
+pumpkin_soup_description:Replenishes {amount_min1} stamina.
+
+chicken_stew:Chicken Stew
+chicken_stew_craft_description:Replenishes {amount_min1} to {amount_max1} stamina.
+chicken_stew_description:Replenishes {amount_min1} stamina.
+
+fruit_basket:Fruit Basket
+fruit_basket_craft_description:Replenishes {amount_min1} to {amount_max1} stamina.
+fruit_basket_description:Replenishes {amount_min1} stamina.
+
+pork_sausage:Pork Sausage
+pork_sausage_craft_description:Replenishes {amount_min1} to {amount_max1} stamina.
+pork_sausage_description:Replenishes {amount_min1} stamina.
+
+salad:salad
+salad_craft_description:Replenishes {amount_min1} to {amount_max1} stamina.
+salad_description:Replenishes {amount_min1} stamina.
+
+sea_platter:Sea Platter
+sea_platter_craft_description:Replenishes {amount_min1} to {amount_max1} stamina.
+sea_platter_description:Replenishes {amount_min1} stamina.
+
+coin_stack:Coin Stack
+coin_stack_description:Use it to gain copper. Level {level}
+
+medium_xp_potion:Medium XP potion
+medium_xp_potion_description:This potions boosts your xp by {procent}% for {amount} fights!
+
+recipe:Recipe
+
+small_heal_potion_recipe:Small Heal Potion Recipe
+fruit_basket_recipe:Fruit Basket Recipe
+pumpkin_soup_recipe:Pumpkin Soup Recipe
+salad_recipe:Salad Recipe
+chicken_stew_recipe:Chicken Stew Recipe
+pork_sausage_recipe:Pork Sausage Recipe
+sea_platter_recipe:Sea Platter Recipe
+small_accuracy_potion_recipe: Small Accuracy Potion Recipe
+medium_accuracy_potion_recipe: Medium Accuracy Potion Recipe
+large_accuracy_potion_recipe: Large Accuracy Potion Recipe
+small_accuracy_potion_recipe: Small Dexterity Potion Recipe
+medium_accuracy_potion_recipe: Medium Dexterity Potion Recipe
+large_accuracy_potion_recipe: Large Dexterity Potion Recipe
+small_luck_potion_recipe: Small Luck Potion Recipe
+medium_luck_potion_recipe: Medium Luck Potion Recipe
+large_luck_potion_recipe: Large Luck Potion Recipe
+small_strength_potion_recipe: Small Strength Potion Recipe
+medium_strength_potion_recipe: Medium Strength Potion Recipe
+large_strength_potion_recipe: Large Strength Potion Recipe
+small_vitality_potion_recipe: Small Vitality Potion Recipe
+medium_vitality_potion_recipe: Medium Vitality Potion Recipe
+large_vitality_potion_recipe: Large Vitality Potion Recipe
+small_wisdom_potion_recipe: Small Wisdom Potion Recipe
+medium_wisdom_potion_recipe: Medium Wisdom Potion Recipe
+large_wisdom_potion_recipe: Large Wisdom Potion Recipe
+
+# receipt -> recipe
+
+// loot
+wooden_chest:Wooden chest
+fabled_chest:Fabled chest
+decorated_chest:Decorated chest
+mythical_chest:Mythical chest
+weapon_chest:Weapon chest
+armor_chest:Armor chest
+
+mythical_material_chest:Mythical Material Chest
+epic_material_chest:Epic Material Chest
+uncommon_material_chest:Uncommon Material Chest
+
+potion:Potion
+chest:Chest
+food:Food

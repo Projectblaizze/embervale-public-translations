@@ -1,0 +1,68 @@
+main_mission:Principal
+bestiary:Bestiario
+collector:Coleccionista
+adventurer:Aventurero
+combat:Combate
+level:Nivel
+guild:Gremio
+achievement:Logro
+todo:Todo
+weekly:Semanalmente
+newMissionsIn:Nuevas misiones en:
+levelUp:¡Sube de nivel!
+complete_achievement:Completa {cantidad} logros
+complete_weekly_mission:Completa {cantidad} misiones semanales
+kill_monster:Mata {cantidad} monstruos
+defeat_monster:Derrota a {cantidad} monstruos
+defeat_aquatic_monster:Derrota a {cantidad} monstruos acuáticos
+defeat_insect_monster:Derrota a {amount} monstruos insectos
+defeat_humanoid_monster:Derrota a {cantidad} oponentes humanoides en recompensas
+defeat_elemental_monster:Derrota a {cantidad} monstruos elementales
+defeat_slime_monster:Derrota a {amount} monstruos de limo
+defeat_beast_monster:Derrota a {cantidad} monstruos bestiales
+defeat_plant_monster:Derrota a {amount} monstruos vegetales
+defeat_undead_monster:Derrota a {cantidad} monstruos no muertos
+defeat_construct_monster:Derrota a {amount} Construye monstruos
+defeat_abomination_monster:Derrota a {amount} monstruos de Abominación
+defeat_dragon_monster:Derrota a {cantidad} monstruos dragón
+defeat_mimic_monster:Derrota a {cantidad} monstruos mímicos
+defeat_rogue_class:Derrota a {cantidad} pícaros
+defeat_mage_class:Derrota a {cantidad} magos
+defeat_knight_class:Derrota a {amount} caballeros
+defeat_ranger_class:Derrota a {amount} Rangers
+defeat_warrior_class:Derrota a {amount} guerreros
+collect_items_bounties:Consigue {amount} objetos en recompensas
+collect_items_shop:Compra {amount} artículos en la tienda
+collect_mythical_item:Consigue {cantidad} x objeto mítico
+complete_bestiary:Completa el {count}% de tu Bestiario
+complete_materials_glossary:Descubre la cantidad de materiales de {count}%
+complete_items_glossary:Descubre la cantidad de artículos de {count}%
+reach_level:Alcanza el nivel {lvl}
+participate_in_adventures:participa en {amount} aventuras
+clear_bounties:Borra recompensas de {amount}
+clear_bounties_difficulty_1:Completa {cantidad} recompensas con una dificultad y
+clear_bounties_difficulty_2:Completa {cantidad} recompensas con una dificultad y
+clear_bounties_difficulty_3:Completa {cantidad} recompensas con una dificultad y
+clear_bounties_difficulty_4:Completa {cantidad} recompensas con una dificultad y
+clear_bounties_difficulty_5:Completa {cantidad} recompensas con una dificultad y
+#lose_fights:Pierde {cantidad} combates
+defeat_monster_in_dungeon:Derrota a {cantidad} monstruo en las mazmorras
+win_pvp_battle:Gana {cantidad} batallas pvp
+find_a_mythical_item:Encuentra un objeto mítico de {amount}
+distribute_skill_points:Distribuye {cantidad} puntos de habilidad
+ # clear_bounties:Borra recompensas de {amount}
+use_stamina:Usa {amount} de resistencia en las recompensas
+complete_an_expedition:Completa {cantidad} x expedición
+battle_in_the_arena:Combate {amount} x en la arena
+join_or_create_a_guild:Únete o crea un gremio
+clear_the_first_dungeon:Completa la primera mazmorra
+wear_full_set_of_uncommon:Usa un conjunto completo de prendas poco comunes
+wear_full_set_of_common:Usa un conjunto completo de artículos comunes
+wear_full_set_of_rare:Usa un conjunto completo de objetos raros
+wear_full_set_of_epic:Lleva un conjunto completo de objetos épicos
+wear_full_set_of_legendary:Lleva un conjunto completo de objetos legendarios
+wear_full_set_of_mythical:Usa un conjunto completo de artículos míticos
+reach_fame:Alcanza {amount} fama
+shop_reroll_5:Reenrollar la tienda cuesta un 5% menos de cobre
+claim_daily_bonus:Reclama {amount} bonificaciones diarias en nuestro Discord
+claim_daily_bonus_row:Reclama {amount} bonificaciones diarias de forma consecutiva en nuestro Discord

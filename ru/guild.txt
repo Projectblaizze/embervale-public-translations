@@ -1,0 +1,37 @@
+createGuild:Создать гильдию
+joinGuild:Присоединяйтесь к ги
+save:Сохранить
+saved:Спасено
+success:Успех
+member:Член
+role:Роль
+confirmDeleteGuild:Вы действительно хотите удалить свою гильдию? Это нельзя отменить!
+confirmLeaveGuild:Вы уверены, что хотите покинуть свою гильдию?
+confirmGuildInvite:Вы действительно хотите пригласить {username} в свою гильдию?
+confirmGuildKick:Вы действительно хотите удалить {username}?
+lastActivity:Последняя активность
+leave:Уехать
+addNewRole:Пожалуйста, введите название роли, которую хотите добавить!
+renameRole:Если вы хотите изменить имя роли {role}, измените имя и нажмите «Сохранить»!
+deleteRole:Удалить роль
+deleteGuild:Удалить гильдию
+guildDescription:Описание гильдии
+guildName:Название гильдии
+PERMISSION_ADMIN:Лидер
+PERMISSION_CO_ADMIN:Вице-руководитель
+PERMISSION_KICK_MEMBER:Член Kick
+PERMISSION_EDIT_DESCRIPTION:Описание гильдии
+PERMISSION_EDIT_FEE:Изменить плату
+PERMISSION_INVITE_MEMBER:Пригласить участника
+createYourGuild:Создайте свою гильдию
+acceptInvite:Примите приглашение
+errTooManyRoles:В вашей гильдии может быть только 10 ролей!
+xp_bonus_lvl0:-
+xp_bonus_lvl1:Этот предмет дает вам дополнительный опыт на 1%
+xp_bonus_lvl2:Этот предмет дает вам дополнительный опыт на 5%
+more_slots_lvl0:-
+more_slots_lvl1:Вы получаете 1 дополнительный слот для гильдии
+more_slots_lvl3:Вы получаете 2 дополнительных слота для гильдии
+defense_lvl0:-
+defense_lvl1:Этот предмет пока бесполезен
+defense_lvl2:Этот предмет пока бесполезен

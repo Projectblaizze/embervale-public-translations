@@ -1,0 +1,37 @@
+createGuild:Gilde erstellen
+joinGuild:Tritt Gilde bei
+save:Speichern
+saved:Gespeichert
+success:Erfolg
+member:Mitglied
+role:Rolle
+confirmDeleteGuild:Bist du sicher, dass du deine Gilde löschen möchtest? Das kann NICHT rückgängig gemacht werden!
+confirmLeaveGuild:Bist du sicher, dass du deine Gilde verlassen willst?
+confirmGuildInvite:Bist du sicher, dass du {username} in deine Gilde einladen möchtest?
+confirmGuildKick:Bist du sicher, dass du {username} kicken willst?
+lastActivity:Letzte Aktivität
+leave:Verlassen
+addNewRole:Bitte geben Sie den Namen der Rolle ein, die Sie hinzufügen möchten!
+renameRole:Wenn du den Namen der Rolle {role} ändern möchtest, ändere den Namen und drücke Speichern!
+deleteRole:Rolle löschen
+deleteGuild:Gilde löschen
+guildDescription:Beschreibung der Gilde
+guildName:Name der Gilde
+PERMISSION_ADMIN:Anführer
+PERMISSION_CO_ADMIN:Vize-Leiter
+PERMISSION_KICK_MEMBER:Mitglied kicken
+PERMISSION_EDIT_DESCRIPTION:Beschreibung der Gilde
+PERMISSION_EDIT_FEE:Gebühr bearbeiten
+PERMISSION_INVITE_MEMBER:Mitglied einladen
+createYourGuild:Erstelle deine Gilde
+acceptInvite:Einladung annehmen
+errTooManyRoles:Du kannst in deiner Gilde nur 10 Rollen haben!
+xp_bonus_lvl0:-
+xp_bonus_lvl1:Dieser Gegenstand gewährt dir 1% zusätzliche XP
+xp_bonus_lvl2:Dieser Gegenstand gewährt dir 5% zusätzliche XP
+more_slots_lvl0:-
+more_slots_lvl1:Du erhältst 1 zusätzlichen Gildenplatz
+more_slots_lvl3:Du erhältst 2 zusätzliche Gildenplätze
+defense_lvl0:-
+defense_lvl1:Dieser Artikel ist noch nutzlos
+defense_lvl2:Dieser Artikel ist noch nutzlos

@@ -1,0 +1,47 @@
+// guild
+createGuild:Create Guild
+joinGuild:Join Guild
+save:Save
+saved:Saved
+success:Success
+member:Member
+role:Role
+confirmDeleteGuild:Are you sure you want to delete your guild? This CANNOT be undone!
+confirmLeaveGuild:Are you sure you want to leave your guild?
+confirmGuildInvite:Are you sure you want to invite {username} to your guild?
+confirmGuildKick:Are you sure you want to kick {username}?
+lastActivity:Last activity
+leave:Leave
+
+addNewRole:Please enter the name of the role you want to add!
+renameRole:If you want to change the name of the role {role} change the name and press save!
+deleteRole:Delete role
+deleteGuild:Delete guild
+guildDescription:Guild description
+guildName:Guild name
+
+PERMISSION_ADMIN:Leader
+PERMISSION_CO_ADMIN:Vize Leader
+PERMISSION_KICK_MEMBER:Kick member
+PERMISSION_EDIT_DESCRIPTION:Guild description
+PERMISSION_EDIT_FEE:Edit Fee
+PERMISSION_INVITE_MEMBER:Invite Member
+
+createYourGuild:Create your guild
+acceptInvite:Accept invite
+errTooManyRoles:You can only have 10 roles in your guild!
+
+
+xp_bonus_lvl0:-
+xp_bonus_lvl1:This item grants your 1% additional xp
+xp_bonus_lvl2:This item grants your 5% additional xp
+
+more_slots_lvl0:-
+more_slots_lvl1:You gain 1 additional guild slot
+more_slots_lvl3:You gain 2 additional guild slot
+
+defense_lvl0:-
+defense_lvl1:This item is useless yet
+defense_lvl2:This item is useless yet
+
+

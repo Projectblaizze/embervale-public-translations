@@ -1,0 +1,37 @@
+createGuild:Créer une guilde
+joinGuild:Rejoignez la guilde
+save:Enregistrer
+saved:Enregistré
+success:Succès
+member:Membre
+role:Rôle
+confirmDeleteGuild:Êtes-vous sûr de vouloir supprimer votre guilde? Cela ne peut pas être annulé!
+confirmLeaveGuild:Es-tu sûr de vouloir quitter ta guilde?
+confirmGuildInvite:Êtes-vous sûr de vouloir inviter {username} à rejoindre votre guilde?
+confirmGuildKick:Êtes-vous sûr de vouloir supprimer {username}?
+lastActivity:Dernière activité
+leave:Partir
+addNewRole:Entrez le nom du rôle que vous souhaitez ajouter!
+renameRole:Si vous souhaitez modifier le nom du rôle {role}, changez-le et appuyez sur Enregistrer!
+deleteRole:Supprimer le rôle
+deleteGuild:Supprimer une guilde
+guildDescription:Description de la guilde
+guildName:Nom de guilde
+PERMISSION_ADMIN:Dirigeant
+PERMISSION_CO_ADMIN:Vize Leader
+PERMISSION_KICK_MEMBER:Membre Kick
+PERMISSION_EDIT_DESCRIPTION:Description de la guilde
+PERMISSION_EDIT_FEE:Modifier les frais
+PERMISSION_INVITE_MEMBER:Inviter un membre
+createYourGuild:Créez votre guilde
+acceptInvite:Accepter l'invitation
+errTooManyRoles:Vous ne pouvez avoir que 10 rôles dans votre guilde!
+xp_bonus_lvl0:-
+xp_bonus_lvl1:Cet objet vous confère 1% d'expérience supplémentaire
+xp_bonus_lvl2:Cet objet vous confère 5% d'expérience supplémentaire
+more_slots_lvl0:-
+more_slots_lvl1:Vous gagnez 1 emplacement de guilde supplémentaire
+more_slots_lvl3:Vous gagnez 2 emplacements de guilde supplémentaires
+defense_lvl0:-
+defense_lvl1:Cet article est encore inutile
+defense_lvl2:Cet article est encore inutile

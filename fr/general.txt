@@ -1,0 +1,585 @@
+en:Anglais
+de:allemand
+es:espagnol
+fr:français
+ru:russe
+pt:portugais
+it:italien
+cancel:Annuler
+exit:Sortir
+close:Fermer
+confirm:Confirmer
+start:Démarrer
+confirmation:Confirmation
+continue:Continuer
+back:Retour
+finish:Terminer
+next:Suivant
+delete:Supprimer
+reload:Recharger
+ready:Prêt
+settings:Réglages
+page:Page
+of:de
+or:ou
+max:Max
+imageResolution:Résolution de l'image
+controls:Contrôles
+currentlyPlaying:Joue actuellement
+musicVolume:Volume de la musique
+effectsVolume:Volume des effets
+desktopOptimized:Ordinateur de bureau optimisé
+mobileOptimized:Optimisé pour les mobiles
+reloadExtension:Extension de recharge
+version:Version
+langauge:Langue
+credits:Crédits
+code:Code
+newUpdate:Une nouvelle mise à jour est disponible.
+pleaseReload:Veuillez recharger!
+class:Classe
+mage:Mage
+knight:Chevalier
+ranger:Ranger
+rogue:Voleur
+warrior:Guerrier
+human:Humain
+demon:Démon
+elf:Elfe
+stats:Statistiques
+boostYourStats:Augmente vos statistiques de {points}%
+activeFor:Actif pour:
+battleStats:Statistiques de combat
+hp:Points de santé
+health:Santé
+doYouWantToResetStats:Voulez-vous réinitialiser vos statistiques?
+noStatsFoundToReset:Aucune statistique à réinitialiser n'a été trouvée.
+thisCosts:Cela coûte:
+affinity:Affinité
+weakness:Faiblesse
+resistance:Résistance
+infernal:Infernal
+divine:Divin
+necrotic:Nécrotique
+arcane:Arcane
+frost:Frost
+affinityTooltip:Réduit les dégâts {élémentaires} infligés. Augmente les dégâts infernaux si l'arme est infusée d'une rune {élémentaire}
+vit:Vitalité
+vitEffect:Points de santé
+vitDescription:{stat} augmente votre santé totale.
+str:Force
+strEffect:Dégâts physiques
+strDescription:{stat} augmente vos dégâts physiques en tant que Chevalier et Guerrier. Augmente l'armure de toutes les autres classes!
+wis:Sagesse
+wisEffect:Dégâts magiques
+wisDescription:{stat} augmente tes dégâts magiques en tant que mage. Augmente la résistance magique de toutes les autres classes!
+dex:Dextérité
+dexEffect:Dommages de précision
+dexDescription:{stat} augmente vos dégâts de dextérité. À utiliser en tant que Ranger et Rogue. Augmente l'évasion pour toutes les autres classes!
+acc:Exactitude
+accEffect:Précision et chances de réussite
+accDescription:{stat} augmente vos chances d'infliger un coup critique à votre adversaire et réduit ses chances d'esquiver!
+fame:Renommée
+fameEffect:Prix et négociation
+fameDescription:{stat} améliore vos compétences en matière de négociation, améliore les prix de réapprovisionnement et améliore vos résultats dans les aventures!
+luck:Chance
+luckEffect:Butin et dégâts infligés par les critiques
+luckDescription:{stat} augmente les dégâts infligés par les attaques critiques et augmente les chances de trouver un butin rare.
+armor:Armure
+outfit:Tenue
+outfits:tenues
+damage_reduction:Réduit DMG.
+mag_res:Mag. res.
+mag_absorption:Magazin. Absorber.
+eva:Évasion
+skillPoints:Points de compétence
+current_hp:HP actuel
+crit_chance:% de critiques
+crit_multiplier:Mode critique
+damage:Dommages
+shield_ability_chance:Bloquer la chance
+shield_ability_rate:Taux de blocage
+shield_scaling_bonus:HP maximum
+lifestone_ability_chance:Seuil
+lifestone_ability_rate:Épuisement de vie
+lifestone_scaling_bonus:Bonus de dégâts en mêlée
+grimoire_ability_rate:Taux de focalisation
+grimoire_scaling_bonus:Mode critique
+quiver_ability_chance:Chance de tirage rapide
+quiver_scaling_bonus:Critical Chance
+talisman_ability_chance:Chance furtive
+talisman_scaling_bonus:Évasion
+common:Commun
+uncommon:Peu fréquent
+rare:Rare
+epic:Épique
+legendary:Légendaire
+mythical:Mythique
+royal:Royal
+extraordinary:Extraordinaire
+high:Haut
+medium:Moyen
+low:Faible
+none:Aucune
+bow:Nœud
+crossbow:Arbalète
+axe:Hache
+hammer:Marteau
+book:Livre
+staff:Le personnel
+rod:Tige
+sword:Épée
+spear:Lance
+dagger:poignard
+fist:Poing
+item:Article
+artifact:Artefact
+helmet:Casque
+amulet:Amulette
+ring:Bague
+chestplate:Plastron
+gloves:Gants
+shoes:Chaussures
+weapon:Arme
+base:Base
+equip:Équiper
+bonus:Prime
+glossary:Glossaire
+discovered:Découvert
+glossaryTipMonster:Éliminez des monstres pour remplir votre bestiaire!
+glossaryTipItem:Progressez en recevant l'objet ou en gagnant contre un joueur avec cet objet!
+glossaryTipMaterial:Progressez en obtenant ou en fabriquant les matériaux!
+glossaryTipSkin:Débloquez en battant les joueurs qui portent cette tenue!
+unknown:Inconnu
+youGainBonusXP:Vous gagnez {percentage}% d'expérience supplémentaire
+newBestiaryEntry:Nouvelle entrée dans le bestiaire:
+newGlory:Une nouvelle gloire:
+newGlossaryEntries:Nouvelles entrées du glossaire:
+challengeOpponent:Voulez-vous défier {adversaire}?
+confirmReportingPlayer:Pour signaler {adversaire} (twitch.tv/ {twitch_name}), veuillez choisir une raison:
+abusive_username:Nom d'utilisateur abusif
+abusive_guild_name:Nom de guilde abusif
+abusive_guild_description:Description abusive de la guilde
+successReport:Nous avons reçu votre rapport! Merci!
+challenge:Défi
+thisIsYourArenaOpponent:Cet adversaire vous attend dans l'arène! Tu ne peux pas les attaquer!
+arenaCooldown:Vous ne pouvez pas attaquer pour le moment car toutes vos attaques sont utilisées!
+attack:Attaque
+navigation:Navigation
+bounties:Primes
+characterMenu:Personnage
+arena:Arène
+guild:Guilde
+brewery:Brasserie
+adventure:Aventure
+crafting:Artisanat
+dungeon:Donjon
+achievement:Réussite
+startYourJourney:Commencez votre voyage!
+chooseYourClass:Choisissez votre classe!
+pickYourRace:Choisissez votre course!
+customizeYourHero:Personnalisez votre héros!
+finalize:Finaliser
+purchaseAnotherCharacter:L'achat d'un autre emplacement de personnage vous coûtera 500 arcanites.
+doYouWantToPurchase:Vous souhaitez acheter?
+slot:Fente
+chooseGender:Choisissez le sexe
+yourSelectedGender:Vous incarnerez {gender}
+decisionNotChangable:Tu ne pourras pas changer ta décision par la suite!
+male:Masculin
+female:Femme
+arcanite:Arcanite
+arcanites:Arcanites
+shop:Boutique
+buyItemConfirmation:Êtes-vous sûr de vouloir acheter {item}?
+sellItemConfirmation:Êtes-vous sûr de vouloir vendre {item}?
+sell:Vendre
+purchase:Acheter
+newItemSlot:Un nouvel emplacement d'objets a été ajouté à la boutique!
+shopRefresh:Actualisation de la boutique
+buyArcanites:Acheter Arcanites
+emeraldShop:Acheter Arcanites
+donate:Faites un don
+reputationExplaination:Faites don du matériel non utilisé au marchand pour augmenter votre réputation et recevoir temporairement des articles de meilleure qualité!
+reputationDonate:Combien souhaitez-vous donner?
+reputationDonateConfirmation:Vous êtes sur le point de faire un don de {MaterialAmountToSpend} à partir de votre {MaterialAmount} {selectedMaterial}:
+useThatCodeToSupport:Utilisez le code {refCode} lors de l'achat pour soutenir {streamerName}
+theStreamerHasntSetupTheRefCode:{streamerName} n'a pas configuré son code de référence
+pressButtonToOpen:Appuyez sur le bouton ci-dessous pour acheter Arcanites sur notre chaîne Twitch EmbervaleTV
+confirmingTransaction:Confirmation de la transaction
+confirmingPayment:Confirmation du paiement
+earnArcanites:Gagnez des Arcanites
+validating:Validation
+freeArcanites:ARCANITES GRATUITES
+watchVideo:Regardez la vidéo
+completeOffers:Offres complètes pour gagner des Arcanites
+creatorCode:Code du créateur
+allPricesIncVat:Tous les prix incluent la TVA.
+confirmGiftingBundle:Êtes-vous sûr d'offrir le {bundleName} à {Playername}? (S'ils ont déjà un abonnement actif, cela prolongera leur abonnement)
+successGiftingBundle:Merci d'avoir offert le {bundleName} à {Playername}!
+ayetStudioConfirming:Merci d'avoir regardé l'annonce! Vos Arcanites devraient être crédités sur votre compte dans les 60 prochaines secondes. Vous pouvez fermer cette fenêtre. Nous vous informerons dès que les crédits seront ajoutés!
+ayetStudioDailyLimit:Revenez demain pour plus d'Arcanites!
+mythical_bundle:Bundle mythique
+legendary_bundle:Pack légendaire
+epic_bundle:Pack Epic
+username:Nom d'utilisateur
+skin:Peau
+hair:Cheveux
+eye:Yeux
+eyes:Yeux
+nose:Nez
+mouth:Bouche
+accessoire:Accessoire
+extra:Supplémentaire
+beard:Barbe
+readAndAccept:J'ai lu et j'accepte
+tos:ToS
+color:couleur
+chooseName:Choisissez votre nom
+badge:Badge
+beast-slayer-badge:Insigne de tueur de bêtes
+beast-slayer-badge_desc:Disponible à partir des réalisations du bestiaire
+deemon-badge:Badge Démon
+deemon-badge_desc:Voici l'insigne de Deemon. Nous ne savons pas pourquoi cela existe et comment l'obtenir.
+patreon-badge:Badge Patreon
+patreon-badge_desc:Ce badge montre que tu fais actuellement partie du club cool de Patreons!
+alpha-badge:Badge Alpha
+alpha-badge_desc:Récompense de participation pour l'Embervale Alpha!
+obtainedBy:Obtenu par {obtained_by}% des joueurs
+noBadge:Pas de badge
+emptyBadge:Un emplacement pour badge vide
+leaderboard:Classement
+search:Rechercher...
+refill:Recharge
+rank:Rang
+name:Nom
+glory:Gloire
+skip:Ignorer
+seconds:Secondes
+second:Deuxième
+minutes:Minutes
+minute:Minute
+hours:Heures
+hour:Heure
+days:Journées
+day:Journée
+stamina:Endurance
+newStaminaIn:Vous recevrez 1000 points d'endurance en
+staminaFull:Votre endurance est déjà pleine
+editRoles:Modifier les rôles
+guildFee:Frais d'argent
+you_received:Vous avez reçu:
+youReceived:Vous avez reçu:
+congratulations:Félicitations!
+claim:Réclamation
+claim_reward:Réclamer une récompense
+reward:Récompense
+completed:Terminé
+material:Matériau
+liquid:Liquide
+herb:Herbe
+special_ingredient:Ingrédient spécial
+expedition:Expédition
+errStillInAExpedition:Vous ne pouvez pas le faire pendant que vous êtes en expédition! Terminez ou annulez votre expédition pour continuer!
+errStillInABounty:Tu ne peux pas faire ça pendant que tu es dans une prime! Terminez ou annulez votre expédition pour continuer!
+alchemy_expedition_title_1:Collecter
+cooking_expedition_title_1:Récolte
+smithing_expedition_title_1:Le mien
+followingMaterialsCanSpawnHere:Les matériaux suivants peuvent apparaître dans la zone sélectionnée:
+newDiscovered:Nouvelle découverte!
+newMaterialsDiscovered:Votre glossaire a été mis à jour avec les entrées suivantes:
+progress:Progrès
+loadingTip0:Les recettes sont rares, c'est donc une bonne idée de donner la priorité à une prime lorsque vous en voyez une!
+loadingTip1:C'est une bonne idée de commencer une expédition avant de partir pour récolter des ressources!
+loadingTip2:Tu peux toujours réinitialiser tes points de compétence, afin de pouvoir faire correspondre tes points en fonction de ton armure!
+loadingTip3:Rejoignez notre discord pour recevoir des récompenses quotidiennes!
+loadingTip4:C'est censé être un conseil, mais nous n'avons plus d'idées.
+loadingTip5:Une voix plus élevée réduit le coût de la commande de nouveaux articles de la boutique.
+loadingTip6:Lorsque vous sélectionnez des primes, faites attention au ratio endurance/expérience lorsque vous donnez la priorité à la montée de niveau.
+loadingTip7:L'expérimentation peut être un excellent moyen de voir ce que vous pouvez battre et ce que vous ne pouvez pas battre.
+loadingTip8:Vous pouvez modifier la vitesse des batailles au cours d'une bataille.
+loadingTip9:Vous pouvez vous entraîner au combat contre des joueurs en cliquant sur leur nom dans le classement.
+loadingTip10:Les mages ne ratent jamais leur cible. Seule la furtivité peut les aider à échapper à leurs attaques.
+loadingTip11:La chance augmente les chances d'obtenir de meilleures récompenses sous forme de primes.
+loadingTip12:Les chevaliers sont lourdement blindés et portent un bouclier, ce qui leur confère un avantage naturel face aux classes basées sur la dextérité.
+loadingTip13:La capacité de tirage rapide du Ranger lui permet de frapper deux fois de temps en temps.
+loadingTip14:Les guerriers utilisent une pierre de vie pour épuiser les PV de leurs ennemis à chaque coup. Cependant, la puissance de la pierre diminue rapidement.
+loadingTip15:Le Rogue est un maître de la furtivité et de l'évasion, ce qui rend les attaques à distance beaucoup plus difficiles à atteindre.
+loadingTip16:Assurez-vous de remplir votre glossaire pour gagner de l'XP plus rapidement!
+loadingTip17:Saviez-vous que vaincre un adversaire dans l'arène ajoutera toutes ses armures, armes et skins à votre glossaire?
+loadingTip18:Toutes les classes ont des échelles de PV et de dégâts différentes. Ils ne peuvent porter qu'un seul type d'armure désigné: lourd, moyen ou léger.
+loadingTip19:N'oubliez pas de consulter les missions hebdomadaires pour gagner du butin bonus!
+loadingTip20:Lorsque vous êtes abonné à un streamer ou que vous jouez sur Embervale.tv, vous gagnez 10% d'or supplémentaires!
+loadingTip21:Vous pouvez utiliser votre glossaire pour connaître l'affinité et la faiblesse d'un monstre.
+loadingTip22:Votre première prime quotidienne vous permet de gagner un Arcanite gratuit!
+loadingTip23:Vous pouvez regarder des publicités sur Embervale.tv pour gagner des Arcanites gratuitement
+loadingTip24:Nous avons travaillé pendant 3 ans pour réaliser notre rêve! Merci beaucoup d'avoir joué!
+loadingTip25:Chaque Bounty a une chance de faire tomber une arcanite! Plus c'est long, plus les chances sont grandes
+loadingTip26:N'oubliez pas de préparer des potions dans le menu d'artisanat! Cela peut vous rendre immensément plus fort!
+loadingTip27:Partagez vos progrès en tapant! evflex sur n'importe quel canal sur lequel Embervale est installé
+loadingTip28:Nous sommes à l'écoute de vos commentaires. Rejoignez notre discord pour soumettre vos suggestions!
+youReachedLevel:Vous avez atteint le niveau
+LevelUpShop:Vous pouvez désormais accéder à la boutique!
+levelUpArena:Vous pouvez maintenant entrer dans l'arène!
+levelUpExpedition:Vous pouvez désormais participer à des expéditions pour collecter des ressources!
+levelUpAdventure:Vous pouvez désormais commencer des aventures en tant que Streamer!
+levelUpCraft:Vous pouvez désormais utiliser vos matériaux pour créer!
+levelUpDungeon:Vous pouvez désormais entrer dans les donjons!
+levelUpGuild:Vous pouvez désormais rejoindre ou créer une guilde!
+skipTutorial:Ignorer le tutoriel
+hideTip:Masquer l'astuce
+starterTutorial0:Bienvenue à Embervale! Pour naviguer dans les menus, vous devez cliquer sur le bouton de la boussole!
+starterTutorial1:C'est le menu de navigation principal! Commencez par sélectionner l'onglet Bounty.
+starterTutorial2:Sélectionnez la prime de votre choix. Les étoiles derrière le nom du monstre indiquent le niveau de difficulté!
+starterTutorial3:Maintenant, attendez ou sautez le temps de trajet et votre combat commence!
+starterTutorial4:-
+starterTutorial5:Vous venez de terminer votre première prime et de terminer le tutoriel de base! Commencez à naviguer dans les menus pour en savoir plus sur le jeu!
+expeditionTutorial0:Les expéditions sont des tâches de longue haleine qui prennent de 1 à 12 heures. Vous pouvez obtenir des matériaux pour l'artisanat ici! Vous ne pouvez pas vous battre pendant une expédition!
+character:Personnage
+selectBackground:Sélectionnez l'arrière-plan
+skill:compétence
+thisActionTakesSkillPoints:Cette action utilisera les points de compétence {PointsToSkillStat} sur la statistique
+remainingPoints:Points restants: {points} points de compétence
+quick_sell:Vente rapide
+inventory:Inventaire
+weight:Poids
+resetSkillPoints:Réinitialiser les points de compétence
+report:Rapport
+equipped:équipé
+maximumFood:Vous pouvez prendre un maximum de 3 repas par jour.
+todayYouAte:Aujourd'hui, tu as mangé {quantité} repas.
+tradeable:Échangeable
+youCanGiftBundle:Vous pouvez offrir un pack à cette personne
+hasAlreadySubscriptions:{username} possède déjà un ou plusieurs abonnements actifs
+grantsBenefits:Accorde à {CurrentUser.UserName} 30 jours après les avantages
+receivesOnce:{username} reçoit une fois
+giftAnonymously:Faites un don anonyme
+giftBundle:Coffret cadeau
+items:Objets
+materials:Matériaux
+chests:Coffres
+skins:Skins
+monster:Monstre
+monsters:Monstres
+defense:Défense
+dmg:Dmg
+lvl:LVL
+vs:CONTRE
+boss:Patron
+preBoss:Pré-Boss
+virtuous:Vertueux
+advanced:Avancé
+intermediate:Intermédiaire
+novice:Novice
+notification:Notification
+required:Nécessaire
+found:Trouvé
+login:Se connecter
+createAnotherCharacter:Créez un autre personnage
+consume:Consommez
+eatFoodHeadline:Consommez de la nourriture
+refreshArena:Actualiser
+replayCode:Code de rediffusion
+saveReplay:Enregistrer le replay
+replaySaved:Replay enregistré
+deleteReplay:Supprimer le replay
+spectate:Spectateur
+errCantSpectate:Cette bataille n'existe pas.
+arenaFightCooldown:Ce bar se remplit toutes les 3 heures!
+yourSavedBattles:Vos batailles sauvegardées
+battleEnded:La bataille est terminée
+overwhelming:Accablant
+superior:Superior
+equivalent:Équivalent
+inferior:Inférieur
+pathetic:Pathétique
+heal:Soigner
+quick_draw:Tirage rapide
+stealth:Furtif
+block:Bloquer
+youWon:Tu as gagné!
+youLost:Tu as perdu!
+confirmDeleteReplay:Êtes-vous sûr de vouloir supprimer cette rediffusion?
+replaySavedMsg:Votre rediffusion a été enregistrée. Vous pouvez le regarder dans l'arène. Code:
+errTooManyReplays:Vous avez enregistré trop de rediffusions. Supprimez-en pour en économiser davantage.
+errReplayAlreadySaved:La rediffusion a déjà été enregistrée.
+warningTooManyReplays:Vous vous rapprochez de la limite de 10 rediffusions enregistrées. Veuillez supprimer certaines d'entre elles pour pouvoir en enregistrer de nouvelles.
+connect:Connecter
+marketNoDiscordConnected:Seuls les joueurs vérifiés peuvent utiliser le marché. Vérifiez dès maintenant en connectant votre discord!
+starter_shield_description:Le Chevalier porte un bouclier qui réduit les dégâts physiques en bloquant de temps à autre. Attribut amélioré: HP
+starter_quiver_description:Le Ranger a toujours ses flèches à portée de main, ce qui lui permet de lancer une attaque supplémentaire de temps à autre. Attribut amélioré: chance de critique
+starter_grimoire_description:Le mage peut vous geler, vous brûler ou vous paralyser. Attribut amélioré: Crit Modifier
+starter_lifestone_description:Lorsqu'il est en danger, le guerrier utilise le pouvoir d'une pierre vitale pour épuiser la force vitale de son adversaire. Attribut amélioré: Dégâts
+starter_talisman_description:Le Rogue utilise sa capacité de furtivité pour esquiver les attaques à distance et magiques. Attribut amélioré: Évasion
+heavyArmor:Armure lourde
+mediumArmor:Armure moyenne
+lightArmor:Armure légère
+quiver:Carquois
+shield:Bouclier
+grimoire:Grimoire
+lifestone:Pierre de vie
+talisman:Talisman
+guildBattleEffectPlus:L' {effet} de toutes vos unités sera augmenté de {perc}%
+guildBattleEffectMinus:L' {effet} de toutes les unités adverses sera diminué de {perc}%
+profession:Profession
+pleaseChooseJob:Choisissez votre profession principale! (+50% d'expérience professionnelle)
+pleaseChooseJobConfirmation:Êtes-vous sûr de vouloir que {job} soit votre principale profession? (+50% d'expérience professionnelle)
+pleaseChooseJobWarning:Vous ne pouvez pas changer de profession principale après en avoir choisi une!
+dontOwnRecipe:Vous ne possédez encore aucune recette dans cette catégorie! Vous pouvez trouver des recettes dans Bounties!
+craft:Artisanat
+cook:Cuisinier
+smith:Smith
+alchemist:Alchimiste
+successfullyCrafted:Fabriqué avec succès
+yourTitle:Votre titre
+title:Titre
+hero:Héros
+veteran:Vétéran
+adventurer:Aventurier
+mercenary:Mercenaire
+squire:écuyer
+legendary_adventurer_male:Aventurier légendaire
+legendary_adventurer_female:Aventurier légendaire
+stylist_male:Styliste
+stylist_female:Styliste
+archduke_male:Archiduc
+archduke_female:Archiduchesse
+prince_male:Prince
+prince_female:Princesse
+lord_male:Seigneur
+lord_female:Dame
+baron_male:Baron
+baron_female:Baronne
+sir_male:Monsieur
+sir_female:Madame
+chief_male:Chef
+chief_female:Cheffesse
+champion_male:Champion
+champion_female:Champion
+pioneer_male:Pionnier
+pioneer_female:Pionnier
+hero_male:Héros
+hero_female:Héros
+adventurer_male:Aventurier
+adventurer_female:Aventurier
+squire_male:écuyer
+squire_female:écuyer
+exitExpeditionConfirmationHeadline:Expédition de sortie
+exitExpeditionConfirmationText:Vous conserverez tous les objets collectés jusqu'à présent. Désirez-vous continuer?
+possibleResources:Ressources possibles:
+howLongDoYouWantToExplore:Combien de temps souhaitez-vous explorer?
+allCommonMaterials:Tous les matériaux courants
+noShield:Pas de bouclier
+your:Votre
+history:L'histoire
+cooking:Cuisiner
+class_slot:Classe Slot
+gift:Cadeau
+skin_starter:Tenue de démarrage
+skin_starter_description:Obtenu en créant votre personnage.
+skin_dragon_warrior:Peau de démon
+skin_dragon_warrior_description:Skin personnalisé de DeemonRider
+skin_royal_scout:Scout royal
+skin_royal_scout_description:Obtenable par???
+skin_island_scout:Island Scout
+skin_island_scout_description:Obtenable par???
+skin_swamp_scout:Scout des marais
+skin_swamp_scout_description:Obtenable par???
+skin_eastern_scout:Eastern Scout
+skin_eastern_scout_description:Obtenable par???
+skin_dune_scout:Dune Scout
+skin_dune_scout_description:Obtenable par???
+skin_vale_scout:Vallée Scout
+skin_vale_scout_description:Obtenable par???
+skin_wanderer:Vagabond
+skin_wanderer_description:Obtenable par???
+skin_fall_ranger:Fall Ranger
+skin_fall_ranger_description:Obtenable par???
+skin_royal_general:Général royal
+skin_royal_general_description:Obtenable par???
+skin_wise_general:Sage général
+skin_wise_general_description:Obtenable par???
+skin_jade_general:Général Jade
+skin_jade_general_description:Obtenable par???
+skin_adamant_general:Général catégorique
+skin_adamant_general_description:Obtenable par???
+skin_heroic_general:Général héroïque
+skin_heroic_general_description:Obtenable par???
+skin_courageous_general:Général courageux
+skin_courageous_general_description:Obtenable par???
+skin_commander:Commandant
+skin_commander_description:Obtenable par???
+skin_red_warrior:Guerrier rouge
+skin_red_warrior_description:Obtenable par???
+skin_royal_assassin:Assassin royal
+skin_royal_assassin_description:Obtenable par???
+skin_brilliant_assassin:Assassin brillant
+skin_brilliant_assassin_description:Obtenable par???
+skin_unseen_assassin:Assassin invisible
+skin_unseen_assassin_description:Obtenable par???
+skin_elegant_assassin:Assassin élégant
+skin_elegant_assassin_description:Obtenable par???
+skin_wealthy_assassin:Assassin riche
+skin_wealthy_assassin_description:Obtenable par???
+skin_bloody_assassin:Assassin sanglant
+skin_bloody_assassin_description:Obtenable par???
+skin_blackguard:Garde noire
+skin_blackguard_description:Obtenable par???
+skin_blue_rogue:Rogue bleu
+skin_blue_rogue_description:Obtenable par???
+skin_royal_paladin:Paladin royal
+skin_royal_paladin_description:Obtenable par???
+skin_glowing_paladin:Paladin lumineux
+skin_glowing_paladin_description:Obtenable par???
+skin_emerald_paladin:Paladin d'émeraude
+skin_emerald_paladin_description:Obtenable par???
+skin_mystic_paladin:Paladin mystique
+skin_mystic_paladin_description:Obtenable par???
+skin_golden_paladin:Paladin doré
+skin_golden_paladin_description:Obtenable par???
+skin_crimson_paladin:Paladin pourpre
+skin_crimson_paladin_description:Obtenable par???
+skin_noble_knight:Chevalier noble
+skin_noble_knight_description:Obtenable par???
+skin_red_knight:Chevalier rouge
+skin_red_knight_description:Obtenable par???
+skin_royal_grandmaster:Grand maître royal
+skin_royal_grandmaster_description:Obtenable par???
+skin_academic_grandmaster:Grand maître académique
+skin_academic_grandmaster_description:Obtenable par???
+skin_herbalistic_grandmaster:Grand maître herboriste
+skin_herbalistic_grandmaster_description:Obtenable par???
+skin_abyssal_grandmaster:Grand Maître Abyssal
+skin_abyssal_grandmaster_description:Obtenable par???
+skin_shining_grandmaster:Grand Maître brillant
+skin_shining_grandmaster_description:Obtenable par???
+skin_fiery_grandmaster:Grand Maître fougueux
+skin_fiery_grandmaster_description:Obtenable par???
+skin_scholar:Érudit
+skin_scholar_description:Obtenable par???
+skin_forest_mage:Mage de la forêt
+skin_forest_mage_description:Obtenable par???
+all:Tous
+aquatic:Aquatique
+insect:Insecte
+humanoid:Humanoïde
+elemental:Élémentaire
+slime:Slime
+beast:Bête
+plant:Plante
+undead:Mort-vivant
+construct:Construisez
+abomination:Abomination
+dragon:Dragon
+mimic:imiter
+embervale:Embervale # cela ne doit pas être traduit
+riverlands:Terres fluviales
+unknown_lands:Terres inconnues
+forgotten_island:Île oubliée
+shivering_passage:Passage tremblant
+great_duskwood:Great Duskwood
+ashen_lagoon:Lagon Ashen
+silver_mountains:Montagnes d'argent
+crownlands:Terres de la Couronne
+boiling_lake:Lac Boiling
+rare_badges:Badges rares

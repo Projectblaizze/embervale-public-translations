@@ -1,0 +1,32 @@
+dungeonName1:Jardins infestés
+dungeonName2:Terres fluviales asséchées
+dungeonName3:Passage fluvial occupé
+dungeonName4:Seafire échoué
+dungeonName5:Passage en eau profonde
+dungeonName6:Royaume caché
+dungeonName7:L'île aux bêtes
+dungeonName8:Glace éternelle
+dungeonName9:Montagnes d'argent
+dungeonName10:Terres désertes abandonnées
+dungeonName11:Duskwood
+dungeonName12:Cimetière des Sans-Nom
+dungeonName13:Bastion de la lumière
+dungeonName14:Embervale
+dungeon:Donjon
+startDungeon:démarrer Dungeon
+dungeonAutoSell:Il y a encore des objets dans l'inventaire de ton donjon! Si tu quittes le donjon maintenant, ils seront perdus!
+selectConsumablesForDungeon:Sélectionnez les potions que vous souhaitez emporter avec vous dans votre donjon. Cela ne peut pas être inversé! Tous les objets que vous apportez aux donjons seront perdus.
+youDontHaveHealPotions:Tu n'as aucune potion de santé.
+effect_gem_blessing:Le joueur est béni pendant {rounds} rounds.//+25% sur toutes les statistiques
+gem_blessing:Bénédiction des pierres précieuses
+lost_fairy_blessing:Bénédiction de la fée perdue
+effect_lost_fairy_blessing:Le joueur est béni par la Fée perdue pendant {rounds} rounds.//+10% de points de vie par pièce
+gem_curse:Malédiction des pierres
+effect_gem_curse:Le joueur est maudit pendant {rounds} rounds.//-5% sur toutes les statistiques
+strength_buff:Buff de force
+effect_strength_buff:Le joueur est amélioré pendant {rounds} rounds.//+20% de force
+wisdom_buff:Buff de sagesse
+effect_wisdom_buff:Le joueur est amélioré pendant {rounds} rounds.//+20% de sagesse
+cluttered_mind:Esprit encombré
+effect_cluttered_mind:Le joueur est confus pendant {rounds} rounds.//-20% de précision
+recommendedLevel:Niveau recommandé

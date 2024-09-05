@@ -1,0 +1,90 @@
+silver_bar:Серебряный слиток
+gold_bar:Золотой слиток
+iron_bar:Железный пруток
+copper_bar:Медный пруток
+brass_bar:Латунный пруток
+embervale-key:Ключ Эмбервейл
+bastion_of_light-key:Клавиша «Бастион света»
+infested_gardens-key:Ключ «Зараженные сады»
+abandonded_wastelands-key:Ключ «Заброшенные пустоши»
+dried_out_riverlands-key:Высушенный ключ Riverlands
+occupied_river_crossing-key:Оккупированный ключ от переправы через реку
+island_of_beasts-key:Ключ «Остров зверей»
+hidden_kingdom-key:Ключ скрытого королевства
+eternal_ice-key:Вечный ледяной ключ
+silver_mountains-key:Ключ Серебряных гор
+stranded_seafire-key:Скрученный ключ Seafire
+deepwater_passage-key:Ключ глубоководного прохода
+graveyard_of_the_nameless-key:Кладбище безымянного ключа
+duskwood-key:Ключ из сумеречного дерева
+distillate:Дистиллят
+pumpkin_soup:Тыквенный суп
+pumpkin_soup_description:Этот пряный суп восстанавливает {количество} выносливости
+fruit_basket:Корзина с фруктами
+fruit_basket_description:Восстанавливает {количество} выносливости
+salad:Салат
+salad_description:Восстанавливает {количество} выносливости
+stone:Камень
+flint:кремень
+iron_ore:Железная руда
+copper_ore:Медная руда
+silver_ore:Серебряная руда
+gold_ore:Золотая руда
+pewter:оловянный
+sapphire:Сапфир
+ruby:Руби
+eternal_ice:Вечный лед
+clover:Клевер
+midnight_rose:Полуночная роза
+rose:Роза
+maggot:Личинка
+caterpillar:гусеница
+toadstool:Поганка
+frog:лягушка
+mandrake:мандрагора
+water:Вода
+brain_stool:Стул для мозга
+choncap:Чонкап
+deeproot_truffle:Трюфель с глубокими корнем
+dragon's_breath_mint:Мята с дыханием дракона
+duskgloom_morels:Модели в сумерках
+duskwight_berries:Ягоды сумерек
+echostem_reeds:Эхостемовый тростник
+emberstalk_toadstool:Поганка «Уберцы говорят»
+giant's_blood_essence:Эссенция крови гиганта
+glacierthorn_flower:Цветок ледникового терна
+maple_leaves:Кленовые листья
+skytear_crystals:Кристаллы Skytear
+spider_root:Корень паука
+starfall_lavender:Звездопад Лаванда
+starlight_blossoms:Цветение звездного света
+stormleaf_plant:Растение ливневых листьев
+twilight_jasmine:«Сумеречный
+whisperroot_fiber:Клетчатка корня шепота
+pumpkin:Тыква
+parsley:Петрушка
+strawberry:Клубника
+blueberries:Черника
+grapes:Виноград
+lettuce:Салат
+cucumber:Огурец
+tomato:Помидор
+onion:Лук
+chicken_leg:Куриная ножка
+deep_sea_shrimp:Глубоководные креветки
+fine_rice:Прекрасный рис
+lime_berry:Лайм Берри
+pepper:Перец
+raw_pork:Сырая свинина
+riverland_potato:Картофель по-речному
+sea_salt:Морская соль
+silver_key:Серебряный ключ
+silver_key_description:Используется для разблокировки чего-либо...
+mysterious_potion:Загадочное зелье
+mysterious_potion_description:Подозрительно выглядящее зелье... стоит ли его пить?
+smoke_bomb:дымовая шашка
+smoke_bomb_description:Используется для выхода из подземелья без потери добычи.
+rare_gem:Редкий драгоценный камень
+rare_gem_description:Странная жемчужина. Может быть ценным
+stack_of_coins:Стопка монет
+stack_of_coins_description:Приличная сумма золотых монет

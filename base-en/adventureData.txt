@@ -1,0 +1,229 @@
+// general
+morale:Morale
+changeWindowSize:Please increase the size of the window.
+threePlayersRequired:3 Players required!
+fight:Fight
+surrender:Surrender
+ended:Ended
+leader:Leader
+welcomeToAdventures:Welcome to adventures
+yourHighscore:Your Highscore
+beforeAdventureStartsText:Adventures is the game mode made explicid developed for streamers. Your community can join via "!ev join" to your adventure. The current maximum join limit is 50.
+wrongAdventureLeader:You are logged in with a different character than the one that started the Adventure. Please switch to {username} to continue
+currentLoggedIn:You are currently logged in as
+youCanSelectRecipient:You can select the recipient of rare or higher loot!
+selectRandomPlayer:Select random player
+treasureOf:Treasure of
+banishConfirmation: Are you sure you want to banish {{ playerToBanish.char.username }} from this adventure?
+areYouSure:Are you sure?
+banish:Banish
+youCanStartNewAdventureIn:You can start a new one in:
+partyInventory:Party Inventorty
+noLootObtained:Your group didn't obtain loot yet
+chooseRewardRecipient:Choose Reward Recipient
+voting:Voting
+
+adventureEndMessageMoraleZero:The morale of the group is too low to continue the adventure. You decide to return home.
+adventureEndMessageAllDead:The group can no longer continue to fight. You decide to return home.
+adventureEndMessageSurrender:You decided to return home with your group.
+
+youWonTheAdventureFight:You won the adventure fight!
+youLoseTheAdventureFight:Your Group lost the fight!
+yourGroupObtained:Your group obtained:
+yourGroupLost:Your group lost:
+ThePlayerWillReceiveReward:Are you sure that you want to give §player0§ the reward?
+noAdventureStarted:The streamer doesn't host an adventure right now. 
+waitingForVoting:Waiting for the next voting in {leaderName}'s adventure...
+alreadyVoted:You already voted
+
+check:Check
+required:Required
+successful:Successful
+failed:Failed
+critical_success:Critical Success
+critical_failure:Critical Failure
+
+joined:Joined
+room:Room
+wantToFight:Tell the streamer if you want to fight!
+mentToPlayedWithCommunity:Adventures are meant to played onstream with your community
+
+happened:Happened
+effectsApplied:Effect(s) applied
+effectsRemoved:Effect(s) removed
+
+coin_stack:Coin stack
+
+// errors
+errNoCoinStack:Your group doesn't have a stack of coins!
+
+// Variables
+// Players §player0§ §player1§ §player2§ ........
+// Effects §effect-EFFECTNAME§
+// Potential outcomes |drunk,hangover
+
+moralePlus:Morale +
+effect_moralePlus:todo
+moraleMinus:Morale -
+effect_moraleMinus:todo
+remainingTurns:Remaining turns:
+
+// effects temporary
+effect_drunk:The player is drunk.       // 33% chance to hurt yourself
+drunk:Drunk
+effect_hungover:The player is hungover. // -50% evasion
+hungover:Hungover
+effect_drowsy:The player feels drowsy. // Always goes second
+drowsy:Drowsy
+effect_agile:This player feels agile. // Always goes first
+agile:Agile
+effect_silenced:The player is silenced. // Disables abilities
+silenced:Silenced
+effect_shaky:The player is shaky. // Ranger only, +20% miss chance
+shaky:Shaky
+effect_precise:This player has advanced precision. // Ranger only, your opponent can't dodge attacks
+precise:Precise
+effect_furious:The player is furious. // +25% damage, 33% chance to hurt self
+furious:Furious
+effect_healthy:This player feels exceptionally healthy. // +25% max health
+healthy:Healthy
+effect_lucky:This player is feeling lucky. // +25% luck, increased rare drop chance
+lucky:Lucky
+effect_regenerating:This player is regenerating health. and can't participate in battles. // +25% health per round
+regenerating:Regenerating
+effect_astral_healing:This player is receiving a magical healing by another player. // +50 % health per round
+astral_healing:Astral Healing
+effect_astral_stasis:This player is using magic to heal a companion. // Cant fight
+astral_stasis:Astral Stasis
+effect_ambushed:This player was recently ambushed // Take 2x damage
+ambushed:Ambushed
+effect_healer:This player recently cured a terrible disease. // All party members are healed for 10% each turn
+healer:Healer
+effect_upset:This player is upset about the leader's decisions. // -1 morale per round
+upset:Upset
+effect_terrified:This player has seen something highly unsettling. // -2 morale per round
+terrified:Terrified
+effect_vigilant:This player is extra vigilant. // +5% evasion
+vigilant:Vigilant
+effect_thief:This player is a known thief and watched with suspicion. // +10% dexterity, -3 morale per round
+thief:Thief
+effect_blacksmith:This player has proven to be a capable blacksmith. // Priority for smithing checks, 10x smithing skill for adventure
+blacksmith:Blacksmith
+effect_ancient_knowledge:This player is inspired by long lost knowledge. // + 10% wisdom
+ancient_knowledge:Ancient Knowledge
+effect_cursed:This player is affected by a mysterious curse. // - 100% luck
+cursed:Cursed
+effect_enhanced_magic:This player has enhanced understanding of magic. // +10% magic damage, -10% magic damage taken
+enhanced_magic:Enhanced Magic
+effect_empathic:This player has heightened empathy and understanding. // +1 morale per round, +5% wisdom
+empathic:Empathic
+effect_uncomfortable:This player is feeling uneasy or out of place. // -10% speech
+uncomfortable:Uncomfortable
+effect_diplomatic:This player excels in negotiation and conflict resolution. // +10% speech, +2 on all speech rolls
+diplomatic:Diplomatic
+unavailable:Unavailable
+effect_unavailable:This player is currently busy elsewhere and temporarily can't participate in battles. // # TODO
+dark_blessing:Dark Blessing
+effect_dark_blessing: This player was blessed by a sinister deity. // + 20% on all stats + 10% damage taken
+enlightened:Enlightened
+effect_enlightened:This player achieved a deeper understanding of the divines and everything sacred.  // +2 to all wisdom rolls
+famished:Famished
+effect_famished:This player is weakened from not having a proper meal in a while. // -50 % strength - 2 to all strength rolls
+plagued:Plagued
+effect_plagued:Suffering from an unknown plague this player's vitality and strength are greatly reduced. // -50% vitality, -30% strength
+guardian_angel:Guardian Angel
+effect_guardian_angel:Protected by a divine deity this player is bound to return once more after falling in combat.
+protective_blessing:Protective Blessing
+effect_protective_blessing: A minor blessing protecting the affected from harm. // -5% damage taken
+dragon_slayer:Dragon Slayer
+effect_dragon_slayer:This player is renowned for slaying a dragon in single combat. // 500% damage vs dragons
+berserk:Berserk
+effect_berserk:Heavily injured this player fell into an ancient rage. // +200% damage as long as badly wounded or maimed
+ambivalent:Ambivalent
+effect_ambivalent:This character is known for their contradictory ideas leading to mixed results in their actions. // -2 to +2 on any roll
+
+
+// effects permanent
+effect_drained:The player feels drained and won't be able to fully recover anymore. // -25% max health
+drained:Drained
+effect_shattered:The player's armor is shattered. // -75% armor and magic resistance
+shattered:Shattered
+effect_overloaded:The player is getting weighted down by the collected treasure. // -25% dexterity
+overloaded:Overloaded
+effect_damaged_weapon:This player's weapon has seen better days and needs to be repaired. // -25% damage
+damaged_weapon:Damaged Weapon
+effect_improved_weapon:This player's weapon was improved recently. // + 10% damage
+improved_weapon:Improved Weapon
+effect_disarmed:The player's weapon is in terrible shape. // -75% damage
+disarmed:Disarmed
+effect_vampiristic:This player is suspected to be a vampire. // Heal for 75% damage dealt, -10 morale for every battle, -50% health
+vampiristic:Vampristic
+effect_banished:This player got banished from the party. // Is no longer part of the adventure # TODO No Voting Power
+banished:Banished
+strong_leader:Strong Leader
+effect_strong_leader:This leader has proven exceptional strength. // +10% all stats
+usurper:Usurper
+effect_usurper:This player overthrew their leader and commands the group now. // # TODO 3x Voting Power
+bonded_friendship:Bonded Friendship
+effect_bonded_friendship: This player has formed a close friendship with another party member, enhancing their teamwork and morale. // +5% to all stats and +1 morale when in same battle with other bonded friend
+
+effect_transformed:The player is transformed into a creature. // ???
+transformed:Transformed
+
+// health
+effect_wounded:The player is wounded. //  -25% max health
+wounded:Wounded
+effect_badly_wounded:The player is badly wounded. //  -50% max health
+badly_wounded:Badly Wounded
+effect_maimed:The player is maimed. //  -75% max health
+maimed:Maimed
+effect_fainted:The player is fainted. //  You can't battle anymore.
+fainted:Fainted
+
+// checks
+check_strength:A lot of physical strength is required.
+strength:Strength
+check_alchemist:Those skilled in alchemy will more likely succeed.
+alchemist:Alchemist
+check_smith:Those with a talent for smithing will thrive.
+smith:Smith
+check_cook:Those with a talent for cooking will flourish.
+cook:Cook
+check_wisdom:The wise among us might have an answer to this problem.
+wisdom:Wisdom
+check_luck:Are you feeling lucky today?
+luck:Luck
+check_vitality:Those blessed with remarkable vitality will prosper.
+vitality:Vitality
+check_mag_resistance:Those gifted with formidable magic resistance shall prevail.
+mag_resistance:Magic Resistance
+check_speech:Solving this problem will require some charisma.
+speech:Speech
+check_dexterity:Those possessing exceptional dexterity will excel.
+dexterity:Dexterity
+check_morale:Is the morale in the party high enough to overcome this hindrance?
+morale:Morale
+check_fame:The most experienced adventurers will know the solution.
+fame:Fame
+
+// GLOBAL ADVENTURE EFFECTS
+bright_hair:Everyones Hair is colored brightly
+effect_bright_hair:Brightly Hair
+
+check_coin_stack:This option requires a coin stack
+coin_stack:Coin
+
+errNoCoinStack:Your group doesn't have enough coins!
+
+adventurePlayerCheck:Check
+errNotEnoughVotings:You can't continue without voting for anything!
+
+
+
+combat_won:Combat won
+effect_combat_won:You won the combat // + Morale
+
+adventureCooldownRoyal:50% shorter Adventure cooldown
+adventureCooldownMythical:50% shorter Adventure cooldown
+adventureCooldownLegendary:25% shorter Adventure cooldown
+adventureCooldownEpic:10% shorter Adventure cooldown

@@ -1,0 +1,19 @@
+evhelp:Puedes encontrar todos los comandos aquí
+notStarted:¡Tu viaje aún no ha empezado!
+cmdUnknownError:¡Se ha producido un error desconocido!
+serverOverload:¡El servidor está sobrecargado! ¡Vuelva a intentarlo más tarde!
+twitchbotNoAccount:¡Crea tu personaje en la extensión de Embervale!
+twitchbotNoActiveChar:¡Selecciona tu personaje activo en la extensión Embervale!
+adventureNotActive:¡No hay aventura activa!
+adventureAlreadyIn:¡Ya estás en una aventura!
+adventureMultipleCharactersAlreadyIn:¡Ya te has unido a uno de tus personajes en esta aventura!
+adventureNoActiveVoting:¡No hay votación activa!
+adventureYouAreNotIn:¡No estás en una aventura!
+adventureInvalidVoting:¡Tu voto no es válido!
+achievements:Logros
+rank:Rango
+itemsDiscovered:Objetos descubiertos
+materialDiscovered:Materiales descubiertos
+bestiary:Bestiario
+defeated:Derrotado
+cantFindMonster:¡No puedo encontrar a este monstruo!

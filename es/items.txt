@@ -1,0 +1,760 @@
+iron_protector:Protector de hierro
+wise_mens_charm:Colgante para hombres sabios
+amulet_of_the_unbroken:Amuleto de los Inquebrantables
+ruby_heart:Corazón de rubí
+sabretooth_talisman:Talismán diente de sable
+miners_charm:El encanto de un minero
+topaz_amulet:Amuleto de topacio
+emerald_necklace:Collar de esmeralda
+sealed_pearl_of_the_abyss:Perla sellada del abismo
+queens_wrath:La ira de la reina
+the_human_jaw:La mandíbula humana
+blue_prism_necklace:Collar Blue Prism
+minor_talisman:Talismán menor
+blacksmiths_mark:Marca de herrero
+ward_stone:Ward Stone
+amethyst_necklace:Collar de amatista
+scholars_necklace:Collar de erudito
+wolf_fang_talisman:Talismán Wolf Fang
+heart_of_gaia:En pleno centro de Gaia
+petrified_shell:Concha petrificada
+unholy_cross:Cruz profana
+spirit_tear:Lágrima espiritual
+jade_dragonfly:Libélula de jade
+ocean_shard:Fragmento oceánico
+silver_breeze:Brisa plateada
+sea_serpents_eye:Ojo de serpiente marina
+old_fishing_hook:Anzuelo de pesca antiguo
+ancient_ruby_necklace:Collar de rubí antiguo
+fishermens_charm:El encanto de los pescadores
+scarlet_medallion:Medallón escarlata
+amulet_of_the_water_spirit:Amuleto del espíritu del agua
+darkthorn_necklace:Collar Darkthorn
+sapphire_amulet:Amuleto de zafiro
+alchemists_trump:El Trump del alquimista
+glowberry_charm:Colgante Glowberry
+rune_of_ascension:Runa de la Ascensión
+rune_of_thunder:Runa del trueno
+rune_of_life:Runa de la vida
+gravestone_fragment:Fragmento de lápida
+blacksmiths_charm:Encanto de herrero
+all_seeing_eye:Ojo que todo lo ve
+tricksters_charm:El encanto del embaucador
+lucky_charm_of_the_gambler:El amuleto de la suerte del jugador
+gift_from_the_reaper:Regalo del Segador
+necklace_of_the_duchess:Collar de la duquesa
+leviathans_eyes:Los ojos del leviatán
+protective_runes:Runas protectoras
+golden_scarab:Escarabajo dorado
+protective_shell:Carcasa protectora
+shell_talisman:Talismán de concha
+insignia_of_the_sun:Insignia del Sol
+oyster_pearl:Perla de ostra
+insignia_of_the_moon:Insignia de la Luna
+scorpio_necklace:Collar Scorpio
+novices_necklace:Collar para novicios
+false_temptress:Falsa tentadora
+lifestone_necklace:Collar Lifestone
+amulet_of_the_vampire_queen:Amuleto de la reina vampiro
+wolf_ward:Wolf Ward
+mushroom_pickers_lucky_charm:Amuleto de la suerte de un recolector de hongos
+golden_lizard_band:Golden Lizard Band
+lost_family_heirloom:Reliquia familiar perdida
+elven_neckband:Collar elven
+shamans_lucky_charm:Amuleto de la suerte del chamán
+amulet_of_the_wind_spirit:Amuleto del espíritu del viento
+amazonite_talisman:Talismán de amazonita
+pearl_necklace:Collar de perlas
+false_abyss_stone:Piedra falsa del abismo
+witches_eye:Ojo de bruja
+hunters_charm:Encanto de cazador
+heart_of_the_underworld:Corazón del inframundo
+prayer_beads:Perlas de oración
+azurite_protector:Protector de azurita
+blind_dragon_eye:Ojo de dragón ciego
+prisoners_mark:Marca de prisionero
+warlocks_necklace:Collar de brujo
+cultist_stone:Piedra cultista
+alchemists_token:Símbolo de alquimista
+foragers_orb:Orbe de forrajero
+medallion_of_fortune:Medallón de la fortuna
+eye_of_chaos:Ojo del caos
+golden_chain:Cadena dorada
+abyssal_ore:Mineral abisal
+gem_of_harmony:Joya de armonía
+gem_of_nature:Joya de la naturaleza
+ancient_collar:Collar antiguo
+paladins_honour:El honor del paladín
+gem_of_renewal:La joya de la renovación
+archmages_necklace:Collar de archimago
+eye_of_the_storm:Ojo de la tormenta
+iron_band:Banda de hierro
+brass_band:Banda de música
+vanity_of_the_abyss:La vanidad del abismo
+monks_pearls:Perlas de monje
+bards_thread:El hilo de Bardo
+tortoise_heart:Corazón de tortuga
+ancient_ashes:Cenizas antiguas
+mystics_amulet:Amuleto místico
+trees_bounty:La recompensa del árbol
+shield_charm:Amuleto de escudo
+grandmasters_necklace:Collar del Gran Maestro
+rune_of_tides:Runa de las mareas
+princes_amulet:Amuleto del príncipe
+princess_amulet:Amuleto de princesa
+lunas_gift:El regalo de Luna
+kings_crest:Cresta del rey
+queens_crest:Cresta de la reina
+servants_crest:Cresta de sirviente
+cursed_runestone:Piedra rúnica maldita
+gem_of_vitality:Joya de vitalidad
+eye_of_pandora:Ojo de Pandora
+dragons_ire:Ira del dragón
+spirit_essence:Esencia espiritual
+journeys_end:El final del viaje
+pharmacists_mark:Marca del farmacéutico
+ring_of_binding:Anillo de encuadernación
+constricting_band:Banda de constricción
+apprentice_ring:Anillo de aprendiz
+valkyrie_ring:Anillo Valkyrie
+beasts_maw:Fauces de bestia
+abyssal_ring:Anillo abisal
+channeling_ring:Anillo canalizador
+engraved_gold_ring:Anillo de oro grabado
+rusted_ring:Anillo oxidado
+appraised_ring:Anillo tasado
+queens_ring:Anillo de la reina
+cats_eye:Ojo de gato
+cursed_ring:Anillo maldito
+amber_ring:Anillo de ámbar
+merchants_ring:Anillo de comerciante
+copper_ring:Anillo de cobre
+ring_of_mana:Anillo de maná
+ring_of_vitality:Anillo de vitalidad
+ring_of_rage:Anillo de furia
+ring_of_clairvoyance:Anillo de clarividencia
+notched_ring:Anillo con muescas
+ancient_ring:Anillo antiguo
+ring_of_necromancy:Anillo de nigromancia
+dragonhunters_ring:Anillo de cazador de dragones
+sirens_ring:Anillo de sirena
+gold_band:Banda de oro
+gold_ring:Anillo de oro
+turquoise_ring:Anillo turquesa
+monarchs_ring:Anillo de monarca
+dance_of_the_deep:Danza de las profundidades
+pharaohs_curse:La maldición del faraón
+ring_of_ouroboros:Anillo de Ouroboros
+gargoyles_ring:Anillo de gárgola
+fragment_of_the_abyss:Fragmento del abismo
+sanded_serpentine_ring:Anillo serpentino lijado
+vermillion_merchant_ring:Anillo mercante bermellón
+snake_bite_ring:Anillo Snake Bite
+living_deep_sea_ring:Anillo viviente de aguas profundas
+forest_warden_ring:Anillo Forest Warden
+anti_magic_ring:Anillo antimagia
+shard_of_eternal_ice:Fragmento de hielo eterno
+novices_ring:Anillo de novicio
+scholars_ring:Anillo de erudito
+studded_bronze_ring:Anillo de bronce con tachuelas
+alchemy_ring:Anillo de alquimia
+celtic_ring:Anillo celta
+abyss_servant_ring:Anillo Abyss Servant
+honeycomb_ring:Anillo Honeycomb
+iron_bull_ring:Plaza de toros de Hierro
+brass_bull_ring:Plaza de toros de latón
+cobalt_bull_ring:Plaza de toros de cobalto
+geode_ring:Anillo de geoda
+bone_ring:Anillo óseo
+band_of_smithing:Band of Smithing
+claw_ring:Anillo con forma de garra
+ring_of_good_fortune:Anillo de buena fortuna
+moon_aegis_ring:Anillo Moon Aegis
+eclipse_ring:Anillo Eclipse
+helios:Helios
+troglodyte_ring:Anillo troglodita
+tigers_eye_ring:Anillo Ojo de Tigre
+turtle_shell_ring:Anillo de caparazón de tortuga
+elegant_cheese_ring:Elegante anillo de queso
+old_spool:Bobina vieja
+wyvern_egg_ring:Anillo Wyvern Egg
+the_awakened_abyss:El abismo despierto
+horseshoe_ring:Anillo en forma de herradura
+ruby_ring:Anillo de rubí
+emerald_ring:Anillo de esmeralda
+rough_gold_ring:Anillo de oro en bruto
+soul_of_nature:Alma de la naturaleza
+void_ring:Anillo vacío
+ring_of_the_reaper:El anillo del segador
+silver_garnet_ring:Anillo de plata con granate
+ring_of_bloodlust:Anillo de sed de sangre
+maw_of_the_abyss:Fauces del abismo
+vampire_ring:Anillo de vampiro
+sepia_ring:Anillo sepia
+heir_of_the_abyss:Heredero del abismo
+ring_of_nightmares:Anillo de pesadillas
+ring_of_learning:Anillo de aprendizaje
+dormant_abyss_ring:Anillo Dormant Abyss
+wooden_ring:Anillo de madera
+ring_of_rot:Anillo de podredumbre
+darkstar_ring:Anillo Darkstar
+old_cog:Engranaje viejo
+ring_of_the_duchess:Anillo de la duquesa
+deformed_gold_ring:Anillo de oro deformado
+lizards_eye_ring:Anillo de ojo de lagarto
+ring_of_embers:Anillo de brasas
+kings_seal:Sello del rey
+ivory_ring:Anillo de marfil
+travellers_ring:Anillo de viajero
+iron_sun_ring:Anillo solar de hierro
+sapphire_ring:Anillo de zafiro
+ring_of_the_demon_lord:Anillo del Señor de los Demonios
+boulder_ring:Anillo Boulder
+opal_ring:Anillo de ópalo
+symbol_of_love:Símbolo del amor
+abyss_watcher:Vigilante del abismo
+frost_ring:Anillo Frost
+circle_of_thorns:Círculo de espinas
+ring_of_dusk:Anillo del anochecer
+ring_of_dawn:Anillo del Amanecer
+crystal_ring:Anillo de cristal
+ring_of_eternal_winter:Anillo del Invierno Eterno
+dead_coral_ring:Anillo Dead Coral
+ring_of_divinity:Anillo de la divinidad
+genesis_of_life:Génesis de la vida
+unyielding_defender:Defensor inquebrantable
+centurions_plate:Plato de centurión
+tunic:Túnica
+mystics_robe:Túnica de místico
+bear_pelt:Piel de oso
+torn_tunic:Túnica rasgada
+novices_robe:Bata de novicio
+scholars_robe:Bata de erudito
+warlocks_robe:Túnica de brujo
+archmages_robe:Túnica de archimago
+cultists_robe:Túnica de cultista
+grandmasters_robe:Túnica de Gran Maestro
+brown_tunic:Túnica marrón
+elven_magicians_robe:Túnica de mago elfo
+shamans_robe:Túnica de chamán
+robe_of_the_healer:Túnica del sanador
+sorcerers_robe:Túnica de hechicero
+magic_mercenarys_robe:Túnica de mercenario mágico
+elven_tunic:Túnica élfica
+cloak_of_aspiration:Capa de aspiración
+robe_of_deceit:Túnica de engaño
+elven_kings_armor:Armadura del rey elfo
+crimson_knights_plate:Plato de caballero carmesí
+dragon_scale_cuirass:Coraza Dragon Scale
+generals_chestplate:Pecho de general
+diplomats_robe:Bata de diplomático
+sharpshooters_armor:Armadura de francotirador
+abyss_wanderers_armor:Armadura de Abyss Wanderer
+vagabonds_robe:Túnica de vagabundo
+brown_leather_armor:Armadura de cuero marrón
+barbarians_armor:Armadura de bárbaro
+black_velvet_robe:Bata de terciopelo negro
+rogues_armor:Armadura de pícaro
+iron_plackart:Plackart de hierro
+priests_robe:Túnica de sacerdote
+warriors_chestplate:Pecho de guerrero
+crested_emerald_armor:Armadura esmeralda con cresta
+kindled_armor:Armadura encendida
+desert_warriors_armor:Armadura del guerrero del desierto
+nightbringers_armor:Armadura de Nightbringer
+necromancers_robe:Túnica de nigromante
+legendary_adventurers_armor:Armadura de aventurero legendaria
+iron_plate_armor:Armadura de chapa de hierro
+kings_guard_armor:Armadura Kings Guard
+worn_bronze_mail:Correo de bronce desgastado
+seastone_armor:Armadura Seastone
+dyed_leather_armor:Armadura de cuero teñido
+executioners_armor:Armadura de verdugo
+gargoyles_armor:Armadura de gárgola
+pearl_plackart:Pearl Plackart
+suit_of_the_faded_dragon:Traje del dragón descolorido
+rangers_armor:Armadura de guardabosques
+occult_robe:Túnica oculta
+bards_tunic:Túnica de bardo
+armor_of_the_undefeated:La armadura de los invictos
+assassins_armor:Armadura de asesino
+composite_breastplate:Peto compuesto
+infiltrators_armor:Armadura de infiltrado
+traitors_armor:Armadura de traidor
+lower_nobles_tunic:Túnica de Lower Noble
+emperors_protector:Protector del emperador
+dark_steel_plate:Placa de acero oscuro
+hide_armor:Ocultar armadura
+grey_scorpions_armor:Armadura de escorpión gris
+reinforced_rhino_plate:Placa Rhino reforzada
+heavy_iron_plate:Placa de hierro pesado
+reapers_skin:Piel de segador
+undead_knights_armor:Armadura de caballero no muerto
+phantom_steel_plate:Placa de acero Phantom
+coral_iron_armor:Armadura de hierro y coral
+scouts_armor:Armadura de explorador
+archers_armor:Armadura de arquero
+legionnaires_armor:Armadura de legionario
+shadow_blades_armor:Armadura de Shadow Blade
+mercenaries_bracers:Brazales de mercenario
+ominous_bracelet:Pulsera Ominous
+sharpshooters_bracelet:Brazalete de francotirador
+illusionists_robe:Túnica de ilusionista
+abyss_wanderers_bracer:Brazalete de Abyss Wanderer
+gloves_of_deceit:Guantes de engaño
+novices_bracers:Brazaletes para novicios
+composite_gloves:Guantes compuestos
+vagabonds_gloves:Guantes de vagabundo
+grey_scorpions_gloves:Guantes de escorpión gris
+desert_warriors_gloves:Guantes de guerrero del desierto
+phantom_steel_gloves:Guantes Phantom Steel
+scholars_gloves:Guantes de becario
+rhinos_crush_claw:Garra aplastante de rinoceronte
+shadow_blades_gloves:Guantes de Shadow Blade
+warlocks_gloves:Guantes de brujo
+mummified_hands:Manos momificadas
+grandmasters_gloves:Guantes de Gran Maestro
+guardians_bracers:Brazaletes de guardián
+hide_bracelet:Ocultar pulsera
+iron_bracelet:Pulsera de hierro
+wooden_coil:Bobina de madera
+elven_kings_bracer:Brazalete del rey elfo
+simple_bracer:Brazalete simple
+generals_gauntlets:Guanteletes de general
+dark_steel_gauntlets:Guanteletes de acero oscuro
+elven_bracelet:Pulsera Elven
+padded_bracers:Brazales acolchados
+archers_bracers:Brazales de arquero
+sunborn_bracers:Brazaletes Sunborn
+cultist_gloves:Guantes cultistas
+bear_grip:Bear Grip
+whisperers_gloves:Guantes de Whisperer
+archmages_gloves:Guantes de archimago
+nightbringers_bracelet:Pulsera Nightbringer
+copper_bracelet:Pulsera de cobre
+painful_bracelet:Brazalete doloroso
+crimson_bracelet:Pulsera carmesí
+mystics_bracers:Brazaletes de Mystic
+elven_magicians_bracers:Brazaletes de mago elfo
+touch_of_nature:Un toque de naturaleza
+combat_bracelet:Brazalete de combate
+healers_gloves:Guantes de sanador
+heavy_iron_gloves:Guantes de hierro pesado
+dyed_bracers:Brazales teñidos
+oceans_touch:El toque del océano
+leather_bracer:Brazalete de cuero
+diplomats_gloves:Guantes de diplomático
+warriors_gloves:Guantes de guerrero
+infiltrators_gloves:Guantes de infiltrado
+seastone_gloves:Guantes Seastone
+gloves_of_the_undefeated:Guantes del invicto
+brown_gloves:Guantes marrones
+sinister_gloves:Guantes siniestros
+steel_gauntlets:Guanteletes de acero
+executioners_gauntlets:Guanteletes del verdugo
+dark_steel_gloves:Guantes de acero oscuro
+gloves_of_the_temptress:Guantes de la tentadora
+fist_of_theft:Puño de robo
+fist_of_wrath:Puño de ira
+fist_of_vengeance:Puño de venganza
+gloves_of_aspiration:Guantes de aspiración
+gloves_of_the_scout:Guantes del Scout
+undead_knights_claws:Garras de caballero no muerto
+pearl_gauntlets:Guanteletes de perlas
+monks_gloves:Guantes de monje
+beggars_gloves:Guantes de mendigo
+crimson_knights_gloves:Guantes de caballero carmesí
+magic_repellent_gauntlets:Guanteletes repelentes mágicos
+illusionists_gloves:Guantes de ilusionistas
+protectors_of_the_forest:Protectores del bosque
+bone_breakers:Rompehuesos
+noble_leather_gloves:Guantes de cuero noble
+leather_gloves:Guantes de cuero
+blood_magic_gloves:Guantes mágicos de sangre
+sorcerers_gloves:Guantes de brujo
+reinforced_bracers:Brazales reforzados
+knights_gauntlets:Guanteletes de caballero
+yeti_paws:Patas de yeti
+iron_bracers:Brazales de hierro
+illusionists_bracelets:Pulseras de ilusionista
+iron_plate_gloves:Guantes Iron Plate
+barbarians_gloves:Guantes de bárbaro
+gold_painted_gloves:Guantes pintados en oro
+heavy_iron_gauntlets:Guanteletes de hierro pesado
+thieves_gloves:Guantes de ladrón
+coral_iron_gloves:Guantes Coral Iron
+straw_bracelet:Pulsera de paja
+tormenters:Torturadores
+elven_kings_gloves:Guantes del rey elfo
+decorated_bracelet:Pulsera decorada
+legendary_adventurers_gloves:Guantes de aventurero legendarios
+fist_of_midas:Puño de Midas
+reapers_bracelet:Pulsera Reapers
+warlocks_hood:Capucha de brujo
+novices_hat:Sombrero de novato
+peasants_hat:Sombrero de campesino
+elven_kings_helmet:Casco del rey elfo
+witch_hunters_hat:Sombrero de cazador de brujas
+beggars_cap:Gorro de mendigo
+archers_cap:Gorra de arquero
+gladiators_helmet:Casco de gladiador
+iron_helmet:Casco de hierro
+leather_helmet:Casco de cuero
+crested_emerald_helmet:Casco Crested Emerald
+centurions_helmet:Casco de centurión
+barbarians_helmet:Casco de bárbaro
+mask_of_treachery:Máscara de traición
+spearmens_helmet:Casco de lancero
+grizzly_helmet:Casco Grizzly
+partisan_hood:Capucha partisana
+elven_magicians_hood:Capucha del mago elfo
+mask_of_stubbornness:Máscara de testarudez
+gamblers_hat:Sombrero de jugador
+dark_steel_helmet:Casco de acero oscuro
+heavy_infantry_helmet:Casco de infantería pesada
+diplomats_hood:Capucha de diplomático
+foot_soldier_helmet:Casco Foot Soldier
+coral_iron_helmet:Casco Coral Iron
+archmages_hood:Capucha de archimago
+mask_of_fear:Máscara del miedo
+helmet_of_the_undefeated:Casco del Invicto
+grandmasters_hat:Sombrero de Gran Maestro
+healers_hood:Capucha de sanador
+sharpshooters_hood:Capucha de francotirador
+miners_helmet:Casco de minero
+occult_hood:Capucha oculta
+phantom_steel_helmet:Casco Phantom Steel
+nightbringers_hood:Capucha de Nightbringer
+composite_helmet:Casco compuesto
+merchants_hat:Sombrero de comerciante
+chain_hood:Capucha con cadena
+illusionist_hood:Capucha de ilusionista
+summer_knights_helmet:Casco de caballero de verano
+brown_wizard_hat:Sombrero de mago marrón
+purple_wizard_hat:Sombrero de mago morado
+red_wizard_hat:Sombrero de mago rojo
+dwarven_warrior_helmet:Casco de guerrero enano
+pink_cap:Gorra rosa
+shamans_hood:Capucha de chamán
+hood_of_the_void:Capucha del vacío
+hardened_helmet:Casco endurecido
+scouts_helmet:Casco de explorador
+rogues_helmet:Casco de pícaro
+warriors_helmet:Casco de guerrero
+knights_helmet:Casco de caballero
+northern_helmet:Casco nórdico
+desert_warriors_turban:Turbante de Desert Warrior
+legionnaires_helmet:Casco de legionario
+executioners_helmet:Casco de verdugo
+spys_hood:Capucha de espía
+noble_turban:Turbante noble
+elven_helmet:Casco élfico
+crushers_helmet:Casco de Crusher
+desert_champions_crown:Corona de campeón del desierto
+wasteland_helmet:Casco Wasteland
+polished_steel_helmet:Casco de acero pulido
+city_watch_helmet:Casco City Watch
+crusaders_helmet:Casco de cruzado
+vagabonds_hood:Capucha de vagabundo
+hide_hood:Ocultar capucha
+scorpions_helmet:Casco de escorpión
+cultists_hood:Capucha de cultista
+grandmasters_hood:Capucha del Gran Maestro
+imperial_guards_helmet:Casco de la Guardia Imperial
+battered_helmet:Casco maltratado
+patched_hood:Capucha parcheada
+fur_helmet:Casco de piel
+generals_helmet:Casco de general
+brawlers_helmet:Casco de brawler
+autumn_knights_helmet:Casco de caballero de otoño
+spring_knights_helmet:Casco de caballero de primavera
+abyss_wanderers_hood:Capucha de Abyss Wanderers
+ancient_witch's_hat:Sombrero de bruja antigua
+crimson_knights_helmet:Casco de caballero carmesí
+emperors_helmet:Casco del emperador
+helmet_of_the_unseen:Casco de lo invisible
+legendary_adventurers_helmet:Casco de aventurero legendario
+mask_of_terror:Máscara del terror
+dusk_mages_hood:Capucha de mago del crepúsculo
+warlords_helmet:Casco de señor de la guerra
+beggars_shoes:Zapatos de mendigo
+novices_shoes:Zapatos para principiantes
+leather_boots:Botas de cuero
+iron_boots:Botas de hierro
+coral_iron_boots:Botas Coral Iron
+scholars_shoes:Zapatos Scholar's
+rangers_boots:Botas de guardabosques
+illusionists_shoes:Zapatos de ilusionista
+heavy_rhino_boots:Botas Heavy Rhino
+traitors_boots:Botas de traidor
+foot_of_midas:Pie de Midas
+boots_of_aspiration:Botas de aspiración
+crimson_knights_boots:Botas Crimson Knight
+necromancers_boots:Botas de nigromante
+archers_boots:Botas de arquero
+boots_of_silence:Botas de silencio
+elven_magicians_shoes:Zapatos de mago elfo
+worn_shoes:Zapatos desgastados
+vagabonds_shoes:Zapatos de Vagabond
+kindled_boots:Botas Kindled
+steel_boots:Botas de acero
+infiltrators_boots:Botas de infiltrado
+gargoyles_boots:Botas Gargoyles
+cultists_boots:Botas de culto
+healers_boots:Botas de sanador
+knights_boots:Botas de caballero
+boots_of_the_undefeated:Las botas del invicto
+commoners_boots:Botas de plebeyo
+dyed_leather_shoes:Zapatos de piel teñida
+heavy_iron_boots:Botas de hierro pesado
+desert_boots:Botas Desert
+grey_scorpions_boots:Botas de escorpión grises
+blood_magic_boots:Botas Blood Magic
+scrap_metal_boots:Botas de chatarra
+emperors_boots:Botas de emperador
+undead_knights_boots:Botas de caballero no muerto
+iron_plate_boots:Botas Iron Plate
+hide_boots:Esconder botas
+executioners_boots:Botas de verdugo
+mystics_boots:Botas de místico
+simple_leather_boots:Botas de cuero sencillas
+dwarven_boots:Botas Dwarven
+dark_steel_boots:Botas de acero oscuro
+archmages_boots:Botas de archimago
+captains_boots:Botas de capitán
+crushers_boots:Botas de Crusher
+elven_archers_boots:Botas de Elven Archer
+shoes_of_deceit:Los zapatos del engaño
+whisperers_boots:Botas de Whisperer
+brown_boots:Botas marrones
+desert_warriors_boots:Botas de Desert Warrior
+blunt_axe:Hacha contundente
+wooden_hammer:Martillo de madera
+cutthroats_club:El club de Cutthroat
+round_wooden_hammer:Martillo redondo de madera
+soapstone_hammer:Martillo de esteatita
+handcrafted_mace:Maza hecha a mano
+wooden_club:Club de madera
+gilded_mace:Maza dorada
+butchers_cleaver:Cuchillo de carnicero
+morning_star:Estrella de la mañana
+iron_bludgeon:Golondrina de hierro
+iron_mace:Maza de hierro
+deep_sea_smiths_hammer:Martillo de herrero de Deep Sea
+platecrusher_hammer:Martillo triturador de placas
+flail:mayal
+simple_war_pick:Selección de guerra simple
+soul_breaker:Rompe almas
+iron_war_hammer:Martillo de Guerra de Hierro
+steel_war_hammer:Martillo de guerra de acero
+dwarven_kings_companion:El compañero del rey enano
+stone_mace:Maza de piedra
+wooden_mallet:Mazo de madera
+executioners_hammer:Martillo de verdugo
+war_gavel:Mazo de guerra
+divine_weapon_aurora:Arma divina Aurora
+wooden_mace:Maza de madera
+broadaxe:Hacha ancha
+pale_broadaxe:Hacha ancha pálida
+profaned_decapitater:Decapitador profanado
+mercenary_axe:Hacha mercenaria
+ivory_broadaxe:Hacha ancha marfil
+reapers_axe:Hacha del segador
+golden_bardiche:Bardiche dorado
+moonlight_axe:Hacha Moonlight
+dwarven_warhammer:Martillo de guerra enano
+amethyst_harvester:Cosechadora de amatistas
+emperors_judgement:Juicio del emperador
+undead_generals_axe:Hacha de general no muerto
+wooden_warhammer:Martillo de guerra de madera
+deadly_diamond:Diamante mortal
+ritual_dualblade:Doble espada ritual
+bearded_twin_axe:Hacha doble barbuda
+spiderweb_twin_axe:Hacha doble Spiderweb
+demonic_reaver:Cazador demoníaco
+sunshine_twin_axe:Hacha doble Sunshine
+ember_storm:Tormenta de brasas
+engraved_axe:Hacha grabada
+elven_axe:Hacha élfica
+mirror_axe:Espejo Espejo
+guild_hammer:Guild Hammer
+blunt_iron_sword:Espada de hierro contundente
+iron_spear:Lanza de hierro
+goblin_spear:Lanza goblin
+cracked_spear:Lanza agrietada
+wooden_spear:Lanza de madera
+lance:Lanza
+infantry_spear:Lanza de infantería
+handcrafted_glaive:Guja artesanal
+reinforced_glaive:Guja reforzada
+sharktooth_balisong:Canción de Sharktooth
+stone_spear:Lanza de piedra
+limestone_spear:Lanza de piedra caliza
+battle_spear:Lanza de batalla
+orc_spear:Lanza orca
+huntsmens_gem:La joya de los cazadores
+nomads_spear:Lanza nómada
+arrowhead_spear:Lanza con punta de flecha
+frostborn_spear:Lanza de Frostborn
+captains_hook:Captain's Hook
+abyssal_lance:Lanza abisal
+darksteel_spear:Lanza de acero oscuro
+iron_pike:Lucio de hierro
+wooden_glaive:Guja de madera
+sea_ruler:Regente del mar
+godsbane:Godsbane
+blade_of_the_undead:La espada de los muertos vivientes
+mercenary_sword:Espada mercenaria
+gladiators_sword:Espada de gladiador
+cursed_blade:Espada maldita
+abyssal_sword:Espada abisal
+blade_of_the_dark_lord:Espada del Señor Oscuro
+primitive_sword:Espada primitiva
+demon_infantryman_sword:Espada Demon Infantryman
+rusty_curved_sword:Espada curvada oxidada
+iron_scimitar:Cimitarra de hierro
+darksteel_axe:Hacha de acero oscuro
+dawn_blade:Dawn Blade
+barbed_sword:Espada de púas
+army_sword:Espada del ejército
+training_sword:Espada de entrenamiento
+city_watch_sword:Espada City Watch
+elegant_bronze_sword:Espada de bronce elegante
+deep_sea_sword:Espada de aguas profundas
+golden_protector:Protector dorado
+carved_wooden_bow:Lazo de madera tallada
+rangers_bow:Arco de guardabosques
+harmony_bow:Armonía Bow
+wooden_crossbow:Ballesta de madera
+ebony_bow:Arco de ébano
+scouts_bow:Arco de explorador
+silver_crossbow:Ballesta plateada
+elven_bow:Arco élfico
+outworn_crossbow:Ballesta desgastada
+ivory_bow:Lazo marfil
+divine_weapon_artemis:Arma divina: Artemisa
+orc_bow:Arco orco
+scorpions_bow:Arco de escorpión
+assassins_crossbow:Ballesta de asesinos
+sharpshooters_bow:Arco de francotirador
+frostborn_bow:Arco Frostborn
+nightbringers_bow:Arco del Portador de la Noche
+composite_bow:Arco compuesto
+judgement:Juicio
+barbed_crossbow:Ballesta con púas
+dreaded_bow:Temido arco
+serpent_eye_bow:Arco ojo de serpiente
+bison_bow:Arco de bisonte
+modern_crossbow:Ballesta moderna
+harp_bow:Arco de arpa
+birch_bow:Arco de abedul
+primitive_crossbow:Ballesta primitiva
+nightbringers_ace:As de Nightbringer
+demise_from_below:Desaparición desde abajo
+demon_hunter:Cazador de demonios
+old_wooden_staff:Bastón de madera viejo
+wooden_stick:Palo de madera
+vagabonds_staff:El personal de Vagabond
+druids_rod:Vara de druida
+goblin_staff:Bastón de duendes
+shepherds_staff:El personal de Shepherd
+carved_rod:Varilla tallada
+bronze_rod:Varilla de bronce
+novices_staff:Personal de novatos
+scholars_staff:Personal de becarios
+warlocks_staff:Bastón de brujo
+grandmasters_staff:Bastón del Gran Maestro
+iron_staff:Bastón de hierro
+imperial_wizards_staff:Bastón del mago imperial
+broken_rod:Varilla rota
+walking_stick:Bastón
+cursed_ancient_rod:Vara antigua maldita
+golden_claw:Garra dorada
+rotten_staff:Bastón podrido
+frostborn_staff:Personal de Frostborn
+lunar_rod:Vara lunar
+rod_of_regeneration:Vara de regeneración
+staff_of_life:El personal de Life
+volcanic_heart:Corazón volcánico
+emerald_staff:Bastón esmeralda
+crystal_clear_staff:Personal Crystal Clear
+staff_of_whispers:Bastón de Susurros
+silver_mountain_staff:Personal de Silver Mountain
+staff_of_corruption:Personal de la corrupción
+abyssal_void:Vacío abisal
+amethyst_staff:Bastón de amatista
+root_staff:Personal raíz
+dried_root_staff:Dried Root Staff
+frauds_staff:Personal de Fraude
+vital_staff:Personal vital
+firefly_staff:Personal de Firefly
+talisman_staff:Bastón Talisman
+necromancers_staff:Bastón del nigromante
+deepsea_rod:Caña de aguas profundas
+# cold_ruler:Cold Ruler
+bone_staff:Bastón óseo
+ember_heart_staff:Personal de Ember Heart
+archmages_staff:Personal de Archmages
+gold_ore_staff:Personal de Gold Ore
+alchemists_staff:Bastón de alquimista
+overseer_staff:Personal supervisor
+eternal_ice_rod:Barra de hielo eterna
+unholy_desecrator staff:Bastón de Unholy Procrator
+tempestforged_staff:Personal de Tempestforged
+runebound_rod:Runebound Rod
+enigma_scepter:Cetro Enigma
+centurial_rod:Vara centurial
+spear_rod:Barra de lanza
+eonwoven_rod:Varilla tejida
+elysian_luminary_wand:Varita luminosa elísica
+emberglow_wand:Varita Emberglow
+kitchen_knife:Cuchillo de cocina
+corkscrew:Sacacorchos
+volcanic_dagger:Puñal volcánico
+filleting_knife:Cuchillo para filetear
+butter_knife:Cuchillo de mantequilla
+steel_dagger:Puñal de acero
+ancient_dagger:Daga antigua
+captains_knife:Cuchillo del capitán
+rogues_dagger:La daga del pícaro
+silver_severance:Separación de plata
+wyvern_dirk:Wyvern Dirk
+runestone_dagger:Daga de piedra rúnica
+assassins_dagger:Daga de asesino
+iron_knuckles:Nudillos de hierro
+golden_knuckles:Nudillos dorados
+brass_knuckles:Nudillos de latón
+horned_dagger:Daga con cuernos
+cutthroats_knife:Cuchillo de Cutthroat
+steel_shortblade:Hoja corta de acero
+kindled_blade:Espada encendida
+jagged_knife:Cuchillo dentado
+reavers_knife:Cuchillo de Segador
+brass_claws:Garras de latón
+iron_dirk:Dirk de hierro
+blunt_dirk:Blunt Dirk
+razor_knife:Cuchillo de afeitar
+bear_claws:Garras de oso
+fading_splendor:Esplendor que se desvanece
+profaned_doomblade:Doomblade profanado
+lovers_gift:Regalo para enamorados
+elven_dagger:Daga élfica
+predator_fang:Colmillo depredador
+amber_knife:Cuchillo ámbar
+iron_scalpel:Bisturí de hierro
+crimson_slicer:Cortadora carmesí
+twin_fang:Colmillo gemelo
+aquamarine_carver:Tallador de aguamarinas
+elven_kings_insurance:Seguro de Elven King's
+forkblade:hoja de horquilla
+heartbeat:Latido
+forests_curse:La maldición del bosque
+moonlight_blade:Espada Moonlight
+deepsea_executioner:Verdugo de aguas profundas
+embers_edge:Ember's Edge
+moonsteel_razor:Maquinilla de afeitar Moonsteel
+starter_shield:Escudo de arranque
+starter_quiver:Carcaj de arranque
+starter_grimoire:Grimorio de inicio
+starter_lifestone:Lifestone para principiantes
+starter_talisman:Talismán de arranque

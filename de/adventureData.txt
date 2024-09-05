@@ -1,0 +1,192 @@
+morale:Moral
+changeWindowSize:Bitte vergrößern Sie das Fenster.
+threePlayersRequired:3 Spieler erforderlich!
+fight:Kämpfen
+surrender:Kapitulation
+ended:Beendet
+leader:Anführer
+welcomeToAdventures:Willkommen zu Abenteuern
+yourHighscore:Dein Highscore
+beforeAdventureStartsText:Adventures ist der Spielmodus, der explizit für Streamer entwickelt wurde. Deine Community kann über „! Schließ dich deinem Abenteuer an. Das aktuelle maximale Join-Limit liegt bei 50.
+wrongAdventureLeader:Du bist mit einem anderen Charakter angemeldet als dem, der das Abenteuer gestartet hat. Bitte wechsle zu {username}, um fortzufahren
+currentLoggedIn:Sie sind derzeit angemeldet als
+adventureEndMessageMoraleZero:Die Moral der Gruppe ist zu niedrig, um das Abenteuer fortzusetzen. Sie beschließen, nach Hause zurückzukehren.
+adventureEndMessageAllDead:Die Gruppe kann nicht länger kämpfen. Sie beschließen, nach Hause zurückzukehren.
+adventureEndMessageSurrender:Sie haben beschlossen, mit Ihrer Gruppe nach Hause zurückzukehren.
+youWonTheAdventureFight:Du hast den Abenteuerkampf gewonnen!
+youLoseTheAdventureFight:Deine Gruppe hat den Kampf verloren!
+yourGroupObtained:Ihre Gruppe hat Folgendes erhalten:
+yourGroupLost:Deine Gruppe hat verloren:
+ThePlayerWillReceiveReward:Bist du sicher, dass du §player0§ die Belohnung geben willst?
+noAdventureStarted:Der Streamer veranstaltet gerade kein Abenteuer.
+waitingForVoting:Ich warte auf die nächste Abstimmung im Abenteuer von {leaderName}...
+alreadyVoted:Du hast schon abgestimmt
+check:Prüfen
+required:Erforderlich
+successful:Erfolgreich
+failed:Fehlgeschlagen
+critical_success:Kritischer Erfolg
+critical_failure:Kritischer Ausfall
+joined:Beigetreten
+room:Zimmer
+wantToFight:Sag dem Streamer, ob du kämpfen willst!
+mentToPlayedWithCommunity:Abenteuer sind dazu da, mit deiner Community im Onstream gespielt zu werden
+happened:Ist passiert
+effectsApplied:Angewendete (n) Effekt (e)
+effectsRemoved:Effekt (e) entfernt
+coin_stack:Münze
+errNoCoinStack:Deine Gruppe hat nicht genug Münzen!
+moralePlus:Moral +
+effect_moralePlus:Todo
+moraleMinus:Moral -
+effect_moraleMinus:Todo
+remainingTurns:Verbleibende Runden:
+effect_drunk:Der Spieler ist betrunken.//Chance, sich selbst zu verletzen, 33%
+drunk:Betrunken
+effect_hungover:Der Spieler ist verkatert.//-50% Ausweichen
+hungover:Verkatert
+effect_drowsy:Der Spieler fühlt sich schläfrig.//Wird immer Zweiter
+drowsy:Schläfrig
+effect_agile:Dieser Spieler fühlt sich agil.//Geht immer zuerst
+agile:Agil
+effect_silenced:Der Spieler ist zum Schweigen gebracht.//Deaktiviert Fähigkeiten
+silenced:Zum Schweigen gebracht
+effect_shaky:Der Spieler ist wackelig.//Nur Ranger, +20% Fehlchance
+shaky:Wackelig
+effect_precise:Dieser Spieler hat eine erhöhte Präzision.//Nur Ranger, dein Gegner kann Angriffen nicht ausweichen
+precise:Präzise
+effect_furious:Der Spieler ist wütend.//+25% Schaden, 33% Chance, sich selbst zu verletzen
+furious:Wütend
+effect_healthy:Dieser Spieler fühlt sich außergewöhnlich gesund.//+25% maximale Lebenspunkte
+healthy:Gesund
+effect_lucky:Dieser Spieler fühlt sich glücklich.//+25% Glück, erhöhte Chance auf seltene Drops
+lucky:Glücklich
+effect_regenerating:Dieser Spieler regeneriert Lebenspunkte und kann nicht an Kämpfen teilnehmen.//+25% Gesundheit pro Runde
+regenerating:Regenerierend
+effect_astral_healing:Dieser Spieler erhält eine magische Heilung durch einen anderen Spieler.//+50% Gesundheit pro Runde
+astral_healing:Astrale Heilung
+effect_astral_stasis:Dieser Spieler benutzt Magie, um einen Gefährten zu heilen.//Kann nicht kämpfen
+astral_stasis:Astrale Stase
+effect_ambushed:Dieser Spieler wurde kürzlich aus dem Hinterhalt überfallen//Erleide 2x Schaden
+ambushed:In einen Hinterhalt geraten
+effect_healer:Dieser Spieler hat kürzlich eine schreckliche Krankheit geheilt.//Alle Gruppenmitglieder werden in jeder Runde um 10% geheilt
+healer:Heiler
+effect_upset:Dieser Spieler ist verärgert über die Entscheidungen des Anführers.//-1 Moral pro Runde
+upset:Verärgert
+effect_terrified:Dieser Spieler hat etwas sehr Beunruhigendes gesehen.//-2 Moral pro Runde
+terrified:Verängstigt
+effect_vigilant:Dieser Spieler ist besonders wachsam.//+5% Ausweichen
+vigilant:Wachsam
+effect_thief:Dieser Spieler ist ein bekannter Dieb und wird mit Argwohn beobachtet.//+10% Geschicklichkeit, -3 Moral pro Runde
+thief:Dieb
+effect_blacksmith:Dieser Spieler hat bewiesen, dass er ein fähiger Schmied ist.//Priorität beim Schmieden von Schecks, 10x Schmiedefertigkeit für Abenteuer
+blacksmith:Schmied
+effect_ancient_knowledge:Dieser Spieler ist inspiriert von längst verlorenem Wissen.//+ 10% Weisheit
+ancient_knowledge:Uraltes Wissen
+effect_cursed:Dieser Spieler ist von einem rätselhaften Fluch betroffen.//- 100% Glück
+cursed:Verflucht
+effect_enhanced_magic:Dieser Spieler hat ein besseres Verständnis von Magie.//+10% magischer Schaden, -10% erlittener magischer Schaden
+enhanced_magic:Verbesserte Magie
+effect_empathic:Dieser Spieler hat mehr Empathie und Verständnis.//+1 Moral pro Runde, +5% Weisheit
+empathic:Empathisch
+effect_uncomfortable:Dieser Spieler fühlt sich unwohl oder fehl am Platz.//-10% Sprache
+uncomfortable:Unbequem
+effect_diplomatic:Dieser Spieler zeichnet sich durch Verhandlungen und Konfliktlösung aus.//+10% Sprache, +2 auf allen Rederollen
+diplomatic:Diplomatisch
+unavailable:Nicht verfügbar
+effect_unavailable:Dieser Spieler ist derzeit woanders beschäftigt und kann vorübergehend nicht an Gefechten teilnehmen.//# TODO
+dark_blessing:Dunkler Segen
+effect_dark_blessing:Dieser Spieler wurde von einer finsteren Gottheit gesegnet.//+ 20% auf alle Werte + 10% erlittener Schaden
+enlightened:Erleuchtet
+effect_enlightened:Dieser Spieler hat ein tieferes Verständnis für die Göttlichen und alles Heilige erlangt.//+2 zu allen Weisheitswürfeln
+famished:Ausgehungert
+effect_famished:Dieser Spieler ist geschwächt, weil er seit einiger Zeit keine richtige Mahlzeit mehr zu sich genommen hat.//-50% Stärke — Würfe 2 bis alle Stärke
+plagued:Geplagt
+effect_plagued:Da dieser Spieler an einer unbekannten Plage leidet, sind Vitalität und Stärke stark reduziert.//-50% Vitalität, -30% Stärke
+guardian_angel:Schutzengel
+effect_guardian_angel:Beschützt von einer göttlichen Gottheit wird dieser Spieler nach einem Sturz im Kampf bestimmt noch einmal zurückkehren.
+protective_blessing:Schützender Segen
+effect_protective_blessing:Ein kleiner Segen, der die Betroffenen vor Schaden schützt.//-5% erlittener Schaden
+dragon_slayer:Drachentöter
+effect_dragon_slayer:Dieser Spieler ist dafür bekannt, einen Drachen im Einzelkampf zu töten.//500% Schaden gegen Drachen
+berserk:Berserker
+effect_berserk:Schwer verletzt geriet dieser Spieler in eine uralte Wut.//+200% Schaden, solange er schwer verwundet oder verstümmelt ist
+ambivalent:Ambivalent
+effect_ambivalent:Dieser Charakter ist bekannt für seine widersprüchlichen Ideen, die zu gemischten Ergebnissen in seinen Aktionen führen.//-2 bis +2 bei jedem Wurf
+effect_drained:Der Spieler fühlt sich erschöpft und kann sich nicht mehr vollständig erholen.//-25% maximale Lebenspunkte
+drained:Entleert
+effect_shattered:Die Rüstung des Spielers ist zerstört.//-75% Rüstung und Magieresistenz
+shattered:Zerschmettert
+effect_overloaded:Der Spieler wird durch den gesammelten Schatz beschwert.//-25% Geschicklichkeit
+overloaded:Überlastet
+effect_damaged_weapon:Die Waffe dieses Spielers hat schon bessere Tage gesehen und muss repariert werden.//-25% Schaden
+damaged_weapon:Beschädigte Waffe
+effect_improved_weapon:Die Waffe dieses Spielers wurde kürzlich verbessert.//+ 10% Schaden
+improved_weapon:Verbesserte Waffe
+effect_disarmed:Die Waffe des Spielers ist in einem schrecklichen Zustand.//-75% Schaden
+disarmed:Entwaffnet
+effect_vampiristic:Es wird vermutet, dass dieser Spieler ein Vampir ist.//Heilt und fügt 75% Schaden zu, -10 Moral für jeden Kampf, -50% Gesundheit
+vampiristic:Vampirisch
+effect_banished:Dieser Spieler wurde von der Party verbannt.//Ist nicht mehr Teil des Abenteuers # TODO No Voting Power
+banished:Verbannt
+strong_leader:Starker Anführer
+effect_strong_leader:Dieser Anführer hat seine außergewöhnliche Stärke bewiesen.//+10% aller Werte
+usurper:Usurpator
+effect_usurper:Dieser Spieler hat seinen Anführer gestürzt und befehligt jetzt die Gruppe.//# TODO 3x Voting Power
+bonded_friendship:Verbundene Freundschaft
+effect_bonded_friendship:Dieser Spieler hat eine enge Freundschaft mit einem anderen Gruppenmitglied geschlossen, was dessen Teamwork und Moral verbessert hat.//+5% auf alle Werte und +1 Moral im selben Kampf mit einem anderen verbündeten Freund
+effect_transformed:Der Spieler wird in eine Kreatur verwandelt.//???
+transformed:Transformiert
+effect_wounded:Der Spieler ist verwundet.//-25% maximale Gesundheit
+wounded:Verwundet
+effect_badly_wounded:Der Spieler ist schwer verwundet.//-50% maximale Gesundheit
+badly_wounded:Schwer verwundet
+effect_maimed:Der Spieler ist verstümmelt.//-75% maximale Gesundheit
+maimed:Verstümmelt
+effect_fainted:Der Spieler ist ohnmächtig.//Du kannst nicht mehr kämpfen.
+fainted:In Ohnmacht gefallen
+check_strength:Es ist viel körperliche Stärke erforderlich.
+strength:Stärke
+check_alchemist:Diejenigen, die sich mit Alchemie auskennen, werden mit größerer Wahrscheinlichkeit Erfolg haben.
+alchemist:Alchemist
+check_smith:Diejenigen, die ein Talent für das Schmieden haben, werden Erfolg haben.
+smith:Smith
+check_cook:Wer ein Talent zum Kochen hat, wird Erfolg haben.
+cook:Koch
+check_wisdom:Die Weisen unter uns könnten eine Antwort auf dieses Problem haben.
+wisdom:Weisheit
+check_luck:Fühlst du dich heute glücklich?
+luck:Glück
+check_vitality:Diejenigen, die mit bemerkenswerter Vitalität gesegnet sind, werden Erfolg haben.
+vitality:Vitalität
+check_mag_resistance:Diejenigen, die über eine beeindruckende magische Resistenz verfügen, werden sich durchsetzen.
+mag_resistance:Magischer Widerstand
+check_speech:Die Lösung dieses Problems erfordert etwas Charisma.
+speech:Rede
+check_dexterity:Diejenigen, die über außergewöhnliche Geschicklichkeit verfügen, werden sich auszeichnen.
+dexterity:Geschicklichkeit
+check_morale:Ist die Moral in der Partei hoch genug, um dieses Hindernis zu überwinden?
+check_fame:Die erfahrensten Abenteurer werden die Lösung kennen.
+fame:Ruhm
+bright_hair:Jedermanns Haare sind hell gefärbt.
+effect_bright_hair:Helles Haar
+check_coin_stack:Diese Option erfordert einen Münzstapel
+adventurePlayerCheck:Prüfen
+errNotEnoughVotings:Du kannst nicht weitermachen, ohne für etwas zu stimmen!
+combat_won:Gefecht gewonnen
+effect_combat_won:Du hast den Kampf gewonnen//+ Moral
+adventureCooldownRoyal:50% kürzere Abenteuer-Abklingzeit
+adventureCooldownMythical:50% kürzere Abenteuer-Abklingzeit
+adventureCooldownLegendary:25% kürzere Abenteuer-Abklingzeit
+adventureCooldownEpic:10% kürzere Abenteuer-Abklingzeit
+youCanSelectRecipient:Du kannst den Empfänger seltener oder höherer Beute auswählen!
+selectRandomPlayer:Wähle einen zufälligen Spieler
+treasureOf:Schatz von
+banishConfirmation:Bist du sicher, dass du {{playertoBanish.char.username}} aus diesem Abenteuer verbannen willst?
+areYouSure:Bist du sicher?
+banish:Verbannen
+youCanStartNewAdventureIn:Sie können ein neues beginnen in:
+partyInventory:Parteiinventar
+noLootObtained:Deine Gruppe hat noch keine Beute erhalten
+chooseRewardRecipient:Wählen Sie den Prämienempfänger
+voting:Abstimmung

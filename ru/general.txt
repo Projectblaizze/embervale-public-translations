@@ -1,0 +1,585 @@
+en:английский
+de:Немецкий
+es:испанский
+fr:Французский
+ru:Русский
+pt:португальский
+it:Итальянский
+cancel:Отменить
+exit:Выход
+close:Закрыть
+confirm:Подтвердить
+start:Начните
+confirmation:Подтверждение
+continue:Продолжить
+back:Назад
+finish:Закончить
+next:Следующий
+delete:Удалить
+reload:Перезагрузить
+ready:Готово
+settings:Настройки
+page:Страница
+of:из
+or:или же
+max:Максимум
+imageResolution:Разрешение изображения
+controls:Элементы управления
+currentlyPlaying:Играет в данный момент
+musicVolume:Громкость музыки
+effectsVolume:Объем эффектов
+desktopOptimized:Оптимизирован для рабочего
+mobileOptimized:Оптимизация для мобильных устройств
+reloadExtension:Расширение «Обновить»
+version:Версия
+langauge:Язык
+credits:Кредиты
+code:Код
+newUpdate:Доступно новое обновление.
+pleaseReload:Пожалуйста, перезагрузите!
+class:Класс
+mage:Маг
+knight:Рыцарь
+ranger:Рейнджер
+rogue:Разбойник
+warrior:воин
+human:Человек
+demon:Демон
+elf:Эльф
+stats:Статистика
+boostYourStats:Повышает вашу статистику на {points}%
+activeFor:Активен для:
+battleStats:Боевая статистика
+hp:Очки здоровья
+health:Здоровье
+doYouWantToResetStats:Хотите обнулить статистику?
+noStatsFoundToReset:Не найдено статистики, которую можно было бы обнулить.
+thisCosts:Это стоит:
+affinity:Сродство
+weakness:Слабость
+resistance:Сопротивление
+infernal:Адский
+divine:Божественный
+necrotic:Некротический
+arcane:скрытый
+frost:Мороз
+affinityTooltip:Уменьшает входящий {стихийный} урон. Увеличивает внутренний урон, если оружие содержит руну {elemental}
+vit:Жизнеспособность
+vitEffect:Очки здоровья
+vitDescription:{stat} увеличивает общее состояние здоровья.
+str:Прочность
+strEffect:Физический ущерб
+strDescription:{stat} увеличивает ваш физический урон в режиме «Рыцарь и воин». Увеличивает броню для всех остальных классов!
+wis:Мудрость
+wisEffect:Магический урон
+wisDescription:{stat} увеличивает ваш магический урон в роли мага. Увеличивает магическое сопротивление всех остальных классов!
+dex:Ловкость
+dexEffect:Прецизионные повреждения
+dexDescription:{stat} увеличивает урон, наносимый вашей ловкости. Используйте в качестве рейнджера и разбойника. Увеличивает уклонение от игры для всех остальных классов!
+acc:Точность
+accEffect:Точность и вероятность нанесения критического удара
+accDescription:{stat} увеличивает вероятность нанесения критического удара по противнику и снижает вероятность его уклонения!
+fame:слава
+fameEffect:Цены и переговоры
+fameDescription:{stat} улучшает ваши навыки ведения переговоров, повышает цены на пополнение запасов и улучшает результаты в приключениях!
+luck:Удача
+luckEffect:Добыча и критический урон
+luckDescription:{stat} увеличивает урон от критических ударов и шанс найти редкую добычу.
+armor:Броня
+outfit:Наряд
+outfits:Наряды
+damage_reduction:Уменьшить урон.
+mag_res:Магистр. изд.
+mag_absorption:Маг. Абсорбировать.
+eva:Уклонение
+skillPoints:Очки навыков
+current_hp:текущий уровень HP
+crit_chance:Критический удар%
+crit_multiplier:Критический режим
+damage:Повреждения
+shield_ability_chance:Шанс блокировки
+shield_ability_rate:Частота блокировки
+shield_scaling_bonus:Максимальный запас здоровья
+lifestone_ability_chance:Пороговое значение
+lifestone_ability_rate:Утечка жизней
+lifestone_scaling_bonus:Бонус к урону ближнего боя
+grimoire_ability_rate:Частота фокусировки
+grimoire_scaling_bonus:Критический режим
+quiver_ability_chance:Шанс быстрой ничьей
+quiver_scaling_bonus:Шанс критического удара
+talisman_ability_chance:Шанс скрытности
+talisman_scaling_bonus:Уклонение
+common:Распространенное
+uncommon:Необычное
+rare:Редкий
+epic:Эпический
+legendary:легендарный
+mythical:Мифический
+royal:королевский
+extraordinary:Чрезвычайный
+high:Высокое
+medium:Средняя
+low:Низкий
+none:Нет
+bow:лук
+crossbow:Арбалет
+axe:Топор
+hammer:молоток
+book:Книга
+staff:Персонал
+rod:Стержень
+sword:Меч
+spear:Копье
+dagger:Кинжал
+fist:Кулак
+item:Предмет
+artifact:Артефакт
+helmet:Шлем
+amulet:Амулет
+ring:Кольцо
+chestplate:Нагрудник
+gloves:перчатки
+shoes:Обувь
+weapon:Оружие
+base:Основание
+equip:Оборудовать
+bonus:Бонус
+glossary:Глоссарий
+discovered:Обнаружено
+glossaryTipMonster:Побеждайте монстров, чтобы заполнить свой Бестиарий!
+glossaryTipItem:Продвигайтесь вперед, получая предмет или выигрывая у игрока с этим предметом!
+glossaryTipMaterial:Продвигайтесь вперед, добывая или создавая материалы!
+glossaryTipSkin:Разблокируйте, победив игроков в экипировке!
+unknown:Неизвестно
+youGainBonusXP:Вы получаете {процент}% бонусного опыта
+newBestiaryEntry:Новая запись в бестиарии:
+newGlory:Новая слава:
+newGlossaryEntries:Новые статьи в глоссарии:
+challengeOpponent:Хотите бросить вызов {оппоненту}?
+confirmReportingPlayer:Чтобы пожаловаться на {оппонента} (twitch.tv/ {twitch_name}), выберите причину:
+abusive_username:Неверное имя пользователя
+abusive_guild_name:Оскорбительное название гильдии
+abusive_guild_description:Оскорбительное описание гильдии
+successReport:Мы получили ваш отчет! Спасибо!
+challenge:Вызов
+thisIsYourArenaOpponent:Этот противник ждет вас на арене! Их нельзя атаковать!
+arenaCooldown:В настоящее время вы не можете атаковать, так как все ваши атаки уже использованы!
+attack:Атака
+navigation:Навигация
+bounties:Награды
+characterMenu:Персонаж
+arena:Арена
+guild:гильдия
+brewery:пивовар
+adventure:Приключение
+crafting:Крафтинг
+dungeon:Подземелье
+achievement:Достижение
+startYourJourney:Начни свое путешествие!
+chooseYourClass:Выберите свой класс!
+pickYourRace:Выберите свою расу!
+customizeYourHero:Персонализируйте своего героя!
+finalize:Завершить
+purchaseAnotherCharacter:Покупка еще одного слота для персонажей обойдется вам в 500 Arcanites.
+doYouWantToPurchase:Хотите купить?
+slot:Слот
+chooseGender:Выберите пол
+yourSelectedGender:Вы будете играть как {пол}
+decisionNotChangable:После этого вы не сможете изменить свое решение!
+male:самец
+female:сука
+arcanite:Арканит
+arcanites:Арканиты
+shop:Магазин
+buyItemConfirmation:Вы уверены, что хотите купить {item}?
+sellItemConfirmation:Вы уверены, что хотите продать {item}?
+sell:Продать
+purchase:Покупка
+newItemSlot:В магазине добавлен новый слот для предметов!
+shopRefresh:Обновление магазина
+buyArcanites:Купить арканиты
+emeraldShop:Купить арканиты
+donate:Пожертвовать
+reputationExplaination:Пожертвуйте продавцу неиспользованные материалы, чтобы повысить свою репутацию и временно получить более качественные товары!
+reputationDonate:Сколько вы хотите пожертвовать?
+reputationDonateConfirmation:Вы собираетесь пожертвовать {MaterialAmountoSpend} из своих {MaterialAmount} {selectedMaterial}:
+useThatCodeToSupport:Используйте код {refCode} при покупке для поддержки {StreamerName}
+theStreamerHasntSetupTheRefCode:{StreamerName} не установил свой реферальный код
+pressButtonToOpen:Нажмите кнопку ниже, чтобы купить арканиты на нашем канале Twitch EmberValeTV
+confirmingTransaction:Подтверждение транзакции
+confirmingPayment:Подтверждение платежа
+earnArcanites:Зарабатывайте арканиты
+validating:Валидация
+freeArcanites:СВОБОДНЫЕ АРКАНИТЫ
+watchVideo:Смотреть видео
+completeOffers:Комплексные предложения по зарабатыванию Arcanites
+creatorCode:Код создателя
+allPricesIncVat:Все цены включают НДС.
+confirmGiftingBundle:Вы действительно подарите {BundleName} игроку {Playername}? (Если у них уже есть активная подписка, ее подписка будет продлена)
+successGiftingBundle:Спасибо, что подарили {BundleName} {Playername}!
+ayetStudioConfirming:Спасибо, что посмотрели рекламу! Ваши Arcanites должны быть зачислены на ваш счет в течение следующих 60 секунд. Вы можете закрыть это окно — мы уведомим вас об этом, как только кредиты будут добавлены!
+ayetStudioDailyLimit:Пожалуйста, приходите завтра, чтобы увидеть больше Arcanites!
+mythical_bundle:Мифический набор
+legendary_bundle:Легендарный набор
+epic_bundle:Эпический набор
+username:Имя пользователя
+skin:Кожа
+hair:Волосы
+eye:Глаза
+eyes:Глаза
+nose:Нос
+mouth:Рот
+accessoire:аксессуар
+extra:Экстра
+beard:Борода
+readAndAccept:Я прочитал и принимаю
+tos:ToS
+color:Цвет
+chooseName:Выберите свое имя
+badge:Значок
+beast-slayer-badge:Значок убийцы зверей
+beast-slayer-badge_desc:Можно получить с помощью достижений бестиария
+deemon-badge:Значок демона
+deemon-badge_desc:Это значок от Deemon. Мы не знаем, почему он существует и как его получить.
+patreon-badge:Значок Patreon
+patreon-badge_desc:Этот значок показывает, что вы сейчас в крутом клубе Patreons!
+alpha-badge:Значок Альфа
+alpha-badge_desc:Награда за участие в альфа-тестировании Embervale!
+obtainedBy:Получено {obtained_by}% игроков
+noBadge:Нет бейджа
+emptyBadge:Пустой слот для бейджей
+leaderboard:Таблица лидеров
+search:Поиск...
+refill:Пополнение
+rank:Ранг
+name:Имя
+glory:Слава
+skip:Пропустить
+seconds:Секунды
+second:Второе
+minutes:Минуты
+minute:Минута
+hours:Часы
+hour:Час
+days:Дни
+day:День
+stamina:Выносливость
+newStaminaIn:Вы получите 1000 выносливости в
+staminaFull:Ваша выносливость уже исчерпана
+editRoles:Редактирование ролей
+guildFee:Денежная комиссия
+you_received:Вы получили:
+youReceived:Вы получили:
+congratulations:Поздравляю!
+claim:Запрос
+claim_reward:Запросить вознаграждение
+reward:Награда
+completed:Завершено
+material:Материал
+liquid:Жидкость
+herb:Трава
+special_ingredient:Специальный ингредиент
+expedition:экспедиция
+errStillInAExpedition:Вы не можете этого сделать, находясь в экспедиции! Завершите или отмените экспедицию, чтобы продолжить!
+errStillInABounty:Вы не можете сделать это, пока вы получаете награду! Завершите или отмените экспедицию, чтобы продолжить!
+alchemy_expedition_title_1:Соберите
+cooking_expedition_title_1:Сбор урожая
+smithing_expedition_title_1:Мой
+followingMaterialsCanSpawnHere:В выбранной области могут появиться следующие материалы:
+newDiscovered:Новое открытие!
+newMaterialsDiscovered:Ваш глоссарий был обновлен следующими записями:
+progress:Прогресс
+loadingTip0:Рецепты редки, поэтому лучше отдавать предпочтение награде, когда вы ее увидите!
+loadingTip1:Неплохо начать экспедицию перед отъездом за ресурсами!
+loadingTip2:Вы всегда можете восстановить свои очки навыков, чтобы вы могли сопоставить очки в соответствии с вашим доспехом!
+loadingTip3:Присоединяйтесь к нашему дискорду и получайте ежедневные награды!
+loadingTip4:Предполагалось, что это чаевые, но у нас закончились идеи.
+loadingTip5:Более высокая громкость речи снижает стоимость заказа новых товаров в магазине.
+loadingTip6:При выборе наград обращайте внимание на соотношение выносливости и опыта, отдавая приоритет повышению уровня.
+loadingTip7:Эксперименты могут стать отличным способом узнать, что вы можете победить, а что нет.
+loadingTip8:Вы можете изменить скорость сражений во время битвы.
+loadingTip9:Вы можете потренироваться в битве против игроков, нажав на их имя в таблице лидеров.
+loadingTip10:Маги никогда не упускают свою цель. Только скрытность поможет избежать их атак.
+loadingTip11:Удача увеличивает шансы на получение более высоких наград в виде наград.
+loadingTip12:Рыцари хорошо бронированы и имеют щит, что дает им естественное преимущество перед классами, основанными на ловкости.
+loadingTip13:Способность рейнджера быстро рисовать позволяет им наносить удары два раза за раз.
+loadingTip14:С каждым попаданием воины используют спасательный камень, чтобы истощать здоровье своих врагов. Однако сила камня быстро ослабевает.
+loadingTip15:Разбойник — мастер скрытности и уклонения, поэтому дальним атакующим гораздо сложнее наносить удары.
+loadingTip16:Не забудьте заполнить глоссарий, чтобы быстрее зарабатывать XP!
+loadingTip17:Знаете ли вы, что победа над противником на арене пополнит ваш глоссарий все его доспехи, оружие и скины?
+loadingTip18:У всех классов разная шкала здоровья и урона. Они могут носить только один определенный тип брони: тяжелую, среднюю или легкую.
+loadingTip19:Не забудьте пройти еженедельные миссии, чтобы заработать бонусную добычу!
+loadingTip20:Подписавшись на стример или играя на Embervale.TV, вы получаете дополнительно 10% золота!
+loadingTip21:Вы можете использовать свой глоссарий, чтобы узнать, в чем сходство и слабость монстра.
+loadingTip22:Получив первую награду каждый день, вы получите арканит в подарок!
+loadingTip23:Вы можете смотреть рекламу на Embervale.TV и зарабатывать Arcanites бесплатно
+loadingTip24:Мы работали более 3 лет, чтобы воплотить нашу мечту в реальность! Спасибо большое за игру!
+loadingTip25:У каждой награды есть шанс выпасть арканит! Чем дольше этот срок, тем больше шансов
+loadingTip26:Не забудьте приготовить зелья в меню для рукоделия! Это может сделать вас намного сильнее!
+loadingTip27:Поделитесь своим прогрессом, набрав текст! eflex в любом канале с установленным Embervale
+loadingTip28:Мы прислушиваемся к вашим отзывам. Присоединяйтесь к нашему дискорду и отправляйте свои предложения!
+youReachedLevel:Вы достигли уровня
+LevelUpShop:Теперь вы можете войти в магазин!
+levelUpArena:Теперь вы можете выйти на арену!
+levelUpExpedition:Теперь вы можете отправляться в экспедиции за ресурсами!
+levelUpAdventure:Теперь вы можете начать приключения в роли стримера!
+levelUpCraft:Теперь вы можете использовать свои материалы для рукоделия!
+levelUpDungeon:Теперь вы можете войти в подземелья!
+levelUpGuild:Теперь вы можете вступить в гильдию или создать ее!
+skipTutorial:Пропустить учебное пособие
+hideTip:Скрыть совет
+starterTutorial0:Добро пожаловать в Embervale! Для навигации по меню вам нужно нажать кнопку компаса!
+starterTutorial1:Это главное меню навигации! Начните с выбора вкладки «Баунти».
+starterTutorial2:Выберите награду по своему усмотрению. Звёзды, стоящие за именем монстра, указывают на сложность!
+starterTutorial3:Теперь подождите или пропустите время в пути, и ваша битва начнется!
+starterTutorial4:-
+starterTutorial5:Вы только что получили первую награду и закончили базовое руководство! Начните перемещаться по меню, чтобы узнать больше об игре!
+expeditionTutorial0:Экспедиции — это длительные задания, которые занимают от 1 до 12 часов. Здесь вы можете приобрести материалы для рукоделия! Находясь в экспедиции, нельзя сражаться!
+character:Персонаж
+selectBackground:Выберите фон
+skill:умение
+thisActionTakesSkillPoints:Это действие будет использовано в статистике очков навыков {PointsToSkillStat}
+remainingPoints:Оставшиеся очки: {points} очков навыков
+quick_sell:Быстрая продажа
+inventory:Инвентарь
+weight:Вес
+resetSkillPoints:Обнулить очки навыков
+report:Отчет
+equipped:оборудованная
+maximumFood:Вы можете есть максимум 3 раза в день.
+todayYouAte:Сегодня вы съели {количество} еды.
+tradeable:Торгуемый
+youCanGiftBundle:Вы можете подарить этому человеку набор
+hasAlreadySubscriptions:У {username} уже есть активные подписки
+grantsBenefits:Гранты {currentUser.UserName} через 30 дней после получения пособий
+receivesOnce:{username} получает один раз
+giftAnonymously:Подарите анонимно
+giftBundle:Подарочный набор
+items:Предметы
+materials:Материалы
+chests:Сундуки
+skins:Оболочки
+monster:Монстр
+monsters:Монстры
+defense:Оборона
+dmg:Урон
+lvl:УРОВЕНЬ
+vs:ПРОТИВ
+boss:Босс
+preBoss:Пре-босс
+virtuous:Добродетельный
+advanced:Продвинутый
+intermediate:промежуточный
+novice:Новичок
+notification:Уведомление
+required:Требуется
+found:Найден
+login:Логин
+createAnotherCharacter:Создайте другого персонажа
+consume:Потреблять
+eatFoodHeadline:Потребляйте пищу
+refreshArena:Обновить
+replayCode:Код воспроизведения
+saveReplay:Сохранить повтор
+replaySaved:Повтор сохранен
+deleteReplay:Удалить повтор
+spectate:Наблюдайте
+errCantSpectate:Этой битвы не существует.
+arenaFightCooldown:Этот бар заполняется каждые 3 часа!
+yourSavedBattles:Ваши сохраненные сражения
+battleEnded:Сражение закончилось
+overwhelming:Подавляющий
+superior:Улучшенный
+equivalent:Эквивалент
+inferior:Неполноценный
+pathetic:Жалкий
+heal:Исцелить
+quick_draw:Быстрое рисование
+stealth:Незаметность
+block:Блокировать
+youWon:Вы выиграли!
+youLost:Вы проиграли!
+confirmDeleteReplay:Вы действительно хотите удалить этот повтор?
+replaySavedMsg:Ваш повтор сохранен. Вы можете посмотреть его на арене. Код:
+errTooManyReplays:У вас сохранено слишком много повторов. Удалите некоторые из них, чтобы сохранить больше.
+errReplayAlreadySaved:Повтор уже сохранен.
+warningTooManyReplays:Вы приближаетесь к лимиту в 10 сохраненных повторов. Пожалуйста, удалите некоторые из них, чтобы сохранить новые.
+connect:Подключить
+marketNoDiscordConnected:Только проверенные игроки могут использовать рынок. Подтвердите это прямо сейчас, подключив свой Discord!
+starter_shield_description:У рыцаря есть щит, который время от времени блокирует физический урон. Повышенный атрибут: здоровье
+starter_quiver_description:Стрелы рейнджера всегда под рукой, что позволяет ему время от времени начинать дополнительную атаку. Усиленный атрибут: шанс нанести критический удар
+starter_grimoire_description:Маг может заморозить, сжечь или парализовать вас. Усиленный атрибут: модификатор критического удара
+starter_lifestone_description:Находясь в опасности, Воин использует силу спасательного камня, чтобы истощить жизненные силы противника. Усиленный атрибут: урон
+starter_talisman_description:Разбойник использует свою скрытность, чтобы уклоняться от дальних и магических атак. Усиленный атрибут: уклонение
+heavyArmor:Тяжелая броня
+mediumArmor:Броня среднего размера
+lightArmor:Легкая броня
+quiver:колчан
+shield:Щит
+grimoire:Гримуар
+lifestone:Лайфстоун
+talisman:Талисман
+guildBattleEffectPlus:{эффект} всех ваших юнитов будет увеличен на {perc}%
+guildBattleEffectMinus:{эффект} всех юнитов противника будет уменьшен на {perc}%
+profession:Профессия
+pleaseChooseJob:Выберите свою основную профессию! (+50% опыта работы)
+pleaseChooseJobConfirmation:Вы уверены, что хотите, чтобы {работа} стала вашей основной профессией? (+50% опыта работы)
+pleaseChooseJobWarning:Выбрав одну из них, вы не сможете изменить свою основную профессию!
+dontOwnRecipe:У вас пока нет рецептов в этой категории! Рецепты можно найти в Bounties!
+craft:ремесло
+cook:Повар
+smith:кузнец
+alchemist:алхимик
+successfullyCrafted:Успешно изготовлено
+yourTitle:Ваш заголовок
+title:Заголовок
+hero:Герой
+veteran:Ветеран
+adventurer:Искатель приключений
+mercenary:Наемник
+squire:оруженосец
+legendary_adventurer_male:Легендарный путешественник
+legendary_adventurer_female:Легендарный путешественник
+stylist_male:Стилист
+stylist_female:Стилист
+archduke_male:эрцгерцог
+archduke_female:герцогиня
+prince_male:принц
+prince_female:Принцесса
+lord_male:повелитель
+lord_female:леди
+baron_male:Барон
+baron_female:Баронесса
+sir_male:сэр
+sir_female:Мадам
+chief_male:главный
+chief_female:Вождь
+champion_male:Чемпион
+champion_female:Чемпион
+pioneer_male:Пионер
+pioneer_female:Пионер
+hero_male:Герой
+hero_female:Герой
+adventurer_male:Искатель приключений
+adventurer_female:Искатель приключений
+squire_male:оруженосец
+squire_female:оруженосец
+exitExpeditionConfirmationHeadline:Выездная экспедиция
+exitExpeditionConfirmationText:Вы сохраните все собранные до сих пор предметы. Хотите продолжить?
+possibleResources:Возможные ресурсы:
+howLongDoYouWantToExplore:Как долго вы хотите исследовать окрестности?
+allCommonMaterials:Все распространенные материалы
+noShield:Без щита
+your:Ваш
+history:История
+cooking:Приготовление
+class_slot:Слот для классов
+gift:Подарок
+skin_starter:Наряд для начинающих
+skin_starter_description:Получено, создав своего персонажа.
+skin_dragon_warrior:Кожа демона
+skin_dragon_warrior_description:Кастомный скин от DeemonRider
+skin_royal_scout:Королевский скаут
+skin_royal_scout_description:Доступно через???
+skin_island_scout:Островной скаут
+skin_island_scout_description:Доступно через???
+skin_swamp_scout:Болотный разведчик
+skin_swamp_scout_description:Доступно через???
+skin_eastern_scout:Восточный скаут
+skin_eastern_scout_description:Доступно через???
+skin_dune_scout:Скаут по дюнам
+skin_dune_scout_description:Доступно через???
+skin_vale_scout:Скаут долины
+skin_vale_scout_description:Доступно через???
+skin_wanderer:Странник
+skin_wanderer_description:Доступно через???
+skin_fall_ranger:Осенний рейнджер
+skin_fall_ranger_description:Доступно через???
+skin_royal_general:Королевский генерал
+skin_royal_general_description:Доступно через???
+skin_wise_general:Мудрый генерал
+skin_wise_general_description:Доступно через???
+skin_jade_general:Джейд Генерал
+skin_jade_general_description:Доступно через???
+skin_adamant_general:Генерал Адамант
+skin_adamant_general_description:Доступно через???
+skin_heroic_general:Геройский генерал
+skin_heroic_general_description:Доступно через???
+skin_courageous_general:Отважный генерал
+skin_courageous_general_description:Доступно через???
+skin_commander:Командующего
+skin_commander_description:Доступно через???
+skin_red_warrior:Красный воин
+skin_red_warrior_description:Доступно через???
+skin_royal_assassin:Королевский убийца
+skin_royal_assassin_description:Доступно через???
+skin_brilliant_assassin:Гениальный убийца
+skin_brilliant_assassin_description:Доступно через???
+skin_unseen_assassin:Невидимый убийца
+skin_unseen_assassin_description:Доступно через???
+skin_elegant_assassin:Элегантный убийца
+skin_elegant_assassin_description:Доступно через???
+skin_wealthy_assassin:Богатый убийца
+skin_wealthy_assassin_description:Доступно через???
+skin_bloody_assassin:Кровавый убийца
+skin_bloody_assassin_description:Доступно через???
+skin_blackguard:Чёрная гвардия
+skin_blackguard_description:Доступно через???
+skin_blue_rogue:Синий разбойник
+skin_blue_rogue_description:Доступно через???
+skin_royal_paladin:Королевский паладин
+skin_royal_paladin_description:Доступно через???
+skin_glowing_paladin:Светящийся паладин
+skin_glowing_paladin_description:Доступно через???
+skin_emerald_paladin:Изумрудный паладин
+skin_emerald_paladin_description:Доступно через???
+skin_mystic_paladin:Мистический паладин
+skin_mystic_paladin_description:Доступно через???
+skin_golden_paladin:Золотой паладин
+skin_golden_paladin_description:Доступно через???
+skin_crimson_paladin:Багровый паладин
+skin_crimson_paladin_description:Доступно через???
+skin_noble_knight:Благородный рыцарь
+skin_noble_knight_description:Доступно через???
+skin_red_knight:Красный рыцарь
+skin_red_knight_description:Доступно через???
+skin_royal_grandmaster:Королевский гроссмейстер
+skin_royal_grandmaster_description:Доступно через???
+skin_academic_grandmaster:Академический гроссмейстер
+skin_academic_grandmaster_description:Доступно через???
+skin_herbalistic_grandmaster:Травяной гроссмейстер
+skin_herbalistic_grandmaster_description:Доступно через???
+skin_abyssal_grandmaster:Гроссмейстер Бездны
+skin_abyssal_grandmaster_description:Доступно через???
+skin_shining_grandmaster:Яркий гроссмейстер
+skin_shining_grandmaster_description:Доступно через???
+skin_fiery_grandmaster:Огненный гроссмейстер
+skin_fiery_grandmaster_description:Доступно через???
+skin_scholar:Ученый
+skin_scholar_description:Доступно через???
+skin_forest_mage:Лесной маг
+skin_forest_mage_description:Доступно через???
+all:Все
+aquatic:Водный
+insect:Насекомое
+humanoid:Гуманоид
+elemental:Элементальный
+slime:Слизь
+beast:Зверь
+plant:Растение
+undead:Нежить
+construct:Построить
+abomination:Мерзость
+dragon:Дракон
+mimic:имитировать
+embervale:Embervale # это не следует переводить
+riverlands:Риверлендс
+unknown_lands:Неизвестные земли
+forgotten_island:Забытый остров
+shivering_passage:Дрожащий проход
+great_duskwood:Великий Сумерки
+ashen_lagoon:Пепельная лагуна
+silver_mountains:Серебряные горы
+crownlands:Коронные земли
+boiling_lake:Кипящее озеро
+rare_badges:Редкие значки

@@ -1,0 +1,65 @@
+errInvalidAction:¡Acción no válida!
+tosNotAccepted:¡Acepte los Términos de servicio!
+errUnknownErrorHeadline:¡Error no controlado!
+errUnknownError:¡Se ha producido un error desconocido! ¡Intente actualizar la página web! Si el problema persiste, infórmanos de ello en nuestra página de Discord https://discord.com/invite/Gum9bS2dyw
+tokenExpired:El token de autenticación de Twitch ha caducado. Vuelve a cargar el sitio web o reinicia la aplicación,
+invalidToken:</h5><h3>Fallo de autenticación ¡Asegúrese de que el reloj del sistema esté sincronizado! <br>De lo contrario, ¡la autenticación fallará! <br><br><br>Más soluciones: <br>1) Actualizar la página <br>2) Desactivar las extensiones del navegador <br>3) Revocar y conceder el permiso a la extensión <br>4) Iniciar sesión y cerrar sesión en Twitch <br>5) Probar otro navegador <br><br>Para obtener más ayuda, únete a nuestra discordia https://discord.gg/cT3ThCj,
+errNotReleased:¡Embervale saldrá en septiembre!
+errTwitchAccessNotGranted:¡Concede acceso a tu TwitchID haciendo clic en el pequeño humano en la parte inferior derecha!
+errNoInventoryItem:¡Vacío!
+errInventoryIsFull:¡Tu inventario está lleno! ¡Vende algunos artículos, por favor!
+errMaterialInventoryIsFull:¡Tu inventario está lleno de materiales! ¡Puedes gastárselos al comerciante de la tienda o crear algo!
+errConsumableInventoryIsFull:¡Tu inventario está lleno de consumibles!
+errNotEnoughArcanites:No tienes suficientes arcanitas
+errNotEnoughMoney:¡No tienes suficiente oro para comprar esto!
+errNotEnoughGold:¡No tienes suficiente oro para comprar esto!
+errNotEnoughSkillPoints:¡No tienes suficientes puntos de habilidad para realizar esta acción!
+errStatDoesNotExist:¡No puedes aumentar esta estadística!
+errBountyDoesNotExist:¡La Bounty no existe (¿ya?)! ¡Esto puede significar que has tenido la página web abierta durante más de 24 horas o que tu reloj no está sincronizado!
+errOpponentDoesNotExist:¡El enemigo no existe (¿ya?)!
+errItemDoesNotExist:¡El artículo no te pertenece o ya no existe!
+errLevelToLowToEquip:¡Tu nivel es demasiado bajo para equipar ese objeto!
+errCantFindRandomOpponent:¡No puedes encontrar un oponente aleatorio en tu división!
+errCantFindCharacter:No puedo encontrar este personaje.
+errCantFindGuild:No puedo encontrar este gremio.
+errBountyAlreadyStarted:La recompensa ya había empezado.
+errInvalidAppearance:¡La apariencia no es válida!
+errInvalidAppearanceName:¡Este atributo no es válido!
+errInvalidAppearanceType:¡Este tipo de apariencia no es válido!
+errInvalidAppearanceColor:¡Este color de apariencia no es válido!
+errNoStamina:¡Ya no tienes resistencia!
+errDungeonNotFound:Sin mazmorra
+errItemAlreadyInInventory:¡Solo puedes comprar este artículo 1 vez!
+errUserAtFullHealth:¡Ya estás bien de salud!
+open:Abrir
+use:Utilice
+noShield:Sin escudo
+youAreAboutToBuy:Estás a punto de comprar:
+arenaShieldExplaination:Este escudo te protege {días} día (s). ¡Durante este tiempo no puedes perder dinero cuando alguien te ataca y te derrota!
+arenaNotEnoughEmeralds:Necesitas {fragmentos} más fragmentos para comprar este escudo.
+errYourNotHungry:¡No tienes hambre!
+activateShield:activar Shield
+arenaShieldActiveTooltip:El jugador tiene un escudo activo y, por lo tanto, no recibirás dinero de la batalla.
+ranks:Rangos
+errTokenExpired:¡Tu token no es válido! ¡Intenta actualizar la página o revocarla y volver a conceder el acceso (haciendo clic en la figura de la parte inferior derecha)!
+errAccessNotGranted:¡Conceda el acceso (haciendo clic en la figura de la parte inferior derecha)!
+errTwitchAccountAlreadyExists:¡Ya tienes una cuenta de twitch conectada!
+errNameNoSpace:¡El nombre no puede tener espacios en blanco!
+errNameRegexInvalid:El nombre solo puede contener letras (A-Z) y números (0-9).
+errCantUseThisName:¡No puedes usar ese nombre!
+errThatNameIsTooLong:¡Tu nombre puede tener hasta 16 caracteres!
+errThatNameIsTooShort:¡Tu nombre debe tener al menos 4 caracteres!
+errThatNameIsAlreadyInUse:¡Este nombre ya no está disponible!
+errAlreadyInvitedToGuild:¡Esta persona ya está invitada a tu gremio!
+errGuildBattleLineIsFull:¡La línea está llena!
+noHealPotions:¡No tienes pociones curativas!
+yourStomachFull:¡Tienes el estómago lleno!
+youDontHaveMaterials:No tienes materiales en esta categoría
+youDontHaveChests:¡No tienes cofres! ¡Completa logros o mazmorras para conseguirlos!
+connectionLost:Se perdió la conexión. Se volverá a conectar en {timeLeft} segundos...
+reconnectingFailedRetry:Falló la reconexión. Intento de reconexión: {ReconnectAmount}. Se volverá a conectar en {timeLeft} segundos...
+reconnectingFailed:Falló la reconexión. Vuelva a cargar el navegador.
+error:Error
+connectTwitchBrowser:Se ha abierto una nueva ventana en su navegador. Inicia sesión con tu cuenta de Twitch y, a continuación, conecta tu cuenta de Steam.
+connectTwitchConfirm:Cuando haya terminado, pulse el botón de confirmación que aparece a continuación
+isSteamRunning:Se ha producido un error. ¿Está funcionando Steam?

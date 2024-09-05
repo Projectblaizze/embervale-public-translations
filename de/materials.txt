@@ -1,0 +1,90 @@
+silver_bar:Silberbarren
+gold_bar:Goldbarren
+iron_bar:Eisenstange
+copper_bar:Kupferstange
+brass_bar:Messingstange
+embervale-key:Embervale-Schlüssel
+bastion_of_light-key:Schlüssel zur Bastion des Lichts
+infested_gardens-key:Infested Gardens-Schlüssel
+abandonded_wastelands-key:Der Schlüssel zum verlassenen Ödland
+dried_out_riverlands-key:Ausgetrockneter Riverlands Key
+occupied_river_crossing-key:Schlüssel zum besetzten Flussübergang
+island_of_beasts-key:Schlüssel zur Insel der Bestien
+hidden_kingdom-key:Schlüssel zum verborgenen Königreich
+eternal_ice-key:Eternal Ice-Schlüssel
+silver_mountains-key:Schlüssel zu den Silver Mountains
+stranded_seafire-key:Schlüssel zu Stranded Seafire
+deepwater_passage-key:Schlüssel Deepwater Passage
+graveyard_of_the_nameless-key:Der Friedhof des Schlüssels ohne Namen
+duskwood-key:Duskwood-Schlüssel
+distillate:Destillat
+pumpkin_soup:Kürbissuppe
+pumpkin_soup_description:Diese würzige Suppe stellt {Menge} an Ausdauer wieder her
+fruit_basket:Korb mit Obst
+fruit_basket_description:Stellt {amount} Ausdauer wieder her
+salad:Salat
+salad_description:Stellt {amount} Ausdauer wieder her
+stone:Stein
+flint:Feuerstein
+iron_ore:Eisenerz
+copper_ore:Kupfererz
+silver_ore:Silbererz
+gold_ore:Golderz
+pewter:Zinn
+sapphire:Saphir
+ruby:Rubin
+eternal_ice:Ewiges Eis
+clover:Klee
+midnight_rose:Mitternachtsrose
+rose:Rose
+maggot:Maden
+caterpillar:Raupe
+toadstool:Fliegenpilz
+frog:Frosch
+mandrake:Alraune
+water:Wasser
+brain_stool:Gehirnhocker
+choncap:Choncap
+deeproot_truffle:Tiefwurzelter Trüffel
+dragon's_breath_mint:Dragon's Breath Mint
+duskgloom_morels:Duskgloom Models
+duskwight_berries:Duskwight Beeren
+echostem_reeds:Echostem Schilf
+emberstalk_toadstool:Emberstalk Fliegenpilz
+giant's_blood_essence:Blutessenz des Riesen
+glacierthorn_flower:Gletscherdornblüte
+maple_leaves:Ahornblätter
+skytear_crystals:Skytear Kristalle
+spider_root:Spinnenwurzel
+starfall_lavender:Starfall Lavendel
+starlight_blossoms:Sternenlichtblüten
+stormleaf_plant:Sturmblattpflanze
+twilight_jasmine:Twilight Jasmin
+whisperroot_fiber:Whisperroot-Faser
+pumpkin:Kürbis
+parsley:Petersilie
+strawberry:Erdbeere
+blueberries:Blaubeeren
+grapes:Trauben
+lettuce:Kopfsalat
+cucumber:Gurke
+tomato:Tomate
+onion:Zwiebel
+chicken_leg:Hähnchenkeule
+deep_sea_shrimp:Tiefseegarnelen
+fine_rice:Feiner Reis
+lime_berry:Limettenbeere
+pepper:Pfeffer
+raw_pork:Rohes Schweinefleisch
+riverland_potato:Riverland Kartoffel
+sea_salt:Meersalz
+silver_key:Silberner Schlüssel
+silver_key_description:Wird verwendet, um etwas freizuschalten...
+mysterious_potion:Geheimnisvoller Trank
+mysterious_potion_description:Ein verdächtig aussehender Trank... soll ich ihn trinken?
+smoke_bomb:Rauchbombe
+smoke_bomb_description:Wird verwendet, um dem Kerker zu entkommen, ohne Beute zu verlieren.
+rare_gem:Seltener Edelstein
+rare_gem_description:Ein seltsamer Edelstein. Könnte wertvoll sein
+stack_of_coins:Stapel von Münzen
+stack_of_coins_description:Eine stattliche Summe von Goldmünzen

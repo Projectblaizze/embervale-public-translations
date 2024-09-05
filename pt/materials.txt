@@ -1,0 +1,90 @@
+silver_bar:Barra de prata
+gold_bar:Barra de ouro
+iron_bar:Barra de ferro
+copper_bar:Barra de cobre
+brass_bar:Barra de latão
+embervale-key:Chave Embervale
+bastion_of_light-key:Tecla Bastion of Light
+infested_gardens-key:Chave de jardins infestados
+abandonded_wastelands-key:Chave de terras desertas abandonadas
+dried_out_riverlands-key:Chave seca de Riverlands
+occupied_river_crossing-key:Chave de travessia do rio ocup
+island_of_beasts-key:Chave da Ilha das Feras
+hidden_kingdom-key:Chave do Reino Oculto
+eternal_ice-key:Chave de gelo eterna
+silver_mountains-key:Chave de Silver Mountains
+stranded_seafire-key:Chave Seafire encalhada
+deepwater_passage-key:Chave Deepwater Passage
+graveyard_of_the_nameless-key:Cemitério da chave sem nome
+duskwood-key:Chave Duskwood
+distillate:Destilado
+pumpkin_soup:Sopa de abóbora
+pumpkin_soup_description:Esta sopa apimentada restaura {quantidade} de resistência
+fruit_basket:Cesta de frutas
+fruit_basket_description:Restaura {amount} resistência
+salad:Salada
+salad_description:Restaura {amount} resistência
+stone:Pedra
+flint:Pederneira
+iron_ore:Minério de ferro
+copper_ore:Minério de cobre
+silver_ore:Minério de prata
+gold_ore:Minério de ouro
+pewter:Pewter
+sapphire:Safira
+ruby:Ruby
+eternal_ice:Gelo eterno
+clover:Trevo
+midnight_rose:Rosa da meia-noite
+rose:Rose
+maggot:Larva
+caterpillar:Caterpillar
+toadstool:Cogumelo
+frog:Sapo
+mandrake:Mandrágora
+water:Água
+brain_stool:Fezes cerebrais
+choncap:Choncap
+deeproot_truffle:Trufa de raiz profunda
+dragon's_breath_mint:Dragon's Breath Mint
+duskgloom_morels:Modelos em Duskgloom
+duskwight_berries:Duskwight Berries
+echostem_reeds:Palhetas Echostem
+emberstalk_toadstool:Cogumelo Emberstalk
+giant's_blood_essence:Essência de sangue de gigante
+glacierthorn_flower:Flor de Glacierthorn
+maple_leaves:Folhas de plátano
+skytear_crystals:Cristais Skytear
+spider_root:Raiz de aranha
+starfall_lavender:Lavanda Starfall
+starlight_blossoms:Flores da luz das estrelas
+stormleaf_plant:Planta Stormleaf
+twilight_jasmine:Jasmim do Crepúsculo
+whisperroot_fiber:Fibra Whisperroot
+pumpkin:Abóbora
+parsley:Salsa
+strawberry:Morango
+blueberries:Mirtilos
+grapes:Uvas
+lettuce:Alface
+cucumber:Pepino
+tomato:Tomate
+onion:Cebola
+chicken_leg:Coxa de galinha
+deep_sea_shrimp:Camarão do fundo do mar
+fine_rice:Arroz fino
+lime_berry:Baga de limão
+pepper:Pimenta
+raw_pork:Porco cru
+riverland_potato:Batata Riverland
+sea_salt:Sal marinho
+silver_key:Chave prateada
+silver_key_description:Usado para desbloquear algo...
+mysterious_potion:Poção misteriosa
+mysterious_potion_description:Uma poção de aparência suspeita... devo tomá-la?
+smoke_bomb:Bomba de fumaça
+smoke_bomb_description:Usado para escapar da masmorra sem perder o saque.
+rare_gem:Joia rara
+rare_gem_description:Uma joia estranha. Pode ser valioso
+stack_of_coins:Pilha de moedas
+stack_of_coins_description:Uma bela soma de moedas de ouro

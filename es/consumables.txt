@@ -1,0 +1,123 @@
+consumables:Consumibles
+consumable:Consumible
+other:Otros
+small_health_potion:Poción de salud pequeña
+small_health_potion_craft_description:Te cura entre un {amount_min1}% y un {amount_max1}% en mazmorras
+small_health_potion_description:Te cura un {amount_min1}% en las mazmorras
+medium_health_potion:Poción de salud media
+medium_health_potion_craft_description:Te cura entre un {amount_min1}% y un {amount_max1}% en mazmorras
+medium_health_potion_description:Te cura un {amount_min1}% en las mazmorras
+large_health_potion:Poción de salud grande
+large_health_potion_craft_description:Te cura entre un {amount_min1}% y un {amount_max1}% en mazmorras
+large_health_potion_description:Te cura un {amount_min1}% en las mazmorras
+small_accuracy_potion:Poción de precisión pequeña
+small_accuracy_potion_craft_description:Aumenta la precisión de un {amount_min1}% a {amount_max1}%.
+small_accuracy_potion_description:Aumenta la precisión un {amount_min1}% durante {time}.
+medium_accuracy_potion:Poción de precisión media
+medium_accuracy_potion_craft_description:Aumenta la precisión un {amount_min 1%} hasta el {amount_max1}%.
+medium_accuracy_potion_description:Aumenta la precisión un {amount_min1}% durante {time}.
+large_accuracy_potion:Poción de gran precisión
+large_accuracy_potion_craft_description:Aumenta la precisión de un {amount_min1}% a {amount_max1}%.
+large_accuracy_potion_description:Aumenta la precisión un {amount_min1}% durante {time}.
+small_dexterity_potion:Poción de destreza pequeña
+small_dexterity_potion_craft_description:Aumenta la destreza un {amount_min1}% hasta el {amount_max1}%.
+small_dexterity_potion_description:Aumenta la destreza un {amount_min1}% durante {time}.
+medium_dexterity_potion:Poción de destreza media
+medium_dexterity_potion_craft_description:Aumenta la destreza un {amount_min1}% hasta el {amount_max1}%.
+medium_dexterity_potion_description:Aumenta la destreza un {amount_min1}% durante {time}.
+large_dexterity_potion:Poción de destreza grande
+large_dexterity_potion_craft_description:Aumenta la destreza un {amount_min1}% hasta el {amount_max1}%.
+large_dexterity_potion_description:Aumenta la destreza un {amount_min1}% durante {time}.
+small_luck_potion:Poción pequeña para la suerte
+small_luck_potion_craft_description:Aumenta la suerte de un {amount_min1}% a {amount_max1}%.
+small_luck_potion_description:Aumenta la suerte un {amount_min1}% durante {time}.
+medium_luck_potion:Poción de suerte media
+medium_luck_potion_craft_description:Aumenta la suerte de un {amount_min1}% a {amount_max1}%.
+medium_luck_potion_description:Aumenta la suerte un {amount_min1}% durante {time}.
+large_luck_potion:Poción de suerte grande
+large_luck_potion_craft_description:Aumenta la suerte de un {amount_min1}% a {amount_max1}%.
+large_luck_potion_description:Aumenta la suerte un {amount_min1}% durante {time}.
+small_strength_potion:Poción de fuerza pequeña
+small_strength_potion_craft_description:Aumenta la fuerza un {amount_min1}% hasta el {amount_max1}%.
+small_strength_potion_description:Aumenta la fuerza un {amount_min1}% durante {time}.
+medium_strength_potion:Poción de fuerza media
+medium_strength_potion_craft_description:Aumenta la fuerza un {amount_min1}% hasta el {amount_max1}%.
+medium_strength_potion_description:Aumenta la fuerza un {amount_min1}% durante {time}.
+large_strength_potion:Poción de gran fuerza
+large_strength_potion_craft_description:Aumenta la fuerza un {amount_min1}% hasta el {amount_max1}%.
+large_strength_potion_description:Aumenta la fuerza un {amount_min1}% durante {time}.
+small_vitality_potion:Poción de vitalidad pequeña
+small_vitality_potion_craft_description:Aumenta la vitalidad del {amount_min1}% al {amount_max1}%.
+small_vitality_potion_description:Aumenta la vitalidad un {amount_min1}% durante {time}.
+medium_vitality_potion:Poción de vitalidad media
+medium_vitality_potion_craft_description:Aumenta la vitalidad del {amount_min1}% al {amount_max1}%.
+medium_vitality_potion_description:Aumenta la vitalidad un {amount_min1}% durante {time}.
+large_vitality_potion:Poción de vitalidad grande
+large_vitality_potion_craft_description:Aumenta la vitalidad del {amount_min1}% al {amount_max1}%.
+large_vitality_potion_description:Aumenta la vitalidad un {amount_min1}% durante {time}.
+small_wisdom_potion:Poción de sabiduría pequeña
+small_wisdom_potion_craft_description:Aumenta la sabiduría un {amount_min1}% hasta el {amount_max1}%.
+small_wisdom_potion_description:Aumenta la sabiduría un {amount_min1}% durante {time}.
+medium_wisdom_potion:Poción de sabiduría media
+medium_wisdom_potion_craft_description:Aumenta la sabiduría un {amount_min1}% hasta el {amount_max1}%.
+medium_wisdom_potion_description:Aumenta la sabiduría un {amount_min1}% durante {time}.
+large_wisdom_potion:Poción de sabiduría grande
+large_wisdom_potion_craft_description:Aumenta la sabiduría un {amount_min1}% hasta el {amount_max1}%.
+large_wisdom_potion_description:Aumenta la sabiduría un {amount_min1}% durante {time}.
+pumpkin_soup:Sopa de calabaza
+pumpkin_soup_craft_description:Repone la resistencia de {amount_min1} a {amount_max1}.
+pumpkin_soup_description:Repone {amount_min1} resistencia.
+chicken_stew:Estofado de pollo
+chicken_stew_craft_description:Repone la resistencia de {amount_min1} a {amount_max1}.
+chicken_stew_description:Repone {amount_min1} resistencia.
+fruit_basket:Cesta de frutas
+fruit_basket_craft_description:Repone la resistencia de {amount_min1} a {amount_max1}.
+fruit_basket_description:Repone {amount_min1} resistencia.
+pork_sausage:Salchicha de cerdo
+pork_sausage_craft_description:Repone la resistencia de {amount_min1} a {amount_max1}.
+pork_sausage_description:Repone {amount_min1} resistencia.
+salad:ensalada
+salad_craft_description:Repone la resistencia de {amount_min1} a {amount_max1}.
+salad_description:Repone {amount_min1} resistencia.
+sea_platter:Plato de mar
+sea_platter_craft_description:Repone la resistencia de {amount_min1} a {amount_max1}.
+sea_platter_description:Repone {amount_min1} resistencia.
+coin_stack:Pila de monedas
+coin_stack_description:Úsalo para ganar cobre. Nivel {nivel}
+medium_xp_potion:Poción de XP media
+medium_xp_potion_description:¡Esta poción aumenta tu XP un {porcentaje}% en {cantidad} combates!
+recipe:receta
+small_heal_potion_recipe:Receta de poción curativa pequeña
+fruit_basket_recipe:Receta de cesta de frutas
+pumpkin_soup_recipe:Receta de sopa de calabaza
+salad_recipe:Receta de ensalada
+chicken_stew_recipe:Receta de estofado de pollo
+pork_sausage_recipe:Receta de salchicha de cerdo
+sea_platter_recipe:Receta de bandeja de mar
+small_accuracy_potion_recipe:Receta de poción de destreza pequeña
+medium_accuracy_potion_recipe:Receta de poción de destreza media
+large_accuracy_potion_recipe:Receta de poción de destreza grande
+small_luck_potion_recipe:Receta de poción Small Luck
+medium_luck_potion_recipe:Receta de poción para suerte media
+large_luck_potion_recipe:Receta grande de poción de suerte
+small_strength_potion_recipe:Receta de poción de fuerza pequeña
+medium_strength_potion_recipe:Receta de poción de potencia media
+large_strength_potion_recipe:Receta de poción de gran fuerza
+small_vitality_potion_recipe:Receta de poción Small Vitality
+medium_vitality_potion_recipe:Receta de poción de vitalidad media
+large_vitality_potion_recipe:Receta de poción de vitalidad grande
+small_wisdom_potion_recipe:Receta de poción de sabiduría pequeña
+medium_wisdom_potion_recipe:Receta de poción de sabiduría media
+large_wisdom_potion_recipe:Receta de poción de sabiduría grande
+wooden_chest:Cofre de madera
+fabled_chest:Cofre legendario
+decorated_chest:Cofre decorado
+mythical_chest:Cofre mítico
+weapon_chest:Cofre de armas
+armor_chest:Cofre de armadura
+mythical_material_chest:Cofre de material mítico
+epic_material_chest:Cofre de material épico
+uncommon_material_chest:Cofre de material poco común
+potion:Poción
+chest:Pecho
+food:Comida

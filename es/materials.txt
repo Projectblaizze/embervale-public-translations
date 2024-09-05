@@ -1,0 +1,90 @@
+silver_bar:Lingote de plata
+gold_bar:Lingote de oro
+iron_bar:Barra de hierro
+copper_bar:Barra de cobre
+brass_bar:Barra de latón
+embervale-key:Llave Embervale
+bastion_of_light-key:Llave Bastion of Light
+infested_gardens-key:Llave de Infested Gardens
+abandonded_wastelands-key:Llave de Abandoned Wastelands
+dried_out_riverlands-key:La clave de Dried out Riverlands
+occupied_river_crossing-key:Llave de Occupied River Crossing
+island_of_beasts-key:Llave de la Isla de las Bestias
+hidden_kingdom-key:Llave Hidden Kingdom
+eternal_ice-key:Llave Eternal Ice
+silver_mountains-key:Llave Silver Mountains
+stranded_seafire-key:Llave Stranded Seafire
+deepwater_passage-key:Llave de Deepwater Passage
+graveyard_of_the_nameless-key:Cementerio de la llave sin nombre
+duskwood-key:Llave Duskwood
+distillate:Destilado
+pumpkin_soup:Sopa de calabaza
+pumpkin_soup_description:Esta sopa picante restaura {cantidad} de resistencia
+fruit_basket:Cesta de frutas
+fruit_basket_description:Restaura {cantidad} resistencia
+salad:Ensalada
+salad_description:Restaura {cantidad} resistencia
+stone:Piedra
+flint:piedra
+iron_ore:Mineral de hierro
+copper_ore:Mineral de cobre
+silver_ore:Mineral de plata
+gold_ore:Mineral de oro
+pewter:Peltre
+sapphire:Zafiro
+ruby:Rubí
+eternal_ice:Hielo eterno
+clover:Trébol
+midnight_rose:Rosa de medianoche
+rose:Rosa
+maggot:Gusano
+caterpillar:Oruga
+toadstool:Seta
+frog:Rana
+mandrake:Mandrake
+water:Agua
+brain_stool:Taburete cerebral
+choncap:Choncap
+deeproot_truffle:Trufa de raíz profunda
+dragon's_breath_mint:Dragon's Breath Menta
+duskgloom_morels:Moteles en Duskgloom
+duskwight_berries:Bayas de Duskwight
+echostem_reeds:Cañas Echostem
+emberstalk_toadstool:Seta Emberstalk
+giant's_blood_essence:Esencia de sangre de gigante
+glacierthorn_flower:Flor de espino glaciar
+maple_leaves:Hojas de arce
+skytear_crystals:Cristales Skytear
+spider_root:Raíz de araña
+starfall_lavender:Lavanda Starfall
+starlight_blossoms:Flores a la luz de las estrellas
+stormleaf_plant:Planta Stormleaf
+twilight_jasmine:Twilight Jasmine
+whisperroot_fiber:Fibra de raíz de whisky
+pumpkin:Calabaza
+parsley:Perejil
+strawberry:Fresa
+blueberries:Arándanos
+grapes:Uvas
+lettuce:Lechuga
+cucumber:Pepino
+tomato:Tomate
+onion:Cebolla
+chicken_leg:Pata de pollo
+deep_sea_shrimp:Camarones de aguas profundas
+fine_rice:Arroz fino
+lime_berry:Baya de lima
+pepper:Pimienta
+raw_pork:Carne de cerdo cruda
+riverland_potato:Patata Riverland
+sea_salt:Sal marina
+silver_key:Llave plateada
+silver_key_description:Se usa para desbloquear algo...
+mysterious_potion:Poción misteriosa
+mysterious_potion_description:Una poción de aspecto sospechoso... ¿debo beberla?
+smoke_bomb:Bomba de humo
+smoke_bomb_description:Se usa para escapar de la mazmorra sin perder el botín.
+rare_gem:Joya rara
+rare_gem_description:Una joya extraña. Podría ser valioso
+stack_of_coins:Pila de monedas
+stack_of_coins_description:Una hermosa suma de monedas de oro

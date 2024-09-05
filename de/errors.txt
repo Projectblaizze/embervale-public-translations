@@ -1,0 +1,65 @@
+errInvalidAction:Ungültige Aktion!
+tosNotAccepted:Bitte akzeptieren Sie die Nutzungsbedingungen!
+errUnknownErrorHeadline:Unbehandelter Fehler!
+errUnknownError:Ein unbekannter Fehler ist aufgetreten! Bitte versuchen Sie die Webseite zu aktualisieren! Wenn das Problem weiterhin besteht, melde es uns auf unserem Discord https://discord.com/invite/Gum9bS2dyw
+tokenExpired:Das Twitch-Authentifizierungstoken ist abgelaufen. Bitte laden Sie die Website neu oder starten Sie Ihre App neu.
+invalidToken:</h5><h3>Authentifizierung fehlgeschlagen Bitte stellen Sie sicher, dass Ihre Systemuhr synchronisiert ist! <br>Andernfalls schlägt die Authentifizierung fehl! <br><br><br>Weitere Lösungen: <br>1) Seitenaktualisierung <br>2) Browsererweiterungen deaktivieren <br>3) Widerrufe und erteile die Erweiterungserlaubnis <br>4) Auf Twitch an- und abmelden <br>5) Einen anderen Browser ausprobieren <br><br>Für weitere Hilfe besuche unseren Discord https://discord.gg/cT3ThCj,
+errNotReleased:Embervale wird im September veröffentlicht!
+errTwitchAccessNotGranted:Bitte gewähre Zugriff auf deine TwitchID, indem du auf den kleinen Menschen unten rechts klickst!
+errNoInventoryItem:Leer!
+errInventoryIsFull:Dein Inventar ist voll! Bitte verkaufe ein paar Artikel!
+errMaterialInventoryIsFull:Dein Inventar ist voller Materialien! Du kannst sie beim Händler im Laden ausgeben oder etwas herstellen!
+errConsumableInventoryIsFull:Dein Inventar ist voller Verbrauchsgüter!
+errNotEnoughArcanites:Du hast nicht genug Arcanites
+errNotEnoughMoney:Du hast nicht genug Gold, um das zu kaufen!
+errNotEnoughGold:Du hast nicht genug Gold, um das zu kaufen!
+errNotEnoughSkillPoints:Du hast nicht genug Skillpunkte, um diese Aktion auszuführen!
+errStatDoesNotExist:Du kannst diesen Wert nicht erhöhen!
+errBountyDoesNotExist:Die Bounty gibt es nicht (mehr?)! Das könnte bedeuten, dass du die Webseite länger als 24 Stunden geöffnet hattest oder dass deine Uhr nicht synchronisiert ist!
+errOpponentDoesNotExist:Den Feind gibt es nicht (mehr?)!
+errItemDoesNotExist:Der Artikel gehört dir nicht oder existiert nicht mehr!
+errLevelToLowToEquip:Dein Level ist zu niedrig, um diesen Gegenstand auszurüsten!
+errCantFindRandomOpponent:Du kannst keinen zufälligen Gegner in deiner Division finden!
+errCantFindCharacter:Ich kann diesen Charakter nicht finden.
+errCantFindGuild:Ich kann diese Gilde nicht finden.
+errBountyAlreadyStarted:Das Bounty wurde bereits gestartet.
+errInvalidAppearance:Das Erscheinungsbild ist ungültig!
+errInvalidAppearanceName:Dieses Attribut ist ungültig!
+errInvalidAppearanceType:Dieser Darstellungstyp ist ungültig!
+errInvalidAppearanceColor:Diese Darstellungsfarbe ist ungültig!
+errNoStamina:Du hast keine Ausdauer mehr!
+errDungeonNotFound:Kein Kerker
+errItemAlreadyInInventory:Du kannst diesen Artikel nur einmal kaufen!
+errUserAtFullHealth:Du bist schon bei voller Gesundheit!
+open:Offen
+use:Benutzen
+noShield:Kein Schild
+youAreAboutToBuy:Du bist im Begriff zu kaufen:
+arenaShieldExplaination:Dieser Schild schützt dich {Tage} Tag (e). In dieser Zeit kannst du kein Geld verlieren, wenn dich jemand angreift und besiegt!
+arenaNotEnoughEmeralds:Du benötigst {Scherben} mehr Scherben, um diesen Schild zu kaufen.
+errYourNotHungry:Du hast keinen Hunger!
+activateShield:aktiviere Shield
+arenaShieldActiveTooltip:Der Spieler hat einen aktiven Schild und daher erhältst du kein Geld aus dem Kampf.
+errTokenExpired:Ihr Token ist ungültig! Versuche die Seite zu aktualisieren oder den Zugriff zu widerrufen und erneut zu gewähren (klicke auf die Abbildung unten rechts)!
+errAccessNotGranted:Bitte gewähren Sie Zugriff (klicken Sie auf die Abbildung unten rechts)!
+errTwitchAccountAlreadyExists:Du hast bereits ein Twitch-Konto verknüpft!
+errNameNoSpace:Der Name darf keine Leerzeichen enthalten!
+errNameRegexInvalid:Der Name darf nur Buchstaben (A-Z) und Zahlen (0-9) enthalten.
+errCantUseThisName:Du kannst diesen Namen nicht verwenden!
+errThatNameIsTooLong:Dein Name kann bis zu 16 Zeichen lang sein!
+errThatNameIsTooShort:Dein Name muss mindestens 4 Zeichen lang sein!
+errThatNameIsAlreadyInUse:Dieser Name ist nicht mehr verfügbar!
+errAlreadyInvitedToGuild:Diese Person ist bereits in deine Gilde eingeladen!
+errGuildBattleLineIsFull:Die Linie ist voll!
+noHealPotions:Du hast keine Heiltränke!
+yourStomachFull:Dein Magen ist voll!
+youDontHaveMaterials:Sie haben keine Materialien in dieser Kategorie
+youDontHaveChests:Du hast keine Truhen! Schließe Erfolge oder Dungeons ab, um welche zu erhalten!
+connectionLost:Die Verbindung wurde unterbrochen. Die Verbindung wird in {timeLeft} Sekunden wiederhergestellt...
+reconnectingFailedRetry:Die Verbindung konnte nicht wiederhergestellt werden. Versuch, erneut eine Verbindung herzustellen: {reconnectAmount}. Die Verbindung wird in {timeLeft} Sekunden wiederhergestellt...
+reconnectingFailed:Die Verbindung konnte nicht wiederhergestellt werden. Bitte laden Sie Ihren Browser neu.
+ranks:Ränge
+error:Fehler
+connectTwitchBrowser:Ein neues Fenster in Ihrem Browser hat sich geöffnet. Bitte melde dich mit deinem Twitch-Konto an und verbinde dann dein Steam-Konto.
+connectTwitchConfirm:Wenn Sie fertig sind, drücken Sie bitte die unten stehende Bestätigungstaste
+isSteamRunning:Ein Fehler ist aufgetreten. Läuft Steam?

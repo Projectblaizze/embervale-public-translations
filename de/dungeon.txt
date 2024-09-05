@@ -1,0 +1,32 @@
+dungeonName1:Befallene Gärten
+dungeonName2:Ausgetrocknete Flusslandschaften
+dungeonName3:Besetzter Flussübergang
+dungeonName4:Gestrandetes Seafire
+dungeonName5:Tiefwasserpassage
+dungeonName6:Verborgenes Königreich
+dungeonName7:Insel der Bestien
+dungeonName8:Ewiges Eis
+dungeonName9:Silberne Berge
+dungeonName10:Verlassene Ödländer
+dungeonName11:Abenddämmerung
+dungeonName12:Der Friedhof der Namenlosen
+dungeonName13:Bastion des Lichts
+dungeonName14:Embervale
+dungeon:Kerker
+startDungeon:starte Dungeon
+dungeonAutoSell:Es gibt noch einige Gegenstände in deinem Dungeon-Inventar! Wenn du den Dungeon jetzt verlässt, sind sie verloren!
+selectConsumablesForDungeon:Wähle die Zaubertränke aus, die du in deinen Dungeon mitnehmen möchtest. Das kann nicht rückgängig gemacht werden! Alle Gegenstände, die du in Dungeons mitbringst, gehen verloren.
+youDontHaveHealPotions:Du hast keine Heiltränke.
+effect_gem_blessing:Der Spieler ist für {Runden} Runden gesegnet.//+25% auf alle Statistiken
+gem_blessing:Edelsteinsegen
+lost_fairy_blessing:Verlorener Feensegen
+effect_lost_fairy_blessing:Der Spieler wird für {Runden} Runden von der Verlorenen Fee gesegnet.//+10% HP in jedem Raum
+gem_curse:Edelsteinfluch
+effect_gem_curse:Der Spieler ist für {Runden} Runden verflucht.//-5% auf alle Statistiken
+strength_buff:Stärkebonus
+effect_strength_buff:Der Spieler wird für {Runden} Runden gebufft.//+20% Stärke
+wisdom_buff:Wissbegabter
+effect_wisdom_buff:Der Spieler wird für {Runden} Runden gebufft.//+20% Weisheit
+cluttered_mind:Überfüllter Geist
+effect_cluttered_mind:Der Spieler ist verwirrt über {Runden} Runden.//-20% Genauigkeit
+recommendedLevel:Empfohlene Stufe

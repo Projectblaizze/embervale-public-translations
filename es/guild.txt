@@ -1,0 +1,37 @@
+createGuild:Crear gremio
+joinGuild:Únete al gremio
+save:Guardar
+saved:Guardado
+success:Éxito
+member:Miembro
+role:Rol
+confirmDeleteGuild:¿Estás seguro de que quieres eliminar tu gremio? ¡Esto NO SE PUEDE deshacer!
+confirmLeaveGuild:¿Estás seguro de que quieres dejar tu gremio?
+confirmGuildInvite:¿Estás seguro de que quieres invitar a {username} a tu gremio?
+confirmGuildKick:¿Estás seguro de que quieres echar a {username}?
+lastActivity:Última actividad
+leave:Salir
+addNewRole:¡Ingresa el nombre del rol que deseas agregar!
+renameRole:Si quieres cambiar el nombre del rol {role}, ¡cámbialo y presiona guardar!
+deleteRole:Eliminar rol
+deleteGuild:Eliminar gremio
+guildDescription:Descripción del gremio
+guildName:Nombre del gremio
+PERMISSION_ADMIN:Líder
+PERMISSION_CO_ADMIN:Líder de visados
+PERMISSION_KICK_MEMBER:Miembro de Kick
+PERMISSION_EDIT_DESCRIPTION:Descripción del gremio
+PERMISSION_EDIT_FEE:Tarifa de edición
+PERMISSION_INVITE_MEMBER:Invitar a un miembro
+createYourGuild:Crea tu gremio
+acceptInvite:Aceptar invitación
+errTooManyRoles:¡Solo puedes tener 10 roles en tu gremio!
+xp_bonus_lvl0:-
+xp_bonus_lvl1:Este objeto te otorga un 1% de XP adicional
+xp_bonus_lvl2:Este objeto te otorga un 5% de XP adicional
+more_slots_lvl0:-
+more_slots_lvl1:Ganas 1 puesto de clan adicional
+more_slots_lvl3:Ganas 2 puestos de gremio adicionales
+defense_lvl0:-
+defense_lvl1:Este artículo no sirve para nada todavía
+defense_lvl2:Este artículo no sirve para nada todavía

@@ -1,0 +1,192 @@
+morale:Moral
+changeWindowSize:Aumente el tamaño de la ventana.
+threePlayersRequired:¡Se requieren 3 jugadores!
+fight:Luchar
+surrender:Rendirse
+ended:Finalizado
+leader:Líder
+welcomeToAdventures:Bienvenido a las aventuras
+yourHighscore:Tu puntuación más alta
+beforeAdventureStartsText:Adventures es el modo de juego hecho explícito desarrollado para streamers. Tu comunidad puede unirse a través de «! ¡Únete!» a tu aventura. El límite máximo actual de participantes es de 50.
+wrongAdventureLeader:Has iniciado sesión con un personaje diferente al que inició la aventura. Cambia a {username} para continuar
+currentLoggedIn:Actualmente estás conectado como
+youCanSelectRecipient:¡Puedes seleccionar al destinatario del botín raro o superior!
+selectRandomPlayer:Selecciona un jugador aleatorio
+treasureOf:Tesoro de
+banishConfirmation:¿Estás seguro de que quieres desterrar a {{playerToBanish.char.Username}} de esta aventura?
+areYouSure:¿Estás seguro?
+banish:Desterrar
+youCanStartNewAdventureIn:Puedes crear uno nuevo en:
+partyInventory:Inventario del partido
+noLootObtained:Tu grupo aún no ha obtenido el botín
+chooseRewardRecipient:Elija el destinatario de la recompensa
+voting:Votación
+adventureEndMessageMoraleZero:La moral del grupo es demasiado baja para continuar la aventura. Decides volver a casa.
+adventureEndMessageAllDead:El grupo ya no puede seguir luchando. Decides volver a casa.
+adventureEndMessageSurrender:Decidiste volver a casa con tu grupo.
+youWonTheAdventureFight:¡Ganaste la pelea de aventuras!
+youLoseTheAdventureFight:¡Tu grupo perdió la pelea!
+yourGroupObtained:Su grupo obtuvo:
+yourGroupLost:Tu grupo perdió:
+ThePlayerWillReceiveReward:¿Estás seguro de que quieres darle la recompensa a §player0§?
+noAdventureStarted:El streamer no organiza ninguna aventura en este momento.
+waitingForVoting:Esperando la próxima votación de la aventura de {LeaderName}...
+alreadyVoted:Ya has votado
+check:Comprobar
+required:Necesario
+successful:Exitoso
+failed:Falló
+critical_success:Éxito crítico
+critical_failure:Fallo crítico
+joined:Se unió
+room:Habitación
+wantToFight:¡Dile al streamer si quieres pelear!
+mentToPlayedWithCommunity:Las aventuras están pensadas para jugarlas en streaming con tu comunidad
+happened:Sucedió
+effectsApplied:Efecto (s) aplicado (s)
+effectsRemoved:Efecto (s) eliminado (s)
+coin_stack:Moneda
+errNoCoinStack:¡Tu grupo no tiene suficientes monedas!
+moralePlus:Moral +
+effect_moralePlus:todo
+moraleMinus:Moral -
+effect_moraleMinus:todo
+remainingTurns:Turnos restantes:
+effect_drunk:El jugador está borracho.//33% de probabilidad de hacerte daño
+drunk:Borracho
+effect_hungover:El jugador tiene resaca.//-50% de evasión
+hungover:Resaca
+effect_drowsy:El jugador se siente somnoliento.//Siempre va en segundo lugar
+drowsy:Somnoliento
+effect_agile:Este jugador se siente ágil.//Siempre va primero
+agile:Ágil
+effect_silenced:El jugador está silenciado.//Desactiva las habilidades
+silenced:Silenciado
+effect_shaky:El jugador es inestable.//Solo guardabosques, +20% de probabilidad de perder
+shaky:Tembloroso
+effect_precise:Este jugador tiene una precisión avanzada.//Solo guardabosques, tu oponente no puede esquivar los ataques
+precise:Preciso
+effect_furious:El jugador está furioso.//+25% de daño, 33% de probabilidad de hacerse daño
+furious:Furioso
+effect_healthy:Este jugador se siente excepcionalmente sano.//+25% de salud máxima
+healthy:Saludable
+effect_lucky:Este jugador se siente afortunado.//+25% de suerte, probabilidad de caída rara aumentada
+lucky:Afortunado
+effect_regenerating:Este jugador está regenerando su salud y no puede participar en batallas.//+25% de salud por ronda
+regenerating:Regenerador
+effect_astral_healing:Este jugador está recibiendo una curación mágica de otro jugador.// +50% de salud por ronda
+astral_healing:Sanación astral
+effect_astral_stasis:Este jugador usa magia para curar a un compañero.//No puede luchar
+astral_stasis:Estasis astral
+effect_ambushed:Este jugador sufrió una emboscada recientemente//Inflige el doble de daño
+ambushed:Emboscado
+effect_healer:Este jugador se curó recientemente de una terrible enfermedad.//Todos los miembros del grupo se curan un 10% por turno
+healer:Sanador
+effect_upset:Este jugador está molesto por las decisiones del líder.//-1 de moral por ronda
+upset:Molesto
+effect_terrified:Este jugador ha visto algo muy inquietante.//-2 de moral por ronda
+terrified:Aterrado
+effect_vigilant:Este jugador está más alerta.//+5% de evasión
+vigilant:Vigilante
+effect_thief:Este jugador es un ladrón conocido y lo vigilan con recelo.//+10% de destreza, -3 de moral por ronda
+thief:Ladrón
+effect_blacksmith:Este jugador ha demostrado ser un herrero habilidoso.//Prioridad para los cheques de herrería, 10 veces más habilidad de herrería para la aventura
+blacksmith:Herrero
+effect_ancient_knowledge:Este jugador se inspira en un conocimiento perdido hace mucho tiempo.//+ 10% de sabiduría
+ancient_knowledge:Conocimientos antiguos
+effect_cursed:Este jugador está afectado por una misteriosa maldición.//- 100% de suerte
+cursed:Maldito
+effect_enhanced_magic:Este jugador ha mejorado su comprensión de la magia.//+10% de daño mágico, -10% de daño mágico recibido
+enhanced_magic:Magia mejorada
+effect_empathic:Este jugador ha aumentado su empatía y comprensión.//+1 de moral por ronda, +5% de sabiduría
+empathic:Empático
+effect_uncomfortable:Este jugador se siente incómodo o fuera de lugar.//-10% de voz
+uncomfortable:Incómodo
+effect_diplomatic:Este jugador sobresale en la negociación y la resolución de conflictos.//+10% de discurso, +2 en todas las listas de discursos
+diplomatic:Diplomático
+unavailable:No disponible
+effect_unavailable:Este jugador está ocupado actualmente en otro lugar y, por el momento, no puede participar en las batallas.//# TODO
+dark_blessing:Bendición oscura
+effect_dark_blessing:Este jugador ha sido bendecido por una deidad siniestra.//+ 20% en todas las estadísticas + 10% de daño recibido
+enlightened:Iluminado
+effect_enlightened:Este jugador logró una comprensión más profunda de lo divino y de todo lo sagrado.//+2 en todas las tiradas de sabiduría
+famished:Hambriento
+effect_famished:Este jugador está debilitado por no haber comido adecuadamente durante mucho tiempo.//-50% de fuerza: 2 a todas las tiradas de fuerza
+plagued:Plagado
+effect_plagued:Al sufrir una plaga desconocida, la vitalidad y la fuerza de este jugador se reducen considerablemente.//-50% de vitalidad, -30% de fuerza
+guardian_angel:Ángel guardián
+effect_guardian_angel:Protegido por una deidad divina, este jugador regresará una vez más tras caer en combate.
+protective_blessing:Bendición protectora
+effect_protective_blessing:Una bendición menor que protege a los afectados de cualquier daño.//-5% de daño recibido
+dragon_slayer:Cazador de dragones
+effect_dragon_slayer:Este jugador es conocido por matar dragones en combate individual.//500% de daño contra dragones
+berserk:Enloquecido
+effect_berserk:Herido gravemente, este jugador cayó en cólera ancestral.//+200% de daño mientras esté gravemente herido o mutilado
+ambivalent:Ambivalente
+effect_ambivalent:Este personaje es conocido por sus ideas contradictorias que conducen a resultados dispares en sus acciones.//-2 a +2 en cualquier tirada
+effect_drained:El jugador se siente agotado y ya no podrá recuperarse por completo.//-25% de salud máxima
+drained:Drenado
+effect_shattered:La armadura del jugador está destrozada.//-75% de armadura y resistencia mágica
+shattered:Destrozado
+effect_overloaded:El tesoro recolectado pesa sobre el jugador.//-25% de destreza
+overloaded:Sobrecargado
+effect_damaged_weapon:El arma de este jugador ha tenido días mejores y necesita ser reparada.//-25% de daño
+damaged_weapon:Arma dañada
+effect_improved_weapon:El arma de este jugador se ha mejorado recientemente.//+ 10% de daño
+improved_weapon:Arma mejorada
+effect_disarmed:El arma del jugador está en pésimo estado.//-75% de daño
+disarmed:Desarmado
+effect_vampiristic:Se sospecha que este jugador es un vampiro.//Se cura con un 75% del daño infligido, -10 de moral por cada batalla, -50% de salud
+vampiristic:vampírico
+effect_banished:Este jugador fue expulsado del grupo.//Ya no forma parte de la aventura # TODO No Voting Power
+banished:Desterrado
+strong_leader:Líder fuerte
+effect_strong_leader:Este líder ha demostrado una fuerza excepcional.//+10% en todas las estadísticas
+usurper:Usurpador
+effect_usurper:Este jugador derrocó a su líder y ahora dirige el grupo.//# TODO 3x Voting Power
+bonded_friendship:Amistad unida
+effect_bonded_friendship:Este jugador ha entablado una estrecha amistad con otro miembro del grupo, lo que ha mejorado su trabajo en equipo y su moral.//+5% en todas las estadísticas y +1 de moral en la misma batalla con otro amigo unido
+effect_transformed:El jugador se transforma en una criatura.//???
+transformed:Transformado
+effect_wounded:El jugador está herido.//-25% de salud máxima
+wounded:Herido
+effect_badly_wounded:El jugador está gravemente herido.//-50% de salud máxima
+badly_wounded:Herido gravemente
+effect_maimed:El jugador está mutilado.//-75% de salud máxima
+maimed:Mutilado
+effect_fainted:El jugador se ha desmayado.//Ya no puedes luchar.
+fainted:Se desmayó
+check_strength:Se requiere mucha fuerza física.
+strength:Fuerza
+check_alchemist:Los expertos en alquimia tienen más probabilidades de triunfar.
+alchemist:Alquimista
+check_smith:Aquellos con talento para la herrería prosperarán.
+smith:Herrero
+check_cook:Aquellos con talento para la cocina prosperarán.
+cook:Cocinero
+check_wisdom:Los sabios de entre nosotros pueden tener una respuesta a este problema.
+wisdom:Sabiduría
+check_luck:¿Te sientes afortunado hoy?
+luck:Suerte
+check_vitality:Aquellos bendecidos con una vitalidad extraordinaria prosperarán.
+vitality:Vitalidad
+check_mag_resistance:Los dotados de una formidable resistencia mágica prevalecerán.
+mag_resistance:Resistencia mágica
+check_speech:Resolver este problema requerirá un poco de carisma.
+speech:Discurso
+check_dexterity:Los que posean una destreza excepcional sobresaldrán.
+dexterity:Destreza
+check_morale:¿La moral del partido es lo suficientemente alta como para superar este obstáculo?
+check_fame:Los aventureros más experimentados conocerán la solución.
+fame:Fama
+bright_hair:El cabello de todos está coloreado de colores brillantes
+effect_bright_hair:Cabello brillante
+check_coin_stack:Esta opción requiere una pila de monedas
+adventurePlayerCheck:Comprobar
+errNotEnoughVotings:¡No puedes continuar sin votar por nada!
+combat_won:Combate ganado
+effect_combat_won:Has ganado el combate//+ Moral
+adventureCooldownRoyal:El tiempo de reutilización de Aventura es un 50% más corto
+adventureCooldownMythical:El tiempo de reutilización de Aventura es un 50% más corto
+adventureCooldownLegendary:El tiempo de reutilización de Aventura es un 25% más corto
+adventureCooldownEpic:Tiempo de reutilización de Aventura un 10% más corto

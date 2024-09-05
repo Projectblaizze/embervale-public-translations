@@ -1,0 +1,27 @@
+// general
+evhelp:You can find all commands here
+notStarted:Your journey didn't start yet!
+cmdUnknownError:Unknown error occured!
+serverOverload:The server is overloaded! Please try again later!
+
+twitchbotNoAccount:Please create your character in the Embervale extension!
+twitchbotNoActiveChar:Please select your active character in the Embervale extension!
+
+// adventure
+adventureNotActive:There is no active adventure!
+adventureAlreadyIn:You are already in an adventure!
+adventureMultipleCharactersAlreadyIn:You already joined with one of your characters into this adventure!
+adventureNoActiveVoting:There is no active voting!
+adventureYouAreNotIn:You are not in an adventure!
+adventureInvalidVoting:Your voting was invalid!
+
+// flex
+achievements:Achievements
+rank:Rank
+itemsDiscovered:Items discovered
+materialDiscovered:Materials discovered
+bestiary:Bestiary
+
+// bestiary
+defeated:Defeated
+cantFindMonster:Can't find this monster!

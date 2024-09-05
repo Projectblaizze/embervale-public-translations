@@ -1,0 +1,118 @@
+// Recipes
+
+
+// Smithing
+
+silver_bar:Silver bar
+gold_bar:Gold bar
+iron_bar:Iron bar
+copper_bar:Copper bar
+brass_bar:Brass bar
+embervale-key:Embervale key
+bastion_of_light-key:Bastion of Light key
+infested_gardens-key:Infested Gardens key
+abandonded_wastelands-key:Abandonded Wastelands key
+dried_out_riverlands-key:Dried out Riverlands key
+occupied_river_crossing-key:Occupied River Crossing key
+island_of_beasts-key:Island of Beasts key
+hidden_kingdom-key:Hidden Kingdom key
+eternal_ice-key:Eternal Ice key
+silver_mountains-key:Silver Mountains key
+stranded_seafire-key:Stranded Seafire key
+deepwater_passage-key:Deepwater Passage key
+graveyard_of_the_nameless-key:Graveyard of the Nameless key
+duskwood-key:Duskwood key
+
+// Alchemy
+
+distillate:Distillate
+
+// Cooking
+
+pumpkin_soup:Pumpkin Soup
+pumpkin_soup_description:This spicy soup restores {amount} of stamina
+fruit_basket:Fruit Basket
+fruit_basket_description:Restores {amount} stamina
+salad:Salad
+salad_description:Restores {amount} stamina
+
+// Materials
+
+// Smithing
+
+stone:Stone
+flint:Flint
+iron_ore:Iron ore
+copper_ore:Copper ore
+silver_ore:Silver ore
+gold_ore:Gold ore
+pewter:Pewter
+sapphire:Sapphire
+ruby:Ruby
+eternal_ice:Eternal ice
+
+// Alchemy
+
+clover:Clover
+midnight_rose:Midnight Rose
+rose:Rose
+maggot:Maggot
+caterpillar:Caterpillar
+toadstool:Toadstool
+frog:Frog
+mandrake:Mandrake
+water:Water
+brain_stool: Brain Stool
+choncap:Choncap
+deeproot_truffle: Deeproot Truffle
+dragon's_breath_mint: Dragon's Breath Mint
+duskgloom_morels:Duskgloom Morels
+duskwight_berries:Duskwight Berries
+echostem_reeds:Echostem Reeds
+emberstalk_toadstool: Emberstalk Toadstool
+giant's_blood_essence: Giant's Blood Essence
+glacierthorn_flower: Glacierthorn Flower
+maple_leaves: Maple Leaves
+skytear_crystals:Skytear Crystals
+spider_root:Spider Root
+starfall_lavender:Starfall Lavender
+starlight_blossoms: Starlight Blossoms
+stormleaf_plant:Stormleaf Plant
+twilight_jasmine:Twilight Jasmine
+whisperroot_fiber:Whisperroot Fiber
+
+// Cooking
+
+pumpkin:Pumpkin
+parsley:Parsley
+strawberry:Strawberry
+blueberries:Blueberries
+grapes:Grapes
+lettuce:Lettuce
+cucumber:Cucumber
+tomato:Tomato
+onion:Onion
+chicken_leg:Chicken Leg
+deep_sea_shrimp:Deep Sea Shrimp
+fine_rice:Fine Rice
+lime_berry:Lime Berry
+pepper:Pepper
+raw_pork:Raw Pork
+riverland_potato:Riverland Potato
+sea_salt:Sea Salt
+
+
+
+// Misc
+
+silver_key:Silver key
+silver_key_description:Used to unlock something...
+mysterious_potion:Mysterious potion
+mysterious_potion_description:A suspicious looking potion... should I drink it?
+smoke_bomb:Smoke bomb
+smoke_bomb_description:Used to escape the dungeon without losing loot.
+rare_gem:Rare gem
+rare_gem_description:An odd gem. Could be valuable
+stack_of_coins:Stack of coins
+stack_of_coins_description:A handsome sum of gold coins
+

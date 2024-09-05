@@ -1,0 +1,123 @@
+consumables:Verbrauchsmaterial
+consumable:Verbrauchbar
+other:Andere
+small_health_potion:Kleiner Heiltrank
+small_health_potion_craft_description:Heilt dich in Dungeons um {amount_min1}% bis {amount_max1}%
+small_health_potion_description:Heilt dich in Dungeons um {amount_min1}%
+medium_health_potion:Trank mit mittlerer Gesundheit
+medium_health_potion_craft_description:Heilt dich in Dungeons um {amount_min1}% bis {amount_max1}%
+medium_health_potion_description:Heilt dich in Dungeons um {amount_min1}%
+large_health_potion:Großer Heiltrank
+large_health_potion_craft_description:Heilt dich in Dungeons um {amount_min1}% bis {amount_max1}%
+large_health_potion_description:Heilt dich in Dungeons um {amount_min1}%
+small_accuracy_potion:Kleiner Präzisionstrank
+small_accuracy_potion_craft_description:Erhöht die Genauigkeit um {amount_min1}% auf {amount_max1}%.
+small_accuracy_potion_description:Erhöht die Genauigkeit für {time} um {amount_min1}%.
+medium_accuracy_potion:Trank mit mittlerer Genauigkeit
+medium_accuracy_potion_craft_description:Erhöht die Genauigkeit um {amount_min 1%} auf {amount_max1}%.
+medium_accuracy_potion_description:Erhöht die Genauigkeit für {time} um {amount_min1}%.
+large_accuracy_potion:Trank mit großer Genauigkeit
+large_accuracy_potion_craft_description:Erhöht die Genauigkeit um {amount_min1}% auf {amount_max1}%.
+large_accuracy_potion_description:Erhöht die Genauigkeit für {time} um {amount_min1}%.
+small_dexterity_potion:Kleiner Geschicklichkeitstrank
+small_dexterity_potion_craft_description:Erhöht die Geschicklichkeit um {amount_min1}% auf {amount_max1}%.
+small_dexterity_potion_description:Erhöht die Geschicklichkeit {time} lang um {amount_min1}%.
+medium_dexterity_potion:Trank für mittlere Geschicklichkeit
+medium_dexterity_potion_craft_description:Erhöht die Geschicklichkeit um {amount_min1}% auf {amount_max1}%.
+medium_dexterity_potion_description:Erhöht die Geschicklichkeit {time} lang um {amount_min1}%.
+large_dexterity_potion:Großer Geschicklichkeitstrank
+large_dexterity_potion_craft_description:Erhöht die Geschicklichkeit um {amount_min1}% auf {amount_max1}%.
+large_dexterity_potion_description:Erhöht die Geschicklichkeit {time} lang um {amount_min1}%.
+small_luck_potion:Kleiner Glückstrank
+small_luck_potion_craft_description:Erhöht das Glück um {amount_min1}% auf {amount_max1}%.
+small_luck_potion_description:Erhöht das Glück {time} lang um {amount_min1}%.
+medium_luck_potion:Mittlerer Glückstrank
+medium_luck_potion_craft_description:Erhöht das Glück um {amount_min1}% auf {amount_max1}%.
+medium_luck_potion_description:Erhöht das Glück {time} lang um {amount_min1}%.
+large_luck_potion:Großer Glückstrank
+large_luck_potion_craft_description:Erhöht das Glück um {amount_min1}% auf {amount_max1}%.
+large_luck_potion_description:Erhöht das Glück {time} lang um {amount_min1}%.
+small_strength_potion:Trank mit geringer Stärke
+small_strength_potion_craft_description:Erhöht die Stärke um {amount_min1}% auf {amount_max1}%.
+small_strength_potion_description:Erhöht die Stärke {time} lang um {amount_min1}%.
+medium_strength_potion:Trank mittlerer Stärke
+medium_strength_potion_craft_description:Erhöht die Stärke um {amount_min1}% auf {amount_max1}%.
+medium_strength_potion_description:Erhöht die Stärke {time} lang um {amount_min1}%.
+large_strength_potion:Trank mit großer Stärke
+large_strength_potion_craft_description:Erhöht die Stärke um {amount_min1}% auf {amount_max1}%.
+large_strength_potion_description:Erhöht die Stärke {time} lang um {amount_min1}%.
+small_vitality_potion:Kleiner Vitalitätstrank
+small_vitality_potion_craft_description:Erhöht die Vitalität um {amount_min1}% auf {amount_max1}%.
+small_vitality_potion_description:Erhöht die Vitalität {time} lang um {amount_min1}%.
+medium_vitality_potion:Trank für mittlere Vitalität
+medium_vitality_potion_craft_description:Erhöht die Vitalität um {amount_min1}% auf {amount_max1}%.
+medium_vitality_potion_description:Erhöht die Vitalität {time} lang um {amount_min1}%.
+large_vitality_potion:Großer Vitalitätstrank
+large_vitality_potion_craft_description:Erhöht die Vitalität um {amount_min1}% auf {amount_max1}%.
+large_vitality_potion_description:Erhöht die Vitalität {time} lang um {amount_min1}%.
+small_wisdom_potion:Kleiner Weisheitstrank
+small_wisdom_potion_craft_description:Erhöht die Weisheit um {amount_min1}% auf {amount_max1}%.
+small_wisdom_potion_description:Erhöht die Weisheit {time} lang um {amount_min1}%.
+medium_wisdom_potion:Mittlerer Weisheitstrank
+medium_wisdom_potion_craft_description:Erhöht die Weisheit um {amount_min1}% auf {amount_max1}%.
+medium_wisdom_potion_description:Erhöht die Weisheit {time} lang um {amount_min1}%.
+large_wisdom_potion:Großer Weisheitstrank
+large_wisdom_potion_craft_description:Erhöht die Weisheit um {amount_min1}% auf {amount_max1}%.
+large_wisdom_potion_description:Erhöht die Weisheit {time} lang um {amount_min1}%.
+pumpkin_soup:Kürbissuppe
+pumpkin_soup_craft_description:Stellt die Ausdauer von {amount_min1} auf {amount_max1} wieder her.
+pumpkin_soup_description:Stellt die Ausdauer von {amount_min1} wieder her.
+chicken_stew:Hühnereintopf
+chicken_stew_craft_description:Stellt die Ausdauer von {amount_min1} auf {amount_max1} wieder her.
+chicken_stew_description:Stellt die Ausdauer von {amount_min1} wieder her.
+fruit_basket:Korb mit Obst
+fruit_basket_craft_description:Stellt die Ausdauer von {amount_min1} auf {amount_max1} wieder her.
+fruit_basket_description:Stellt die Ausdauer von {amount_min1} wieder her.
+pork_sausage:Wurst aus Schweinefleisch
+pork_sausage_craft_description:Stellt die Ausdauer von {amount_min1} auf {amount_max1} wieder her.
+pork_sausage_description:Stellt die Ausdauer von {amount_min1} wieder her.
+salad:Salat
+salad_craft_description:Stellt die Ausdauer von {amount_min1} auf {amount_max1} wieder her.
+salad_description:Stellt die Ausdauer von {amount_min1} wieder her.
+sea_platter:Meeresplatte
+sea_platter_craft_description:Stellt die Ausdauer von {amount_min1} auf {amount_max1} wieder her.
+sea_platter_description:Stellt die Ausdauer von {amount_min1} wieder her.
+coin_stack:Münzstapel
+coin_stack_description:Nutze es, um Kupfer zu gewinnen. Stufe {Stufe}
+medium_xp_potion:Trank mit mittlerem XP
+medium_xp_potion_description:Dieser Zaubertrank erhöht deine XP für {amount} Kämpfe um {procent}%!
+recipe:Rezept
+small_heal_potion_recipe:Rezept für einen kleinen Heiltrank
+fruit_basket_recipe:Rezept für einen Obstkorb
+pumpkin_soup_recipe:Rezept für Kürbissuppe
+salad_recipe:Salat-Rezept
+chicken_stew_recipe:Rezept für Hühnereintopf
+pork_sausage_recipe:Rezept für Schweinswurst
+sea_platter_recipe:Rezept für eine Meeresplatte
+small_accuracy_potion_recipe:Rezept für einen kleinen Geschicklichkeitstrank
+medium_accuracy_potion_recipe:Rezept für Trank mit mittlerer Geschicklichkeit
+large_accuracy_potion_recipe:Rezept für einen großen Geschicklichkeitstrank
+small_luck_potion_recipe:Rezept für einen kleinen Glückstrank
+medium_luck_potion_recipe:Rezept für einen Trank mit mittlerem Glück
+large_luck_potion_recipe:Rezept für einen großen Glückstrank
+small_strength_potion_recipe:Rezept für Tranke mit geringer Stärke
+medium_strength_potion_recipe:Rezept für mittelstarken Trank
+large_strength_potion_recipe:Rezept für Tranke mit großer Stärke
+small_vitality_potion_recipe:Rezept für einen kleinen Vitalitätstrank
+medium_vitality_potion_recipe:Rezept für einen Trank mit mittlerer Vitalität
+large_vitality_potion_recipe:Rezept für einen großen Vitalitätstrank
+small_wisdom_potion_recipe:Rezept für einen kleinen Weisheitstrank
+medium_wisdom_potion_recipe:Rezept für einen mittleren Weisheitstrank
+large_wisdom_potion_recipe:Rezept für einen großen Weisheitstrank
+wooden_chest:Truhe aus Holz
+fabled_chest:Fabelhafte Truhe
+decorated_chest:Verzierte Truhe
+mythical_chest:Mythische Truhe
+weapon_chest:Waffentruhe
+armor_chest:Rüstungstruhe
+mythical_material_chest:Truhe aus mythischem Material
+epic_material_chest:Epische Materialtruhe
+uncommon_material_chest:Ungewöhnliche Materialtruhe
+potion:Zaubertrank
+chest:Brust
+food:Essen

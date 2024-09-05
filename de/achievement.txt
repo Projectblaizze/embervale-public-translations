@@ -1,0 +1,68 @@
+main_mission:Haupt
+bestiary:Bestiarium
+collector:Sammler
+adventurer:Abenteurer
+combat:Kampf
+level:Stufe
+guild:Gilde
+achievement:Leistung
+todo:Alles
+weekly:Wöchentlich
+newMissionsIn:Neue Missionen in
+complete_achievement:Schließe {amount} Erfolge ab
+complete_weekly_mission:Schließe wöchentliche Missionen in Höhe von {amount} ab
+kill_monster:Töte {amount} Monster
+defeat_monster:Besiege {Anzahl} Monster
+defeat_aquatic_monster:Besiege {Anzahl} Wassermonster
+defeat_insect_monster:Besiege {Anzahl} Insektenmonster
+defeat_humanoid_monster:Besiege {amount} humanoide Gegner in Kopfgeldern
+defeat_elemental_monster:Besiege {Anzahl} Elementarmonster
+defeat_slime_monster:Besiege {Anzahl} Schleimmonster
+defeat_beast_monster:Besiege {Anzahl} Bestienmonster
+defeat_plant_monster:Besiege {Anzahl} Pflanzenmonster
+defeat_undead_monster:Besiege {Anzahl} Untoter Monster
+defeat_construct_monster:Besiege {Betrag} Konstruiere Monster
+defeat_abomination_monster:Besiege {Anzahl} Monster der Abscheulichkeit
+defeat_dragon_monster:Besiege {Anzahl} Drachenmonster
+defeat_mimic_monster:Besiege {amount} Monster nachahmen
+defeat_rogue_class:Besiege {amount} Schurken
+defeat_mage_class:Besiege {amount} Magier
+defeat_knight_class:Besiege {Anzahl} Ritter
+defeat_ranger_class:Besiege {amount} Ranger
+defeat_warrior_class:Besiege {amount} Krieger
+collect_items_bounties:Sammle {amount} Artikel in Form von Prämien
+collect_items_shop:Kaufe {amount} Artikel im Shop
+collect_mythical_item:Erhalte {Menge} x Mythischen Gegenstand
+complete_bestiary:Schließe {count}% deines Bestiariums ab
+complete_materials_glossary:Entdecke {count}% Menge an Materialien
+complete_items_glossary:Entdecke die Anzahl der Artikel in {count}%
+reach_level:Erreiche Level {lvl}
+participate_in_adventures:nimm an {amount} Abenteuern teil
+clear_bounties:{amount} Prämien löschen
+clear_bounties_difficulty_1:Löse {amount} Kopfgelder mit dem Schwierigkeitsgrad Y ab
+clear_bounties_difficulty_2:Löse {amount} Kopfgelder mit dem Schwierigkeitsgrad Y ab
+clear_bounties_difficulty_3:Löse {amount} Kopfgelder mit dem Schwierigkeitsgrad Y ab
+clear_bounties_difficulty_4:Löse {amount} Kopfgelder mit dem Schwierigkeitsgrad Y ab
+clear_bounties_difficulty_5:Löse {amount} Kopfgelder mit dem Schwierigkeitsgrad Y ab
+#lose_fights:Verliere {Anzahl} Kämpfe
+defeat_monster_in_dungeon:Besiege {amount} Monster in Dungeons
+win_pvp_battle:Gewinne {Anzahl} PvP-Schlachten
+find_a_mythical_item:Finde {amount} mythischen Gegenstand
+distribute_skill_points:Verteile {amount} Skillpunkte
+ # clear_bounties:{amount} Prämien löschen
+use_stamina:Nutze {amount} Ausdauer für Kopfgelder
+complete_an_expedition:Schließe {amount} x Expedition ab
+battle_in_the_arena:Kämpfe gegen {amount} x in der Arena
+join_or_create_a_guild:Tritt einer Gilde bei oder gründe eine
+clear_the_first_dungeon:Schließe den ersten Dungeon ab
+wear_full_set_of_uncommon:Trage ein komplettes Set ungewöhnlicher Gegenstände
+wear_full_set_of_common:Tragen Sie einen vollständigen Satz gängiger Gegenstände
+wear_full_set_of_rare:Trage ein komplettes Set seltener Gegenstände
+wear_full_set_of_epic:Trage ein komplettes Set epischer Gegenstände
+wear_full_set_of_legendary:Trage ein komplettes Set legendärer Gegenstände
+wear_full_set_of_mythical:Trage ein komplettes Set mythischer Gegenstände
+reach_fame:Erreiche {amount} Ruhm
+shop_reroll_5:Die Neugestaltung des Ladens kostet 5% weniger Kupfer
+claim_daily_bonus:Hol dir die täglichen Boni von {amount} in unserem Discord
+claim_daily_bonus_row:Hol dir die täglichen Boni von {amount} in Folge in unserem Discord
+levelUp:Steige auf!

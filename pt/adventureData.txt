@@ -7,7 +7,7 @@ ended:Terminado
 leader:Líder
 welcomeToAdventures:Bem-vindo às aventuras
 yourHighscore:Sua pontuação máxima
-beforeAdventureStartsText:Adventures é o modo de jogo explicitado desenvolvido para streamers. Sua comunidade pode participar via “! ev join” para sua aventura. O limite máximo de adesão atual é 50.
+beforeAdventureStartsText:Adventures é o modo de jogo desenvolvido explicitamente para streamers. Sua comunidade pode participar via “! ev join” para sua aventura. O limite máximo de adesão atual é 50.
 wrongAdventureLeader:Você está logado com um personagem diferente daquele que iniciou a aventura. Por favor, mude para {username} para continuar
 currentLoggedIn:No momento, você está logado como
 youCanSelectRecipient:Você pode selecionar o destinatário de um saque raro ou maior!

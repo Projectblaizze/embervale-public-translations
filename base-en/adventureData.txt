@@ -8,7 +8,7 @@ ended:Ended
 leader:Leader
 welcomeToAdventures:Welcome to adventures
 yourHighscore:Your Highscore
-beforeAdventureStartsText:Adventures is the game mode made explicid developed for streamers. Your community can join via "!ev join" to your adventure. The current maximum join limit is 50.
+beforeAdventureStartsText:Adventures is the game mode made explicitly developed for streamers. Your community can join via "!ev join" to your adventure. The current maximum join limit is 50.
 wrongAdventureLeader:You are logged in with a different character than the one that started the Adventure. Please switch to {username} to continue
 currentLoggedIn:You are currently logged in as
 youCanSelectRecipient:You can select the recipient of rare or higher loot!

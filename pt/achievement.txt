@@ -53,7 +53,7 @@ distribute_skill_points:Distribua {quantidade} pontos de habilidade
  # clear_bounties:Libere recompensas de {amount}
 use_stamina:Use {amount} de resistência em recompensas
 complete_an_expedition:Conclua a expedição {amount} x
-battle_in_the_arena:Lute contra {amount} x na arena
+battle_in_the_arena:Batalha na arena {amount} x
 join_or_create_a_guild:Junte-se ou crie uma guilda
 clear_the_first_dungeon:Limpe a primeira masmorra
 wear_full_set_of_uncommon:Use um conjunto completo de itens incomuns

@@ -59,7 +59,7 @@ divine:Göttlich
 necrotic:nekrotisch
 arcane:Arkan
 frost:Frost
-affinityTooltip:Reduziert eintretenden {Elementar-} Schaden. Erhöht den höllischen Schaden, wenn die Waffe mit einer {elementaren} Rune durchtränkt ist
+affinityTooltip:Reduziert eintretenden {Elementar-} Schaden. Erhöht den {elementaren} Schaden, wenn die Waffe mit Rune durchtränkt ist
 vit:Vitalität
 vitEffect:Gesundheitspunkte
 vitDescription:{stat} erhöht deine Gesamtgesundheit.
@@ -169,11 +169,11 @@ guild:Gilde
 brewery:Brauerei
 adventure:Abenteuer
 crafting:Basteln
-dungeon:Kerker
+dungeon:Dungeon
 achievement:Leistung
 startYourJourney:Beginne deine Reise!
 chooseYourClass:Wähle deine Klasse!
-pickYourRace:Wähle dein Rennen!
+pickYourRace:Wähle deine Rasse!
 customizeYourHero:Passe deinen Helden an!
 finalize:Finalisieren
 purchaseAnotherCharacter:Der Kauf eines weiteren Charakter-Slots kostet dich 500 Arcanites.
@@ -378,8 +378,8 @@ connect:Verbinde
 marketNoDiscordConnected:Nur verifizierte Spieler können den Markt nutzen. Verifiziere jetzt, indem du deinen Discord verbindest!
 starter_shield_description:Der Ritter trägt einen Schild, um physischen Schaden zu reduzieren, indem er von Zeit zu Zeit blockt. Verstärktes Attribut: HP
 starter_quiver_description:Der Ranger hat seine Pfeile immer griffbereit, sodass er von Zeit zu Zeit einen zusätzlichen Angriff starten kann. Verstärktes Attribut: Chance auf kritische Treffer
-starter_grimoire_description:Der Magier kann dich einfrieren, verbrennen oder lähmen. Verstärktes Attribut: Modifikator für kritische Treffer
-starter_lifestone_description:Bei Gefahr nutzt der Krieger die Kraft eines Lebenssteins, um seinem Gegner die Lebenskraft zu entziehen. Verstärktes Attribut: Schaden
+starter_grimoire_description:Die Fähigkeit des Magiers, sich auf sein Ziel zu konzentrieren, ermöglicht es ihm, es nie zu verfehlen. Verstärktes Attribut: Modifikator für kritische Treffer
+starter_lifestone_description:Der Lebensstein gewährt dir 30% verfallenden Lebensverlust. Verstärktes Attribut: Schaden
 starter_talisman_description:Der Schurke nutzt seine Tarnfähigkeit, um Fern- und magischen Angriffen auszuweichen. Verstärktes Attribut: Ausweichen
 heavyArmor:Schwere Rüstung
 mediumArmor:Mittlere Rüstung

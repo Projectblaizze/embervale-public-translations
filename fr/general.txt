@@ -63,7 +63,7 @@ divine:Divin
 necrotic:Nécrotique
 arcane:Arcane
 frost:Frost
-affinityTooltip:Réduit les dégâts {élémentaires} infligés. Augmente les dégâts infernaux si l'arme est infusée d'une rune {élémentaire}
+affinityTooltip:Réduit les dégâts {élémentaires} infligés. Augmente les dégâts {élémentaires} si l'arme est infusée d'une rune
 vit:Vitalité
 vitEffect:Points de santé
 vitDescription:{stat} augmente votre santé totale.
@@ -406,8 +406,8 @@ connect:Connecter
 marketNoDiscordConnected:Seuls les joueurs vérifiés peuvent utiliser le marché. Vérifiez dès maintenant en connectant votre discord!
 starter_shield_description:Le Chevalier porte un bouclier qui réduit les dégâts physiques en bloquant de temps à autre. Attribut amélioré: HP
 starter_quiver_description:Le Ranger a toujours ses flèches à portée de main, ce qui lui permet de lancer une attaque supplémentaire de temps à autre. Attribut amélioré: chance de critique
-starter_grimoire_description:Le mage peut vous geler, vous brûler ou vous paralyser. Attribut amélioré: Crit Modifier
-starter_lifestone_description:Lorsqu'il est en danger, le guerrier utilise le pouvoir d'une pierre vitale pour épuiser la force vitale de son adversaire. Attribut amélioré: Dégâts
+starter_grimoire_description:La capacité du mage à se concentrer sur sa cible lui permet de ne jamais la rater. Attribut amélioré: Crit Modifier
+starter_lifestone_description:La pierre de vie vous donne 30% de perte de vie en décomposition. Attribut amélioré: Dégâts
 starter_talisman_description:Le Rogue utilise sa capacité de furtivité pour esquiver les attaques à distance et magiques. Attribut amélioré: Évasion
 heavyArmor:Armure lourde
 mediumArmor:Armure moyenne

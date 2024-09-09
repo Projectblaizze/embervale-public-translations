@@ -17,3 +17,4 @@ materialDiscovered:Entdeckte Materialien
 bestiary:Bestiarium
 defeated:Besiegt
 cantFindMonster:Ich kann dieses Monster nicht finden!
+cmdJoinDiscord:Besuche unseren Discord, um jeden Tag spannende Belohnungen zu erhalten

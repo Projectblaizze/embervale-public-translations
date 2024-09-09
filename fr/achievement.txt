@@ -53,7 +53,7 @@ distribute_skill_points:Distribuez {quantité} points de compétence
  # clear_bounties:Effacer {amount} bounties
 use_stamina:Utilisez {quantité} d'endurance pour les primes
 complete_an_expedition:Terminez {amount} x expédition
-battle_in_the_arena:Combattez {amount} x dans l'arène
+battle_in_the_arena:Combattez dans l'arène {amount} x
 join_or_create_a_guild:Rejoignez ou créez une guilde
 clear_the_first_dungeon:Terminez le premier donjon
 wear_full_set_of_uncommon:Portez un ensemble complet d'articles insolites

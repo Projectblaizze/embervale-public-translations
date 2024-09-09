@@ -63,7 +63,7 @@ divine:Divino
 necrotic:Necrótico
 arcane:arcaico
 frost:Escarcha
-affinityTooltip:Reduce el daño {elemental} recibido. Aumenta el daño infernal si el arma contiene una runa {elemental}
+affinityTooltip:Reduce el daño {elemental} recibido. Aumenta el daño {elemental} si el arma está llena de runas
 vit:Vitalidad
 vitEffect:Puntos de salud
 vitDescription:{stat} aumenta tu salud total.
@@ -406,8 +406,8 @@ connect:Conectar
 marketNoDiscordConnected:Solo los jugadores verificados pueden usar el mercado. ¡Verifica ahora conectando tu discordia!
 starter_shield_description:El caballero lleva un escudo para reducir el daño físico bloqueándolo de vez en cuando. Atributo mejorado: HP
 starter_quiver_description:El Ranger tiene sus flechas siempre a mano, lo que le permite iniciar un ataque adicional de vez en cuando. Atributo mejorado: Probabilidad crítica
-starter_grimoire_description:El mago puede congelarte, quemarte o paralizarte. Atributo mejorado: modificador crítico
-starter_lifestone_description:Cuando está en peligro, el guerrero usa el poder de una piedra vital para agotar la fuerza vital de su oponente. Atributo mejorado: Daño
+starter_grimoire_description:La habilidad del mago para concentrarse en su objetivo le permite no fallar nunca. Atributo mejorado: modificador crítico
+starter_lifestone_description:La piedra vital te permite perder un 30% de vida en descomposición. Atributo mejorado: Daño
 starter_talisman_description:El pícaro usa su habilidad de sigilo para esquivar los ataques mágicos y a distancia. Atributo mejorado: Evasión
 heavyArmor:Armadura pesada
 mediumArmor:Armadura mediana

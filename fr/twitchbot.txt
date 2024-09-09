@@ -17,3 +17,4 @@ materialDiscovered:Matériaux découverts
 bestiary:Bestiaire
 defeated:Vaincu
 cantFindMonster:Impossible de trouver ce monstre!
+cmdJoinDiscord:Rendez-vous sur notre Discord pour réclamer des récompenses passionnantes chaque jour

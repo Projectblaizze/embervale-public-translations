@@ -7,7 +7,7 @@ ended:Finalizado
 leader:Líder
 welcomeToAdventures:Bienvenido a las aventuras
 yourHighscore:Tu puntuación más alta
-beforeAdventureStartsText:Adventures es el modo de juego hecho explícito desarrollado para streamers. Tu comunidad puede unirse a través de «! ¡Únete!» a tu aventura. El límite máximo actual de participantes es de 50.
+beforeAdventureStartsText:Adventures es el modo de juego desarrollado explícitamente para los streamers. Tu comunidad puede unirse a través de «! ¡Únete!» a tu aventura. El límite máximo actual de participantes es de 50.
 wrongAdventureLeader:Has iniciado sesión con un personaje diferente al que inició la aventura. Cambia a {username} para continuar
 currentLoggedIn:Actualmente estás conectado como
 youCanSelectRecipient:¡Puedes seleccionar al destinatario del botín raro o superior!

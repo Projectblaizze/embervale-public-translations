@@ -63,7 +63,7 @@ divine:Divino
 necrotic:Necrótico
 arcane:Arcano
 frost:Geada
-affinityTooltip:Reduz o dano {elemental} recebido. Aumenta o dano infernal se a arma for infundida com a runa {elemental}
+affinityTooltip:Reduz o dano {elemental} recebido. Aumenta o dano {elemental} se a arma for infundida com runa
 vit:Vitalidade
 vitEffect:Pontos de saúde
 vitDescription:{stat} aumenta sua saúde total.
@@ -406,8 +406,8 @@ connect:Conectar
 marketNoDiscordConnected:Somente jogadores verificados podem usar o mercado. Verifique agora conectando seu discord!
 starter_shield_description:O Cavaleiro carrega um escudo para reduzir os danos físicos bloqueando de tempos em tempos. Atributo aprimorado: HP
 starter_quiver_description:O Ranger tem suas flechas sempre à mão, permitindo que ele inicie um ataque adicional de tempos em tempos. Atributo aprimorado: chance crítica
-starter_grimoire_description:O Mago pode congelar, queimar ou paralisar você. Atributo aprimorado: modificador crítico
-starter_lifestone_description:Quando está em perigo, o guerreiro usa o poder de uma pedra vital para drenar a força vital do oponente. Atributo aprimorado: Dano
+starter_grimoire_description:A habilidade do mago de se concentrar em seu alvo permite que ele nunca erre. Atributo aprimorado: modificador crítico
+starter_lifestone_description:A pedra de vida garante 30% de perda de vida em decomposição. Atributo aprimorado: Dano
 starter_talisman_description:O Ladino usa sua habilidade furtiva para evitar ataques mágicos e de longo alcance. Atributo aprimorado: Evasão
 heavyArmor:Armadura pesada
 mediumArmor:Armadura média

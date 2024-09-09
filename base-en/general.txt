@@ -78,7 +78,7 @@ divine:Divine
 necrotic:Necrotic
 arcane:Arcane
 frost:Frost
-affinityTooltip:Reduces incoming {elemental} damage. Boosts infernal damage if weapon is infused with {elemental} rune
+affinityTooltip:Reduces incoming {elemental} damage. Boosts {elemental} damage if weapon is infused with rune
 
 vit:Vitality
 vitEffect:Health Points
@@ -503,8 +503,8 @@ marketNoDiscordConnected:Only verified players can use the market. Verify now by
 // class slot
 starter_shield_description:The Knight carries a shield to reduce physical damage by blocking from time to time. Boosted attribute: HP
 starter_quiver_description:The Ranger has their arrows always ready at hand allowing them to start an additional attack from time to time. Boosted attribute: Crit chance
-starter_grimoire_description:The Mage can freeze, burn or paralyze you. Boosted attribute: Crit Modifier
-starter_lifestone_description:When in danger the Warrior uses the power of a lifestone to drain their opponent's life force. Boosted attribute: Damage
+starter_grimoire_description:The mage's ability to focus on their target allows them to never miss. Boosted attribute: Crit Modifier
+starter_lifestone_description:The lifestone grants you 30% decaying life drain. Boosted attribute: Damage
 starter_talisman_description:The Rogue uses their stealth ability to dodge ranged and magical attacks. Boosted attribute: Evasion
 heavyArmor:Heavy Armor
 mediumArmor:Medium Armor

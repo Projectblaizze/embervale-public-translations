@@ -52,7 +52,7 @@ distribute_skill_points:Verteile {amount} Skillpunkte
  # clear_bounties:{amount} Prämien löschen
 use_stamina:Nutze {amount} Ausdauer für Kopfgelder
 complete_an_expedition:Schließe {amount} x Expedition ab
-battle_in_the_arena:Kämpfe gegen {amount} x in der Arena
+battle_in_the_arena:Kampf in der Arena {amount} x
 join_or_create_a_guild:Tritt einer Gilde bei oder gründe eine
 clear_the_first_dungeon:Schließe den ersten Dungeon ab
 wear_full_set_of_uncommon:Trage ein komplettes Set ungewöhnlicher Gegenstände

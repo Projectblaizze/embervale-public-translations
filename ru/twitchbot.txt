@@ -17,3 +17,4 @@ materialDiscovered:Обнаруженные материалы
 bestiary:Бестиарий
 defeated:Побежден
 cantFindMonster:Не могу найти этого монстра!
+cmdJoinDiscord:Посетите наш Discord, чтобы каждый день получать интересные награды

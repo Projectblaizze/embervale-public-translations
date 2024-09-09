@@ -121,3 +121,4 @@ uncommon_material_chest:Cofre de material poco común
 potion:Poción
 chest:Pecho
 food:Comida
+royal_chest:Cofre real

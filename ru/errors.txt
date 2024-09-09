@@ -63,3 +63,6 @@ error:Ошибка
 connectTwitchBrowser:В вашем браузере открылось новое окно. Пожалуйста, войдите в свою учетную запись Twitch, а затем подключите свою учетную запись Steam.
 connectTwitchConfirm:Когда закончите, нажмите кнопку подтверждения ниже
 isSteamRunning:Произошла ошибка. Steam работает?
+errNoPermission:У вас нет на это разрешения!
+errUnknownErrorChatbot:Произошла неизвестная ошибка! Если проблема не исчезнет, сообщите нам об этом в нашем дискорде https://discord.com/invite/Gum9bS2dyw
+twitchBotRemoved:Теперь бот уйдет. Спасибо, что играете в Embervale.

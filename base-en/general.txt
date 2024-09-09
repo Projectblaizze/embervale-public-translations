@@ -70,7 +70,8 @@ thisCosts:This costs:
 
 affinity:Affinity
 weakness:Weakness
-resistance:Resistance
+resistance:Elemental
+elemental:Elemental
 
 infernal:Infernal
 divine:Divine
@@ -112,7 +113,6 @@ current_hp:current HP
 crit_chance:Crit %
 crit_multiplier:Crit mod
 damage:Damage
-resistance:Resistance
 shield_ability_chance:Block chance
 shield_ability_rate:Block rate
 shield_scaling_bonus:Max HP
@@ -228,6 +228,7 @@ yourSelectedGender:You will play as {gender}
 decisionNotChangable:You can't change your decision afterwards!
 male:Male
 female:Female
+selectYourCharacter:Select your character
 
 // shop
 arcanite:Arcanite
@@ -287,14 +288,14 @@ chooseName:Choose your name
 badge:Badge
 beast-slayer-badge:Mercenary Badge
 beast-slayer-badge_desc:Obtainable from bestiary achievements
-deemon-badge:Deemon Badge
-deemon-badge_desc:This is the Badge from Deemon. We don't know why this exists and how to obtain it.
 patreon-badge:Patreon Badge
-patreon-badge_desc:This Badge shows that you are currently in the cool club of Patreons!
+patreon-badge_desc:Badge for being a Patreon member. Thank you for your support!
 alpha-badge:Alpha Badge
 alpha-badge_desc:Participation reward for the Embervale Alpha!
-obtainedBy:Obtained by {obtained_by}% of players
+chrono-badge:Chrono Badge
+chrono-badge_desc:Exceedingly rare badge for collecting 365 daily rewards in a row.
 
+obtainedBy:Obtained by {obtained_by}% of players
 noBadge:No badge
 emptyBadge:An empty badge slot
 
@@ -359,28 +360,36 @@ loadingTip3:Join our discord to receive daily rewards!
 loadingTip4:This is supposed to be a tip, but we ran out of ideas.
 loadingTip5:Higher speech decreases your cost of ordering new shop items.
 loadingTip6:When selecting bounties pay attention to stamina to experience ratio when prioritizing leveling up.
-loadingTip7:Experimenting can be a great way to see what you can beat and what you can't beat.
-loadingTip8:You can change the speed of the battles during a battle.
+loadingTip7:Epic, Legendary and Mythical items might have elemental affinities boosting your damage / resistance.
+loadingTip8:You can change the speed of the combat during a battle.
 loadingTip9:You can practice battle against players by clicking on their name in the leaderboard.
 loadingTip10:Mages never miss their target. Only stealth can help to evade their attacks.
 loadingTip11:Luck increases the chance for better rewards in bounties.
 loadingTip12:Knights are heavily armored and carry a shield, giving them a natural advantage against dexterity-based classes.
 loadingTip13:The Ranger's quickdraw ability allows them to strike twice once in a while.
 loadingTip14:Warriors use a lifestone to drain their enemies HP with every hit. The power of the stone is quickly decaying however.
-loadingTip15:The Rogue is a master of stealth and evasion making much harder for ranged attackers to land hits.
+loadingTip15:The Rogue is a master of stealth and evasion making it much harder for ranged attackers to land hits.
 loadingTip16:Make sure to get your glossary filled to earn XP more quickly!
 loadingTip17:Did you know that defeating an opponent in the arena will add all their armor, weapons and skin to your Glossary?
 loadingTip18:All classes have different hp and damage scalings. They can only wear one designated type of armor; heavy, medium or light.
 loadingTip19:Make sure to check out weekly missions to earn bonus loot!
-loadingTip20:When you are subscribed to a streamer or when you play on Embervale.TV you earn additional 10% Gold!
+loadingTip20:When you are subscribed to a streamer or when you play on Embervale.TV you earn additional 10% Gold in bounties!
 loadingTip21:You can use your Glossary to see the Affinity and Weakness of a Monster.
 loadingTip22:Your first Bounty every day grants you a free Arcanite!
-loadingTip23:You can watch ads on Embervale.TV to earn Arcanites for free
+loadingTip23:You can watch ads on Embervale.TV to earn Arcanites for free.
 loadingTip24:We worked over 3 years to make our dream become true! Thank you so much for playing!
-loadingTip25:Every Bounty has a chance to drop an arcanite! The longer it is the higher chance
-loadingTip26:Don‘t forget to brew potions in the crafting menu! This can make you immensivlx stronger!
-loadingTip27:Share your progress by typing !evflex in any channel with Embervale installed
-loadingTip28:We listen to your feedback. Join our discord to submit your suggestions!
+loadingTip25:Every Bounty has a chance to drop an arcanite! The longer it is the higher chance.
+loadingTip26:Don‘t forget to brew potions in the crafting menu! This can boost your power significantly!
+loadingTip27:Share your progress by typing !evflex in any channel with Embervale installed.
+loadingTip28:We listen to your feedback. Join our Discord server to submit your suggestions!
+loadingTip29:Raising your character's level will allow you to find more recipes.
+loadingTip30:Struggling with a certain kind of enemy? Figure out their elemntal weakness!
+loadingTip31:Winning in the arena does not only grant you Glory but also a small portion of your opponents gold!
+loadingTip32:If you lost gold to an attacker in the arena you are protected from losing more for a while.
+loadingTip33:Keep your daily reward streak alive and obtain increasingly more powerful rewards!
+loadingTip34:The shop receives a new batch of items for free 24 hours after your last reroll.
+loadingTip35:Clearing a Dungeon for the first time guarantees you a Mythical Chest!
+loadingTip36:Dungeons have unique pools of monsters, collect them all to fill your Bestiary!
 
 // levelUp
 youReachedLevel:You reached level
@@ -449,6 +458,7 @@ novice:Novice
 notification:Notification
 required:Required
 found:Found
+select:Select
 
 // login
 login:Login
@@ -551,13 +561,10 @@ sir_male:Sir
 sir_female:Madam
 chief_male:Chief
 chief_female:Chieftess
-
-champion_male:Champion
-champion_female:Champion
-
-pioneer_male:Pioneer
-pioneer_female:Pioneer
-
+founder_male:Founder
+founder_female:Founder
+harbinger_male:Harbinger
+harbinger_female:Harbinger
 hero_male:Hero
 hero_female:Hero
 adventurer_male:Adventurer

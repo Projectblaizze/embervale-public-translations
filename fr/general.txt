@@ -57,7 +57,7 @@ noStatsFoundToReset:Aucune statistique à réinitialiser n'a été trouvée.
 thisCosts:Cela coûte:
 affinity:Affinité
 weakness:Faiblesse
-resistance:Résistance
+resistance:Élémentaire
 infernal:Infernal
 divine:Divin
 necrotic:Nécrotique
@@ -239,10 +239,8 @@ chooseName:Choisissez votre nom
 badge:Badge
 beast-slayer-badge:Insigne de tueur de bêtes
 beast-slayer-badge_desc:Disponible à partir des réalisations du bestiaire
-deemon-badge:Badge Démon
-deemon-badge_desc:Voici l'insigne de Deemon. Nous ne savons pas pourquoi cela existe et comment l'obtenir.
 patreon-badge:Badge Patreon
-patreon-badge_desc:Ce badge montre que tu fais actuellement partie du club cool de Patreons!
+patreon-badge_desc:Badge pour être membre de Patreon. Merci pour votre soutien!
 alpha-badge:Badge Alpha
 alpha-badge_desc:Récompense de participation pour l'Embervale Alpha!
 obtainedBy:Obtenu par {obtained_by}% des joueurs
@@ -296,28 +294,28 @@ loadingTip3:Rejoignez notre discord pour recevoir des récompenses quotidiennes!
 loadingTip4:C'est censé être un conseil, mais nous n'avons plus d'idées.
 loadingTip5:Une voix plus élevée réduit le coût de la commande de nouveaux articles de la boutique.
 loadingTip6:Lorsque vous sélectionnez des primes, faites attention au ratio endurance/expérience lorsque vous donnez la priorité à la montée de niveau.
-loadingTip7:L'expérimentation peut être un excellent moyen de voir ce que vous pouvez battre et ce que vous ne pouvez pas battre.
-loadingTip8:Vous pouvez modifier la vitesse des batailles au cours d'une bataille.
+loadingTip7:Les objets épiques, légendaires et mythiques peuvent avoir des affinités élémentaires augmentant vos dégâts et votre résistance.
+loadingTip8:Vous pouvez modifier la vitesse du combat au cours d'une bataille.
 loadingTip9:Vous pouvez vous entraîner au combat contre des joueurs en cliquant sur leur nom dans le classement.
 loadingTip10:Les mages ne ratent jamais leur cible. Seule la furtivité peut les aider à échapper à leurs attaques.
 loadingTip11:La chance augmente les chances d'obtenir de meilleures récompenses sous forme de primes.
 loadingTip12:Les chevaliers sont lourdement blindés et portent un bouclier, ce qui leur confère un avantage naturel face aux classes basées sur la dextérité.
 loadingTip13:La capacité de tirage rapide du Ranger lui permet de frapper deux fois de temps en temps.
 loadingTip14:Les guerriers utilisent une pierre de vie pour épuiser les PV de leurs ennemis à chaque coup. Cependant, la puissance de la pierre diminue rapidement.
-loadingTip15:Le Rogue est un maître de la furtivité et de l'évasion, ce qui rend les attaques à distance beaucoup plus difficiles à atteindre.
+loadingTip15:Le Rogue est un maître de la furtivité et de l'évasion, ce qui rend les attaques à distance beaucoup plus difficiles à toucher.
 loadingTip16:Assurez-vous de remplir votre glossaire pour gagner de l'XP plus rapidement!
 loadingTip17:Saviez-vous que vaincre un adversaire dans l'arène ajoutera toutes ses armures, armes et skins à votre glossaire?
 loadingTip18:Toutes les classes ont des échelles de PV et de dégâts différentes. Ils ne peuvent porter qu'un seul type d'armure désigné: lourd, moyen ou léger.
 loadingTip19:N'oubliez pas de consulter les missions hebdomadaires pour gagner du butin bonus!
-loadingTip20:Lorsque vous êtes abonné à un streamer ou que vous jouez sur Embervale.tv, vous gagnez 10% d'or supplémentaires!
+loadingTip20:Lorsque vous êtes abonné à un streamer ou que vous jouez sur Embervale.tv, vous gagnez 10% d'or supplémentaires en bounties!
 loadingTip21:Vous pouvez utiliser votre glossaire pour connaître l'affinité et la faiblesse d'un monstre.
 loadingTip22:Votre première prime quotidienne vous permet de gagner un Arcanite gratuit!
-loadingTip23:Vous pouvez regarder des publicités sur Embervale.tv pour gagner des Arcanites gratuitement
+loadingTip23:Vous pouvez regarder des publicités sur Embervale.tv pour gagner des Arcanites gratuitement.
 loadingTip24:Nous avons travaillé pendant 3 ans pour réaliser notre rêve! Merci beaucoup d'avoir joué!
-loadingTip25:Chaque Bounty a une chance de faire tomber une arcanite! Plus c'est long, plus les chances sont grandes
-loadingTip26:N'oubliez pas de préparer des potions dans le menu d'artisanat! Cela peut vous rendre immensément plus fort!
-loadingTip27:Partagez vos progrès en tapant! evflex sur n'importe quel canal sur lequel Embervale est installé
-loadingTip28:Nous sommes à l'écoute de vos commentaires. Rejoignez notre discord pour soumettre vos suggestions!
+loadingTip25:Chaque Bounty a une chance de faire tomber une arcanite! Plus c'est long, plus les chances sont grandes.
+loadingTip26:N'oubliez pas de préparer des potions dans le menu d'artisanat! Cela peut augmenter votre puissance de manière significative!
+loadingTip27:Partagez vos progrès en tapant! evflex dans n'importe quel canal sur lequel Embervale est installé.
+loadingTip28:Nous sommes à l'écoute de vos commentaires. Rejoignez notre serveur Discord pour soumettre vos suggestions!
 youReachedLevel:Vous avez atteint le niveau
 LevelUpShop:Vous pouvez désormais accéder à la boutique!
 levelUpArena:Vous pouvez maintenant entrer dans l'arène!
@@ -454,10 +452,6 @@ sir_male:Monsieur
 sir_female:Madame
 chief_male:Chef
 chief_female:Cheffesse
-champion_male:Champion
-champion_female:Champion
-pioneer_male:Pionnier
-pioneer_female:Pionnier
 hero_male:Héros
 hero_female:Héros
 adventurer_male:Aventurier
@@ -583,3 +577,19 @@ silver_mountains:Montagnes d'argent
 crownlands:Terres de la Couronne
 boiling_lake:Lac Boiling
 rare_badges:Badges rares
+selectYourCharacter:Sélectionnez votre personnage
+select:Sélectionnez
+loadingTip29:Augmenter le niveau de votre personnage vous permettra de trouver plus de recettes.
+loadingTip30:Aux prises avec un certain type d'ennemi? Découvrez leur faiblesse élémentaire!
+loadingTip31:Gagner dans l'arène ne vous donne pas seulement de la Gloire, mais aussi une petite partie de l'or de vos adversaires!
+loadingTip32:Si vous perdez de l'or face à un attaquant dans l'arène, vous êtes protégé contre toute perte supplémentaire pendant un certain temps.
+loadingTip33:Maintenez votre série de récompenses quotidiennes et obtenez des récompenses de plus en plus puissantes!
+loadingTip34:La boutique reçoit un nouveau lot d'articles gratuitement 24 heures après votre dernière relance.
+loadingTip35:Terminer un donjon pour la première fois vous garantit un coffre mythique!
+loadingTip36:Les donjons regorgent de monstres uniques, collectez-les tous pour remplir votre bestiaire!
+chrono-badge:Badge Chrono
+chrono-badge_desc:Badge extrêmement rare pour collecter 365 récompenses quotidiennes d'affilée.
+founder_male:Fondateur
+founder_female:Fondateur
+harbinger_male:Un signe avant-coureur
+harbinger_female:Un signe avant-coureur

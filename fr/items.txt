@@ -758,3 +758,21 @@ starter_quiver:Starter Quiver
 starter_grimoire:Grimoire de départ
 starter_lifestone:Starter Lifestone
 starter_talisman:Talisman de démarrage
+final_crown:Couronne finale
+mjolnir:Mjolnir
+bonebreaker_blossom:Bonebreaker Blossom
+dragonsong_blade:Dragonsong Blade
+lightbringer:Porteur de lumière
+wrath_of_the_sun_god:La Colère du Dieu Soleil
+skysunder_blade:Skysunder Blade
+gilded_horizon:Horizon doré
+graceful_hunter:Chasseur gracieux
+nightshade_whisper:Nightshade Whisper
+crimson_bolt:Crimson Bolt
+seraphims_wing:L'aile des séraphins
+stormhawk:Stormhawk
+silverwing:Silver Wing
+evershift_scepter:Sceptre Evershift
+hellscream_blade:Lame Hellscream
+soulreaver_talons:Talons Soulreaver
+crystalline_blade:Lame cristalline

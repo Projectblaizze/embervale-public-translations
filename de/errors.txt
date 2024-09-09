@@ -4,7 +4,7 @@ errUnknownErrorHeadline:Unbehandelter Fehler!
 errUnknownError:Ein unbekannter Fehler ist aufgetreten! Bitte versuchen Sie die Webseite zu aktualisieren! Wenn das Problem weiterhin besteht, melde es uns auf unserem Discord https://discord.com/invite/Gum9bS2dyw
 tokenExpired:Das Twitch-Authentifizierungstoken ist abgelaufen. Bitte laden Sie die Website neu oder starten Sie Ihre App neu.
 invalidToken:</h5><h3>Authentifizierung fehlgeschlagen Bitte stellen Sie sicher, dass Ihre Systemuhr synchronisiert ist! <br>Andernfalls schlägt die Authentifizierung fehl! <br><br><br>Weitere Lösungen: <br>1) Seitenaktualisierung <br>2) Browsererweiterungen deaktivieren <br>3) Widerrufe und erteile die Erweiterungserlaubnis <br>4) Auf Twitch an- und abmelden <br>5) Einen anderen Browser ausprobieren <br><br>Für weitere Hilfe besuche unseren Discord https://discord.gg/cT3ThCj,
-errNotReleased:Embervale wird im September veröffentlicht!
+errNotReleased:Embervale wird diesen Montag, den 9. September 2024 um 12 Uhr MESZ veröffentlicht!
 errTwitchAccessNotGranted:Bitte gewähre Zugriff auf deine TwitchID, indem du auf den kleinen Menschen unten rechts klickst!
 errNoInventoryItem:Leer!
 errInventoryIsFull:Dein Inventar ist voll! Bitte verkaufe ein paar Artikel!
@@ -63,3 +63,6 @@ error:Fehler
 connectTwitchBrowser:Ein neues Fenster in Ihrem Browser hat sich geöffnet. Bitte melde dich mit deinem Twitch-Konto an und verbinde dann dein Steam-Konto.
 connectTwitchConfirm:Wenn Sie fertig sind, drücken Sie bitte die unten stehende Bestätigungstaste
 isSteamRunning:Ein Fehler ist aufgetreten. Läuft Steam?
+errNoPermission:Du hast nicht die Erlaubnis dazu!
+errUnknownErrorChatbot:Ein unbekannter Fehler ist aufgetreten! Wenn das Problem weiterhin besteht, melde es uns auf unserem Discord https://discord.com/invite/Gum9bS2dyw
+twitchBotRemoved:Der Bot wird jetzt gehen. Danke, dass du Embervale spielst.

@@ -121,3 +121,4 @@ uncommon_material_chest:Coffre en matériau peu commun
 potion:Potion
 chest:Poitrine
 food:Nourriture
+royal_chest:Coffre royal

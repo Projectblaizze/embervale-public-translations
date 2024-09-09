@@ -151,6 +151,7 @@ wooden_chest:Wooden chest
 fabled_chest:Fabled chest
 decorated_chest:Decorated chest
 mythical_chest:Mythical chest
+royal_chest:Royal chest
 weapon_chest:Weapon chest
 armor_chest:Armor chest
 

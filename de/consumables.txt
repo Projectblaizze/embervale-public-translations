@@ -121,3 +121,4 @@ uncommon_material_chest:Ungewöhnliche Materialtruhe
 potion:Zaubertrank
 chest:Brust
 food:Essen
+royal_chest:Königliche Truhe

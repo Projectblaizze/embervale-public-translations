@@ -63,3 +63,6 @@ error:Erreur
 connectTwitchBrowser:Une nouvelle fenêtre s'est ouverte dans votre navigateur. Connectez-vous avec votre compte Twitch, puis connectez votre compte Steam.
 connectTwitchConfirm:Lorsque vous avez terminé, veuillez appuyer sur le bouton de confirmation ci-dessous
 isSteamRunning:Une erreur s'est produite. Est-ce que Steam fonctionne?
+errNoPermission:Vous n'êtes pas autorisé à le faire!
+errUnknownErrorChatbot:Une erreur inconnue s'est produite! Si le problème persiste, signalez-le-nous sur notre discord https://discord.com/invite/Gum9bS2dyw
+twitchBotRemoved:Le bot va partir maintenant. Merci d'avoir joué à Embervale.

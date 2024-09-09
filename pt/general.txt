@@ -57,7 +57,7 @@ noStatsFoundToReset:Nenhuma estatística encontrada para redefinir.
 thisCosts:Isso custa:
 affinity:Afinidade
 weakness:Fraqueza
-resistance:Resistência
+resistance:Elemental
 infernal:Infernal
 divine:Divino
 necrotic:Necrótico
@@ -239,10 +239,8 @@ chooseName:Escolha seu nome
 badge:Emblema
 beast-slayer-badge:Medalha de matador de feras
 beast-slayer-badge_desc:Pode ser obtido a partir de conquistas do bestiário
-deemon-badge:Emblema Deemon
-deemon-badge_desc:Este é o distintivo de Deemon. Não sabemos por que isso existe e como obtê-lo.
 patreon-badge:Emblema do Patreon
-patreon-badge_desc:Este distintivo mostra que você está atualmente no clube bacana do Patreons!
+patreon-badge_desc:Distintivo por ser membro do Patreon. Obrigado por seu apoio!
 alpha-badge:Emblema Alpha
 alpha-badge_desc:Recompensa de participação para o Embervale Alpha!
 obtainedBy:Obtido por {obtained_by}% dos jogadores
@@ -296,28 +294,28 @@ loadingTip3:Junte-se à nossa discórdia para receber recompensas diárias!
 loadingTip4:Isso deveria ser uma dica, mas ficamos sem ideias.
 loadingTip5:Falar mais alto diminui o custo de comprar novos itens na loja.
 loadingTip6:Ao selecionar recompensas, preste atenção à relação entre resistência e experiência ao priorizar a subida de nível.
-loadingTip7:Experimentar pode ser uma ótima maneira de ver o que você pode vencer e o que não pode vencer.
-loadingTip8:Você pode alterar a velocidade das batalhas durante uma batalha.
+loadingTip7:Itens épicos, lendários e míticos podem ter afinidades elementares, aumentando seu dano/resistência.
+loadingTip8:Você pode alterar a velocidade do combate durante uma batalha.
 loadingTip9:Você pode praticar batalhas contra jogadores clicando no nome deles na tabela de classificação.
 loadingTip10:Os magos nunca erram o alvo. Somente a furtividade pode ajudar a evitar seus ataques.
 loadingTip11:A sorte aumenta a chance de melhores recompensas em recompensas.
 loadingTip12:Os cavaleiros são fortemente blindados e carregam um escudo, o que lhes dá uma vantagem natural contra as classes baseadas na destreza.
 loadingTip13:A habilidade de retirada rápida do Ranger permite que eles ataquem duas vezes de vez em quando.
 loadingTip14:Os guerreiros usam uma pedra de vida para drenar o HP de seus inimigos a cada golpe. No entanto, o poder da pedra está se deteriorando rapidamente.
-loadingTip15:O Ladino é um mestre em furtividade e evasão, tornando muito mais difícil para atacantes de longo alcance acertarem ataques.
+loadingTip15:O Ladino é mestre em furtividade e evasão, o que torna muito mais difícil para atacantes de longo alcance acertarem ataques.
 loadingTip16:Certifique-se de preencher seu glossário para ganhar XP mais rapidamente!
 loadingTip17:Você sabia que derrotar um oponente na arena adicionará todas as armaduras, armas e skins ao seu glossário?
 loadingTip18:Todas as classes têm diferentes escalas de HP e dano. Eles só podem usar um tipo designado de armadura: pesada, média ou leve.
 loadingTip19:Não deixe de conferir as missões semanais para ganhar itens extras!
-loadingTip20:Quando você se inscreve em um streamer ou quando joga no Embervale.tv, você ganha 10% de ouro adicional!
+loadingTip20:Quando você se inscreve em um streamer ou quando joga no Embervale.tv, você ganha 10% de ouro adicional em recompensas!
 loadingTip21:Você pode usar seu glossário para ver a afinidade e a fraqueza de um monstro.
 loadingTip22:Sua primeira recompensa diária concede a você um Arcanite grátis!
-loadingTip23:Você pode assistir anúncios no Embervale.tv para ganhar Arcanites gratuitamente
+loadingTip23:Você pode assistir a anúncios no Embervale.tv para ganhar Arcanites gratuitamente.
 loadingTip24:Trabalhamos mais de 3 anos para tornar nosso sonho realidade! Muito obrigado por jogar!
-loadingTip25:Cada recompensa tem a chance de derrubar um arcanite! Quanto maior for, maior a chance
-loadingTip26:Não se esqueça de preparar poções no menu de artesanato! Isso pode torná-lo imensamente mais forte!
-loadingTip27:Compartilhe seu progresso digitando! evflex em qualquer canal com o Embervale instalado
-loadingTip28:Ouvimos seus comentários. Junte-se ao nosso discord para enviar suas sugestões!
+loadingTip25:Cada recompensa tem a chance de derrubar um arcanite! Quanto mais longo, maior a chance.
+loadingTip26:Não se esqueça de preparar poções no menu de artesanato! Isso pode aumentar sua potência significativamente!
+loadingTip27:Compartilhe seu progresso digitando! evflex em qualquer canal com o Embervale instalado.
+loadingTip28:Ouvimos seus comentários. Junte-se ao nosso servidor Discord para enviar suas sugestões!
 youReachedLevel:Você atingiu o nível
 LevelUpShop:Agora você pode entrar na loja!
 levelUpArena:Agora você pode entrar na Arena!
@@ -454,10 +452,6 @@ sir_male:Senhor
 sir_female:Senhora
 chief_male:Chefe
 chief_female:Cacique
-champion_male:Campeão
-champion_female:Campeão
-pioneer_male:Pioneiro
-pioneer_female:Pioneiro
 hero_male:Herói
 hero_female:Herói
 adventurer_male:Aventureiro
@@ -583,3 +577,19 @@ silver_mountains:Montanhas de prata
 crownlands:Crownlands
 boiling_lake:Lago fervente
 rare_badges:Emblemas raros
+selectYourCharacter:Selecione seu personagem
+select:Selecione
+loadingTip29:Aumentar o nível do seu personagem permitirá que você encontre mais receitas.
+loadingTip30:Lutando com um certo tipo de inimigo? Descubra sua fraqueza elementar!
+loadingTip31:Vencer na arena não só lhe concede glória, mas também uma pequena parte do ouro de seus oponentes!
+loadingTip32:Se você perdeu ouro para um atacante na arena, você está protegido de perder mais por um tempo.
+loadingTip33:Mantenha viva sua sequência diária de recompensas e obtenha recompensas cada vez mais poderosas!
+loadingTip34:A loja recebe um novo lote de itens gratuitamente 24 horas após sua última rerolagem.
+loadingTip35:Limpar uma masmorra pela primeira vez garante a você um baú mítico!
+loadingTip36:As masmorras têm piscinas únicas de monstros, colecione todas para encher seu Bestiário!
+chrono-badge:Emblema Chrono
+chrono-badge_desc:Emblema extremamente raro para coletar 365 recompensas diárias consecutivas.
+founder_male:Fundador
+founder_female:Fundador
+harbinger_male:Prenúncio
+harbinger_female:Prenúncio

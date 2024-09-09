@@ -121,3 +121,4 @@ uncommon_material_chest:Необычный материальный сундук
 potion:Зелье
 chest:сундук
 food:Еда
+royal_chest:Королевский сундук

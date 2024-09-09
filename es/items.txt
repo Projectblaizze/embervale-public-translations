@@ -758,3 +758,21 @@ starter_quiver:Carcaj de arranque
 starter_grimoire:Grimorio de inicio
 starter_lifestone:Lifestone para principiantes
 starter_talisman:Talismán de arranque
+final_crown:Corona final
+mjolnir:Mjolnir
+bonebreaker_blossom:Bonebreaker Blossom
+dragonsong_blade:Dragonsong Blade
+lightbringer:Portador de luz
+wrath_of_the_sun_god:La ira del dios del sol
+skysunder_blade:Skysunder Blade
+gilded_horizon:Horizonte dorado
+graceful_hunter:Cazador elegante
+nightshade_whisper:Nightshade Whisper
+crimson_bolt:Perno carmesí
+seraphims_wing:Ala de serafín
+stormhawk:Stormhawk
+silverwing:Ala plateada
+evershift_scepter:Cetro Evershift
+hellscream_blade:Espada Hellscream
+soulreaver_talons:Garras Soulreaver
+crystalline_blade:Hoja cristalina

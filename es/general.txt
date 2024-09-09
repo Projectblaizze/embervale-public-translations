@@ -57,7 +57,7 @@ noStatsFoundToReset:No se han encontrado estadísticas para restablecer.
 thisCosts:Esto cuesta:
 affinity:Afinidad
 weakness:Debilidad
-resistance:Resistencia
+resistance:Elemental
 infernal:Infernal
 divine:Divino
 necrotic:Necrótico
@@ -239,10 +239,8 @@ chooseName:Elige tu nombre
 badge:Insignia
 beast-slayer-badge:Insignia de Beast Slayer
 beast-slayer-badge_desc:Se puede obtener a partir de logros bestiarios
-deemon-badge:Insignia de Deemon
-deemon-badge_desc:Esta es la insignia de Deemon. No sabemos por qué existe ni cómo obtenerla.
 patreon-badge:Insignia de Patreon
-patreon-badge_desc:¡Esta insignia indica que estás actualmente en el genial club de Patreons!
+patreon-badge_desc:Insignia por ser miembro de Patreon. ¡Gracias por tu apoyo!
 alpha-badge:Insignia Alpha
 alpha-badge_desc:¡Recompensa de participación para el Alfa de Embervale!
 obtainedBy:Obtenido por el {obtained_by}% de los jugadores
@@ -296,8 +294,8 @@ loadingTip3:¡Únete a nuestra discordia para recibir recompensas diarias!
 loadingTip4:Se supone que es un consejo, pero se nos acabaron las ideas.
 loadingTip5:Una voz más alta reduce el costo de pedir nuevos artículos de la tienda.
 loadingTip6:Al seleccionar recompensas, presta atención a la proporción entre resistencia y experiencia cuando priorices subir de nivel.
-loadingTip7:Experimentar puede ser una excelente manera de ver qué puedes vencer y qué no puedes vencer.
-loadingTip8:Puedes cambiar la velocidad de las batallas durante una batalla.
+loadingTip7:Los objetos épicos, legendarios y míticos pueden tener afinidades elementales que aumentan tu daño o resistencia.
+loadingTip8:Puedes cambiar la velocidad del combate durante una batalla.
 loadingTip9:Puedes practicar la batalla contra jugadores haciendo clic en su nombre en la tabla clasificatoria.
 loadingTip10:Los magos nunca pierden su objetivo. Solo el sigilo puede ayudar a evadir sus ataques.
 loadingTip11:La suerte aumenta las probabilidades de obtener mejores recompensas en forma de recompensas.
@@ -309,15 +307,15 @@ loadingTip16:¡Asegúrate de completar tu glosario para ganar XP más rápido!
 loadingTip17:¿Sabías que derrotar a un oponente en la arena añadirá todas sus armaduras, armas y diseños a tu glosario?
 loadingTip18:Todas las clases tienen diferentes niveles de puntos de vida y daño. Solo pueden llevar un tipo específico de armadura: pesada, mediana o ligera.
 loadingTip19:¡No os perdáis las misiones semanales para conseguir un botín extra!
-loadingTip20:Cuando te suscribes a un streamer o cuando juegas en Embervale.tv, ¡ganas un 10% de oro adicional!
+loadingTip20:Cuando te suscribes a un streamer o cuando juegas en Embervale.tv, ¡ganas un 10% de oro adicional en recompensas!
 loadingTip21:Puedes usar tu glosario para ver la afinidad y la debilidad de un monstruo.
 loadingTip22:¡Tu primera recompensa diaria te otorga un Arcanite gratis!
-loadingTip23:Puedes ver anuncios en Embervale.tv para ganar Arcanitas gratis
+loadingTip23:Puedes ver anuncios en Embervale.tv para ganar Arcanitas de forma gratuita.
 loadingTip24:¡Trabajamos más de 3 años para hacer realidad nuestro sueño! ¡Muchas gracias por jugar!
-loadingTip25:¡Cada recompensa tiene la posibilidad de lanzar un arcanita! Cuanto más largo sea, mayor será la probabilidad
-loadingTip26:¡No olvides preparar pociones en el menú de elaboración! ¡Esto puede hacerte inmensamente más fuerte!
-loadingTip27:¡Comparte tu progreso escribiendo! evflex en cualquier canal con Embervale instalado
-loadingTip28:Escuchamos sus comentarios. ¡Únete a nuestra discordia para enviar tus sugerencias!
+loadingTip25:¡Cada recompensa tiene la posibilidad de lanzar un arcanita! Cuanto más largo sea, mayor será la probabilidad.
+loadingTip26:¡No olvides preparar pociones en el menú de elaboración! ¡Esto puede aumentar tu poder de manera significativa!
+loadingTip27:¡Comparte tu progreso escribiendo! evflex en cualquier canal con Embervale instalado.
+loadingTip28:Escuchamos sus comentarios. ¡Únete a nuestro servidor de Discord para enviar tus sugerencias!
 youReachedLevel:Has alcanzado el nivel
 LevelUpShop:¡Ya puedes entrar en la tienda!
 levelUpArena:¡Ya puedes entrar en la arena!
@@ -454,10 +452,6 @@ sir_male:Señor
 sir_female:Señora
 chief_male:Jefe
 chief_female:Cacique
-champion_male:Campeón
-champion_female:Campeón
-pioneer_male:Pionero
-pioneer_female:Pionero
 hero_male:Héroe
 hero_female:Héroe
 adventurer_male:Aventurero
@@ -583,3 +577,19 @@ silver_mountains:Montañas Plateadas
 crownlands:Tierras de la Corona
 boiling_lake:Lago hirviente
 rare_badges:Insignias raras
+selectYourCharacter:Selecciona tu personaje
+select:Seleccione
+loadingTip29:Subir el nivel de tu personaje te permitirá encontrar más recetas.
+loadingTip30:¿Luchando con cierto tipo de enemigo? ¡Descubre su debilidad elemental!
+loadingTip31:¡Ganar en la arena no solo te otorga gloria, sino también una pequeña porción del oro de tus oponentes!
+loadingTip32:Si has perdido oro contra un atacante en la arena, estás protegido de perder más durante un tiempo.
+loadingTip33:¡Mantén viva tu racha de recompensas diaria y obtén recompensas cada vez más poderosas!
+loadingTip34:La tienda recibe un nuevo lote de artículos gratis 24 horas después de la última tirada.
+loadingTip35:¡Completar una mazmorra por primera vez te garantiza un cofre mítico!
+loadingTip36:Las mazmorras tienen grupos únicos de monstruos, ¡recógelos todos para llenar tu bestiario!
+chrono-badge:Insignia Chrono
+chrono-badge_desc:Insignia extremadamente rara para conseguir 365 recompensas diarias seguidas.
+founder_male:Fundador
+founder_female:Fundador
+harbinger_male:Heraldo
+harbinger_female:Heraldo

@@ -190,3 +190,4 @@ adventureCooldownRoyal:El tiempo de reutilización de Aventura es un 50% más co
 adventureCooldownMythical:El tiempo de reutilización de Aventura es un 50% más corto
 adventureCooldownLegendary:El tiempo de reutilización de Aventura es un 25% más corto
 adventureCooldownEpic:Tiempo de reutilización de Aventura un 10% más corto
+adventureEndMessageTimeout:Los aventureros se cansaron de quedarse sin hacer nada y el grupo se disolvió. (Se ha agotado el tiempo)

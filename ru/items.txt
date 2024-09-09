@@ -758,3 +758,21 @@ starter_quiver:Стартовый колчан
 starter_grimoire:Гримуар для закусок
 starter_lifestone:Стартовый спасательный камень
 starter_talisman:Стартовый талисман
+final_crown:Финальная корона
+mjolnir:Мьёльнир
+bonebreaker_blossom:Цветок бродяги
+dragonsong_blade:Лезвие драконьей песни
+lightbringer:Светоносец
+wrath_of_the_sun_god:Гнев Бога Солнца
+skysunder_blade:Лезвие под небом
+gilded_horizon:Позолоченный горизонт
+graceful_hunter:Грациозный охотник
+nightshade_whisper:Шепот паслена
+crimson_bolt:Багровый болт
+seraphims_wing:Крыло Серафима
+stormhawk:Стормхок
+silverwing:Серебряное крыло
+evershift_scepter:Скипетр Evershift
+hellscream_blade:Клинок «Адский крик»
+soulreaver_talons:Когти Тобывателя душ
+crystalline_blade:кристаллический клинок

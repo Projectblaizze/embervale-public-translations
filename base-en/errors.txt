@@ -13,7 +13,7 @@ invalidToken:<h3>Authentication failed</h5> Please be sure that your system cloc
 
 
 // twitch
-errNotReleased:Embervale will be released in September!
+errNotReleased:Embervale will be released this Monday: 9th September 2024 at 12 PM CEST!
 
 errTwitchAccessNotGranted:Please grant access to your TwitchID by clicking the little human on the bottom right!
 errNoInventoryItem:Empty!

@@ -26,6 +26,7 @@ voting:Voting
 adventureEndMessageMoraleZero:The morale of the group is too low to continue the adventure. You decide to return home.
 adventureEndMessageAllDead:The group can no longer continue to fight. You decide to return home.
 adventureEndMessageSurrender:You decided to return home with your group.
+adventureEndMessageTimeout:The adventurers got tired of sitting around idle and the party has disbanded. (Timeout)
 
 youWonTheAdventureFight:You won the adventure fight!
 youLoseTheAdventureFight:Your Group lost the fight!

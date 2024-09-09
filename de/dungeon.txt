@@ -12,7 +12,7 @@ dungeonName11:Abenddämmerung
 dungeonName12:Der Friedhof der Namenlosen
 dungeonName13:Bastion des Lichts
 dungeonName14:Embervale
-dungeon:Kerker
+dungeon:Dungeon
 startDungeon:starte Dungeon
 dungeonAutoSell:Es gibt noch einige Gegenstände in deinem Dungeon-Inventar! Wenn du den Dungeon jetzt verlässt, sind sie verloren!
 selectConsumablesForDungeon:Wähle die Zaubertränke aus, die du in deinen Dungeon mitnehmen möchtest. Das kann nicht rückgängig gemacht werden! Alle Gegenstände, die du in Dungeons mitbringst, gehen verloren.

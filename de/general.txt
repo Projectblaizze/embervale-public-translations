@@ -53,7 +53,7 @@ noStatsFoundToReset:Es wurden keine Statistiken zum Zurücksetzen gefunden.
 thisCosts:Das kostet:
 affinity:Affinität
 weakness:Schwäche
-resistance:Widerstand
+resistance:Elementar
 infernal:Höllisch
 divine:Göttlich
 necrotic:nekrotisch
@@ -225,10 +225,8 @@ tos:ToS
 badge:Abzeichen
 beast-slayer-badge:Beast Slayer-Abzeichen
 beast-slayer-badge_desc:Erreichbar durch Bestiarium-Erfolge
-deemon-badge:Dämon-Abzeichen
-deemon-badge_desc:Das ist das Abzeichen von Deemon. Wir wissen nicht, warum es existiert und wie wir es erhalten können.
 patreon-badge:Patreon-Abzeichen
-patreon-badge_desc:Dieses Abzeichen zeigt, dass du gerade im coolen Club der Patreons bist!
+patreon-badge_desc:Abzeichen für die Mitgliedschaft bei Patreon. Danke für deine Unterstützung!
 alpha-badge:Alpha-Abzeichen
 alpha-badge_desc:Teilnahmebelohnung für die Embervale Alpha!
 obtainedBy:Von {obtained_by}% der Spieler erhalten
@@ -280,8 +278,8 @@ loadingTip3:Tritt unserem Discord bei, um tägliche Belohnungen zu erhalten!
 loadingTip4:Das sollte ein Tipp sein, aber uns gingen die Ideen aus.
 loadingTip5:Höhere Redezeit senkt Ihre Kosten für die Bestellung neuer Shop-Artikel.
 loadingTip6:Achte bei der Auswahl von Kopfgeldern auf das Verhältnis von Ausdauer zu Erfahrung, wenn du den Levelaufstieg priorisierst.
-loadingTip7:Experimentieren kann eine großartige Möglichkeit sein, um zu sehen, was Sie schlagen können und was nicht.
-loadingTip8:Du kannst die Geschwindigkeit der Schlachten während eines Kampfes ändern.
+loadingTip7:Epische, legendäre und mythische Gegenstände können elementare Affinitäten haben, die deinen Schaden bzw. deine Resistenz erhöhen.
+loadingTip8:Du kannst die Geschwindigkeit des Kampfes während eines Kampfes ändern.
 loadingTip9:Du kannst den Kampf gegen Spieler üben, indem du auf ihren Namen in der Bestenliste klickst.
 loadingTip10:Magier verfehlen nie ihr Ziel. Nur Tarnung kann helfen, ihren Angriffen auszuweichen.
 loadingTip11:Glück erhöht die Chance auf bessere Belohnungen bei Kopfgeldern.
@@ -293,15 +291,15 @@ loadingTip16:Achte darauf, dein Glossar auszufüllen, um schneller XP zu verdien
 loadingTip17:Wusstest du, dass das Besiegen eines Gegners in der Arena all seine Rüstungen, Waffen und Skins in dein Glossar aufnimmt?
 loadingTip18:Alle Klassen haben unterschiedliche HP- und Schadensskalierungen. Sie können nur einen bestimmten Rüstungstyp tragen: schwer, mittel oder leicht.
 loadingTip19:Schaut euch die wöchentlichen Missionen an, um zusätzliche Beute zu verdienen!
-loadingTip20:Wenn du einen Streamer abonniert hast oder wenn du auf Embervale.tv spielst, verdienst du zusätzlich 10% Gold!
+loadingTip20:Wenn du einen Streamer abonniert hast oder wenn du auf Embervale.tv spielst, verdienst du zusätzliche 10% Gold in Form von Bounties!
 loadingTip21:Du kannst dein Glossar verwenden, um dir die Affinität und Schwäche eines Monsters anzusehen.
 loadingTip22:Mit deinem ersten Kopfgeld erhältst du jeden Tag einen kostenlosen Arkanit!
-loadingTip23:Du kannst dir Werbung auf Embervale.tv ansehen, um Arcanites kostenlos zu verdienen
+loadingTip23:Du kannst dir Werbung auf Embervale.tv ansehen, um Arcanites kostenlos zu verdienen.
 loadingTip24:Wir haben über 3 Jahre daran gearbeitet, unseren Traum zu verwirklichen! Vielen Dank fürs Spielen!
-loadingTip25:Jede Bounty hat die Chance, einen Arkanit fallen zu lassen! Je länger es ist, desto höher ist die Chance
-loadingTip26:Vergiss nicht, im Handwerksmenü Zaubertränke zu brauen! Das kann dich immens stärker machen!
-loadingTip27:Teile deinen Fortschritt, indem du tippst! evflex in jedem Kanal, auf dem Embervale installiert ist
-loadingTip28:Wir hören auf Ihr Feedback. Tritt unserem Discord bei, um deine Vorschläge einzureichen!
+loadingTip25:Jede Bounty hat die Chance, einen Arkanit fallen zu lassen! Je länger es ist, desto höher ist die Chance.
+loadingTip26:Vergiss nicht, im Handwerksmenü Zaubertränke zu brauen! Das kann deine Macht erheblich steigern!
+loadingTip27:Teile deinen Fortschritt, indem du tippst! evflex in jedem Kanal, auf dem Embervale installiert ist.
+loadingTip28:Wir hören auf Ihr Feedback. Tritt unserem Discord-Server bei, um deine Vorschläge einzureichen!
 skipTutorial:Tutorial überspringen
 hideTip:Tipp ausblenden
 starterTutorial0:Willkommen in Embervale! Um durch die Menüs zu navigieren, musst du auf den Kompass klicken!
@@ -425,10 +423,6 @@ sir_male:Herr
 sir_female:Madam
 chief_male:Chef
 chief_female:Häuptess
-champion_male:Meister
-champion_female:Meister
-pioneer_male:Pionier
-pioneer_female:Pionier
 hero_male:Held
 hero_female:Held
 adventurer_male:Abenteurer
@@ -583,3 +577,19 @@ levelUpAdventure:Du kannst jetzt Abenteuer als Streamer beginnen!
 levelUpCraft:Du kannst deine Materialien jetzt zum Basteln verwenden!
 levelUpDungeon:Du kannst jetzt Dungeons betreten!
 levelUpGuild:Du kannst jetzt einer Gilde beitreten oder eine gründen!
+selectYourCharacter:Wähle deinen Charakter
+select:Wählen
+loadingTip29:Wenn du das Level deines Charakters erhöhst, kannst du mehr Rezepte finden.
+loadingTip30:Haben Sie mit einer bestimmten Art von Feind zu kämpfen? Finde ihre elementare Schwäche heraus!
+loadingTip31:Wenn du in der Arena gewinnst, erhältst du nicht nur Ruhm, sondern auch einen kleinen Teil des Goldes deines Gegners!
+loadingTip32:Wenn du in der Arena Gold gegen einen Angreifer verloren hast, bist du für eine Weile davor geschützt, noch mehr zu verlieren.
+loadingTip33:Halte deine tägliche Belohnungsserie aufrecht und erhalte immer mächtigere Belohnungen!
+loadingTip34:Der Shop erhält 24 Stunden nach deinem letzten Reroll kostenlos eine neue Charge von Artikeln.
+loadingTip35:Wenn du zum ersten Mal einen Dungeon abräumst, erhältst du eine Mythische Truhe!
+loadingTip36:Dungeons haben einzigartige Monsterpools, sammle sie alle, um dein Bestiarium zu füllen!
+chrono-badge:Chrono-Abzeichen
+chrono-badge_desc:Äußerst seltenes Abzeichen für das Sammeln von 365 täglichen Belohnungen hintereinander.
+founder_male:Gründer
+founder_female:Gründer
+harbinger_male:Vorbote
+harbinger_female:Vorbote

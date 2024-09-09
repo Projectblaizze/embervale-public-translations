@@ -121,3 +121,4 @@ uncommon_material_chest:Baú de material incomum
 potion:Poção
 chest:Peito
 food:Comida
+royal_chest:Baú real

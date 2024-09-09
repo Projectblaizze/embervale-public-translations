@@ -586,6 +586,9 @@ engraved_axe:Engraved Axe
 elven_axe:Elven Axe
 mirror_axe:Mirror Axe
 guild_hammer:Guild Hammer
+final_crown:Final Crown
+mjolnir:Mjolnir
+bonebreaker_blossom:Bonebreaker Blossom
 
 # sword
 blunt_iron_sword:Blunt Iron Sword
@@ -632,6 +635,10 @@ city_watch_sword:City Watch Sword
 elegant_bronze_sword:Elegant Bronze Sword
 deep_sea_sword:Deep Sea Sword
 golden_protector:Golden Protector
+dragonsong_blade:Dragonsong Blade
+lightbringer:Lightbringer
+wrath_of_the_sun_god:Wrath of the Sun God
+skysunder_blade:Skysunder Blade
 
 # ranged
 carved_wooden_bow:Carved Wooden Bow
@@ -664,6 +671,13 @@ primitive_crossbow:Primitive Crossbow
 nightbringers_ace:Nightbringer's Ace
 demise_from_below:Demise from Below
 demon_hunter:Demon Hunter
+gilded_horizon:Gilded Horizon
+graceful_hunter:Graceful Hunter
+nightshade_whisper:Nightshade Whisper
+crimson_bolt:Crimson Bolt
+seraphims_wing:Seraphim's Wing
+stormhawk:Stormhawk
+silverwing:Silverwing
 
 # Magic
 old_wooden_staff:Old Wooden Staff
@@ -722,6 +736,7 @@ spear_rod:Spear Rod
 eonwoven_rod:Eonwoven Rod
 elysian_luminary_wand:Elysian Luminary Wand
 emberglow_wand:Emberglow Wand
+evershift_scepter:Evershift Scepter
 
 # dagger
 kitchen_knife:Kitchen Knife
@@ -769,6 +784,9 @@ moonlight_blade:Moonlight Blade
 deepsea_executioner:Deepsea Executioner
 embers_edge:Ember's Edge
 moonsteel_razor:Moonsteel Razor
+hellscream_blade:Hellscream Blade
+soulreaver_talons:Soulreaver Talons
+crystalline_blade:Crystalline Blade
 
 
 starter_shield:Starter Shield

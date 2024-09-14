@@ -776,3 +776,5 @@ evershift_scepter:Sceptre Evershift
 hellscream_blade:Lame Hellscream
 soulreaver_talons:Talons Soulreaver
 crystalline_blade:Lame cristalline
+abyss_dancers_boots:Bottes de danseuse Abyss
+nightblade_boots:Bottes Nightblade

@@ -1,15 +1,15 @@
-evhelp:Все команды можно найти здесь
+evhelp:Все команды можно найти здесь.
 notStarted:Твое путешествие еще не началось!
 cmdUnknownError:Произошла неизвестная ошибка!
-serverOverload:Сервер перегружен! Пожалуйста, попробуйте позже!
+serverOverload:Сервер перегружен! Пожалуйста, повторите попытку позже.
 twitchbotNoAccount:Пожалуйста, создайте своего персонажа в расширении Embervale!
-twitchbotNoActiveChar:Выберите своего активного персонажа в расширении Embervale!
+twitchbotNoActiveChar:Выберите своего активного персонажа в расширении Embervale.
 adventureNotActive:Активных приключений нет!
 adventureAlreadyIn:Вы уже в приключении!
-adventureMultipleCharactersAlreadyIn:Вы уже присоединились к одному из своих персонажей в этом приключении!
+adventureMultipleCharactersAlreadyIn:Вы уже присоединились к приключению с одним из своих персонажей!
 adventureNoActiveVoting:Активного голосования нет!
-adventureYouAreNotIn:Вы не в авантюре!
-adventureInvalidVoting:Ваше голосование было недействительным!
+adventureYouAreNotIn:Сейчас вы не в авантюре!
+adventureInvalidVoting:Ваш голос оказался недействительным!
 achievements:Достижения
 rank:Ранг
 itemsDiscovered:Обнаруженные предметы
@@ -17,4 +17,4 @@ materialDiscovered:Обнаруженные материалы
 bestiary:Бестиарий
 defeated:Побежден
 cantFindMonster:Не могу найти этого монстра!
-cmdJoinDiscord:Посетите наш Discord, чтобы каждый день получать интересные награды
+cmdJoinDiscord:Посетите наш Discord, чтобы каждый день получать интересные награды.

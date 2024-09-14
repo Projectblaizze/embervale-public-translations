@@ -776,3 +776,5 @@ evershift_scepter:Cetro Evershift
 hellscream_blade:Lâmina Hellscream
 soulreaver_talons:Garras do Soulreaver
 crystalline_blade:Lâmina cristalina
+abyss_dancers_boots:Botas de dançarina Abyss
+nightblade_boots:Botas Nightblade

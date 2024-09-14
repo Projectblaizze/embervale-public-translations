@@ -17,7 +17,7 @@ banishConfirmation:Вы действительно хотите выгнать {
 areYouSure:Вы уверены?
 banish:Изгнать
 youCanStartNewAdventureIn:Создать новый можно в следующих разделах:
-partyInventory:Инвентарь для вечеринок
+partyInventory:Партийный инвентарь
 noLootObtained:Ваша группа еще не получила добычу
 chooseRewardRecipient:Выберите получателя вознаграждения
 voting:Голосование
@@ -191,3 +191,7 @@ adventureCooldownMythical:Время восстановления приключ
 adventureCooldownLegendary:Время восстановления приключений сокращено на 25%
 adventureCooldownEpic:Время восстановления приключений сокращено на 10%
 adventureEndMessageTimeout:Искателям приключений надоело сидеть сложа руки, и группа распалась. (Тайм-аут)
+vote:Голосование
+choose:Выберите
+sick:Болен
+effect_sick:Этот игрок болен.//-10% от всех статистических данных

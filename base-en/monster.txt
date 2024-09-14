@@ -630,7 +630,7 @@ colossal_red_snake_bestiary:Their reared up posture masks a suprising long reach
 colossal_purple_snake_bestiary:If it bites you and you die, its venomous. If you bite it and you die, its poisonous. This one is both
 colossal_black_snake_bestiary:Do not rely on darkvision to spot this reptile
 gnoll_archer_bestiary:Their expression belies their role of distance focused combatant
-gnoll_vanguard_bestiary:Their bites remain dangerous, wvwn after you slip past their spears
+gnoll_vanguard_bestiary:Their bites remain dangerous, even after you slip past their spears
 gnoll_swordsman_bestiary:I… kinda want to pet it, but it’s probably not worth either stab nor rabies
 goblin_reaper_bestiary:What’s next, a reaper of rats?
 goblin_rider_bestiary:Their armor is scanvenged from past raids and gives an indication to their rank and experience

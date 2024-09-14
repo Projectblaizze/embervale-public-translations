@@ -88,3 +88,4 @@ rare_gem:Редкий драгоценный камень
 rare_gem_description:Странная жемчужина. Может быть ценным
 stack_of_coins:Стопка монет
 stack_of_coins_description:Приличная сумма золотых монет
+unknown_material:Неизвестный материал

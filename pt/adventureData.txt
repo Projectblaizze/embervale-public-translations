@@ -191,3 +191,7 @@ adventureCooldownMythical:Tempo de recarga de aventura 50% menor
 adventureCooldownLegendary:Tempo de recarga de aventura 25% menor
 adventureCooldownEpic:Tempo de recarga de aventura 10% menor
 adventureEndMessageTimeout:Os aventureiros se cansaram de ficar parados e a festa acabou. (Tempo limite)
+vote:Votar
+choose:Escolha
+sick:Doente
+effect_sick:Este jogador está sofrendo de uma doença.//-10% em todas as estatísticas

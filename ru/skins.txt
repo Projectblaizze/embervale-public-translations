@@ -1,0 +1,84 @@
+skin_starter:Наряд для начинающих
+skin_starter_description:Получено, создав своего персонажа.
+skin_dragon_warrior:Кожа демона
+skin_dragon_warrior_description:Кастомный скин от DeemonRider
+skin_royal_scout:Королевский скаут
+skin_royal_scout_description:Доступно через???
+skin_island_scout:Островной скаут
+skin_island_scout_description:Доступно через???
+skin_swamp_scout:Болотный разведчик
+skin_swamp_scout_description:Доступно через???
+skin_eastern_scout:Восточный скаут
+skin_eastern_scout_description:Доступно через???
+skin_dune_scout:Скаут по дюнам
+skin_dune_scout_description:Доступно через???
+skin_vale_scout:Скаут долины
+skin_vale_scout_description:Доступно через???
+skin_wanderer:Странник
+skin_wanderer_description:Доступно через???
+skin_fall_ranger:Осенний рейнджер
+skin_fall_ranger_description:Доступно через???
+skin_royal_general:Королевский генерал
+skin_royal_general_description:Доступно через???
+skin_wise_general:Мудрый генерал
+skin_wise_general_description:Доступно через???
+skin_jade_general:Джейд Генерал
+skin_jade_general_description:Доступно через???
+skin_adamant_general:Генерал Адамант
+skin_adamant_general_description:Доступно через???
+skin_heroic_general:Геройский генерал
+skin_heroic_general_description:Доступно через???
+skin_courageous_general:Отважный генерал
+skin_courageous_general_description:Доступно через???
+skin_commander:Командующего
+skin_commander_description:Доступно через???
+skin_red_warrior:Красный воин
+skin_red_warrior_description:Доступно через???
+skin_royal_assassin:Королевский убийца
+skin_royal_assassin_description:Доступно через???
+skin_brilliant_assassin:Гениальный убийца
+skin_brilliant_assassin_description:Доступно через???
+skin_unseen_assassin:Невидимый убийца
+skin_unseen_assassin_description:Доступно через???
+skin_elegant_assassin:Элегантный убийца
+skin_elegant_assassin_description:Доступно через???
+skin_wealthy_assassin:Богатый убийца
+skin_wealthy_assassin_description:Доступно через???
+skin_bloody_assassin:Кровавый убийца
+skin_bloody_assassin_description:Доступно через???
+skin_blackguard:Чёрная гвардия
+skin_blackguard_description:Доступно через???
+skin_blue_rogue:Синий разбойник
+skin_blue_rogue_description:Доступно через???
+skin_royal_paladin:Королевский паладин
+skin_royal_paladin_description:Доступно через???
+skin_glowing_paladin:Светящийся паладин
+skin_glowing_paladin_description:Доступно через???
+skin_emerald_paladin:Изумрудный паладин
+skin_emerald_paladin_description:Доступно через???
+skin_mystic_paladin:Мистический паладин
+skin_mystic_paladin_description:Доступно через???
+skin_golden_paladin:Золотой паладин
+skin_golden_paladin_description:Доступно через???
+skin_crimson_paladin:Багровый паладин
+skin_crimson_paladin_description:Доступно через???
+skin_noble_knight:Благородный рыцарь
+skin_noble_knight_description:Доступно через???
+skin_red_knight:Красный рыцарь
+skin_red_knight_description:Доступно через???
+skin_royal_grandmaster:Королевский гроссмейстер
+skin_royal_grandmaster_description:Доступно через???
+skin_academic_grandmaster:Академический гроссмейстер
+skin_academic_grandmaster_description:Доступно через???
+skin_herbalistic_grandmaster:Травяной гроссмейстер
+skin_herbalistic_grandmaster_description:Доступно через???
+skin_abyssal_grandmaster:Гроссмейстер Бездны
+skin_abyssal_grandmaster_description:Доступно через???
+skin_shining_grandmaster:Яркий гроссмейстер
+skin_shining_grandmaster_description:Доступно через???
+skin_fiery_grandmaster:Огненный гроссмейстер
+skin_fiery_grandmaster_description:Доступно через???
+skin_scholar:Ученый
+skin_scholar_description:Доступно через???
+skin_forest_mage:Лесной маг
+skin_forest_mage_description:Доступно через???

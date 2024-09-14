@@ -1,13 +1,13 @@
 statDMG-mage:L'étendue des dégâts magiques que vous pouvez infliger.
-statDMG-F-mage:Dégâts moyens: dégâts causés par l'arme * (sagesse/40 + 1)
+statDMG-F-mage:Dégâts = Dégâts causés par l'arme * (sagesse/60 + 1)
 statDMG-knight:L'étendue des dégâts physiques que vous pouvez infliger.
-statDMG-F-knight:Dégâts causés par l'arme * (force/40 + 1)
+statDMG-F-knight:Dégâts = Dégâts causés par l'arme * (force/60 + 1)
 statDMG-ranger:L'étendue des dégâts physiques que vous pouvez infliger.
-statDMG-F-ranger:Dégâts moyens: dégâts causés par l'arme * (dextérité/40 + 1)
+statDMG-F-ranger:Dégâts = Dégâts causés par l'arme * (dextérité/60 + 1)
 statDMG-warrior:L'étendue des dégâts physiques que vous pouvez infliger.
-statDMG-F-warrior:Dégâts moyens: dégâts causés par l'arme * (force/40 + 1)
+statDMG-F-warrior:Dégâts = Dégâts causés par l'arme * (force/60 + 1)
 statDMG-rogue:L'étendue des dégâts physiques que vous pouvez infliger.
-statDMG-F-rogue:Dégâts moyens: dégâts causés par l'arme * (dextérité/40 + 1)
+statDMG-F-rogue:Dégâts = Dégâts causés par l'arme * (dextérité/60 + 1)
 statVIT-mage:Le montant des dégâts que vous pouvez subir.
 statVIT-F-mage:(1 + ch * 0,08) * (1 + 0,01 * niveau) * 11,5
 statVIT-knight:Le montant des dégâts que vous pouvez subir.

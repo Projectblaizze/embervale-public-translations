@@ -13,16 +13,16 @@ dungeonName12:Der Friedhof der Namenlosen
 dungeonName13:Bastion des Lichts
 dungeonName14:Embervale
 dungeon:Dungeon
-startDungeon:starte Dungeon
+startDungeon:Dungeon starten
 dungeonAutoSell:Es gibt noch einige Gegenstände in deinem Dungeon-Inventar! Wenn du den Dungeon jetzt verlässt, sind sie verloren!
-selectConsumablesForDungeon:Wähle die Zaubertränke aus, die du in deinen Dungeon mitnehmen möchtest. Das kann nicht rückgängig gemacht werden! Alle Gegenstände, die du in Dungeons mitbringst, gehen verloren.
+selectConsumablesForDungeon:Wähle die Zaubertränke aus, die du mit in den Dungeon nehmen möchtest. Das kann nicht rückgängig gemacht werden! Alle Gegenstände, die du in Dungeons mitbringst, gehen verloren.
 youDontHaveHealPotions:Du hast keine Heiltränke.
-effect_gem_blessing:Der Spieler ist für {Runden} Runden gesegnet.//+25% auf alle Statistiken
+effect_gem_blessing:Der Spieler wird für {Runden} Runden gesegnet.//+25% auf alle Statistiken
 gem_blessing:Edelsteinsegen
 lost_fairy_blessing:Verlorener Feensegen
 effect_lost_fairy_blessing:Der Spieler wird für {Runden} Runden von der Verlorenen Fee gesegnet.//+10% HP in jedem Raum
 gem_curse:Edelsteinfluch
-effect_gem_curse:Der Spieler ist für {Runden} Runden verflucht.//-5% auf alle Statistiken
+effect_gem_curse:Der Spieler ist für {Runden} Runden verflucht.//-5% zu allen Statistiken
 strength_buff:Stärkebonus
 effect_strength_buff:Der Spieler wird für {Runden} Runden gebufft.//+20% Stärke
 wisdom_buff:Wissbegabter

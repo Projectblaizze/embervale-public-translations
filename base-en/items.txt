@@ -534,6 +534,8 @@ shoes_of_deceit:Shoes of Deceit
 whisperers_boots:Whisperer's Boots
 brown_boots:Brown Boots
 desert_warriors_boots:Desert Warrior's Boots
+abyss_dancers_boots:Abyss Dancer's Boots
+nightblade_boots:Nightblade Boots
 
 # 2 handed
 blunt_axe:Blunt Axe

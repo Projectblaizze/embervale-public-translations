@@ -191,3 +191,7 @@ adventureCooldownMythical:Temps de recharge de l'aventure 50% plus court
 adventureCooldownLegendary:Temps de recharge de l'aventure 25% plus court
 adventureCooldownEpic:Temps de recharge de l'aventure 10% plus court
 adventureEndMessageTimeout:Les aventuriers en ont eu assez de rester les bras croisés et le groupe s'est dissous. (Délai d'attente)
+vote:Votez
+choose:Choisissez
+sick:Malade
+effect_sick:Ce joueur est malade.//-10% sur toutes les statistiques

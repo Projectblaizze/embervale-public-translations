@@ -776,3 +776,5 @@ evershift_scepter:Evershift-Zepter
 hellscream_blade:Höllscream-Klinge
 soulreaver_talons:Seelenreaver-Krallen
 crystalline_blade:Kristalline Klinge
+abyss_dancers_boots:Stiefel des Abyss-Tänzers
+nightblade_boots:Nightblade-Stiefel

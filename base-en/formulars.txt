@@ -1,13 +1,13 @@
 statDMG-mage:The range of magical damage you can deal.
-statDMG-F-mage:AVG Damage: Weapon damage * (wisdom / 40 + 1)
+statDMG-F-mage:Damage = Weapon damage * (wisdom / 60 + 1)
 statDMG-knight:The range of physical damage you can deal.
-statDMG-F-knight:Weapon damage * (strength / 40 + 1)
+statDMG-F-knight:Damage = Weapon damage * (strength / 60 + 1)
 statDMG-ranger:The range of physical damage you can deal.
-statDMG-F-ranger:AVG Damage: Weapon damage * (dexterity / 40 + 1)
+statDMG-F-ranger:Damage = Weapon damage * (dexterity / 60 + 1)
 statDMG-warrior:The range of physical damage you can deal.
-statDMG-F-warrior:AVG Damage: Weapon damage * (strength / 40 + 1)
+statDMG-F-warrior:Damage = Weapon damage * (strength / 60 + 1)
 statDMG-rogue:The range of physical damage you can deal.
-statDMG-F-rogue:AVG Damage: Weapon damage * (dexterity / 40 + 1)
+statDMG-F-rogue:Damage = Weapon damage * (dexterity / 60 + 1)
 
 statVIT-mage:The amount of damage you can take.
 statVIT-F-mage:(1 + hp * 0.08) * (1 + 0.01 * lvl) * 11.5

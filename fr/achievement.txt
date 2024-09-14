@@ -6,54 +6,52 @@ combat:Combat
 level:Niveau
 guild:Guilde
 achievement:Réussite
-todo:Todo
+todo:À faire
 weekly:Hebdo
 newMissionsIn:Nouvelles missions dans
 levelUp:Montez de niveau!
 complete_achievement:Terminez {amount} succès
 complete_weekly_mission:Terminez {amount} missions hebdomadaires
-kill_monster:Tuez {amount} monstres
+kill_monster:Tuez {quantité} monstres
 defeat_monster:Éliminez {quantité} monstres
-defeat_aquatic_monster:Éliminez {amount} monstres aquatiques
-defeat_insect_monster:Éliminez {amount} monstres insectes
-defeat_humanoid_monster:Éliminez {amount} des adversaires humanoïdes avec des primes
-defeat_elemental_monster:Éliminez {amount} monstres élémentaires
-defeat_slime_monster:Éliminez {amount} monstres Slime
-defeat_beast_monster:Éliminez {amount} monstres
-defeat_plant_monster:Vaincre {amount} Monstres végétaux
-defeat_undead_monster:Éliminez {amount} monstres morts-vivants
-defeat_construct_monster:Battez {amount} Construisez des monstres
-defeat_abomination_monster:Éliminez {amount} monstres d'abomination
-defeat_dragon_monster:Éliminez {amount} monstres dragons
-defeat_mimic_monster:Vaincre {amount} Mimic monster
-defeat_rogue_class:Éliminez {amount} Rogues
+defeat_aquatic_monster:Éliminez {quantité} monstres aquatiques
+defeat_insect_monster:Éliminez {quantité} monstres insectes
+defeat_humanoid_monster:Battez {amount} adversaires humanoïdes en prime
+defeat_elemental_monster:Éliminez {quantité} monstres élémentaires
+defeat_slime_monster:Éliminez {quantité} monstres visqueux
+defeat_beast_monster:Éliminez {quantité} monstres
+defeat_plant_monster:Éliminez {quantité} monstres végétaux
+defeat_undead_monster:Éliminez {quantité} de monstres morts-vivants
+defeat_construct_monster:Battez {amount} construisez des monstres
+defeat_abomination_monster:Éliminez {quantité} monstres abominables
+defeat_dragon_monster:Éliminez {quantité} monstres dragons
+defeat_mimic_monster:Éliminez {amount} monstres mimiques
+defeat_rogue_class:Éliminez {amount} voyous
 defeat_mage_class:Vaincre {quantité} mages
-defeat_knight_class:Vaincre {amount} chevaliers
-defeat_ranger_class:Vaincre {amount} Rangers
-defeat_warrior_class:Vaincre {amount} Warriors
+defeat_knight_class:Battez {amount} chevaliers
+defeat_ranger_class:Battez {amount} rangers
+defeat_warrior_class:Battez {amount} guerriers
 collect_items_bounties:Collectez {quantité} objets dans les primes
 collect_items_shop:Achetez {amount} articles dans la boutique
-collect_mythical_item:Obtenez {quantité} x objet mythique
+collect_mythical_item:Obtenez {quantité} objets mythiques
 complete_bestiary:Complétez {count}% de votre bestiaire
-complete_materials_glossary:Découvrez {count}% de la quantité de matériaux
-complete_items_glossary:Découvrez {count}% de la quantité d'articles
+complete_materials_glossary:Découvrez {count}% des matériaux
+complete_items_glossary:Découvrez {count}% des objets
 reach_level:Atteignez le niveau {lvl}
-participate_in_adventures:participez à {amount} aventures
+participate_in_adventures:Participez à {amount} aventures
 clear_bounties:Effacer {amount} bounties
-clear_bounties_difficulty_1:Récoltez {amount} primes avec le niveau de difficulté Y
-clear_bounties_difficulty_2:Récoltez {amount} primes avec le niveau de difficulté Y
-clear_bounties_difficulty_3:Récoltez {amount} primes avec le niveau de difficulté Y
-clear_bounties_difficulty_4:Récoltez {amount} primes avec le niveau de difficulté Y
-clear_bounties_difficulty_5:Récoltez {amount} primes avec le niveau de difficulté Y
-#lose_fights:Perdez {quantité} combats
-defeat_monster_in_dungeon:Battez {amount} monstre dans les donjons
-win_pvp_battle:Remportez {quantité} batailles JcJ
-find_a_mythical_item:Trouvez {quantité} objet mythique
+clear_bounties_difficulty_1:Récoltez {montant} de primes au niveau de difficulté 1
+clear_bounties_difficulty_2:Récoltez {montant} de primes au niveau de difficulté 2
+clear_bounties_difficulty_3:Récoltez {montant} de primes au niveau de difficulté 3
+clear_bounties_difficulty_4:Récoltez {montant} de primes au niveau de difficulté 4
+clear_bounties_difficulty_5:Récoltez {montant} de primes au niveau de difficulté 5
+defeat_monster_in_dungeon:Éliminez {amount} monstres dans les donjons
+win_pvp_battle:Remportez {quantité} batailles PvP
+find_a_mythical_item:Trouvez {quantité} objets mythiques
 distribute_skill_points:Distribuez {quantité} points de compétence
- # clear_bounties:Effacer {amount} bounties
 use_stamina:Utilisez {quantité} d'endurance pour les primes
-complete_an_expedition:Terminez {amount} x expédition
-battle_in_the_arena:Combattez dans l'arène {amount} x
+complete_an_expedition:Terminez {amount} expéditions
+battle_in_the_arena:Combattez dans l'arène {amount} fois
 join_or_create_a_guild:Rejoignez ou créez une guilde
 clear_the_first_dungeon:Terminez le premier donjon
 wear_full_set_of_uncommon:Portez un ensemble complet d'articles insolites
@@ -64,5 +62,6 @@ wear_full_set_of_legendary:Portez un ensemble complet d'objets légendaires
 wear_full_set_of_mythical:Portez un ensemble complet d'articles mythiques
 reach_fame:Atteignez {amount} renommée
 shop_reroll_5:Le redéploiement de la boutique coûte 5% de cuivre en moins
-claim_daily_bonus:Réclamez {amount} bonus quotidiens sur notre discord
-claim_daily_bonus_row:Réclamez {amount} bonus quotidiens d'affilée sur notre discord
+claim_daily_bonus:Réclamez {amount} bonus quotidiens sur notre Discord
+claim_daily_bonus_row:Réclamez {amount} bonus quotidiens d'affilée sur notre Discord
+lose_fights:Perdez {quantité} combats

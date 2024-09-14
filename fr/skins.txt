@@ -1,0 +1,84 @@
+skin_starter:Tenue de démarrage
+skin_starter_description:Obtenu en créant votre personnage.
+skin_dragon_warrior:Peau de démon
+skin_dragon_warrior_description:Skin personnalisé de DeemonRider
+skin_royal_scout:Scout royal
+skin_royal_scout_description:Obtenable par???
+skin_island_scout:Island Scout
+skin_island_scout_description:Obtenable par???
+skin_swamp_scout:Scout des marais
+skin_swamp_scout_description:Obtenable par???
+skin_eastern_scout:Eastern Scout
+skin_eastern_scout_description:Obtenable par???
+skin_dune_scout:Dune Scout
+skin_dune_scout_description:Obtenable par???
+skin_vale_scout:Vallée Scout
+skin_vale_scout_description:Obtenable par???
+skin_wanderer:Vagabond
+skin_wanderer_description:Obtenable par???
+skin_fall_ranger:Fall Ranger
+skin_fall_ranger_description:Obtenable par???
+skin_royal_general:Général royal
+skin_royal_general_description:Obtenable par???
+skin_wise_general:Sage général
+skin_wise_general_description:Obtenable par???
+skin_jade_general:Général Jade
+skin_jade_general_description:Obtenable par???
+skin_adamant_general:Général catégorique
+skin_adamant_general_description:Obtenable par???
+skin_heroic_general:Général héroïque
+skin_heroic_general_description:Obtenable par???
+skin_courageous_general:Général courageux
+skin_courageous_general_description:Obtenable par???
+skin_commander:Commandant
+skin_commander_description:Obtenable par???
+skin_red_warrior:Guerrier rouge
+skin_red_warrior_description:Obtenable par???
+skin_royal_assassin:Assassin royal
+skin_royal_assassin_description:Obtenable par???
+skin_brilliant_assassin:Assassin brillant
+skin_brilliant_assassin_description:Obtenable par???
+skin_unseen_assassin:Assassin invisible
+skin_unseen_assassin_description:Obtenable par???
+skin_elegant_assassin:Assassin élégant
+skin_elegant_assassin_description:Obtenable par???
+skin_wealthy_assassin:Assassin riche
+skin_wealthy_assassin_description:Obtenable par???
+skin_bloody_assassin:Assassin sanglant
+skin_bloody_assassin_description:Obtenable par???
+skin_blackguard:Garde noire
+skin_blackguard_description:Obtenable par???
+skin_blue_rogue:Rogue bleu
+skin_blue_rogue_description:Obtenable par???
+skin_royal_paladin:Paladin royal
+skin_royal_paladin_description:Obtenable par???
+skin_glowing_paladin:Paladin lumineux
+skin_glowing_paladin_description:Obtenable par???
+skin_emerald_paladin:Paladin d'émeraude
+skin_emerald_paladin_description:Obtenable par???
+skin_mystic_paladin:Paladin mystique
+skin_mystic_paladin_description:Obtenable par???
+skin_golden_paladin:Paladin doré
+skin_golden_paladin_description:Obtenable par???
+skin_crimson_paladin:Paladin pourpre
+skin_crimson_paladin_description:Obtenable par???
+skin_noble_knight:Chevalier noble
+skin_noble_knight_description:Obtenable par???
+skin_red_knight:Chevalier rouge
+skin_red_knight_description:Obtenable par???
+skin_royal_grandmaster:Grand maître royal
+skin_royal_grandmaster_description:Obtenable par???
+skin_academic_grandmaster:Grand maître académique
+skin_academic_grandmaster_description:Obtenable par???
+skin_herbalistic_grandmaster:Grand maître herboriste
+skin_herbalistic_grandmaster_description:Obtenable par???
+skin_abyssal_grandmaster:Grand Maître Abyssal
+skin_abyssal_grandmaster_description:Obtenable par???
+skin_shining_grandmaster:Grand Maître brillant
+skin_shining_grandmaster_description:Obtenable par???
+skin_fiery_grandmaster:Grand Maître fougueux
+skin_fiery_grandmaster_description:Obtenable par???
+skin_scholar:Érudit
+skin_scholar_description:Obtenable par???
+skin_forest_mage:Mage de la forêt
+skin_forest_mage_description:Obtenable par???

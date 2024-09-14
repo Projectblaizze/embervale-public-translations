@@ -13,14 +13,14 @@ dungeonName12:Cemitério dos Sem Nome
 dungeonName13:Bastião da Luz
 dungeonName14:Embervale
 dungeon:Masmorra
-startDungeon:inicie o Dungeon
+startDungeon:Comece a masmorra
 dungeonAutoSell:Ainda há alguns itens em seu inventário de masmorras! Se você sair da masmorra agora, eles estarão perdidos!
-selectConsumablesForDungeon:Selecione as poções que você quer levar com você em sua masmorra. Isso não pode ser revertido! Todos os itens que você trouxer para as masmorras serão perdidos.
+selectConsumablesForDungeon:Selecione as poções que você quer levar para o calabouço. Isso não pode ser revertido! Todos os itens que você trouxer para as masmorras serão perdidos.
 youDontHaveHealPotions:Você não tem nenhuma poção de saúde.
 effect_gem_blessing:O jogador é abençoado por {rodadas} rodadas.//+25% em todas as estatísticas
 gem_blessing:Benção de gemas
 lost_fairy_blessing:Bênção da fada perdida
-effect_lost_fairy_blessing:O jogador é abençoado pela Fada Perdida por {rodadas} rodadas.//+10% de HP em cada quarto
+effect_lost_fairy_blessing:O jogador é abençoado pela Fada Perdida por {rodadas} rodadas.//+10% HP em cada quarto
 gem_curse:Maldição de gemas
 effect_gem_curse:O jogador é amaldiçoado por {rodadas} rodadas.//-5% em todas as estatísticas
 strength_buff:Buff de força

@@ -191,3 +191,7 @@ noLootObtained:Deine Gruppe hat noch keine Beute erhalten
 chooseRewardRecipient:Wählen Sie den Prämienempfänger
 voting:Abstimmung
 adventureEndMessageTimeout:Die Abenteurer hatten es satt, untätig herumzusitzen und die Gruppe hat sich aufgelöst. (Auszeit)
+vote:Abstimmung
+choose:Wählen
+sick:Krank
+effect_sick:Dieser Spieler leidet an einer Krankheit.//-10% auf alle Statistiken

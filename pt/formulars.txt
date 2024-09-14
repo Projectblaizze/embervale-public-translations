@@ -1,13 +1,13 @@
 statDMG-mage:A variedade de danos mágicos que você pode causar.
-statDMG-F-mage:Dano médio: dano da arma* (sabedoria/40 + 1)
+statDMG-F-mage:Dano = dano da arma* (sabedoria/ 60 + 1)
 statDMG-knight:A variedade de danos físicos que você pode causar.
-statDMG-F-knight:Dano da arma* (força/ 40 + 1)
+statDMG-F-knight:Dano = dano da arma* (força/60 + 1)
 statDMG-ranger:A variedade de danos físicos que você pode causar.
-statDMG-F-ranger:Dano médio: dano da arma* (destreza/40 + 1)
+statDMG-F-ranger:Dano = dano da arma* (destreza/60 + 1)
 statDMG-warrior:A variedade de danos físicos que você pode causar.
-statDMG-F-warrior:Dano médio: dano da arma* (força/40 + 1)
+statDMG-F-warrior:Dano = dano da arma* (força/60 + 1)
 statDMG-rogue:A variedade de danos físicos que você pode causar.
-statDMG-F-rogue:Dano médio: dano da arma* (destreza/40 + 1)
+statDMG-F-rogue:Dano = dano da arma* (destreza/60 + 1)
 statVIT-mage:A quantidade de dano que você pode sofrer.
 statVIT-F-mage:(1 + cv * 0,08) * (1 + 0,01 * nível) * 11,5
 statVIT-knight:A quantidade de dano que você pode sofrer.

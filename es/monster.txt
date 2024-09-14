@@ -626,7 +626,7 @@ colossal_red_snake_bestiary:Su postura erguida enmascara el sorprendente alcance
 colossal_purple_snake_bestiary:Si te muerde y mueres, es venenoso. Si lo muerdes y mueres, es venenoso. Este es ambos
 colossal_black_snake_bestiary:No confíes en Darkvision para detectar este reptil
 gnoll_archer_bestiary:Su expresión contradice su papel de combatiente centrado en la distancia.
-gnoll_vanguard_bestiary:Sus mordeduras siguen siendo peligrosas, incluso después de que pases por alto sus lanzas
+gnoll_vanguard_bestiary:Sus mordeduras siguen siendo peligrosas, incluso después de pasar por alto sus lanzas
 gnoll_swordsman_bestiary:Yo... quiero acariciarlo, pero probablemente no valga la pena ni apuñalarlo ni contra la rabia
 goblin_reaper_bestiary:¿Qué sigue, un segador de ratas?
 goblin_rider_bestiary:Su armadura está extraída de incursiones pasadas y da una indicación de su rango y experiencia.

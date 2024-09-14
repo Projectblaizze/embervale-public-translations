@@ -1,0 +1,84 @@
+skin_starter:Roupa para iniciantes
+skin_starter_description:Obtido ao criar seu personagem.
+skin_dragon_warrior:Pele de demônio
+skin_dragon_warrior_description:Skin personalizada de DeemonRider
+skin_royal_scout:Escoteiro real
+skin_royal_scout_description:Pode ser obtido por???
+skin_island_scout:Escoteiro da Ilha
+skin_island_scout_description:Pode ser obtido por???
+skin_swamp_scout:Escoteiro do pântano
+skin_swamp_scout_description:Pode ser obtido por???
+skin_eastern_scout:Escoteiro oriental
+skin_eastern_scout_description:Pode ser obtido por???
+skin_dune_scout:Escoteiro de dunas
+skin_dune_scout_description:Pode ser obtido por???
+skin_vale_scout:Vale Scout
+skin_vale_scout_description:Pode ser obtido por???
+skin_wanderer:Andarilho
+skin_wanderer_description:Pode ser obtido por???
+skin_fall_ranger:Ranger de outono
+skin_fall_ranger_description:Pode ser obtido por???
+skin_royal_general:General Real
+skin_royal_general_description:Pode ser obtido por???
+skin_wise_general:General sábio
+skin_wise_general_description:Pode ser obtido por???
+skin_jade_general:General de Jade
+skin_jade_general_description:Pode ser obtido por???
+skin_adamant_general:General inflexível
+skin_adamant_general_description:Pode ser obtido por???
+skin_heroic_general:General heróico
+skin_heroic_general_description:Pode ser obtido por???
+skin_courageous_general:General corajoso
+skin_courageous_general_description:Pode ser obtido por???
+skin_commander:Comandante
+skin_commander_description:Pode ser obtido por???
+skin_red_warrior:Guerreiro vermelho
+skin_red_warrior_description:Pode ser obtido por???
+skin_royal_assassin:Assassino real
+skin_royal_assassin_description:Pode ser obtido por???
+skin_brilliant_assassin:Assassino brilhante
+skin_brilliant_assassin_description:Pode ser obtido por???
+skin_unseen_assassin:Assassino invisível
+skin_unseen_assassin_description:Pode ser obtido por???
+skin_elegant_assassin:Assassino elegante
+skin_elegant_assassin_description:Pode ser obtido por???
+skin_wealthy_assassin:Assassino rico
+skin_wealthy_assassin_description:Pode ser obtido por???
+skin_bloody_assassin:Assassino sangrento
+skin_bloody_assassin_description:Pode ser obtido por???
+skin_blackguard:Guarda Negra
+skin_blackguard_description:Pode ser obtido por???
+skin_blue_rogue:Vampiro azul
+skin_blue_rogue_description:Pode ser obtido por???
+skin_royal_paladin:Paladino real
+skin_royal_paladin_description:Pode ser obtido por???
+skin_glowing_paladin:Paladino brilhante
+skin_glowing_paladin_description:Pode ser obtido por???
+skin_emerald_paladin:Paladino Esmeralda
+skin_emerald_paladin_description:Pode ser obtido por???
+skin_mystic_paladin:Paladino Místico
+skin_mystic_paladin_description:Pode ser obtido por???
+skin_golden_paladin:Paladino dourado
+skin_golden_paladin_description:Pode ser obtido por???
+skin_crimson_paladin:Paladino Vermelho
+skin_crimson_paladin_description:Pode ser obtido por???
+skin_noble_knight:Nobre cavaleiro
+skin_noble_knight_description:Pode ser obtido por???
+skin_red_knight:Cavaleiro Vermelho
+skin_red_knight_description:Pode ser obtido por???
+skin_royal_grandmaster:Grão-mestre real
+skin_royal_grandmaster_description:Pode ser obtido por???
+skin_academic_grandmaster:Grande Mestre Acadêmico
+skin_academic_grandmaster_description:Pode ser obtido por???
+skin_herbalistic_grandmaster:Grão-mestre herbalístico
+skin_herbalistic_grandmaster_description:Pode ser obtido por???
+skin_abyssal_grandmaster:Grande Mestre Abissal
+skin_abyssal_grandmaster_description:Pode ser obtido por???
+skin_shining_grandmaster:Grão-mestre brilhante
+skin_shining_grandmaster_description:Pode ser obtido por???
+skin_fiery_grandmaster:Grão-mestre ardente
+skin_fiery_grandmaster_description:Pode ser obtido por???
+skin_scholar:Acadêmico
+skin_scholar_description:Pode ser obtido por???
+skin_forest_mage:Mago da Floresta
+skin_forest_mage_description:Pode ser obtido por???

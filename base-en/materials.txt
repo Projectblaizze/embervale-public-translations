@@ -116,3 +116,4 @@ rare_gem_description:An odd gem. Could be valuable
 stack_of_coins:Stack of coins
 stack_of_coins_description:A handsome sum of gold coins
 
+unknown_material:Unknown Material

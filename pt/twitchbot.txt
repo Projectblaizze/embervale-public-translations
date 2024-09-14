@@ -1,14 +1,14 @@
-evhelp:Você pode encontrar todos os comandos aqui
+evhelp:Você pode encontrar todos os comandos aqui.
 notStarted:Sua jornada ainda não começou!
 cmdUnknownError:Ocorreu um erro desconhecido!
-serverOverload:O servidor está sobrecarregado! Por favor, tente novamente mais tarde!
+serverOverload:O servidor está sobrecarregado! Tente novamente mais tarde.
 twitchbotNoAccount:Crie seu personagem na extensão Embervale!
-twitchbotNoActiveChar:Selecione seu personagem ativo na extensão Embervale!
+twitchbotNoActiveChar:Selecione seu personagem ativo na extensão Embervale.
 adventureNotActive:Não há aventura ativa!
 adventureAlreadyIn:Você já está em uma aventura!
-adventureMultipleCharactersAlreadyIn:Você já se juntou a um de seus personagens nesta aventura!
+adventureMultipleCharactersAlreadyIn:Você já entrou em uma aventura com um de seus personagens!
 adventureNoActiveVoting:Não há votação ativa!
-adventureYouAreNotIn:Você não está em uma aventura!
+adventureYouAreNotIn:No momento, você não está em uma aventura!
 adventureInvalidVoting:Seu voto foi inválido!
 achievements:Conquistas
 rank:Classificação
@@ -17,4 +17,4 @@ materialDiscovered:Materiais descobertos
 bestiary:Bestiário
 defeated:Derrotado
 cantFindMonster:Não consigo encontrar esse monstro!
-cmdJoinDiscord:Visite nosso Discord para receber recompensas incríveis todos os dias
+cmdJoinDiscord:Visite nosso Discord para receber recompensas incríveis todos os dias.

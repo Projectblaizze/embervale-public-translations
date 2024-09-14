@@ -43,7 +43,7 @@ human:Mensch
 demon:Dämon
 elf:Elfe
 stats:Statistiken
-boostYourStats:Steigert deine Statistiken um {points}%
+boostYourStats:Erhöhe deine Statistiken um {points}%
 activeFor:Aktiv für:
 battleStats:Gefechtsstatistiken
 hp:Gesundheitspunkte
@@ -59,19 +59,19 @@ divine:Göttlich
 necrotic:nekrotisch
 arcane:Arkan
 frost:Frost
-affinityTooltip:Reduziert eintretenden {Elementar-} Schaden. Erhöht den {elementaren} Schaden, wenn die Waffe mit Rune durchtränkt ist
+affinityTooltip:Reduziert eintretenden {Elementar-} Schaden. Erhöht den {elementaren} Schaden, wenn die Waffe mit einer Rune durchtränkt ist.
 vit:Vitalität
 vitEffect:Gesundheitspunkte
 vitDescription:{stat} erhöht deine Gesamtgesundheit.
 str:Stärke
-strEffect:Körperlicher Schaden
+strEffect:Physischer Schaden
 strDescription:{stat} erhöht deinen physischen Schaden als Ritter und Krieger. Erhöht die Rüstung aller anderen Klassen!
 wis:Weisheit
 wisEffect:Magischer Schaden
 wisDescription:{stat} erhöht deinen magischen Schaden als Magier. Erhöht die magische Resistenz aller anderen Klassen!
 dex:Geschicklichkeit
 dexEffect:Präzisionsschaden
-dexDescription:{stat} erhöht deinen Geschicklichkeitsschaden. Benutze ihn als Ranger & Rogue. Erhöht das Ausweichen für alle anderen Klassen!
+dexDescription:{stat} erhöht deinen Geschicklichkeitsschaden. Nutze ihn als Waldläufer und Schurke. Erhöht das Ausweichen für alle anderen Klassen!
 acc:Genauigkeit
 accEffect:Genauigkeit und Trefferchance
 accDescription:{stat} erhöht deine Chance, einen kritischen Treffer auf deinem Gegner zu landen, und verringert die Wahrscheinlichkeit, dass er ausweicht!
@@ -79,8 +79,8 @@ fame:Ruhm
 fameEffect:Preise und Verhandlungen
 fameDescription:{stat} verbessert dein Verhandlungsgeschick, bessere Aufstockungspreise und bessere Ergebnisse bei Abenteuern!
 luck:Glück
-luckEffect:Beute- und kritischer Schaden
-luckDescription:{stat} erhöht den Schaden kritischer Treffer und die Chance, seltene Beute zu finden.
+luckEffect:Kritischer Schaden
+luckDescription:{stat} erhöht den Schaden kritischer Treffer.
 armor:Rüstung
 outfit:Outfit
 outfits:Outfits
@@ -88,9 +88,9 @@ damage_reduction:DMG-Reduct.
 mag_res:Mag. res.
 mag_absorption:Mag. Absorbieren.
 eva:Ausweichen
-skillPoints:Fertigkeitspunkte
-current_hp:aktuelle HP
-crit_chance:Kritischer Treffer%
+skillPoints:Skillpunkte
+current_hp:Aktuelle HP
+crit_chance:Kritischer Perc
 crit_multiplier:Crit-Modus
 damage:Schaden
 shield_ability_chance:Chance blockieren
@@ -101,9 +101,9 @@ lifestone_ability_rate:Lebensraub
 lifestone_scaling_bonus:Nahkampfschadensbonus
 grimoire_ability_rate:Fokus-Rate
 grimoire_scaling_bonus:Kritischer Modus
-quiver_ability_chance:Schnelle Ziehungschance
+quiver_ability_chance:Schnelle Ziehchance
 quiver_scaling_bonus:Chance auf kritische Treffer
-talisman_ability_chance:Versteckte Chance
+talisman_ability_chance:Tarnchance
 talisman_scaling_bonus:Ausweichen
 common:Häufig
 uncommon:Ungewöhnlich
@@ -143,11 +143,11 @@ bonus:Bonus
 glossary:Glossar
 discovered:Entdeckt
 glossaryTipMonster:Besiege Monster, um dein Bestiarium zu füllen!
-glossaryTipItem:Spiele weiter, indem du den Gegenstand erhältst oder gegen den Spieler mit diesem Gegenstand gewinnst!
+glossaryTipItem:Spiele weiter, indem du den Gegenstand erhältst oder gegen einen Spieler mit diesem Gegenstand gewinnst!
 glossaryTipMaterial:Erweitere dich, indem du die Materialien beschaffst oder herstellst!
 glossaryTipSkin:Schalte frei, indem du Spieler besiegst, die das Outfit tragen!
 unknown:Unbekannt
-youGainBonusXP:Du erhältst {percentage}% Bonus-XP
+youGainBonusXP:Ihr erhaltet {percentage}% Bonus-XP
 newBestiaryEntry:Neuer Eintrag im Bestiarium:
 newGlory:Neuer Ruhm:
 newGlossaryEntries:Neue Glossareinträge:
@@ -199,11 +199,11 @@ donate:Spenden
 reputationExplaination:Spende unbenutzte Materialien an den Händler, um deinen Ruf zu erhöhen und vorübergehend bessere Artikel zu erhalten!
 reputationDonate:Wie viele möchtest du spenden?
 reputationDonateConfirmation:Sie sind im Begriff, {materialAmountToSpend} von Ihrem {materialAmount} {selectedMaterial} zu spenden:
-useThatCodeToSupport:Verwende beim Kauf den Code {refCode}, um {streamerName} zu unterstützen
-theStreamerHasntSetupTheRefCode:{streamerName} hat seinen Empfehlungscode nicht eingerichtet
-pressButtonToOpen:Drücken Sie die Schaltfläche unten, um Arcanites auf unserem Twitch-Kanal EmbervaleTV zu kaufen
+useThatCodeToSupport:Verwende beim Kauf den Code {refCode}, um {streamerName} zu unterstützen.
+theStreamerHasntSetupTheRefCode:{streamerName} hat seinen Empfehlungscode nicht eingerichtet.
+pressButtonToOpen:Drücken Sie die Schaltfläche unten, um Arcanites auf unserem Twitch-Kanal EmbervaleTV zu kaufen.
 confirmingTransaction:Bestätigung der Transaktion
-confirmGiftingBundle:Bist du sicher, dass du {bundleName} an {Playername} verschenken wirst? (Wenn sie bereits ein aktives Abonnement haben, wird ihr Abonnement dadurch verlängert)
+confirmGiftingBundle:Bist du sicher, dass du {bundleName} an {Playername} verschenken möchtest? (Wenn sie bereits ein aktives Abonnement haben, wird ihr Abonnement dadurch verlängert.)
 successGiftingBundle:Danke, dass du {bundleName} an {Playername} verschenkt hast!
 ayetStudioConfirming:Danke, dass du dir die Anzeige angesehen hast! Deine Arcanites sollten deinem Konto innerhalb der nächsten 60 Sekunden gutgeschrieben werden. Du kannst dieses Fenster schließen — wir benachrichtigen dich, sobald die Credits gutgeschrieben sind!
 ayetStudioDailyLimit:Bitte komm morgen wieder für mehr Arcanites!
@@ -217,7 +217,7 @@ eye:Augen
 eyes:Augen
 nose:Nase
 mouth:Mund
-accessoire:Accesoire
+accessoire:Accessoire
 extra:Extra
 beard:Bart
 readAndAccept:Ich habe gelesen und akzeptiere die
@@ -268,7 +268,7 @@ errStillInAExpedition:Das kannst du nicht tun, während du auf einer Expedition 
 alchemy_expedition_title_1:Sammle
 cooking_expedition_title_1:Ernte
 smithing_expedition_title_1:Meins
-followingMaterialsCanSpawnHere:Folgende Materialien können im ausgewählten Gebiet spawnen:
+followingMaterialsCanSpawnHere:Die folgenden Materialien können im ausgewählten Gebiet spawnen:
 newDiscovered:Neue Entdeckung!
 newMaterialsDiscovered:Ihr Glossar wurde mit den folgenden Einträgen aktualisiert:
 loadingTip0:Rezepte sind selten, also ist es eine gute Idee, ein Kopfgeld zu priorisieren, wenn du eines siehst!
@@ -278,54 +278,54 @@ loadingTip3:Tritt unserem Discord bei, um tägliche Belohnungen zu erhalten!
 loadingTip4:Das sollte ein Tipp sein, aber uns gingen die Ideen aus.
 loadingTip5:Höhere Redezeit senkt Ihre Kosten für die Bestellung neuer Shop-Artikel.
 loadingTip6:Achte bei der Auswahl von Kopfgeldern auf das Verhältnis von Ausdauer zu Erfahrung, wenn du den Levelaufstieg priorisierst.
-loadingTip7:Epische, legendäre und mythische Gegenstände können elementare Affinitäten haben, die deinen Schaden bzw. deine Resistenz erhöhen.
-loadingTip8:Du kannst die Geschwindigkeit des Kampfes während eines Kampfes ändern.
+loadingTip7:Epische, legendäre und mythische Gegenstände können elementare Affinitäten haben, die deinen Schaden und deine Resistenz erhöhen.
+loadingTip8:Du kannst die Kampfgeschwindigkeit während eines Kampfes ändern.
 loadingTip9:Du kannst den Kampf gegen Spieler üben, indem du auf ihren Namen in der Bestenliste klickst.
-loadingTip10:Magier verfehlen nie ihr Ziel. Nur Tarnung kann helfen, ihren Angriffen auszuweichen.
-loadingTip11:Glück erhöht die Chance auf bessere Belohnungen bei Kopfgeldern.
+loadingTip10:Magier verfehlen nie ihr Ziel. Nur Tarnung kann ihnen helfen, ihren Angriffen auszuweichen.
+loadingTip11:Glück erhöht den Schaden kritischer Treffer.
 loadingTip12:Ritter sind schwer gepanzert und tragen einen Schild, was ihnen einen natürlichen Vorteil gegenüber Geschicklichkeitsklassen verschafft.
 loadingTip13:Die Fähigkeit des Rangers, schnell zu ziehen, ermöglicht es ihm, ab und zu zweimal zuzuschlagen.
 loadingTip14:Krieger verwenden einen Lebensstein, um ihren Feinden bei jedem Treffer Lebenspunkte zu entziehen. Die Kraft des Steins lässt jedoch schnell nach.
 loadingTip15:Der Schurke ist ein Meister der Tarnung und des Ausweichens, was es Fernkämpfern erheblich erschwert, Treffer zu landen.
 loadingTip16:Achte darauf, dein Glossar auszufüllen, um schneller XP zu verdienen!
-loadingTip17:Wusstest du, dass das Besiegen eines Gegners in der Arena all seine Rüstungen, Waffen und Skins in dein Glossar aufnimmt?
+loadingTip17:Wusstest du, dass durch das Besiegen eines Gegners in der Arena all seine Rüstungen, Waffen und Skins in dein Glossar aufgenommen werden?
 loadingTip18:Alle Klassen haben unterschiedliche HP- und Schadensskalierungen. Sie können nur einen bestimmten Rüstungstyp tragen: schwer, mittel oder leicht.
 loadingTip19:Schaut euch die wöchentlichen Missionen an, um zusätzliche Beute zu verdienen!
-loadingTip20:Wenn du einen Streamer abonniert hast oder wenn du auf Embervale.tv spielst, verdienst du zusätzliche 10% Gold in Form von Bounties!
+loadingTip20:Wenn du einen Streamer abonniert hast oder auf Embervale.tv spielst, erhältst du zusätzlich 10% Gold in Form von Prämien!
 loadingTip21:Du kannst dein Glossar verwenden, um dir die Affinität und Schwäche eines Monsters anzusehen.
 loadingTip22:Mit deinem ersten Kopfgeld erhältst du jeden Tag einen kostenlosen Arkanit!
 loadingTip23:Du kannst dir Werbung auf Embervale.tv ansehen, um Arcanites kostenlos zu verdienen.
 loadingTip24:Wir haben über 3 Jahre daran gearbeitet, unseren Traum zu verwirklichen! Vielen Dank fürs Spielen!
-loadingTip25:Jede Bounty hat die Chance, einen Arkanit fallen zu lassen! Je länger es ist, desto höher ist die Chance.
+loadingTip25:Jede Bounty hat die Chance, einen Arkanit fallen zu lassen! Je länger es dauert, desto höher ist die Chance.
 loadingTip26:Vergiss nicht, im Handwerksmenü Zaubertränke zu brauen! Das kann deine Macht erheblich steigern!
 loadingTip27:Teile deinen Fortschritt, indem du tippst! evflex in jedem Kanal, auf dem Embervale installiert ist.
 loadingTip28:Wir hören auf Ihr Feedback. Tritt unserem Discord-Server bei, um deine Vorschläge einzureichen!
 skipTutorial:Tutorial überspringen
 hideTip:Tipp ausblenden
-starterTutorial0:Willkommen in Embervale! Um durch die Menüs zu navigieren, musst du auf den Kompass klicken!
+starterTutorial0:Willkommen in Embervale! Um durch die Menüs zu navigieren, klicken Sie auf den Kompass!
 starterTutorial1:Dies ist das Hauptnavigationsmenü! Wählen Sie zunächst den Bounty-Tab aus.
 starterTutorial2:Wählen Sie das Kopfgeld Ihrer Wahl aus. Die Sterne hinter dem Namen des Monsters geben den Schwierigkeitsgrad an!
 starterTutorial3:Warte oder überspringe die Reisezeit und dein Kampf beginnt!
 starterTutorial4:-
-starterTutorial5:Du hast gerade dein erstes Bounty abgeschlossen und das grundlegende Tutorial abgeschlossen! Beginne, durch die Menüs zu navigieren, um mehr über das Spiel zu erfahren!
+starterTutorial5:Du hast gerade dein erstes Bounty abgeschlossen und das grundlegende Tutorial abgeschlossen! Navigiere durch die Menüs, um mehr über das Spiel zu erfahren!
 expeditionTutorial0:Expeditionen sind langwierige Aufgaben, die 1 bis 12 Stunden dauern. Materialien zum Basteln findest du hier! Du kannst nicht kämpfen, während du auf einer Expedition bist!
 selectBackground:Wählen Sie Hintergrund
-skill:Fertigkeit
-thisActionTakesSkillPoints:Bei dieser Aktion werden {pointsToSkillStat} Skillpunkte auf der Statistik verwendet
+skill:Fähigkeit
+thisActionTakesSkillPoints:Bei dieser Aktion werden {pointsToSkillStat} Skillpunkte auf der Statistik verwendet.
 remainingPoints:Verbleibende Punkte: {points} Skillpunkte
 quick_sell:Schneller Verkauf
 inventory:Inventar
 weight:Gewicht
 resetSkillPoints:Fertigkeitspunkte zurücksetzen
 report:Bericht
-equipped:ausgestattet
+equipped:Ausgerüstet
 maximumFood:Sie können maximal 3 Mahlzeiten pro Tag essen.
 todayYouAte:Heute hast du {Menge} Mahlzeiten gegessen.
 tradeable:Handelbar
-youCanGiftBundle:Du kannst dieser Person ein Paket schenken
-hasAlreadySubscriptions:{username} hat bereits aktive Abonnements
-grantsBenefits:Gewährt {currentUser.Username} Leistungen nach 30 Tagen
-receivesOnce:{username} erhält einmal
+youCanGiftBundle:Du kannst dieser Person ein Paket schenken.
+hasAlreadySubscriptions:{username} hat bereits ein oder mehrere aktive Abonnements.
+grantsBenefits:Gewährt {currentUser.Username} 30 Tage lang die folgenden Leistungen.
+receivesOnce:{username} erhält dies einmal.
 giftAnonymously:Anonym verschenken
 items:Artikel
 materials:Materialien
@@ -377,10 +377,10 @@ warningTooManyReplays:Du näherst dich dem Limit von 10 gespeicherten Wiederholu
 connect:Verbinde
 marketNoDiscordConnected:Nur verifizierte Spieler können den Markt nutzen. Verifiziere jetzt, indem du deinen Discord verbindest!
 starter_shield_description:Der Ritter trägt einen Schild, um physischen Schaden zu reduzieren, indem er von Zeit zu Zeit blockt. Verstärktes Attribut: HP
-starter_quiver_description:Der Ranger hat seine Pfeile immer griffbereit, sodass er von Zeit zu Zeit einen zusätzlichen Angriff starten kann. Verstärktes Attribut: Chance auf kritische Treffer
-starter_grimoire_description:Die Fähigkeit des Magiers, sich auf sein Ziel zu konzentrieren, ermöglicht es ihm, es nie zu verfehlen. Verstärktes Attribut: Modifikator für kritische Treffer
-starter_lifestone_description:Der Lebensstein gewährt dir 30% verfallenden Lebensverlust. Verstärktes Attribut: Schaden
-starter_talisman_description:Der Schurke nutzt seine Tarnfähigkeit, um Fern- und magischen Angriffen auszuweichen. Verstärktes Attribut: Ausweichen
+starter_quiver_description:Der Ranger hat seine Pfeile immer bereit, sodass er von Zeit zu Zeit einen zusätzlichen Angriff starten kann. Verstärktes Attribut: Chance auf kritische Treffer.
+starter_grimoire_description:Die Fähigkeit des Magiers, sich auf sein Ziel zu konzentrieren, ermöglicht es ihm, es nie zu verfehlen. Verstärktes Attribut: Modifikator für kritische Treffer.
+starter_lifestone_description:Der Lebensstein gewährt dir 30% verfallenden Lebensverlust. Verstärktes Attribut: Schaden.
+starter_talisman_description:Der Schurke nutzt seine Tarnfähigkeit, um Fern- und magischen Angriffen auszuweichen. Verstärktes Attribut: Ausweichen.
 heavyArmor:Schwere Rüstung
 mediumArmor:Mittlere Rüstung
 lightArmor:Leichte Rüstung
@@ -389,13 +389,13 @@ shield:Schild
 grimoire:Zauberbuch
 lifestone:Lebensstein
 talisman:Talisman
-guildBattleEffectPlus:Der {Effekt} all deiner Einheiten wird um {perc}% erhöht
-guildBattleEffectMinus:Der {Effekt} aller gegnerischen Einheiten wird um {perc}% verringert
+guildBattleEffectPlus:Der {Effekt} all deiner Einheiten wird um {perc}% erhöht.
+guildBattleEffectMinus:Der {Effekt} aller gegnerischen Einheiten wird um {Perc}% verringert.
 profession:Beruf
 pleaseChooseJob:Wähle deinen Hauptberuf! (+50% Berufserfahrung)
 pleaseChooseJobConfirmation:Bist du sicher, dass {job} dein Hauptberuf sein soll? (+50% Berufserfahrung)
 pleaseChooseJobWarning:Du kannst deinen Hauptberuf nicht wechseln, nachdem du dich für einen entschieden hast!
-dontOwnRecipe:Du besitzt noch kein Rezept in dieser Kategorie! Rezepte findest du in Bounties!
+dontOwnRecipe:Du besitzt noch keine Rezepte in dieser Kategorie! Rezepte findest du in Bounties!
 craft:Basteln
 cook:Koch
 smith:Smith
@@ -440,90 +440,6 @@ history:Geschichte
 cooking:Kochen
 class_slot:Klassen-Slot
 gift:Geschenk
-skin_starter:Einsteiger-Outfit
-skin_starter_description:Erhaltet ihr durch die Erstellung eures Charakters.
-skin_dragon_warrior:Haut der Dämonen
-skin_dragon_warrior_description:Benutzerdefinierter Skin von DeemonRider
-skin_royal_scout:Königlicher Pfadfinder
-skin_royal_scout_description:Erhältlich bis???
-skin_island_scout:Inselspäher
-skin_island_scout_description:Erhältlich bis???
-skin_swamp_scout:Sumpfspäher
-skin_swamp_scout_description:Erhältlich bis???
-skin_eastern_scout:Östlicher Scout
-skin_eastern_scout_description:Erhältlich bis???
-skin_dune_scout:Dünen-Scout
-skin_dune_scout_description:Erhältlich bis???
-skin_vale_scout:Scout Valley
-skin_vale_scout_description:Erhältlich bis???
-skin_wanderer:Wanderer
-skin_wanderer_description:Erhältlich bis???
-skin_fall_ranger:Herbst Ranger
-skin_fall_ranger_description:Erhältlich bis???
-skin_royal_general:Königlicher General
-skin_royal_general_description:Erhältlich bis???
-skin_wise_general:Kluger General
-skin_wise_general_description:Erhältlich bis???
-skin_jade_general:Jade: Allgemeines
-skin_jade_general_description:Erhältlich bis???
-skin_adamant_general:Unnachgiebiger General
-skin_adamant_general_description:Erhältlich bis???
-skin_heroic_general:Heroischer General
-skin_heroic_general_description:Erhältlich bis???
-skin_courageous_general:Mutiger General
-skin_courageous_general_description:Erhältlich bis???
-skin_commander:Kommandant
-skin_commander_description:Erhältlich bis???
-skin_red_warrior:Roter Krieger
-skin_red_warrior_description:Erhältlich bis???
-skin_royal_assassin:Königlicher Assassine
-skin_royal_assassin_description:Erhältlich bis???
-skin_brilliant_assassin:Genialer Assassine
-skin_brilliant_assassin_description:Erhältlich bis???
-skin_unseen_assassin:Unsichtbarer Attentäter
-skin_unseen_assassin_description:Erhältlich bis???
-skin_elegant_assassin:Eleganter Assassine
-skin_elegant_assassin_description:Erhältlich bis???
-skin_wealthy_assassin:Wohlhabender Attentäter
-skin_wealthy_assassin_description:Erhältlich bis???
-skin_bloody_assassin:Blutiger Attentäter
-skin_bloody_assassin_description:Erhältlich bis???
-skin_blackguard:Schwarze Garde
-skin_blackguard_description:Erhältlich bis???
-skin_blue_rogue:Blauer Schurke
-skin_blue_rogue_description:Erhältlich bis???
-skin_royal_paladin:Königlicher Paladin
-skin_royal_paladin_description:Erhältlich bis???
-skin_glowing_paladin:Glühender Paladin
-skin_glowing_paladin_description:Erhältlich bis???
-skin_emerald_paladin:Smaragdpaladin
-skin_emerald_paladin_description:Erhältlich bis???
-skin_mystic_paladin:Mystischer Paladin
-skin_mystic_paladin_description:Erhältlich bis???
-skin_golden_paladin:Goldener Paladin
-skin_golden_paladin_description:Erhältlich bis???
-skin_crimson_paladin:Purpurroter Paladin
-skin_crimson_paladin_description:Erhältlich bis???
-skin_noble_knight:Edler Ritter
-skin_noble_knight_description:Erhältlich bis???
-skin_red_knight:Roter Ritter
-skin_red_knight_description:Erhältlich bis???
-skin_royal_grandmaster:Königlicher Großmeister
-skin_royal_grandmaster_description:Erhältlich bis???
-skin_academic_grandmaster:Akademischer Großmeister
-skin_academic_grandmaster_description:Erhältlich bis???
-skin_herbalistic_grandmaster:Kräuterkundiger Großmeister
-skin_herbalistic_grandmaster_description:Erhältlich bis???
-skin_abyssal_grandmaster:Abgründiger Großmeister
-skin_abyssal_grandmaster_description:Erhältlich bis???
-skin_shining_grandmaster:Strahlender Großmeister
-skin_shining_grandmaster_description:Erhältlich bis???
-skin_fiery_grandmaster:Feuriger Großmeister
-skin_fiery_grandmaster_description:Erhältlich bis???
-skin_scholar:Gelehrter
-skin_scholar_description:Erhältlich bis???
-skin_forest_mage:Waldmagier
-skin_forest_mage_description:Erhältlich bis???
 all:Alle
 aquatic:Aquatisch
 insect:Insekt
@@ -536,7 +452,7 @@ undead:Untoter
 construct:Konstruieren
 abomination:Abscheulichkeit
 dragon:Drache
-mimic:nachahmen
+mimic:Imitieren
 embervale:Embervale # das sollte nicht übersetzt werden
 riverlands:Flusslandschaften
 unknown_lands:Unbekannte Länder
@@ -582,14 +498,19 @@ select:Wählen
 loadingTip29:Wenn du das Level deines Charakters erhöhst, kannst du mehr Rezepte finden.
 loadingTip30:Haben Sie mit einer bestimmten Art von Feind zu kämpfen? Finde ihre elementare Schwäche heraus!
 loadingTip31:Wenn du in der Arena gewinnst, erhältst du nicht nur Ruhm, sondern auch einen kleinen Teil des Goldes deines Gegners!
-loadingTip32:Wenn du in der Arena Gold gegen einen Angreifer verloren hast, bist du für eine Weile davor geschützt, noch mehr zu verlieren.
+loadingTip32:Wenn du in der Arena Gold an einen Angreifer verlierst, bist du für eine Weile davor geschützt, noch mehr zu verlieren.
 loadingTip33:Halte deine tägliche Belohnungsserie aufrecht und erhalte immer mächtigere Belohnungen!
 loadingTip34:Der Shop erhält 24 Stunden nach deinem letzten Reroll kostenlos eine neue Charge von Artikeln.
 loadingTip35:Wenn du zum ersten Mal einen Dungeon abräumst, erhältst du eine Mythische Truhe!
-loadingTip36:Dungeons haben einzigartige Monsterpools, sammle sie alle, um dein Bestiarium zu füllen!
+loadingTip36:Dungeons haben einzigartige Monsterpools; sammle sie alle, um dein Bestiarium zu füllen!
 chrono-badge:Chrono-Abzeichen
 chrono-badge_desc:Äußerst seltenes Abzeichen für das Sammeln von 365 täglichen Belohnungen hintereinander.
 founder_male:Gründer
 founder_female:Gründer
 harbinger_male:Vorbote
 harbinger_female:Vorbote
+voucher:Gutschein
+optional:Fakultativ
+collect:Sammle
+giftedYou:Hat dich beschenkt
+ayetStudioNoFill:Es tut uns leid, im Moment sind keine Anzeigen verfügbar. Bitte schauen Sie in ein paar Minuten noch einmal vorbei.

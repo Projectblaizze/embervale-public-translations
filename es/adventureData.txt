@@ -17,7 +17,7 @@ banishConfirmation:¿Estás seguro de que quieres desterrar a {{playerToBanish.c
 areYouSure:¿Estás seguro?
 banish:Desterrar
 youCanStartNewAdventureIn:Puedes crear uno nuevo en:
-partyInventory:Inventario del partido
+partyInventory:Inventario de fiestas
 noLootObtained:Tu grupo aún no ha obtenido el botín
 chooseRewardRecipient:Elija el destinatario de la recompensa
 voting:Votación
@@ -191,3 +191,7 @@ adventureCooldownMythical:El tiempo de reutilización de Aventura es un 50% más
 adventureCooldownLegendary:El tiempo de reutilización de Aventura es un 25% más corto
 adventureCooldownEpic:Tiempo de reutilización de Aventura un 10% más corto
 adventureEndMessageTimeout:Los aventureros se cansaron de quedarse sin hacer nada y el grupo se disolvió. (Se ha agotado el tiempo)
+vote:Votar
+choose:Elige
+sick:Enfermo
+effect_sick:Este jugador sufre una enfermedad.//-10% en todas las estadísticas

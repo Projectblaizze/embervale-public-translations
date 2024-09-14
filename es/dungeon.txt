@@ -13,16 +13,16 @@ dungeonName12:Cementerio de los Sin Nombre
 dungeonName13:Bastión de la Luz
 dungeonName14:Embervale
 dungeon:Mazmorra
-startDungeon:iniciar Dungeon
-dungeonAutoSell:¡Aún quedan algunos objetos en tu inventario de mazmorras! ¡Si abandonas la mazmorra ahora, se perderán!
-selectConsumablesForDungeon:Selecciona las pociones que quieras llevar contigo a tu mazmorra. ¡Esto no se puede revertir! Todos los objetos que lleves a las mazmorras se perderán.
+startDungeon:Iniciar mazmorra
+dungeonAutoSell:¡Aún quedan algunos objetos en tu inventario de mazmorras! Si abandonas la mazmorra ahora, ¡se perderán!
+selectConsumablesForDungeon:Selecciona las pociones que quieres llevar contigo a la mazmorra. ¡Esto no se puede revertir! Todos los objetos que lleves a las mazmorras se perderán.
 youDontHaveHealPotions:No tienes ninguna poción de salud.
 effect_gem_blessing:El jugador recibe la bendición de jugar {rondas} rondas.//+25% en todas las estadísticas
 gem_blessing:Bendición de gemas
 lost_fairy_blessing:La bendición de las hadas perdidas
-effect_lost_fairy_blessing:El Hada Perdida bendice al jugador durante {rondas} rondas.//+10% de puntos de vida en cada habitación
+effect_lost_fairy_blessing:El Hada Perdida bendice al jugador durante {rondas} rondas.//+10% de HP en cada habitación
 gem_curse:Maldición de gemas
-effect_gem_curse:El jugador está maldito durante {rondas} rondas.//-5% en todas las estadísticas
+effect_gem_curse:El jugador está maldito durante {rondas} rondas.//-5% de todas las estadísticas
 strength_buff:Mejora de fuerza
 effect_strength_buff:El jugador recibe mejoras durante {rondas} rondas.//+20% de fuerza
 wisdom_buff:Adicto a la sabiduría

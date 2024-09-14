@@ -1,3 +1,4 @@
+// Dungeon Names
 dungeonName1:Infested Gardens
 dungeonName2:Dried Out Riverlands
 dungeonName3:Occupied River Crossing
@@ -13,20 +14,20 @@ dungeonName12:Graveyard of the Nameless
 dungeonName13:Bastion of Light
 dungeonName14:Embervale
 
-
+// Dungeon
 dungeon:Dungeon
-startDungeon:start Dungeon
-dungeonAutoSell:There are still some items in your dungeon inventory! If you leave the dungeon now they will be lost!
-selectConsumablesForDungeon:Select the potions that you want to take with you in your Dungeon. This can't be reversed! All items you bring to dungeons will be lost.
+startDungeon:Start Dungeon
+dungeonAutoSell:There are still some items in your dungeon inventory! If you leave the dungeon now, they will be lost!
+selectConsumablesForDungeon:Select the potions that you want to take with you into the Dungeon. This can't be reversed! All items you bring to dungeons will be lost.
 youDontHaveHealPotions:You don't have any health potions.
 
-// dungeon effects
-effect_gem_blessing:The player is blessed for {rounds} rounds.  // +25% on all stats
+// Dungeon Effects
+effect_gem_blessing:The player is blessed for {rounds} rounds.  // +25% to all stats
 gem_blessing:Gem Blessing
 lost_fairy_blessing:Lost Fairy Blessing
-effect_lost_fairy_blessing:The player is blessed by the Lost Fairy for {rounds} rounds. // +10% hp each room
+effect_lost_fairy_blessing:The player is blessed by the Lost Fairy for {rounds} rounds. // +10% HP each room
 gem_curse:Gem Curse
-effect_gem_curse:The player is cursed for {rounds} rounds.  // -5% on all stats
+effect_gem_curse:The player is cursed for {rounds} rounds.  // -5% to all stats
 strength_buff:Strength Buff
 effect_strength_buff:The player is buffed for {rounds} rounds.  // +20% strength
 wisdom_buff:Wisdom Buff

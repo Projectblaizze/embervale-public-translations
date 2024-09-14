@@ -88,3 +88,4 @@ rare_gem:Gemme rare
 rare_gem_description:Une perle étrange. Cela pourrait être utile
 stack_of_coins:Pile de pièces
 stack_of_coins_description:Une belle somme de pièces d'or
+unknown_material:Matériau inconnu

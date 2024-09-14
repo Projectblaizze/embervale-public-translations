@@ -88,3 +88,4 @@ rare_gem:Seltener Edelstein
 rare_gem_description:Ein seltsamer Edelstein. Könnte wertvoll sein
 stack_of_coins:Stapel von Münzen
 stack_of_coins_description:Eine stattliche Summe von Goldmünzen
+unknown_material:Unbekanntes Material

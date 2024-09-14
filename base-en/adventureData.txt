@@ -18,7 +18,7 @@ banishConfirmation: Are you sure you want to banish {{ playerToBanish.char.usern
 areYouSure:Are you sure?
 banish:Banish
 youCanStartNewAdventureIn:You can start a new one in:
-partyInventory:Party Inventorty
+partyInventory:Party Inventory
 noLootObtained:Your group didn't obtain loot yet
 chooseRewardRecipient:Choose Reward Recipient
 voting:Voting
@@ -33,9 +33,11 @@ youLoseTheAdventureFight:Your Group lost the fight!
 yourGroupObtained:Your group obtained:
 yourGroupLost:Your group lost:
 ThePlayerWillReceiveReward:Are you sure that you want to give §player0§ the reward?
-noAdventureStarted:The streamer doesn't host an adventure right now. 
+noAdventureStarted:The streamer doesn't host an adventure right now.
 waitingForVoting:Waiting for the next voting in {leaderName}'s adventure...
 alreadyVoted:You already voted
+vote:Vote
+choose:Choose
 
 check:Check
 required:Required
@@ -126,6 +128,8 @@ unavailable:Unavailable
 effect_unavailable:This player is currently busy elsewhere and temporarily can't participate in battles. // # TODO
 dark_blessing:Dark Blessing
 effect_dark_blessing: This player was blessed by a sinister deity. // + 20% on all stats + 10% damage taken
+sick:Sick
+effect_sick:This player is suffering from a sickness. // -10% on all stats
 enlightened:Enlightened
 effect_enlightened:This player achieved a deeper understanding of the divines and everything sacred.  // +2 to all wisdom rolls
 famished:Famished

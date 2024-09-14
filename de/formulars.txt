@@ -1,13 +1,13 @@
 statDMG-mage:Die Bandbreite des magischen Schadens, den du verursachen kannst.
-statDMG-F-mage:AVG Damage: Waffenschaden * (Weisheit/40 + 1)
+statDMG-F-mage:Schaden = Waffenschaden * (Weisheit/60 + 1)
 statDMG-knight:Die Bandbreite an physischem Schaden, den du verursachen kannst.
-statDMG-F-knight:Waffenschaden * (Stärke/40 + 1)
+statDMG-F-knight:Schaden = Waffenschaden * (Stärke/60 + 1)
 statDMG-ranger:Die Bandbreite an physischem Schaden, den du verursachen kannst.
-statDMG-F-ranger:AVG-Schaden: Waffenschaden * (Geschicklichkeit/40 + 1)
+statDMG-F-ranger:Schaden = Waffenschaden * (Geschicklichkeit/60 + 1)
 statDMG-warrior:Die Bandbreite an physischem Schaden, den du verursachen kannst.
-statDMG-F-warrior:AVG-Schaden: Waffenschaden * (Stärke/40 + 1)
+statDMG-F-warrior:Schaden = Waffenschaden * (Stärke/60 + 1)
 statDMG-rogue:Die Bandbreite an physischem Schaden, den du verursachen kannst.
-statDMG-F-rogue:AVG-Schaden: Waffenschaden * (Geschicklichkeit/40 + 1)
+statDMG-F-rogue:Schaden = Waffenschaden * (Geschicklichkeit/60 + 1)
 statVIT-mage:Die Höhe des Schadens, den Sie erleiden können.
 statVIT-F-mage:(1 + PS * 0,08) * (1 + 0,01 * Stufe) * 11,5
 statVIT-knight:Die Höhe des Schadens, den Sie erleiden können.

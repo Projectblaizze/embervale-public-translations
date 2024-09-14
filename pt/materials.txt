@@ -88,3 +88,4 @@ rare_gem:Joia rara
 rare_gem_description:Uma joia estranha. Pode ser valioso
 stack_of_coins:Pilha de moedas
 stack_of_coins_description:Uma bela soma de moedas de ouro
+unknown_material:Material desconhecido

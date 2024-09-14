@@ -1,13 +1,13 @@
 statDMG-mage:El rango de daño mágico que puedes infligir.
-statDMG-F-mage:Daño promedio: daño de arma * (sabiduría/40 + 1)
+statDMG-F-mage:Daño = daño de arma * (sabiduría/60 + 1)
 statDMG-knight:El rango de daño físico que puedes infligir.
-statDMG-F-knight:Daño por arma * (fuerza/40 + 1)
+statDMG-F-knight:Daño = daño de arma * (fuerza/60 + 1)
 statDMG-ranger:El rango de daño físico que puedes infligir.
-statDMG-F-ranger:Daño promedio: daño de arma * (destreza /40 + 1)
+statDMG-F-ranger:Daño = daño de arma * (destreza/60 + 1)
 statDMG-warrior:El rango de daño físico que puedes infligir.
-statDMG-F-warrior:Daño promedio: daño de arma * (fuerza/40 + 1)
+statDMG-F-warrior:Daño = daño de arma * (fuerza/60 + 1)
 statDMG-rogue:El rango de daño físico que puedes infligir.
-statDMG-F-rogue:Daño promedio: daño de arma * (destreza /40 + 1)
+statDMG-F-rogue:Daño = daño de arma * (destreza/60 + 1)
 statVIT-mage:La cantidad de daño que puedes recibir.
 statVIT-F-mage:(1 + hp * 0.08) * (1 + 0.01 * lvl) * 11.5
 statVIT-knight:La cantidad de daño que puedes recibir.

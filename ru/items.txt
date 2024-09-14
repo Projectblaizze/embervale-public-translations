@@ -776,3 +776,5 @@ evershift_scepter:Скипетр Evershift
 hellscream_blade:Клинок «Адский крик»
 soulreaver_talons:Когти Тобывателя душ
 crystalline_blade:кристаллический клинок
+abyss_dancers_boots:Сапоги танцовщицы бездны
+nightblade_boots:Ботинки Nightblade

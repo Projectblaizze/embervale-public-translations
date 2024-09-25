@@ -1,41 +1,41 @@
 errInvalidAction:Ação inválida!
 tosNotAccepted:Por favor, aceite os Termos de Serviço!
-errUnknownErrorHeadline:Erro não tratado!
-errUnknownError:Ocorreu um erro desconhecido! Por favor, tente atualizar a página da web! Se o problema persistir, informe-nos em nosso Discord: https://discord.com/invite/Gum9bS2dyw
-tokenExpired:O token de autenticação do Twitch expirou. Recarregue o site ou reinicie seu aplicativo.
-invalidToken:<h3>Falha na autenticação</h3> Verifique se o relógio do sistema está sincronizado! <br>Caso contrário, a autenticação falhará! <br><br>Mais soluções: <br>1) Atualize a página <br>2) Desative as extensões do navegador <br>3) Revogue e conceda a permissão da extensão <br>4) Faça login e saia do Twitch <br>5) Tente usar um navegador diferente <br><br>Para obter mais ajuda, entre no nosso Discord: https://discord.gg/cT3ThCj
-errTwitchAccessNotGranted:Conceda acesso ao seu ID do Twitch clicando no pequeno ícone humano no canto inferior direito!
+errUnknownErrorHeadline:Erro Não Manipulado!
+errUnknownError:Ocorreu um erro desconhecido! Por favor, tente atualizar a página! Se o problema persistir, relate para nós no nosso Discord: https://discord.com/invite/Gum9bS2dyw
+tokenExpired:O token de autenticação da Twitch expirou. Por favor, recarregue a página ou reinicie seu aplicativo.
+invalidToken:<h3>Falha de autenticação</h3> Por favor, certifique-se de que o relógio do sistema está sincronizado! <br> Caso contrário, a autenticação falhará!<br><br>Mais soluções:<br>1) Atualize a página<br>2) Desative extensões do navegador<br>3) Revogue e conceda permissão à extensão<br>4) Faça login e logout da Twitch<br>5) Tente usar um navegador diferente<br><br>Para mais ajuda, junte-se ao nosso Discord: https://discord.gg/cT3ThCj
+errTwitchAccessNotGranted:Por favor, conceda acesso ao seu ID Twitch clicando no ícone do humano pequeno no canto inferior direito!
 errNoInventoryItem:O inventário está vazio!
 errInventoryIsFull:Seu inventário está cheio! Por favor, venda alguns itens!
-errMaterialInventoryIsFull:Seu estoque de materiais está cheio! Você pode vendê-los para o comerciante na loja ou criar algo!
-errConsumableInventoryIsFull:Seu estoque de consumíveis está cheio!
-errNotEnoughArcanites:Você não tem Arcanitas suficientes.
-errNotEnoughMoney:Você não tem ouro suficiente para comprar isso!
-errNotEnoughGold:Você não tem ouro suficiente para comprar isso!
-errNotEnoughSkillPoints:Você não tem pontos de habilidade suficientes para realizar essa ação!
-errStatDoesNotExist:Você não pode aumentar essa estatística!
-errBountyDoesNotExist:A recompensa não existe (mais)! Isso pode significar que a página da web está aberta há mais de 24 horas ou que seu relógio não está sincronizado!
+errMaterialInventoryIsFull:Seu inventário de materiais está cheio! Você pode vendê-los ao Comerciante na loja ou criar algo!
+errConsumableInventoryIsFull:Seu inventário de consumíveis está cheio!
+errNotEnoughArcanites:Você não tem Arcanites suficientes.
+errNotEnoughMoney:Você não tem ouro suficiente para comprar isto!
+errNotEnoughGold:Você não tem ouro suficiente para comprar isto!
+errNotEnoughSkillPoints:Você não tem pontos de habilidade suficientes para realizar esta ação!
+errStatDoesNotExist:Você não pode aumentar este atributo!
+errBountyDoesNotExist:Parece que essa recompensa não pode ser encontrada! Isso pode acontecer se: a) seu relógio do sistema estiver fora de sincronização, ou b) você tiver Embervale aberto em várias abas do navegador e já tiver completado essa recompensa.
 errOpponentDoesNotExist:O inimigo não existe (mais)!
-errItemDoesNotExist:O item não pertence a você ou não existe mais!
-errLevelToLowToEquip:Seu nível está muito baixo para equipar esse item!
-errCantFindRandomOpponent:Não consigo encontrar um oponente aleatório em sua divisão!
-errCantFindCharacter:Não consigo encontrar esse personagem.
-errCantFindGuild:Não consigo encontrar essa guilda.
+errItemDoesNotExist:O item ou não pertence a você ou não existe mais!
+errLevelToLowToEquip:Seu nível é muito baixo para equipar esse item!
+errCantFindRandomOpponent:Não foi possível encontrar um oponente aleatório na sua divisão!
+errCantFindCharacter:Não foi possível encontrar este personagem.
+errCantFindGuild:Não foi possível encontrar esta guilda.
 errBountyAlreadyStarted:A recompensa já foi iniciada.
 errInvalidAppearance:A aparência é inválida!
-errInvalidAppearanceName:Esse atributo é inválido!
-errInvalidAppearanceType:Esse tipo de aparência é inválido!
-errInvalidAppearanceColor:Essa cor de aparência é inválida!
+errInvalidAppearanceName:Este atributo é inválido!
+errInvalidAppearanceType:Este tipo de aparência é inválido!
+errInvalidAppearanceColor:Esta cor de aparência é inválida!
 errNoStamina:Você não tem mais resistência!
-errDungeonNotFound:Nenhuma masmorra encontrada.
+errDungeonNotFound:Nenhum calabouço encontrado.
 errItemAlreadyInInventory:Você só pode comprar este item uma vez!
-errUserAtFullHealth:Você já está com saúde total!
-open:Aberto
-use:Uso
+errUserAtFullHealth:Você já está com a saúde cheia!
+open:Abrir
+use:Usar
 noShield:Sem escudo
 youAreAboutToBuy:Você está prestes a comprar:
-arenaShieldExplaination:Esse escudo protege você por {dias} dia (s). Durante esse período, você não pode perder dinheiro quando alguém ataca e derrota você!
-arenaNotEnoughEmeralds:Você precisa de mais {fragmentos} para comprar esse escudo.
+arenaShieldExplaination:Este escudo protege você por {days} dia(s). Durante esse tempo, você não pode perder dinheiro quando alguém o atacar e derrotar!
+arenaNotEnoughEmeralds:Você precisa de {shards} fragmentos a mais para comprar este escudo.
 errYourNotHungry:Você não está com fome!
 activateShield:Ativar escudo
 arenaShieldActiveTooltip:O jogador tem um escudo ativo, então você não receberá nenhum dinheiro da batalha.
@@ -45,23 +45,25 @@ errAccessNotGranted:Por favor, conceda acesso (clicando na figura no canto infer
 errTwitchAccountAlreadyExists:Você já tem uma conta do Twitch conectada!
 errNameNoSpace:O nome não pode conter espaços!
 errNameRegexInvalid:O nome só pode conter letras (A-Z) e números (0-9).
-errCantUseThisName:Você não pode usar esse nome!
+errCantUseThisName:Você não pode usar este nome!
 errThatNameIsTooLong:Seu nome pode ter até 16 caracteres!
 errThatNameIsTooShort:Seu nome deve ter pelo menos 4 caracteres!
-errThatNameIsAlreadyInUse:Esse nome não está mais disponível!
-errAlreadyInvitedToGuild:Essa pessoa já está convidada para sua guilda!
+errThatNameIsAlreadyInUse:Este nome não está mais disponível!
+errAlreadyInvitedToGuild:Esta pessoa já foi convidada para sua guilda!
 errGuildBattleLineIsFull:A linha de batalha está cheia!
-noHealPotions:Você não tem nenhuma poção de cura!
+noHealPotions:Você não tem poções de cura!
 yourStomachFull:Seu estômago está cheio!
 youDontHaveMaterials:Você não tem nenhum material nesta categoria.
-youDontHaveChests:Você não tem nenhum baú! Complete conquistas ou masmorras para conseguir algumas!
-connectionLost:Conexão perdida. Reconectando-se em {timeLeft} segundos...
-reconnectingFailedRetry:Falha na reconexão. Tentativa de reconexão: {reconnectAmount}. Reconectando em {timeLeft} segundos...
-reconnectingFailed:Falha na reconexão. Por favor, recarregue seu navegador.
+youDontHaveChests:Você não tem nenhum baú! Complete conquistas ou masmorras para conseguir alguns!
+connectionLost:Conexão perdida. Reconectando em {timeLeft} segundos...
+reconnectingFailedRetry:Reconexão falhou. Tentativa de reconexão: {reconnectAmount}. Reconectando em {timeLeft} segundos...
+reconnectingFailed:Reconexão falhou. Por favor, recarregue seu navegador.
 error:Erro
-connectTwitchBrowser:Uma nova janela no seu navegador foi aberta. Faça login com sua conta do Twitch e conecte sua conta Steam.
+connectTwitchBrowser:Uma nova janela no seu navegador foi aberta. Faça login com sua conta do Twitch e conecte sua conta do Steam.
 connectTwitchConfirm:Quando terminar, pressione o botão de confirmação abaixo.
-isSteamRunning:Ocorreu um erro. O Steam está funcionando?
+isSteamRunning:Ocorreu um erro. O Steam está em execução?
 errNoPermission:Você não tem permissão para fazer isso!
-errUnknownErrorChatbot:Ocorreu um erro desconhecido! Se o problema persistir, informe-nos em nosso Discord: https://discord.com/invite/Gum9bS2dyw
+errUnknownErrorChatbot:Ocorreu um erro desconhecido! Se o problema persistir, relate para nós no nosso Discord: https://discord.com/invite/Gum9bS2dyw
 twitchBotRemoved:O bot vai sair agora. Obrigado por jogar Embervale.
+errPleaseRenameYourCharacter:Você precisa renomear seu personagem!
+errConsumableInventoryWouldBeFull:Esta criação tornaria sua bolsa muito pesada!

@@ -1,67 +1,67 @@
 main_mission:Главная
 bestiary:Бестиарий
 collector:Коллекционер
-adventurer:Искатель приключений
+adventurer:Авантюрист
 combat:Бой
 level:Уровень
-guild:гильдия
+guild:Гильдия
 achievement:Достижение
-todo:Задачи
-weekly:Еженедельно
-newMissionsIn:Новые миссии в
-levelUp:Повышайте уровень!
-complete_achievement:Выполните {количество} достижений
-complete_weekly_mission:Выполняйте {количество} еженедельных миссий
-kill_monster:Убейте {количество} монстров
-defeat_monster:Одолейте {количество} монстров
-defeat_aquatic_monster:Одолейте {количество} водных монстров
-defeat_insect_monster:Одолейте {количество} монстров-насекомых
-defeat_humanoid_monster:Одолейте {количество} противников-гуманоидов за награды
-defeat_elemental_monster:Одолейте {количество} монстров-стихий
-defeat_slime_monster:Одолейте {количество} слизевых монстров
-defeat_beast_monster:Одолейте {количество} чудовищ
-defeat_plant_monster:Одолейте {количество} растительных монстров
-defeat_undead_monster:Одолейте {количество} монстров-мертвецов
-defeat_construct_monster:Победите {количество} постройте монстров
-defeat_abomination_monster:Одолейте {количество} мерзостных монстров
-defeat_dragon_monster:Одолейте {количество} монстров-драконов
-defeat_mimic_monster:Победите {количество} имитирующих монстров
-defeat_rogue_class:Одолейте {количество} разбойников
-defeat_mage_class:Победите {количество} магов
-defeat_knight_class:Победите {количество} рыцарей
-defeat_ranger_class:Победите {количество} рейнджеров
-defeat_warrior_class:Одолейте {количество} воинов
-collect_items_bounties:Соберите {количество} предметов в виде наград
-collect_items_shop:Купите {количество} товаров в магазине
-collect_mythical_item:Соберите {количество} мифических предметов
-complete_bestiary:Заполните {count}% вашего бестиария
-complete_materials_glossary:Узнайте {count}% материалов
-complete_items_glossary:Откройте {count}% товаров
+todo:Список дел
+weekly:Еженедельный
+newMissionsIn:Новые миссии через
+levelUp:Повышение уровня!
+complete_achievement:Выполните {amount} достижений
+complete_weekly_mission:Выполните {amount} еженедельных миссий
+kill_monster:Убейте {amount} монстров
+defeat_monster:Победите {amount} монстров
+defeat_aquatic_monster:Победите {amount} водных монстров
+defeat_insect_monster:Победите {amount} насекомых монстров
+defeat_humanoid_monster:Победите {amount} гуманоидных противников в заданиях
+defeat_elemental_monster:Победите {amount} элементалей
+defeat_slime_monster:Победите {amount} слизней
+defeat_beast_monster:Победите {amount} зверей
+defeat_plant_monster:Победите {amount} растительных монстров
+defeat_undead_monster:Победите {amount} нежити
+defeat_construct_monster:Победите {amount} конструкций
+defeat_abomination_monster:Победите {amount} порождений
+defeat_dragon_monster:Победите {amount} драконов
+defeat_mimic_monster:Победите {amount} мимиков
+defeat_rogue_class:Победите {amount} разбойников
+defeat_mage_class:Победите {amount} магов
+defeat_knight_class:Победите {amount} рыцарей
+defeat_ranger_class:Победите {amount} следопытов
+defeat_warrior_class:Победите {amount} воинов
+collect_items_bounties:Соберите {amount} предметов в наградах
+collect_items_shop:Купите {amount} предметов в магазине
+collect_mythical_item:Достаньте {amount} мифических предметов
+complete_bestiary:Заполните {count}% Бестиария
+complete_materials_glossary:Откройте {count}% материалов
+complete_items_glossary:Откройте {count}% предметов
 reach_level:Достигните уровня {lvl}
-participate_in_adventures:Примите участие в {количестве} приключений
-clear_bounties:Очистить {количество} наград
-clear_bounties_difficulty_1:Собирайте {количество} наград на уровне сложности 1
-clear_bounties_difficulty_2:Собирайте {количество} наград на уровне сложности 2
-clear_bounties_difficulty_3:Заработайте {количество} наград на 3-м уровне сложности
-clear_bounties_difficulty_4:Собирайте {количество} наград на 4-м уровне сложности
-clear_bounties_difficulty_5:Собирайте {количество} наград на 5-м уровне сложности
-defeat_monster_in_dungeon:Победите {количество} монстров в подземельях
-win_pvp_battle:Выиграйте {количество} PvP-сражений
-find_a_mythical_item:Найдите {количество} мифических предметов
-distribute_skill_points:Распределите {количество} очков навыков
-use_stamina:Используйте {количество} выносливости в наградах
-complete_an_expedition:Завершите {количество} экспедиций
-battle_in_the_arena:Сражайтесь на арене {количество} раз
-join_or_create_a_guild:Присоединяйтесь к гильдии или создайте ее
-clear_the_first_dungeon:Очистите первое подземелье
-wear_full_set_of_uncommon:Носите полный набор необычных вещей
-wear_full_set_of_common:Носите полный набор обычных вещей
-wear_full_set_of_rare:Носите полный набор редких вещей
-wear_full_set_of_epic:Носите полный набор эпических предметов
-wear_full_set_of_legendary:Носите полный набор легендарных вещей
-wear_full_set_of_mythical:Носите полный набор мифических предметов
-reach_fame:Получите {количество} славы
-shop_reroll_5:Переоборудование цеха обходится на 5% дешевле меди
-claim_daily_bonus:Получите {сумму} ежедневных бонусов в нашем Discord
-claim_daily_bonus_row:Получайте {сумму} ежедневных бонусов подряд в нашем Discord
-lose_fights:Проиграйте {количество} боев
+participate_in_adventures:Участвуй в {amount} приключениях
+clear_bounties:Заверши {amount} награды
+clear_bounties_difficulty_1:Заверши {amount} награды на уровне сложности 1
+clear_bounties_difficulty_2:Заверши {amount} награды на уровне сложности 2
+clear_bounties_difficulty_3:Заверши {amount} награды на уровне сложности 3
+clear_bounties_difficulty_4:Заверши {amount} награды на уровне сложности 4
+clear_bounties_difficulty_5:Заверши {amount} награды на уровне сложности 5
+defeat_monster_in_dungeon:Победи {amount} монстров в подземельях
+win_pvp_battle:Выиграй {amount} PvP сражений
+find_a_mythical_item:Найди {amount} мифических предметов
+distribute_skill_points:Распредели {amount} очков навыков
+use_stamina:Используй {amount} выносливости на награды
+complete_an_expedition:Заверши {amount} экспедиций
+battle_in_the_arena:Сразись на арене {amount} раз
+join_or_create_a_guild:Вступи или создай гильдию
+clear_the_first_dungeon:Очистви первое подземелье
+wear_full_set_of_uncommon:Надень полный комплект необычных предметов
+wear_full_set_of_common:Надень полный комплект обычных предметов
+wear_full_set_of_rare:Надень полный комплект редких предметов
+wear_full_set_of_epic:Надень полный комплект эпических предметов
+wear_full_set_of_legendary:Надень полный комплект легендарных предметов
+wear_full_set_of_mythical:Надень полный комплект мифических предметов
+reach_fame:Достигни {amount} славы
+shop_reroll_5:Переброс магазина стоит на 5% меньше меди
+claim_daily_bonus:Забери {amount} ежедневных бонусов в нашем Discord
+claim_daily_bonus_row:Забери {amount} ежедневных бонусов подряд в нашем Discord
+lose_fights:Проиграй {amount} сражений

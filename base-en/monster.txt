@@ -186,7 +186,7 @@ forest_spora:Forest Spora
 forest_mothy:Forest Mothy
 forest_sprout:Forest Sprout
 forest_tree:Forest Tree
-forest_turtle:Forest Turtle
+forest_turtle:Forest Tortoise
 forest_uzu:Forest Uzu
 forest_white_flower:White Forest Flower
 forest_wolf:Forest Wolf
@@ -226,6 +226,10 @@ blazing_shroom:Blazing Shroom
 chilling_shroom:Chilling Shroom
 intoxicating_shroom:Intoxicating Shroom
 snow_golem:Snow Golem
+haunting_ghost:Haunting Ghost
+bell_pepper_lizard:Bell Pepper Lizard
+darkness_crawler_azrkoth:Darkness Crawler Azr’koth
+book_mimic:Book Mimic
 
 darkness_seeker:Darkness Seeker
 darkness_wisp:Darkness Wisp
@@ -487,6 +491,7 @@ cultist_caller:Cultist Caller
 novice_cultist: Novice Cultist
 nailguns:Nailguns
 
+
 abnormous_tick_bestiary:A tick of this size makes one think about the creatures it usually preys upon
 accursed_captain_hawk_bestiary:At least one part of his curse must concern his sense of style. Have you seen that famous outfit and lived to tell the tale?
 aiming_dwarf_bestiary:What these dwarves lost in facial hair, they’ve gained in marksman prowess
@@ -668,7 +673,7 @@ forest_spora_bestiary: Forest Sporas are unique, plant-like creatures with a sym
 forest_mothy_bestiary: Forest Mothies are nocturnal insects with large, patterned wings, drawn to sources of light and essential to the forest's ecosystem as pollinators.
 forest_sprout_bestiary: Forest Sprouts are small, sentient plant beings that emerge from the forest floor, exhibiting curiosity and playfulness as they explore their surroundings.
 forest_tree_bestiary: Forest Trees are the towering, ancient guardians of the forest, providing shelter, food, and homes to countless species within their branches and roots.
-forest_turtle_bestiary: Forest Turtles are slow-moving reptiles with a strong, protective shell, often found near bodies of water and known for their long lifespan and gentle demeanor.
+forest_turtle_bestiary: Forest Tortoise are slow-moving reptiles with a strong, protective shell, often found near bodies of water and known for their long lifespan and gentle demeanor.
 forest_uzu_bestiary: Forest Uzus are small, elusive creatures with an innate magical aura, making them difficult to locate and highly sought after for their magical properties.
 forest_white_flower_bestiary: White Forest Flowers are rare and delicate flora, known for their beauty and the unique properties they possess, often used in potions and remedies.
 forest_wolf_bestiary: Forest Wolves are intelligent and social canines, forming tight-knit packs and hunting cooperatively to take down prey in their forest territory.
@@ -974,6 +979,10 @@ brigand_watcher_bestiary:Brigand Watchers are the eyes of their band, skilled in
 city_watch_ward_bestiary:The City Watch Ward patrols the streets, ever vigilant, maintaining order and peace within the city's bustling quarters.
 city_watch_commander_bestiary:A City Watch Commander leads with authority and strategy, overseeing the safety and law enforcement of the entire city.
 city_watch_gate_keeper_bestiary:The City Watch Gate Keeper stands as the city's first line of defense, scrutinizing all who seek entry with a keen eye.
+haunting_ghost_bestiary: Restless and forgotten, they wander the realms between life and death, driven by unresolved anguish and a thirst for final peace.
+bell_pepper_lizard_bestiary: A rare, elusive creature with scales resembling vibrant bell peppers, its presence is said to bring the most exquisite flavors to any dish. Many seek it, but few can catch the spice-laden trail it leaves behind.
+darkness_crawler_azrkoth_bestiary: A grotesque fusion of man and spider, Azr’koth roams the shadowy Dusk Wood. It is known to either guide lost adventurers to safety or ensnare them in its webs for a cruel feast. Its unpredictable nature makes it both feared and sought by those brave—or foolish—enough to enter its domain.
+book_mimic_bestiary: A deceptive predator posing as a book, ready to snap shut on anyone who opens it.
 
 abnormous_tick_bounty:An oversized parasite thet will draw more than a bit of blood
 accursed_captain_hawk_bounty:A pirate captain older than most ships he plunders
@@ -1463,3 +1472,7 @@ brigand_watcher_bounty:Brigand Watcher spotted near the eastern woods, endangeri
 city_watch_ward_bounty:Wanted for desertion during a critical hour, putting the city at risk.
 city_watch_commander_bounty:Sought for orchestrating a corrupt scheme under the guise of law enforcement.
 city_watch_gate_keeper_bounty:Hunted for allowing dangerous fugitives to slip through the city's gates undetected.
+haunting_ghost_bounty: Confront the Haunting Ghost, a tormented soul lost between worlds, seeking vengeance.
+bell_pepper_lizard_bounty: Hunt the mythical Bell Pepper Lizard, key to crafting the ultimate culinary masterpiece.
+darkness_crawler_azrkoth_bounty: Seek out Darkness Crawler Azr’koth, the spider-human abomination of the Dusk Wood. Sometimes a guide, sometimes a predator, it chooses whether to save or devour those who cross its path.
+book_mimic_bounty: Hunt the elusive Book Mimic, lurking among the shelves, waiting to devour curious readers.

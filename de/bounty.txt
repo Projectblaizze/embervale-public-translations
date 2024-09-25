@@ -1,51 +1,51 @@
-BountyHumanMage0:Zwielichtiger Akolyth, der sich der schwarzen Magie schuldig gemacht hat. Zuletzt gesehen, als ich durch das Flussland streifte.
-BountyHumanMage1:Hinweis: Der Alchemist der Dunklen Künste, der sich mit verbotener Magie beschäftigt und nach dem Diebstahl antiker Bücher aus der Königlichen Bibliothek sucht.
-BountyHumanMage2:Magier, der illegal versucht hat, helle und dunkle Magie zu verschmelzen.
-BountyHumanMage3:Zauberer, der illegal versucht hat, Feuer- und Eismagie zu verschmelzen.
-BountyHumanMage4:Nekromant versucht, eine Armee der Untoten zu beschwören.
-BountyHumanMage5:Hexe ohne Lizenz, die Menschen in Frösche verwandelt.
+BountyHumanMage0:Schattenhafter Akolyt, der der Verwendung schwarzer Magie schuldig ist. Zuletzt durch die Flusslande streifend gesehen.
+BountyHumanMage1:Gesucht: Der Alchemist der Dunklen Künste, der sich mit verbotener Magie beschäftigt und des Diebstahls antiker Bücher aus der Königlichen Bibliothek verdächtigt wird.
+BountyHumanMage2:Magier, der versuchte, Licht- und Dunkelmagie illegal zu verschmelzen.
+BountyHumanMage3:Magier, der illegal Feuer- und Eismagie zu verschmelzen versuchte.
+BountyHumanMage4:Nekromant, der versucht, eine untote Armee zu beschwören.
+BountyHumanMage5:Unlizenzierte Hexe, die Menschen in Frösche verwandelt.
 BountyHumanMage6:Zauberer, der Dörfer mit magischen Schneestürmen belästigt.
-BountyHumanMage7:Zauberer, der Gemeinden mit ihrer Sturmmagie belästigt.
+BountyHumanMage7:Zauberer, der Gemeinschaften mit Sturmmagie belästigt.
 BountyHumanMage8:Zauberer, schuldig, mit falschen Goldmünzen bezahlt zu haben.
-BountyHumanMage9:Trickster-Magier, der Leute mit illusorischen Waren abzockt.
+BountyHumanMage9:Tricksermagier, der Leute mit illusorischen Waren reinlegt.
 BountyHumanRogue0:Verurteilter Bandit. Außergewöhnlich gefährlich.
-BountyHumanRogue1:Ein kleiner Dieb, der verdächtigt wird, Vorräte gestohlen zu haben.
+BountyHumanRogue1:Ein kleiner Dieb, verdächtigt, Vorräte gestohlen zu haben.
 BountyHumanRogue2:Ein kleiner Dieb, der ein heiliges Artefakt gestohlen hat.
 BountyHumanRogue3:Ein kleiner Dieb, der den Stab eines Zauberers gestohlen hat.
-BountyHumanRogue4:Anführer der Banditengruppe, der Händler angreift.
-BountyHumanRogue5:Ein Schurke, der auf dem Markt Brieftaschen stiehlt.
-BountyHumanRogue6:Dieb, stiehlt Gold am Stadttor.
-BountyHumanRogue7:Der scharlachrote Bandit, ein Meister der Verkleidung, der dafür bekannt ist, Handelskarawanen auf der King's Road zu plündern.
-BountyHumanRogue8:Gesucht: Der Schattendieb, berüchtigt dafür, dass er im Schutz der Nacht mit den königlichen Juwelen verschwunden ist.
-BountyHumanRogue9:Sofortige Gefangennahme: Die Nachtigall, ein berühmter Barde mit einem Talent für Spionage, wollte königliche Geheimnisse preisgeben.
-BountyHumanKnight0:Der Iron Revenant, ein entehrter Ritter, der durch die Länder streift und jeden herausfordert, sich um ihr Land und ihre Titel zu duellieren.
-BountyHumanKnight1:Verlassener Ritter und ehemaliger Befehlshaber der königlichen Armee.
-BountyHumanKnight2:Ein verlassener Soldat von King's Army, der sich der Plünderung zugewandt hat
-BountyHumanKnight3:Der gefallene Paladin war auf der Suche nach Häresie und den dunklen Ritualen, die das Land, das er schützen musste, verflucht haben.
-BountyHumanKnight4:Ehemalige Stadtwache, missbrauchte ihre Position, um das Geld der Leute zu rauben
-BountyHumanKnight5:Der abtrünnige Templer, bekannt dafür, heilige Reliquien zu plündern und ihre Macht gegen die Kirche auszuüben.
-BountyHumanKnight6:Der Silberne Ritter, eine Legende, die zum Verräter wurde, wird beschuldigt, unter dem Deckmantel des Friedens einen hochrangigen Adligen ermordet zu haben.
-BountyHumanKnight7:Der Kriegsherr der Ödlande, der Verbannte und Kriminelle um sich schart, um ein eigenes Königreich zu errichten, das sich der königlichen Autorität widersetzt.
-BountyHumanKnight8:Der Eidbrecher, einst ein Wächter des Reiches, heute sein gefürchtetster Widersacher, trachtete danach, heilige Gelübde zu brechen und Rebellion anzuzetteln.
-BountyHumanKnight9:Die Twilight Vanguard verschwand am Vorabend der Schlacht von ihrem Posten und führt nun eine Schattenarmee gegen ihre ehemaligen Kameraden an.
-BountyHumanRanger0:Einbrecher, beraubt Menschen im Wald.
-BountyHumanRanger1:Für Gerechtigkeit: Der Phantombogenschütze, der aus dem Schatten zuschlägt und eine Spur des Chaos im Herzen der Stadt hinterlässt.
-BountyHumanRanger2:Assassine, arbeitet als falscher Waldführer.
-BountyHumanRanger3:Wanted Dead or Alive: Der Wolf der Wilds, ein einsamer Ranger, der beschuldigt wird, eine Rebellion gegen die Krone angeführt zu haben.
-BountyHumanRanger4:Hohe Belohnung: Der Geist von Duskwood, eine schwer fassbare Figur, die von den Reichen stiehlt und spurlos verschwindet.
-BountyHumanRanger5:Der Pfeil des Nordens, berühmt für seine tödliche Präzision aus unsichtbarer Entfernung, stört königliche Patrouillen.
-BountyHumanRanger6:Wächter des Verborgenen Tals, dem vorgeworfen wird, verbotene Länder mit tödlicher Gewalt vor Eindringlingen geschützt zu haben.
-BountyHumanRanger7:Der Wandering Bow, ein nomadischer Bogenschütze, der beschuldigt wird, bei einer verbotenen Jagd das wertvolle Wild eines Adligen gefällt zu haben.
-BountyHumanRanger8:Der Silent Step, ein Geist in den Wäldern, stiehlt die Reichen und entzieht sich mit unübertroffener Tarnung der Gefangennahme.
-BountyHumanRanger9:Whisperwind, ein Ranger mit der Fähigkeit, sich wie eine Brise zu bewegen, ist an der Spionage gegen die Krone beteiligt.
+BountyHumanRogue4:Anführer einer Banditengruppe, die Händler angreift.
+BountyHumanRogue5:Ein Schurke, der auf dem Markt Geldbörsen stiehlt.
+BountyHumanRogue6:Dieb, der am Stadttor Gold stiehlt.
+BountyHumanRogue7:Der Scharlachrote Bandit, ein Meister der Verkleidung, der für das Plündern von Händlerkarawanen auf der Königsstraße bekannt ist.
+BountyHumanRogue8:Gesucht: Der Schatten-Dieb, berüchtigt dafür, die königlichen Juwelen bei Nacht verschwinden zu lassen.
+BountyHumanRogue9:Sofortige Ergreifung: Die Nachtigall, ein berühmter Barde mit einem Talent für Spionage, gesucht für das Verraten königlicher Geheimnisse.
+BountyHumanKnight0:Der Eiserne Revenant, ein entehrter Ritter, der durch die Lande streift und jeden zu einem Duell um Land und Titel herausfordert.
+BountyHumanKnight1:Verlassener Ritter und ehemaliger Kommandant der königlichen Armee.
+BountyHumanKnight2:Ein verlassener Soldat der königlichen Armee, der sich dem Plündern zugewandt hat.
+BountyHumanKnight3:Der Gefallene Paladin, gesucht wegen Ketzerei und dunkler Rituale, die das Land verflucht haben, das er schützen sollte.
+BountyHumanKnight4:Ehemaliger Stadtwächter, der seine Position ausnutzte, um das Geld der Leute zu stehlen.
+BountyHumanKnight5:Der Abtrünnige Templer, bekannt für das Plündern heiliger Relikte und deren Einsatz gegen die Kirche.
+BountyHumanKnight6:Der Silberne Ritter, eine Legende, die zum Verräter wurde, beschuldigt, einen hochrangigen Adligen unter dem Deckmantel des Friedens ermordet zu haben.
+BountyHumanKnight7:Der Kriegsherr der Ödlande, sammelt Exilanten und Kriminelle, um ihr eigenes Königreich zu errichten und die königliche Autorität herauszufordern.
+BountyHumanKnight8:Der Eidbrecher, einst ein Beschützer des Reiches, nun dessen meistgefürchteter Feind, gesucht wegen Bruchs heiliger Gelübde und Anstiftung zur Rebellion.
+BountyHumanKnight9:Die Zwielicht-Vorhut, verschwand in der Nacht vor der Schlacht von ihrem Posten und führt nun eine Schattenarmee gegen ihre ehemaligen Kameraden.
+BountyHumanRanger0:Einbrecher, stiehlt Menschen im Wald.
+BountyHumanRanger1:Für Gerechtigkeit: Der Phantom-Bogenschütze, der aus den Schatten zuschlägt und eine Spur des Chaos im Herzen der Stadt hinterlässt.
+BountyHumanRanger2:Attentäter, der als falscher Waldführer arbeitet.
+BountyHumanRanger3:Tod oder Lebendig: Der Wolf der Wildnis, ein einsamer Waldläufer, der beschuldigt wird, eine Rebellion gegen die Krone angeführt zu haben.
+BountyHumanRanger4:Hohe Belohnung: Der Geist von Dämmerhain, eine schwer fassbare Gestalt, die von den Reichen stiehlt und spurlos verschwindet.
+BountyHumanRanger5:Der Pfeil des Nordens, berühmt für tödliche Präzision aus unsichtbaren Entfernungen, stört königliche Patrouillen.
+BountyHumanRanger6:Hüter des Verborgenen Tals, beschuldigt, verbotene Lande mit tödlicher Gewalt gegen Eindringlinge zu schützen.
+BountyHumanRanger7:Der Wandernde Bogen, ein nomadischer Bogenschütze, beschuldigt, das wertvolle Wild eines Adligen bei einer verbotenen Jagd erlegt zu haben.
+BountyHumanRanger8:Der Stille Schritt, ein Geist im Wald, der von den Reichen stiehlt und mit unübertroffener Heimlichkeit der Gefangennahme entgeht.
+BountyHumanRanger9:Flüsterwind, ein Waldläufer mit der Fähigkeit, wie der Wind zu ziehen, der an Spionage gegen die Krone beteiligt ist.
 BountyHumanRanger999:Nagelpistolen, ehemaliger Held von Embervale.
-BountyHumanWarrior0:Seek and Detain: The Siren of the Seas, ein Piratenkapitän mit einer Stimme, die Seeleute in ihren Untergang lockt.
-BountyHumanWarrior1:Urgent Bounty: Die Iron Fist, ein gnadenloser Söldner, der einen Pfad der Zerstörung hinter sich lässt, wird wegen Verbrechen gegen das Königreich gesucht.
-BountyHumanWarrior2:Die Axt des Ostens, die eine Waffe führt, die die Reihen vieler Armeen durchdrungen hat, wandte sich nun gegen das Reich.
-BountyHumanWarrior3:Der Eiserne Koloss, ein Söldner von immenser Stärke, wird beschuldigt, eine Festung im Alleingang für Gold gestürzt zu haben.
-BountyHumanWarrior4:Der Sturmrufer, der im Kampf die Wut der Natur heraufbeschwor, wurde gesucht, weil er einen Sturm auf eine Marineflotte entfesselt hatte.
-BountyHumanWarrior5:Der Gladiator der Verlassenen Arena ist aus der Grube geflohen und stellt nun sein Können unter Beweis, indem er die Mächtigsten des Reiches herausfordert.
-BountyHumanWarrior6:The Mountain's Fist, bekannt für ihren unzerbrechlichen Willen und ihre unerschütterliche Stärke, wollten ein Bataillon mit einem Erdrutsch vernichten.
-BountyHumanWarrior7:Der blutrünstige Räuber, ein Pirat, der zum Kriegsherr wurde, terrorisiert die Küsten mit brutalen Überfällen.
-BountyHumanWarrior8:Der Crimson Marauder, der eine Gruppe von Deserteuren anführt, plündert durch das Land und hinterlässt Verwüstungen.
-BountyHumanWarrior9:Der Berserker des Borealen Waldes, bekannt für seine Wut, die das Blatt in der Schlacht wenden kann, wurde gesucht, weil er sich der Wehrpflicht des Königs widersetzte.
+BountyHumanWarrior0:Suche und Festnahme: Die Sirene der Meere, eine Piratenkapitänin mit einer Stimme, die Seeleute ins Verderben lockt.
+BountyHumanWarrior1:Dringendes Kopfgeld: Die eiserne Faust, ein erbarmungsloser Söldner, der eine Spur der Zerstörung hinterlässt, gesucht wegen Verbrechen gegen das Reich.
+BountyHumanWarrior2:Die Axt des Ostens, führt eine Waffe, die durch die Reihen vieler Armeen durchgeschlagen hat, nun gegen das Reich gewendet.
+BountyHumanWarrior3:Der eiserne Koloss, ein Söldner von immenser Stärke, beschuldigt, eine Festung im Alleingang für Gold gestürzt zu haben.
+BountyHumanWarrior4:Der Sturmrufer, entfacht im Kampf den Zorn der Natur, gesucht wegen der Entfesselung eines Sturms auf eine Flotte.
+BountyHumanWarrior5:Der Gladiator der Verlassenen Arena, aus den Gruben entkommen, beweist nun seine Stärke, indem er die Mächtigsten des Reiches herausfordert.
+BountyHumanWarrior6:Die Faust des Berges, bekannt für seinen unerschütterlichen Willen und Stärke, gesucht wegen des Zerquetschens eines Bataillons mit einem Erdrutsch.
+BountyHumanWarrior7:Der blutrünstige Räuber, ein Pirat, der zum Kriegsherrn wurde, terrorisiert die Küsten mit brutalen Überfällen.
+BountyHumanWarrior8:Der Karmesinrote Marodeur, führt eine Bande von Deserteuren, plündert quer durch das Land und hinterlässt Verwüstung.
+BountyHumanWarrior9:Der Berserker des borealen Waldes, bekannt für eine Wut, die den Verlauf einer Schlacht ändern kann, gesucht für die Missachtung der königlichen Einberufung.

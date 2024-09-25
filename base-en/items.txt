@@ -536,6 +536,7 @@ brown_boots:Brown Boots
 desert_warriors_boots:Desert Warrior's Boots
 abyss_dancers_boots:Abyss Dancer's Boots
 nightblade_boots:Nightblade Boots
+undersea_crown:Undersea Crown
 
 # 2 handed
 blunt_axe:Blunt Axe

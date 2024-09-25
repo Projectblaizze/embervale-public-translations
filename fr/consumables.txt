@@ -1,124 +1,130 @@
 consumables:Consommables
 consumable:Consommable
-other:Autres
-small_health_potion:Petite potion de santé
-small_health_potion_craft_description:Vous soigne de {amount_min1}% à {amount_max1}% dans les donjons
-small_health_potion_description:Vous soigne de {amount_min1}% dans les donjons
-medium_health_potion:Potion de santé moyenne
-medium_health_potion_craft_description:Vous soigne de {amount_min1}% à {amount_max1}% dans les donjons
-medium_health_potion_description:Vous soigne de {amount_min1}% dans les donjons
-large_health_potion:Grande potion de santé
-large_health_potion_craft_description:Vous soigne de {amount_min1}% à {amount_max1}% dans les donjons
-large_health_potion_description:Vous soigne de {amount_min1}% dans les donjons
-small_accuracy_potion:Potion de petite précision
+other:Autre
+small_health_potion:Petite Potion de Santé
+small_health_potion_craft_description:Vous soigne de {amount_min1}% à {amount_max1}% dans les donjons.
+small_health_potion_description:Vous soigne de {amount_min1}% dans les donjons.
+medium_health_potion:Potion de Santé Moyenne
+medium_health_potion_craft_description:Vous soigne de {amount_min1}% à {amount_max1}% dans les donjons.
+medium_health_potion_description:Vous soigne de {amount_min1}% dans les donjons.
+large_health_potion:Grande Potion de Santé
+large_health_potion_craft_description:Vous soigne de {amount_min1}% à {amount_max1}% dans les donjons.
+large_health_potion_description:Vous soigne de {amount_min1}% dans les donjons.
+small_accuracy_potion:Petite Potion de Précision
 small_accuracy_potion_craft_description:Augmente la précision de {amount_min1}% à {amount_max1}%.
 small_accuracy_potion_description:Augmente la précision de {amount_min1}% pendant {time}.
-medium_accuracy_potion:Potion de précision moyenne
-medium_accuracy_potion_craft_description:Augmente la précision de {amount_min 1%} à {amount_max1}%.
+medium_accuracy_potion:Potion de Précision Moyenne
+medium_accuracy_potion_craft_description:Augmente la précision de {amount_min1}% à {amount_max1}%.
 medium_accuracy_potion_description:Augmente la précision de {amount_min1}% pendant {time}.
-large_accuracy_potion:Potion de grande précision
+large_accuracy_potion:Grande Potion de Précision
 large_accuracy_potion_craft_description:Augmente la précision de {amount_min1}% à {amount_max1}%.
 large_accuracy_potion_description:Augmente la précision de {amount_min1}% pendant {time}.
-small_dexterity_potion:Petite potion de dextérité
+small_dexterity_potion:Petite Potion de Dextérité
 small_dexterity_potion_craft_description:Augmente la dextérité de {amount_min1}% à {amount_max1}%.
 small_dexterity_potion_description:Augmente la dextérité de {amount_min1}% pendant {time}.
-medium_dexterity_potion:Potion de dextérité moyenne
+medium_dexterity_potion:Moyenne Potion de Dextérité
 medium_dexterity_potion_craft_description:Augmente la dextérité de {amount_min1}% à {amount_max1}%.
 medium_dexterity_potion_description:Augmente la dextérité de {amount_min1}% pendant {time}.
-large_dexterity_potion:Grande potion de dextérité
+large_dexterity_potion:Grande Potion de Dextérité
 large_dexterity_potion_craft_description:Augmente la dextérité de {amount_min1}% à {amount_max1}%.
 large_dexterity_potion_description:Augmente la dextérité de {amount_min1}% pendant {time}.
-small_luck_potion:Petite potion de chance
+small_luck_potion:Petite Potion de Chance
 small_luck_potion_craft_description:Augmente la chance de {amount_min1}% à {amount_max1}%.
 small_luck_potion_description:Augmente la chance de {amount_min1}% pendant {time}.
-medium_luck_potion:Potion de chance moyenne
+medium_luck_potion:Moyenne Potion de Chance
 medium_luck_potion_craft_description:Augmente la chance de {amount_min1}% à {amount_max1}%.
 medium_luck_potion_description:Augmente la chance de {amount_min1}% pendant {time}.
-large_luck_potion:Grande potion de chance
+large_luck_potion:Grande Potion de Chance
 large_luck_potion_craft_description:Augmente la chance de {amount_min1}% à {amount_max1}%.
 large_luck_potion_description:Augmente la chance de {amount_min1}% pendant {time}.
-small_strength_potion:Potion de petite puissance
-small_strength_potion_craft_description:Augmente la force de {amount_min1}% pour atteindre {amount_max1}%.
-small_strength_potion_description:Augmente la force de {amount_min1}% pendant {temps}.
-medium_strength_potion:Potion de puissance moyenne
-medium_strength_potion_craft_description:Augmente la force de {amount_min1}% pour atteindre {amount_max1}%.
-medium_strength_potion_description:Augmente la force de {amount_min1}% pendant {temps}.
-large_strength_potion:Potion à grande puissance
-large_strength_potion_craft_description:Augmente la force de {amount_min1}% pour atteindre {amount_max1}%.
-large_strength_potion_description:Augmente la force de {amount_min1}% pendant {temps}.
-small_vitality_potion:Petite potion de vitalité
+small_strength_potion:Petite Potion de Force
+small_strength_potion_craft_description:Augmente la force de {amount_min1}% à {amount_max1}%.
+small_strength_potion_description:Augmente la force de {amount_min1}% pendant {time}.
+medium_strength_potion:Potion de Force Moyenne
+medium_strength_potion_craft_description:Augmente la force de {amount_min1}% à {amount_max1}%.
+medium_strength_potion_description:Augmente la force de {amount_min1}% pendant {time}.
+large_strength_potion:Potion de Grande Force
+large_strength_potion_craft_description:Augmente la force de {amount_min1}% à {amount_max1}%.
+large_strength_potion_description:Augmente la force de {amount_min1}% pendant {time}.
+small_vitality_potion:Potion de Petite Vitalité
 small_vitality_potion_craft_description:Augmente la vitalité de {amount_min1}% à {amount_max1}%.
-small_vitality_potion_description:Augmente la vitalité de {amount_min1}% pendant {temps}.
-medium_vitality_potion:Potion de vitalité moyenne
+small_vitality_potion_description:Augmente la vitalité de {amount_min1}% pendant {time}.
+medium_vitality_potion:Potion de Vitalité Moyenne
 medium_vitality_potion_craft_description:Augmente la vitalité de {amount_min1}% à {amount_max1}%.
-medium_vitality_potion_description:Augmente la vitalité de {amount_min1}% pendant {temps}.
-large_vitality_potion:Grande potion de vitalité
+medium_vitality_potion_description:Augmente la vitalité de {amount_min1}% pendant {time}.
+large_vitality_potion:Potion de Grande Vitalité
 large_vitality_potion_craft_description:Augmente la vitalité de {amount_min1}% à {amount_max1}%.
-large_vitality_potion_description:Augmente la vitalité de {amount_min1}% pendant {temps}.
-small_wisdom_potion:Petite potion de sagesse
+large_vitality_potion_description:Augmente la vitalité de {amount_min1}% pendant {time}.
+small_wisdom_potion:Potion de Petite Sagesse
 small_wisdom_potion_craft_description:Augmente la sagesse de {amount_min1}% à {amount_max1}%.
-small_wisdom_potion_description:Augmente la sagesse de {amount_min1}% pendant {temps}.
-medium_wisdom_potion:Potion de sagesse moyenne
-medium_wisdom_potion_craft_description:Augmente la Sagesse de {amount_min1}% à {amount_max1}%.
-medium_wisdom_potion_description:Augmente la sagesse de {amount_min1}% pendant {temps}.
-large_wisdom_potion:Grande potion de sagesse
+small_wisdom_potion_description:Augmente la sagesse de {amount_min1}% pendant {time}.
+medium_wisdom_potion:Potion Moyenne de Sagesse
+medium_wisdom_potion_craft_description:Augmente la sagesse de {amount_min1}% à {amount_max1}%.
+medium_wisdom_potion_description:Augmente la sagesse de {amount_min1}% pendant {time}.
+large_wisdom_potion:Grande Potion de Sagesse
 large_wisdom_potion_craft_description:Augmente la sagesse de {amount_min1}% à {amount_max1}%.
-large_wisdom_potion_description:Augmente la sagesse de {amount_min1}% pendant {temps}.
-pumpkin_soup:Soupe à la citrouille
-pumpkin_soup_craft_description:Réapprovisionne {amount_min1} en endurance {amount_max1}.
-pumpkin_soup_description:Reconstitue l'endurance de {amount_min1}.
-chicken_stew:Ragoût de poulet
-chicken_stew_craft_description:Réapprovisionne {amount_min1} en endurance {amount_max1}.
-chicken_stew_description:Reconstitue l'endurance de {amount_min1}.
-fruit_basket:Corbeille de fruits
-fruit_basket_craft_description:Réapprovisionne {amount_min1} en endurance {amount_max1}.
-fruit_basket_description:Reconstitue l'endurance de {amount_min1}.
-pork_sausage:Saucisse de porc
-pork_sausage_craft_description:Réapprovisionne {amount_min1} en endurance {amount_max1}.
-pork_sausage_description:Reconstitue l'endurance de {amount_min1}.
-salad:salade
-salad_craft_description:Réapprovisionne {amount_min1} en endurance {amount_max1}.
-salad_description:Reconstitue l'endurance de {amount_min1}.
-sea_platter:Assiette de fruits de mer
-sea_platter_craft_description:Réapprovisionne {amount_min1} en endurance {amount_max1}.
-sea_platter_description:Reconstitue l'endurance de {amount_min1}.
+large_wisdom_potion_description:Augmente la sagesse de {amount_min1}% pendant {time}.
+pumpkin_soup:Soupe à la Citrouille
+pumpkin_soup_craft_description:Restaure de {amount_min1} à {amount_max1} endurance.
+pumpkin_soup_description:Restaure {amount_min1} endurance.
+chicken_stew:Ragoût de Poulet
+chicken_stew_craft_description:Restaure de {amount_min1} à {amount_max1} endurance.
+chicken_stew_description:Restaure {amount_min1} endurance.
+fruit_basket:Panier de Fruits
+fruit_basket_craft_description:Restaure de {amount_min1} à {amount_max1} endurance.
+fruit_basket_description:Restaure {amount_min1} endurance.
+pork_sausage:Saucisse de Porc
+pork_sausage_craft_description:Restaure de {amount_min1} à {amount_max1} endurance.
+pork_sausage_description:Restaure {amount_min1} endurance.
+salad:Salade
+salad_craft_description:Restaure de {amount_min1} à {amount_max1} endurance.
+salad_description:Restitue {amount_min1} d'endurance.
+sea_platter:Plateau de la mer
+sea_platter_craft_description:Restitue de {amount_min1} à {amount_max1} d'endurance.
+sea_platter_description:Restitue {amount_min1} d'endurance.
 coin_stack:Pile de pièces
-coin_stack_description:Utilisez-le pour obtenir du cuivre. Niveau {niveau}
+coin_stack_description:Utilisez-la pour obtenir du cuivre. Niveau {level}
 medium_xp_potion:Potion d'XP moyenne
-medium_xp_potion_description:Cette potion augmente ton expérience de {procent}% pour {amount} combats!
+medium_xp_potion_description:Cette potion augmente votre XP de {percent}% pour {amount} combats!
 recipe:Recette
-small_heal_potion_recipe:Recette de petite potion de soin
-fruit_basket_recipe:Recette de panier de fruits
-pumpkin_soup_recipe:Recette de soupe à la citrouille
-salad_recipe:Recette de salade
-chicken_stew_recipe:Recette de ragoût de poulet
-pork_sausage_recipe:Recette de saucisse de porc
-sea_platter_recipe:Recette de plateau de fruits de mer
-small_accuracy_potion_recipe:Recette de petite potion de dextérité
-medium_accuracy_potion_recipe:Recette de potion pour dextérité moyenne
-large_accuracy_potion_recipe:Recette de grande potion de dextérité
-small_luck_potion_recipe:Recette de petite potion porte-bonheur
-medium_luck_potion_recipe:Recette de potion de chance moyenne
-large_luck_potion_recipe:Recette de grande potion de chance
-small_strength_potion_recipe:Recette de petite potion concentrée
-medium_strength_potion_recipe:Recette de potion de puissance moyenne
-large_strength_potion_recipe:Recette de potion à grande concentration
-small_vitality_potion_recipe:Recette de petite potion de vitalité
-medium_vitality_potion_recipe:Recette de potion de vitalité moyenne
-large_vitality_potion_recipe:Recette de grande potion de vitalité
-small_wisdom_potion_recipe:Recette de petite potion de sagesse
-medium_wisdom_potion_recipe:Recette de potion de sagesse moyenne
-large_wisdom_potion_recipe:Recette de grande potion de sagesse
-wooden_chest:Coffre en bois
-fabled_chest:Coffre légendaire
-decorated_chest:Coffre décoré
-mythical_chest:Coffre mythique
-weapon_chest:Coffre d'armes
-armor_chest:Coffre d'armure
-mythical_material_chest:Coffre en matériau mythique
-epic_material_chest:Coffre Epic Material
-uncommon_material_chest:Coffre en matériau peu commun
+small_heal_potion_recipe:Recette de Petite Potion de Soin
+fruit_basket_recipe:Recette du Panier de fruits
+pumpkin_soup_recipe:Recette de la Soupe à la citrouille
+salad_recipe:Recette de la Salade
+chicken_stew_recipe:Recette du Ragoût de poulet
+pork_sausage_recipe:Recette de la Saucisse de porc
+sea_platter_recipe:Recette du Plateau de la mer
+small_accuracy_potion_recipe:Recette de Petite Potion de Dextérité
+medium_accuracy_potion_recipe:Recette de Potion de Dextérité moyenne
+large_accuracy_potion_recipe:Recette de Grande Potion de Dextérité
+small_luck_potion_recipe:Recette de Petite Potion de Chance
+medium_luck_potion_recipe:Recette de Potion de Chance Moyenne
+large_luck_potion_recipe:Recette de Potion de Grande Chance
+small_strength_potion_recipe:Recette de Petite Potion de Force
+medium_strength_potion_recipe:Recette de Potion de Force Moyenne
+large_strength_potion_recipe:Recette de Grande Potion de Force
+small_vitality_potion_recipe:Recette de Petite Potion de Vitalité
+medium_vitality_potion_recipe:Recette de Potion de Vitalité Moyenne
+large_vitality_potion_recipe:Recette de Grande Potion de Vitalité
+small_wisdom_potion_recipe:Recette de Petite Potion de Sagesse
+medium_wisdom_potion_recipe:Recette de Potion de Sagesse Moyenne
+large_wisdom_potion_recipe:Recette de Grande Potion de Sagesse
+wooden_chest:Coffre en Bois
+fabled_chest:Coffre Fabuleux
+decorated_chest:Coffre Décoré
+mythical_chest:Coffre Mythique
+weapon_chest:Coffre d'Armes
+armor_chest:Coffre d'Armures
+mythical_material_chest:Coffre de Matériaux Mythiques
+epic_material_chest:Coffre de Matériaux Épiques
+uncommon_material_chest:Coffre de Matériaux Peu Commun
 potion:Potion
-chest:Poitrine
+chest:Coffre
 food:Nourriture
-royal_chest:Coffre royal
+royal_chest:Coffre Royal
+epic_bundle:Coffret Épique
+epic_bundle_description:Vous donne {arcanites} Arcanites lorsqu'il est consommé et active l'abonnement pour 30 jours.
+legendary_bundle:Coffret Légendaire
+legendary_bundle_description:Vous donne {arcanites} Arcanites lorsqu'il est consommé et active l'abonnement pour 30 jours.
+mythical_bundle:Coffret Mythique
+mythical_bundle_description:Vous donne {arcanites} Arcanites lorsqu'il est consommé et active l'abonnement pour 30 jours.

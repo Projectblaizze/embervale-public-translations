@@ -1,32 +1,32 @@
-dungeonName1:Jardines infestados
-dungeonName2:Tierras fluviales secas
-dungeonName3:Cruce de río ocupado
-dungeonName4:Stranded Seafire
-dungeonName5:Pasaje de aguas profundas
-dungeonName6:Reino oculto
+dungeonName1:Jardines Infestados
+dungeonName2:Tierras Secas del Río
+dungeonName3:Cruce de Río Ocupado
+dungeonName4:Fuego Marino Varado
+dungeonName5:Pasaje de Aguas Profundas
+dungeonName6:Reino Escondido
 dungeonName7:Isla de las Bestias
-dungeonName8:Hielo eterno
+dungeonName8:Hielo Eterno
 dungeonName9:Montañas Plateadas
-dungeonName10:Tierras baldías abandonadas
-dungeonName11:Darkwood
+dungeonName10:Tierras Abandonadas
+dungeonName11:Duskwood
 dungeonName12:Cementerio de los Sin Nombre
-dungeonName13:Bastión de la Luz
+dungeonName13:Bastión de Luz
 dungeonName14:Embervale
-dungeon:Mazmorra
-startDungeon:Iniciar mazmorra
-dungeonAutoSell:¡Aún quedan algunos objetos en tu inventario de mazmorras! Si abandonas la mazmorra ahora, ¡se perderán!
-selectConsumablesForDungeon:Selecciona las pociones que quieres llevar contigo a la mazmorra. ¡Esto no se puede revertir! Todos los objetos que lleves a las mazmorras se perderán.
-youDontHaveHealPotions:No tienes ninguna poción de salud.
-effect_gem_blessing:El jugador recibe la bendición de jugar {rondas} rondas.//+25% en todas las estadísticas
-gem_blessing:Bendición de gemas
-lost_fairy_blessing:La bendición de las hadas perdidas
-effect_lost_fairy_blessing:El Hada Perdida bendice al jugador durante {rondas} rondas.//+10% de HP en cada habitación
-gem_curse:Maldición de gemas
-effect_gem_curse:El jugador está maldito durante {rondas} rondas.//-5% de todas las estadísticas
-strength_buff:Mejora de fuerza
-effect_strength_buff:El jugador recibe mejoras durante {rondas} rondas.//+20% de fuerza
-wisdom_buff:Adicto a la sabiduría
-effect_wisdom_buff:El jugador recibe mejoras durante {rondas} rondas.//+20% de sabiduría
-cluttered_mind:Mente desordenada
-effect_cluttered_mind:El jugador está confundido con {rondas} rondas.//-20% de precisión
-recommendedLevel:Nivel recomendado
+dungeon:Calabozo
+startDungeon:Comenzar Calabozo
+dungeonAutoSell:¡Todavía hay algunos objetos en tu inventario de calabozo! ¡Si sales del calabozo ahora, se perderán!
+selectConsumablesForDungeon:Selecciona las pociones que quieres llevar contigo al calabozo. ¡Esto no se puede revertir! Todos los objetos que lleves a los calabozos se perderán.
+youDontHaveHealPotions:No tienes pociones de salud.
+effect_gem_blessing:El jugador está bendecido por {rounds} rondas.  // +25% a todas las estadísticas
+gem_blessing:Bendición de la Gema
+lost_fairy_blessing:Bendición del Hada Perdida
+effect_lost_fairy_blessing:El jugador está bendecido por el Hada Perdida por {rounds} rondas.  // +10% HP cada habitación
+gem_curse:Maldición de la Gema
+effect_gem_curse:El jugador está maldito por {rounds} rondas.  // -5% a todas las estadísticas
+strength_buff:Mejora de Fuerza
+effect_strength_buff:El jugador está mejorado por {rounds} rondas.  // +20% fuerza
+wisdom_buff:Mejora de Sabiduría
+effect_wisdom_buff:El jugador está mejorado por {rounds} rondas.  // +20% sabiduría
+cluttered_mind:Mente Confusa
+effect_cluttered_mind:El jugador está confundido por {rounds} rondas.  // -20% precisión
+recommendedLevel:Nivel Recomendado

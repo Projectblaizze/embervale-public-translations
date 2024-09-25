@@ -8,7 +8,7 @@ dungeonName6:Hidden Kingdom
 dungeonName7:Island of Beasts
 dungeonName8:Eternal Ice
 dungeonName9:Silver Mountains
-dungeonName10:Abandonded Wastelands
+dungeonName10:Abandoned Wastelands
 dungeonName11:Duskwood
 dungeonName12:Graveyard of the Nameless
 dungeonName13:Bastion of Light
@@ -18,7 +18,7 @@ dungeonName14:Embervale
 dungeon:Dungeon
 startDungeon:Start Dungeon
 dungeonAutoSell:There are still some items in your dungeon inventory! If you leave the dungeon now, they will be lost!
-selectConsumablesForDungeon:Select the potions that you want to take with you into the Dungeon. This can't be reversed! All items you bring to dungeons will be lost.
+selectConsumablesForDungeon:Select the potions that you want to take with you into the dungeon. This can't be reversed! All items you bring to dungeons will be lost.
 youDontHaveHealPotions:You don't have any health potions.
 
 // Dungeon Effects

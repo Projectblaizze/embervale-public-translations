@@ -67,6 +67,7 @@ battleStats:Battle Stats
 hp:Health Points
 health:Health
 doYouWantToResetStats:Do you want to reset your stats?
+resetStatsLevelTep:You can reset your stats for free until you reach level 10!
 noStatsFoundToReset:No stats found to reset.
 thisCosts:This costs:
 
@@ -286,6 +287,10 @@ readAndAccept:I've read and accept the
 tos:ToS
 color:Color
 chooseName:Choose your name
+referrer:Referrer (Twitch name)
+barberRewardRefferer:I want to reward a referrer
+referalNameInvalid:The referal name is invalid. Please correct or delete it.
+pleaseConfirmNameChange:Please confirm that you want to rename {current_name} to {new_name} for 25 Arcanites.
 
 // badge
 badge:Badge
@@ -336,6 +341,7 @@ claim:Claim
 claim_reward:Claim Reward
 reward:Reward
 completed:Completed
+alreadyClaimed:You have already claimed this reward. (This may occur if the game is open in multiple instances.)
 
 // brewery
 material:Material
@@ -346,7 +352,7 @@ special_ingredient:Special Ingredient
 // expedition
 expedition:Expedition
 errStillInAExpedition:You can't do this while you are in an expedition! Finish or cancel your expedition to proceed!
-errStillInABounty:You can't do this while you are in a bounty! Finish or cancel your expedition to proceed!
+errStillInABounty:You can't do this while you are in a bounty! Finish or cancel your bounty to proceed!
 alchemy_expedition_title_1:Collect
 cooking_expedition_title_1:Harvest
 smithing_expedition_title_1:Mine
@@ -363,7 +369,7 @@ loadingTip1:It's a good idea to start an expedition before leaving to collect re
 loadingTip2:You can always reset your skill points, so you can match your points according to your armor!
 loadingTip3:Join our Discord to receive daily rewards!
 loadingTip4:This is supposed to be a tip, but we ran out of ideas.
-loadingTip5:Higher speech decreases your cost of ordering new shop items.
+loadingTip5:Beating a dungeon for the first time guarantees a mythical chest.
 loadingTip6:When selecting bounties, pay attention to the stamina-to-experience ratio when prioritizing leveling up.
 loadingTip7:Epic, Legendary, and Mythical items might have elemental affinities boosting your damage/resistance.
 loadingTip8:You can change the speed of combat during a battle.
@@ -378,7 +384,7 @@ loadingTip16:Make sure to get your glossary filled to earn XP more quickly!
 loadingTip17:Did you know that defeating an opponent in the arena will add all their armor, weapons, and skins to your Glossary?
 loadingTip18:All classes have different HP and damage scalings. They can only wear one designated type of armor: heavy, medium, or light.
 loadingTip19:Make sure to check out weekly missions to earn bonus loot!
-loadingTip20:When you are subscribed to a streamer or play on Embervale.TV, you earn an additional 10% Gold in bounties!
+loadingTip20:100 Copper is equal to 1 Silver, and 100 Silver is equal to 1 Gold
 loadingTip21:You can use your Glossary to see the Affinity and Weakness of a Monster.
 loadingTip22:Your first Bounty every day grants you a free Arcanite!
 loadingTip23:You can watch ads on Embervale.TV to earn Arcanites for free.
@@ -437,6 +443,8 @@ hasAlreadySubscriptions:{ username } already has an active subscription(s).
 grantsBenefits:Grants { currentUser.username } 30 days of the following benefits.
 receivesOnce:{ username } receives this once.
 giftAnonymously:Gift Anonymously
+anonymously:Anonymously
+hideMyNameInChat:(This hides your name in the streamers chat when using creator code)
 giftBundle:Gift Bundle
 giftedYou:Gifted you
 
@@ -480,7 +488,7 @@ replaySaved:Replay Saved
 deleteReplay:Delete Replay
 spectate:Spectate
 errCantSpectate:This battle does not exist.
-arenaFightCooldown:This bar fills up every 3 hours!
+arenaFightCooldown:This bar fills up every hour!
 yourSavedBattles:Your saved battles
 
 // battle
@@ -583,7 +591,6 @@ exitExpeditionConfirmationHeadline:Exit Expedition
 exitExpeditionConfirmationText:You will retain all items collected so far. Would you like to proceed?
 possibleResources:Possible resources:
 howLongDoYouWantToExplore:How long do you want to explore?
-allCommonMaterials:All common materials
 
 // random
 noShield:No shield

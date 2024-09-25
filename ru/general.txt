@@ -1,39 +1,39 @@
-en:английский
-de:Немецкий
-es:испанский
-fr:Французский
-ru:Русский
-pt:португальский
-it:Итальянский
-cancel:Отменить
+en:English
+de:German
+es:Spanish
+fr:French
+ru:Russian
+pt:Portuguese
+it:Italian
+cancel:Отмена
 exit:Выход
 close:Закрыть
 confirm:Подтвердить
-start:Начните
+start:Начать
 confirmation:Подтверждение
 continue:Продолжить
 back:Назад
 finish:Закончить
-next:Следующий
+next:Далее
 delete:Удалить
 reload:Перезагрузить
-ready:Готово
+ready:Готов
 settings:Настройки
 page:Страница
 of:из
-or:или же
+or:или
 max:Максимум
 imageResolution:Разрешение изображения
-controls:Элементы управления
-currentlyPlaying:Играет в данный момент
+controls:Управление
+currentlyPlaying:Сейчас играет
 musicVolume:Громкость музыки
-effectsVolume:Объем эффектов
-desktopOptimized:Оптимизирован для рабочего
-mobileOptimized:Оптимизация для мобильных устройств
-reloadExtension:Расширение «Обновить»
+effectsVolume:Громкость эффектов
+desktopOptimized:Оптимизировано для ПК
+mobileOptimized:Оптимизировано для мобильных устройств
+reloadExtension:Перезагрузить расширение
 version:Версия
 langauge:Язык
-credits:Кредиты
+credits:Авторы
 code:Код
 newUpdate:Доступно новое обновление.
 pleaseReload:Пожалуйста, перезагрузите!
@@ -41,93 +41,93 @@ class:Класс
 mage:Маг
 knight:Рыцарь
 ranger:Рейнджер
-rogue:Разбойник
-warrior:воин
+rogue:Вор
+warrior:Воин
 human:Человек
 demon:Демон
 elf:Эльф
-stats:Статистика
-boostYourStats:Повысьте свою статистику на {points}%
-activeFor:Активен для:
-battleStats:Боевая статистика
+stats:Характеристики
+boostYourStats:Увеличьте свои характеристики на {points}%
+activeFor:Активен в течение:
+battleStats:Боевые характеристики
 hp:Очки здоровья
 health:Здоровье
-doYouWantToResetStats:Хотите обнулить статистику?
-noStatsFoundToReset:Не найдено статистики, которую можно было бы обнулить.
+doYouWantToResetStats:Вы хотите сбросить свои характеристики?
+noStatsFoundToReset:Не найдено характеристик для сброса.
 thisCosts:Это стоит:
 affinity:Сродство
 weakness:Слабость
-resistance:Элементальный
-infernal:Адский
-divine:Божественный
-necrotic:Некротический
-arcane:скрытый
-frost:Мороз
-affinityTooltip:Уменьшает входящий {стихийный} урон. Увеличивает урон от {стихий}, если оружие снабжено руной.
-vit:Жизнеспособность
+resistance:Элементальная
+infernal:Инфернальная
+divine:Божественная
+necrotic:Некротическая
+arcane:Арканическая
+frost:Ледяная
+affinityTooltip:Уменьшает входящий урон от {elemental}. Увеличивает урон от {elemental}, если оружие зачаровано руной.
+vit:Живучесть
 vitEffect:Очки здоровья
-vitDescription:{stat} увеличивает общее состояние здоровья.
-str:Прочность
+vitDescription:{stat} увеличивает ваше общее здоровье.
+str:Сила
 strEffect:Физический урон
-strDescription:{stat} увеличивает ваш физический урон в роли рыцаря и воина. Увеличивает броню для всех остальных классов!
+strDescription:{stat} увеличивает ваш физический урон как Рыцаря и Воина. Увеличивает броню для всех остальных классов!
 wis:Мудрость
 wisEffect:Магический урон
-wisDescription:{stat} увеличивает ваш магический урон в роли мага. Увеличивает магическое сопротивление всех остальных классов!
+wisDescription:{stat} увеличивает ваш магический урон как Мага. Увеличивает магическую сопротивляемость для всех остальных классов!
 dex:Ловкость
-dexEffect:Прецизионные повреждения
-dexDescription:{stat} увеличивает урон, наносимый вашей ловкости. Используйте в качестве рейнджера и разбойника. Увеличивает уклонение от игры для всех остальных классов!
+dexEffect:Меткость урон
+dexDescription:{stat} увеличивает ваш урон от ловкости. Используйте как Рейнджер и Вор. Увеличивает уклонение для всех других классов!
 acc:Точность
-accEffect:Точность и вероятность нанесения критического удара
-accDescription:{stat} увеличивает вероятность нанесения критического удара по противнику и снижает вероятность его уклонения!
-fame:слава
+accEffect:Точность и шанс крита
+accDescription:{stat} увеличивает ваш шанс нанести критический удар противнику и снижает шанс его уклонения!
+fame:Слава
 fameEffect:Цены и переговоры
-fameDescription:{stat} улучшает ваши навыки ведения переговоров, повышает цены на пополнение запасов и улучшает результаты в приключениях!
+fameDescription:{stat} улучшает ваши навыки ведения переговоров, снижает цены на пополнение запасов и улучшает результаты в приключениях!
 luck:Удача
-luckEffect:Критический урон
+luckEffect:Урон от крита
 luckDescription:{stat} увеличивает урон от критических ударов.
 armor:Броня
-outfit:Наряд
-outfits:Наряды
-damage_reduction:Уменьшить урон.
-mag_res:Магистр. изд.
-mag_absorption:Маг. Абсорбировать.
+outfit:Экипировка
+outfits:Экипировки
+damage_reduction:Сокр. Урона
+mag_res:Маг. Сопр.
+mag_absorption:Маг. Поглощ.
 eva:Уклонение
-skillPoints:Очки навыков
-current_hp:Текущий уровень здоровья
-crit_chance:Критический урон
-crit_multiplier:Критический режим
-damage:Повреждения
-shield_ability_chance:Шанс блокировки
-shield_ability_rate:Частота блоков
-shield_scaling_bonus:Максимальный запас здоровья
-lifestone_ability_chance:Пороговое значение
-lifestone_ability_rate:Утечка жизней
-lifestone_scaling_bonus:Бонус к урону ближнего боя
-grimoire_ability_rate:Частота фокусировки
-grimoire_scaling_bonus:Критический режим
-quiver_ability_chance:Шанс быстрого розыгрыша
-quiver_scaling_bonus:Шанс критического удара
-talisman_ability_chance:Шанс скрытности
+skillPoints:Очки Навыков
+current_hp:Текущие HP
+crit_chance:Шанс Крит.
+crit_multiplier:Мод. Крит.
+damage:Урон
+shield_ability_chance:Шанс Блока
+shield_ability_rate:Частота Блока
+shield_scaling_bonus:Макс. HP
+lifestone_ability_chance:Порог
+lifestone_ability_rate:Похищ. Жизни
+lifestone_scaling_bonus:Бонус Ближ. Урона
+grimoire_ability_rate:Частота Конц.
+grimoire_scaling_bonus:Мод. Крит.
+quiver_ability_chance:Шанс Быст. Стрельбы
+quiver_scaling_bonus:Шанс Крит.
+talisman_ability_chance:Шанс Скрытности
 talisman_scaling_bonus:Уклонение
-common:Распространенное
-uncommon:Необычное
+common:Обычный
+uncommon:Необычный
 rare:Редкий
 epic:Эпический
-legendary:легендарный
+legendary:Легендарный
 mythical:Мифический
-royal:королевский
-extraordinary:Чрезвычайный
-high:Высокое
-medium:Средняя
+royal:Королевский
+extraordinary:Необычайный
+high:Высокий
+medium:Средний
 low:Низкий
-none:Нет
-bow:лук
+none:Отсутствует
+bow:Лук
 crossbow:Арбалет
 axe:Топор
-hammer:молоток
+hammer:Молот
 book:Книга
-staff:Персонал
-rod:Стержень
+staff:Посох
+rod:Жезл
 sword:Меч
 spear:Копье
 dagger:Кинжал
@@ -138,87 +138,87 @@ helmet:Шлем
 amulet:Амулет
 ring:Кольцо
 chestplate:Нагрудник
-gloves:перчатки
-shoes:Обувь
+gloves:Перчатки
+shoes:Ботинки
 weapon:Оружие
-base:Основание
-equip:Оборудовать
+base:База
+equip:Экипировать
 bonus:Бонус
 glossary:Глоссарий
 discovered:Обнаружено
-glossaryTipMonster:Побеждайте монстров, чтобы заполнить свой Бестиарий!
-glossaryTipItem:Продвигайтесь вперед, получая предмет или выигрывая у игрока с этим предметом!
-glossaryTipMaterial:Продвигайтесь вперед, добывая или создавая материалы!
-glossaryTipSkin:Разблокируйте, победив игроков в экипировке!
+glossaryTipMonster:Побеждайте монстров, чтобы заполнить бестиарий!
+glossaryTipItem:Прогрессируйте, получая предмет или выигрывая у игрока с этим предметом!
+glossaryTipMaterial:Прогрессируйте, получая или создавая материалы!
+glossaryTipSkin:Разблокируйте, побеждая игроков в этом наряде!
 unknown:Неизвестно
-youGainBonusXP:Вы получаете {процент}% бонусного опыта
-newBestiaryEntry:Новая запись в бестиарии:
+youGainBonusXP:Вы получаете {percentage}% бонусного опыта
+newBestiaryEntry:Новая запись в бестиарий:
 newGlory:Новая слава:
 newGlossaryEntries:Новые статьи в глоссарии:
-challengeOpponent:Хотите бросить вызов {оппоненту}?
-confirmReportingPlayer:Чтобы пожаловаться на {оппонента} (twitch.tv/ {twitch_name}), выберите причину:
-abusive_username:Неверное имя пользователя
-abusive_guild_name:Оскорбительное название гильдии
+challengeOpponent:Хочешь бросить вызов {opponent}?
+confirmReportingPlayer:Чтобы пожаловаться на {opponent} (twitch.tv/{twitch_name}), выбери причину:
+abusive_username:Оскорбительное имя пользователя
+abusive_guild_name:Оскорбительное имя гильдии
 abusive_guild_description:Оскорбительное описание гильдии
-successReport:Мы получили ваш отчет! Спасибо!
+successReport:Мы получили твою жалобу! Спасибо!
 challenge:Вызов
-thisIsYourArenaOpponent:Этот противник ждет вас на арене! Их нельзя атаковать!
-arenaCooldown:В настоящее время вы не можете атаковать, так как все ваши атаки уже использованы!
+thisIsYourArenaOpponent:Этот противник ждет тебя на арене! Ты не можешь атаковать его!
+arenaCooldown:Ты не можешь атаковать сейчас, так как все твои атаки истрачены!
 attack:Атака
 navigation:Навигация
 bounties:Награды
 characterMenu:Персонаж
 arena:Арена
-guild:гильдия
-brewery:пивовар
+guild:Гильдия
+brewery:Пивоварня
 adventure:Приключение
-crafting:Крафтинг
+crafting:Ремесло
 dungeon:Подземелье
 achievement:Достижение
-startYourJourney:Начни свое путешествие!
-chooseYourClass:Выберите свой класс!
-pickYourRace:Выберите свою расу!
-customizeYourHero:Персонализируйте своего героя!
+startYourJourney:Начните ваше путешествие!
+chooseYourClass:Выберите ваш класс!
+pickYourRace:Выберите вашу расу!
+customizeYourHero:Настройте вашего героя!
 finalize:Завершить
-purchaseAnotherCharacter:Покупка еще одного слота для персонажей обойдется вам в 500 Arcanites.
-doYouWantToPurchase:Хотите купить?
+purchaseAnotherCharacter:Покупка дополнительного слота персонажа будет стоить вам 500 Arcanites.
+doYouWantToPurchase:Вы хотите купить?
 slot:Слот
 chooseGender:Выберите пол
-yourSelectedGender:Вы будете играть как {пол}
-decisionNotChangable:После этого вы не сможете изменить свое решение!
-male:самец
-female:сука
-arcanite:Арканит
-arcanites:Арканиты
+yourSelectedGender:Вы будете играть как {gender}
+decisionNotChangable:Вы не сможете изменить свое решение позже!
+male:Мужчина
+female:Женщина
+arcanite:Arcanite
+arcanites:Arcanites
 shop:Магазин
-buyItemConfirmation:Вы действительно хотите купить {item}?
-sellItemConfirmation:Вы действительно хотите продать {item}?
+buyItemConfirmation:Вы уверены, что хотите купить {item}?
+sellItemConfirmation:Вы уверены, что хотите продать {item}?
 sell:Продать
-purchase:Покупка
-newItemSlot:В магазине добавлен новый слот для предметов!
+purchase:Купить
+newItemSlot:В магазине добавлено новое место для предмета!
 shopRefresh:Обновление магазина
-buyArcanites:Купить арканиты
-emeraldShop:Купить арканиты
+buyArcanites:Купить Arcanites
+emeraldShop:Купить Arcanites
 donate:Пожертвовать
-reputationExplaination:Пожертвуйте продавцу неиспользованные материалы, чтобы повысить свою репутацию и временно получить более качественные товары!
+reputationExplaination:Жертвуйте неиспользованные материалы торговцу, чтобы повысить свою репутацию и временно получать лучшие предметы!
 reputationDonate:Сколько вы хотите пожертвовать?
-reputationDonateConfirmation:Вы собираетесь пожертвовать {MaterialAmountoSpend} из своих {MaterialAmount} {selectedMaterial}:
-useThatCodeToSupport:Используйте код {refCode} при покупке для поддержки {StreamerName}.
-theStreamerHasntSetupTheRefCode:{StreamerName} еще не установил свой реферальный код.
-pressButtonToOpen:Нажмите кнопку ниже, чтобы купить Arcanites на нашем канале Twitch EmberValeTV.
+reputationDonateConfirmation:Вы собираетесь пожертвовать {materialAmountToSpend} из ваших {materialAmount} {selectedMaterial}:
+useThatCodeToSupport:Используйте код {refCode} при покупке, чтобы поддержать {streamerName}.
+theStreamerHasntSetupTheRefCode:{streamerName} не настроил реферальный код.
+pressButtonToOpen:Нажмите кнопку ниже, чтобы купить Arcanites на нашем Twitch-канале EmbervaleTV.
 confirmingTransaction:Подтверждение транзакции
 confirmingPayment:Подтверждение платежа
-earnArcanites:Зарабатывайте арканиты
-validating:Валидация
-freeArcanites:СВОБОДНЫЕ АРКАНИТЫ
+earnArcanites:Заработать Arcanites
+validating:Проверка
+freeArcanites:БЕСПЛАТНЫЕ ARCANITES
 watchVideo:Смотреть видео
-completeOffers:Комплексные предложения по зарабатыванию Arcanites
+completeOffers:Выполняйте задания, чтобы заработать Arcanites
 creatorCode:Код создателя
 allPricesIncVat:Все цены включают НДС.
-confirmGiftingBundle:Вы действительно хотите подарить {BundleName} команде {Playername}? (Если у них уже есть активная подписка, ее подписка будет продлена.)
-successGiftingBundle:Спасибо, что подарили {BundleName} {Playername}!
-ayetStudioConfirming:Спасибо, что посмотрели рекламу! Ваши Arcanites должны быть зачислены на ваш счет в течение следующих 60 секунд. Вы можете закрыть это окно — мы уведомим вас об этом, как только кредиты будут добавлены!
-ayetStudioDailyLimit:Пожалуйста, приходите завтра, чтобы увидеть больше Arcanites!
+confirmGiftingBundle:Вы уверены, что хотите подарить {bundleName} игроку {Playername}? (Если у них уже есть активная подписка, это продлит её.)
+successGiftingBundle:Спасибо за подарок {bundleName} игроку {Playername}!
+ayetStudioConfirming:Спасибо за просмотр рекламы! Ваши Arcanites должны появиться на вашем счете в течение следующих 60 секунд. Вы можете закрыть это окно — мы уведомим вас, когда кредиты будут зачислены!
+ayetStudioDailyLimit:Пожалуйста, приходите завтра за новыми Arcanites!
 mythical_bundle:Мифический набор
 legendary_bundle:Легендарный набор
 epic_bundle:Эпический набор
@@ -229,32 +229,32 @@ eye:Глаза
 eyes:Глаза
 nose:Нос
 mouth:Рот
-accessoire:аксессуар
-extra:Экстра
+accessoire:Аксессуар
+extra:Дополнительно
 beard:Борода
 readAndAccept:Я прочитал и принимаю
-tos:ToS
+tos:Условия использования
 color:Цвет
 chooseName:Выберите свое имя
 badge:Значок
-beast-slayer-badge:Знак «Убийца зверей
-beast-slayer-badge_desc:Можно получить с помощью достижений бестиария
+beast-slayer-badge:Значок охотника на зверей
+beast-slayer-badge_desc:Получается за достижения в бестиарии
 patreon-badge:Значок Patreon
-patreon-badge_desc:Значок для участия в Patreon. Спасибо за поддержку!
+patreon-badge_desc:Значок за то, что вы являетесь участником Patreon. Спасибо за вашу поддержку!
 alpha-badge:Значок Альфа
-alpha-badge_desc:Награда за участие в альфа-тестировании Embervale!
+alpha-badge_desc:Награда за участие в Альфе Embervale!
 obtainedBy:Получено {obtained_by}% игроков
-noBadge:Нет бейджа
-emptyBadge:Пустой слот для бейджей
+noBadge:Нет значка
+emptyBadge:Пустой слот для значка
 leaderboard:Таблица лидеров
 search:Поиск...
-refill:Пополнение
+refill:Пополнить
 rank:Ранг
 name:Имя
 glory:Слава
 skip:Пропустить
 seconds:Секунды
-second:Второе
+second:Секунда
 minutes:Минуты
 minute:Минута
 hours:Часы
@@ -262,255 +262,262 @@ hour:Час
 days:Дни
 day:День
 stamina:Выносливость
-newStaminaIn:Вы получите 1000 выносливости в
-staminaFull:Ваша выносливость уже исчерпана
-editRoles:Редактирование ролей
-guildFee:Денежная комиссия
+newStaminaIn:Вы получите 1000 выносливости через
+staminaFull:Ваша выносливость уже полна
+editRoles:Редактировать роли
+guildFee:Плата за гильдию
 you_received:Вы получили:
 youReceived:Вы получили:
-congratulations:Поздравляю!
-claim:Запрос
-claim_reward:Запросить вознаграждение
+congratulations:Поздравляем!
+claim:Забрать
+claim_reward:Забрать награду
 reward:Награда
-completed:Завершено
+completed:Выполнено
 material:Материал
 liquid:Жидкость
 herb:Трава
-special_ingredient:Специальный ингредиент
-expedition:экспедиция
-errStillInAExpedition:Вы не можете этого сделать, находясь в экспедиции! Завершите или отмените экспедицию, чтобы продолжить!
-errStillInABounty:Вы не можете сделать это, пока вы получаете награду! Завершите или отмените экспедицию, чтобы продолжить!
-alchemy_expedition_title_1:Соберите
+special_ingredient:Особый ингредиент
+expedition:Экспедиция
+errStillInAExpedition:Вы не можете сделать это, пока находитесь в экспедиции! Завершите или отмените свою экспедицию, чтобы продолжить!
+errStillInABounty:Вы не можете сделать это, пока находитесь на задании! Завершите или отмените своё задание, чтобы продолжить!
+alchemy_expedition_title_1:Сбор
 cooking_expedition_title_1:Сбор урожая
-smithing_expedition_title_1:Мой
-followingMaterialsCanSpawnHere:В выбранной области могут появиться следующие материалы:
+smithing_expedition_title_1:Добыча
+followingMaterialsCanSpawnHere:Следующие материалы могут появиться в выбранной области:
 newDiscovered:Новое открытие!
-newMaterialsDiscovered:Ваш глоссарий был обновлен следующими записями:
+newMaterialsDiscovered:Ваш словарь был обновлен следующими терминами:
 progress:Прогресс
-loadingTip0:Рецепты редки, поэтому лучше отдавать предпочтение награде, когда вы ее увидите!
-loadingTip1:Неплохо начать экспедицию перед отъездом за ресурсами!
-loadingTip2:Вы всегда можете восстановить свои очки навыков, чтобы вы могли сопоставить очки в соответствии с вашим доспехом!
-loadingTip3:Присоединяйтесь к нашему Discord и получайте ежедневные награды!
-loadingTip4:Предполагалось, что это чаевые, но у нас закончились идеи.
-loadingTip5:Более высокая громкость речи снижает стоимость заказа новых товаров в магазине.
-loadingTip6:При выборе наград обращайте внимание на соотношение выносливости и опыта, отдавая приоритет повышению уровня.
-loadingTip7:Эпические, легендарные и мифические предметы могут иметь сходство со стихиями, повышающее ваш урон и сопротивление.
-loadingTip8:Вы можете изменить скорость боя во время боя.
-loadingTip9:Вы можете потренироваться в битве против игроков, нажав на их имя в таблице лидеров.
-loadingTip10:Маги никогда не упускают свою цель. Только скрытность поможет избежать их атак.
-loadingTip11:Удача увеличивает урон от критических ударов.
-loadingTip12:Рыцари хорошо бронированы и имеют щит, что дает им естественное преимущество перед классами, основанными на ловкости.
-loadingTip13:Способность рейнджера быстро рисовать позволяет им наносить удары два раза за раз.
-loadingTip14:С каждым попаданием воины используют спасательный камень, чтобы истощать здоровье своих врагов. Однако сила камня быстро ослабевает.
-loadingTip15:Разбойник — мастер скрытности и уклонения, поэтому дальним атакующим гораздо сложнее наносить удары.
-loadingTip16:Не забудьте заполнить глоссарий, чтобы быстрее зарабатывать XP!
-loadingTip17:Знаете ли вы, что победа над противником на арене добавит все его доспехи, оружие и скины в ваш глоссарий?
-loadingTip18:У всех классов разная шкала здоровья и урона. Они могут носить только один определенный тип брони: тяжелую, среднюю или легкую.
-loadingTip19:Не забудьте пройти еженедельные миссии, чтобы заработать бонусную добычу!
-loadingTip20:Подписавшись на стример или играя на Embervale.TV, вы получаете дополнительно 10% золота в виде наград!
-loadingTip21:Вы можете использовать свой глоссарий, чтобы узнать, в чем сходство и слабость монстра.
-loadingTip22:Получив первую награду каждый день, вы получите арканит в подарок!
-loadingTip23:Вы можете смотреть рекламу на Embervale.TV, чтобы бесплатно зарабатывать Arcanites.
-loadingTip24:Мы работали более 3 лет, чтобы воплотить нашу мечту в реальность! Спасибо большое за игру!
-loadingTip25:У каждой награды есть шанс выпасть арканит! Чем дольше, тем выше шанс.
-loadingTip26:Не забудьте приготовить зелья в меню для рукоделия! Это может значительно повысить вашу силу!
-loadingTip27:Поделитесь своим прогрессом, набрав текст! Eflex в любом канале с установленным Embervale.
-loadingTip28:Мы прислушиваемся к вашим отзывам. Присоединяйтесь к нашему серверу Discord и отправляйте свои предложения!
+loadingTip0:Рецепты встречаются редко, поэтому приоритетно берите награду, когда видите!
+loadingTip1:Хорошая идея начать экспедицию перед выходом для сбора ресурсов!
+loadingTip2:Вы всегда можете сбросить свои очки навыков, чтобы соответствовать своей броне!
+loadingTip3:Присоединяйтесь к нашему Discord, чтобы получать ежедневные награды!
+loadingTip4:Это должно было быть советом, но у нас закончились идеи.
+loadingTip5:Первый проход подземелья гарантирует мифический сундук.
+loadingTip6:При выборе наград обращайте внимание на соотношение выносливости и опыта для приоритетного повышения уровня.
+loadingTip7:Эпические, Легендарные и Мифические предметы могут иметь элементальные привязанности, увеличивающие ваш урон/сопротивление.
+loadingTip8:Вы можете изменить скорость боя во время битвы.
+loadingTip9:Вы можете тренироваться в бою с игроками, щелкнув по их именам в списке лидеров.
+loadingTip10:Маги никогда не промахиваются. Только скрытность может помочь избежать их атак.
+loadingTip11:Удача увеличивает урон критических ударов.
+loadingTip12:Рыцари обладают тяжелой броней и носят щит, что дает им естественное преимущество против классов, основанных на ловкости.
+loadingTip13:Навык быстрого выхватывания Ловчего позволяет ударить дважды время от времени.
+loadingTip14:Воины используют камень жизни, чтобы осушать здоровье врагов с каждым ударом. Однако сила камня быстро ослабевает.
+loadingTip15:Разбойник - мастер скрытности и уворотов, что значительно усложняет попадание по нему дальнобойными атаками.
+loadingTip16:Заполните свой словарь, чтобы быстрее зарабатывать опыт!
+loadingTip17:Знали ли вы, что победа над противником на арене добавит всю его броню, оружие и скины в ваш Глоссарий?
+loadingTip18:Все классы имеют разные показатели HP и урона. Они могут носить только один тип брони: тяжелую, среднюю или легкую.
+loadingTip19:Обязательно проверяйте еженедельные миссии, чтобы заработать бонусную добычу!
+loadingTip20:100 медных монет равны 1 серебряной, а 100 серебряных монет равны 1 золотой.
+loadingTip21:Вы можете использовать ваш Глоссарий, чтобы увидеть Афинность и Слабости Монстра.
+loadingTip22:Ваша первая Охота каждый день дает вам бесплатный Arcanite!
+loadingTip23:Вы можете смотреть рекламу на Embervale.TV, чтобы бесплатно заработать Arcanites.
+loadingTip24:Мы работали более 3 лет, чтобы осуществить нашу мечту! Огромное спасибо за игру!
+loadingTip25:В каждой Охоте есть шанс получить Arcanite! Чем дольше Охота, тем выше шанс.
+loadingTip26:Не забывайте варить зелья в меню крафта! Это может значительно увеличить вашу силу!
+loadingTip27:Поделитесь вашим прогрессом, написав !evflex в любом канале, где установлен Embervale.
+loadingTip28:Мы прислушиваемся к вашим отзывам. Присоединяйтесь к нашему серверу в Discord, чтобы предоставить свои предложения!
 youReachedLevel:Вы достигли уровня
-LevelUpShop:Теперь вы можете войти в магазин!
-levelUpArena:Теперь вы можете выйти на арену!
-levelUpExpedition:Теперь вы можете отправиться в экспедиции за ресурсами!
-levelUpAdventure:Теперь вы можете начать приключения в роли стримера!
-levelUpCraft:Теперь вы можете использовать свои материалы для рукоделия!
-levelUpDungeon:Теперь вы можете войти в подземелья!
-levelUpGuild:Теперь вы можете вступить в гильдию или создать ее!
-skipTutorial:Пропустить учебное пособие
+LevelUpShop:Теперь вы можете войти в Магазин!
+levelUpArena:Теперь вы можете войти на Арену!
+levelUpExpedition:Теперь вы можете отправляться в экспедиции для сбора ресурсов!
+levelUpAdventure:Теперь вы можете начинать приключения в качестве Стримера!
+levelUpCraft:Теперь вы можете использовать свои материалы для крафта!
+levelUpDungeon:Теперь вы можете входить в Подземелья!
+levelUpGuild:Теперь вы можете вступить или создать Гильдию!
+skipTutorial:Пропустить обучение
 hideTip:Скрыть совет
-starterTutorial0:Добро пожаловать в Embervale! Чтобы перемещаться по меню, нажмите кнопку компаса!
-starterTutorial1:Это главное меню навигации! Начните с выбора вкладки «Баунти».
-starterTutorial2:Выберите награду по своему усмотрению. Звёзды, стоящие за именем монстра, указывают на сложность!
-starterTutorial3:Теперь подождите или пропустите время в пути, и ваша битва начнется!
+starterTutorial0:Добро пожаловать в Embervale! Для навигации по меню нажмите кнопку компаса!
+starterTutorial1:Это главное навигационное меню! Начните с выбора закладки охоты.
+starterTutorial2:Выберите награду на ваш выбор. Звезды за именем монстра указывают на сложность!
+starterTutorial3:Теперь подождите или пропустите время путешествия, и ваш бой начнется!
 starterTutorial4:-
-starterTutorial5:Вы только что получили первую награду и закончили базовое руководство! Начните перемещаться по меню, чтобы узнать больше об игре!
-expeditionTutorial0:Экспедиции — это длительные задания, которые занимают от 1 до 12 часов. Здесь вы можете получить материалы для крафта! Вы не можете сражаться во время экспедиции!
+starterTutorial5:Вы только что завершили свою первую охоту и закончили основное обучение! Начните навигацию по меню, чтобы узнать больше о игре!
+expeditionTutorial0:Экспедиции — это долгосрочные задания, которые длятся от 1 до 12 часов. Здесь вы можете получить материалы для крафта! Вы не можете сражаться, находясь в экспедиции!
 character:Персонаж
-selectBackground:Выберите фон
-skill:Умение
-thisActionTakesSkillPoints:Это действие позволит использовать очки навыков {PointsToSkillStat} в статистике.
-remainingPoints:Оставшиеся очки: {points} очков навыков
+selectBackground:Выбрать Фон
+skill:Навык
+thisActionTakesSkillPoints:Это действие использует { pointsToSkillStat } очков навыков для статистики.
+remainingPoints:Оставшиеся очки: { points } очков навыков
 quick_sell:Быстрая продажа
 inventory:Инвентарь
 weight:Вес
-resetSkillPoints:Обнулить очки навыков
+resetSkillPoints:Сбросить очки навыков
 report:Отчет
-equipped:Оборудован
-maximumFood:Вы можете есть максимум 3 раза в день.
-todayYouAte:Сегодня вы съели {количество} еды.
+equipped:Экипировано
+maximumFood:Вы можете съесть максимум 3 приема пищи в день.
+todayYouAte:Сегодня вы съели {amount} приемов пищи.
 tradeable:Торгуемый
-youCanGiftBundle:Вы можете подарить этому человеку набор.
-hasAlreadySubscriptions:У {username} уже есть активные подписки.
-grantsBenefits:Предоставляет {currentUser.UserName} 30 дней следующих льгот.
-receivesOnce:{username} получает это сообщение один раз.
-giftAnonymously:Подарите анонимно
-giftBundle:Подарочный набор
+youCanGiftBundle:Вы можете подарить этому человеку пакет.
+hasAlreadySubscriptions:{ username } уже имеет активную подписку(и).
+grantsBenefits:Предоставляет { currentUser.username } 30 дней следующих преимуществ.
+receivesOnce:{ username } получает это один раз.
+giftAnonymously:Подарить анонимно
+giftBundle:Подарочный пакет
 items:Предметы
 materials:Материалы
 chests:Сундуки
-skins:Оболочки
+skins:Скины
 monster:Монстр
 monsters:Монстры
-defense:Оборона
+defense:Защита
 dmg:Урон
-lvl:УРОВЕНЬ
+lvl:УРОВ
 vs:ПРОТИВ
 boss:Босс
-preBoss:Пре-босс
+preBoss:Пред-Босс
 virtuous:Добродетельный
 advanced:Продвинутый
-intermediate:промежуточный
+intermediate:Средний
 novice:Новичок
 notification:Уведомление
 required:Требуется
-found:Найден
-login:Логин
-createAnotherCharacter:Создайте другого персонажа
+found:Найдено
+login:Войти
+createAnotherCharacter:Создать другого персонажа
 consume:Потреблять
-eatFoodHeadline:Потребляйте пищу
+eatFoodHeadline:Потребить пищу
 refreshArena:Обновить
-replayCode:Код воспроизведения
-saveReplay:Сохранить повтор
-replaySaved:Повтор сохранен
-deleteReplay:Удалить повтор
-spectate:Наблюдайте
-errCantSpectate:Этой битвы не существует.
-arenaFightCooldown:Этот бар заполняется каждые 3 часа!
-yourSavedBattles:Ваши сохраненные сражения
-battleEnded:Сражение закончилось
+replayCode:Код Повтора
+saveReplay:Сохранить Повтор
+replaySaved:Повтор Сохранен
+deleteReplay:Удалить Повтор
+spectate:Наблюдать
+errCantSpectate:Эта битва не существует.
+arenaFightCooldown:Эта полоса заполняется каждый час!
+yourSavedBattles:Ваши сохраненные битвы
+battleEnded:Битва закончилась
 overwhelming:Подавляющий
-superior:Улучшенный
-equivalent:Эквивалент
-inferior:Неполноценный
+superior:Превосходящий
+equivalent:Эквивалентный
+inferior:Уступающий
 pathetic:Жалкий
-heal:Исцелить
+heal:Лечить
 quick_draw:Быстрое рисование
-stealth:Незаметность
-block:Блокировать
-youWon:Вы выиграли!
-youLost:Вы проиграли!
-confirmDeleteReplay:Вы действительно хотите удалить этот повтор?
-replaySavedMsg:Ваш повтор сохранен. Вы можете посмотреть его на арене. Код:
-errTooManyReplays:У вас сохранено слишком много повторов. Удалите некоторые из них, чтобы сохранить больше.
-errReplayAlreadySaved:Повтор уже сохранен.
-warningTooManyReplays:Вы приближаетесь к лимиту в 10 сохраненных повторов. Пожалуйста, удалите некоторые из них, чтобы сохранить новые.
-connect:Подключить
-marketNoDiscordConnected:Только проверенные игроки могут использовать рынок. Подтвердите это прямо сейчас, подключив свой Discord!
-starter_shield_description:У рыцаря есть щит, который время от времени блокирует физический урон. Повышенный атрибут: здоровье
-starter_quiver_description:Стрелы рейнджера всегда наготове, что позволяет ему время от времени начинать дополнительную атаку. Повышенный атрибут: шанс нанести критический удар.
-starter_grimoire_description:Способность мага сосредоточиться на своей цели позволяет ему никогда не промахнуться. Усиленный атрибут: модификатор критического удара.
-starter_lifestone_description:Lifestone снижает расход разрушающихся жизненных ресурсов на 30%. Усиленный атрибут: урон.
-starter_talisman_description:Разбойник использует свою скрытность, чтобы уклоняться от дальних и магических атак. Усиленный атрибут: уклонение.
+stealth:Скрытность
+block:Блок
+youWon:Ты победил!
+youLost:Ты проиграл!
+confirmDeleteReplay:Вы уверены, что хотите удалить этот повтор?
+replaySavedMsg:Ваш повтор был сохранен. Вы можете посмотреть его на арене. Код:
+errTooManyReplays:У вас слишком много сохраненных повторов. Удалите некоторые, чтобы сохранить больше.
+errReplayAlreadySaved:Повтор уже был сохранен.
+warningTooManyReplays:Вы приближаетесь к пределу в 10 сохраненных повторов. Пожалуйста, удалите некоторые из них, чтобы иметь возможность сохранить новые.
+connect:Подключиться
+marketNoDiscordConnected:Только проверенные игроки могут использовать рынок. Проверьтесь, подключив свой Discord!
+starter_shield_description:Рыцарь носит щит, чтобы время от времени уменьшать физический урон блокировкой. Усиленный атрибут: HP
+starter_quiver_description:Рейнджер всегда держит стрелы наготове, что позволяет ему время от времени начинать дополнительную атаку. Усиленный атрибут: Шанс критического удара.
+starter_grimoire_description:Способность Мага фокусироваться на своей цели позволяет ему никогда не промахиваться. Усиленный атрибут: Модификатор критического удара.
+starter_lifestone_description:Жизненный камень дает вам 30% истощающего похищения жизни. Усиленный атрибут: Урон.
+starter_talisman_description:Вор использует свою способность к скрытности, чтобы избегать дальних и магических атак. Усиленный атрибут: Уклонение.
 heavyArmor:Тяжелая броня
-mediumArmor:Броня среднего размера
+mediumArmor:Средняя броня
 lightArmor:Легкая броня
-quiver:колчан
+quiver:Колчан
 shield:Щит
 grimoire:Гримуар
-lifestone:Лайфстоун
+lifestone:Камень жизни
 talisman:Талисман
-guildBattleEffectPlus:{эффект} всех ваших юнитов будет увеличен на {perc}%.
-guildBattleEffectMinus:{эффект} всех юнитов противника будет уменьшен на {perc}%.
+guildBattleEffectPlus:Эффект {effect} для всех ваших отрядов будет увеличен на {perc}%.
+guildBattleEffectMinus:Эффект {effect} для всех отрядов соперника будет уменьшен на {perc}%.
 profession:Профессия
-pleaseChooseJob:Выберите свою основную профессию! (+50% опыта работы)
-pleaseChooseJobConfirmation:Вы уверены, что хотите, чтобы {работа} стала вашей основной профессией? (+50% опыта работы)
-pleaseChooseJobWarning:Выбрав одну из них, вы не сможете изменить свою основную профессию!
-dontOwnRecipe:У вас пока нет рецептов в этой категории! Рецепты можно найти в Bounties!
-craft:ремесло
+pleaseChooseJob:Выберите свою основную профессию! (+50% опыта профессии)
+pleaseChooseJobConfirmation:Вы уверены, что хотите выбрать {job} своей основной профессией? (+50% опыта профессии)
+pleaseChooseJobWarning:Вы не сможете изменить свою основную профессию после выбора!
+dontOwnRecipe:У вас еще нет рецептов в этой категории! Рецепты можно найти в Наградах!
+craft:Создание
 cook:Повар
-smith:кузнец
-alchemist:алхимик
-successfullyCrafted:Успешно изготовлено
-yourTitle:Ваш заголовок
-title:Заголовок
+smith:Кузнец
+alchemist:Алхимик
+successfullyCrafted:Успешно создано
+yourTitle:Ваш титул
+title:Титул
 hero:Герой
 veteran:Ветеран
-adventurer:Искатель приключений
-mercenary:Наемник
-squire:оруженосец
-legendary_adventurer_male:Легендарный путешественник
-legendary_adventurer_female:Легендарный путешественник
+adventurer:Авантюрист
+mercenary:Наёмник
+squire:Оруженосец
+legendary_adventurer_male:Легендарный Авантюрист
+legendary_adventurer_female:Легендарная Авантюристка
 stylist_male:Стилист
-stylist_female:Стилист
-archduke_male:эрцгерцог
-archduke_female:герцогиня
-prince_male:принц
+stylist_female:Стилистка
+archduke_male:Эрцгерцог
+archduke_female:Эрцгерцогиня
+prince_male:Принц
 prince_female:Принцесса
-lord_male:повелитель
-lord_female:леди
+lord_male:Лорд
+lord_female:Леди
 baron_male:Барон
 baron_female:Баронесса
-sir_male:сэр
-sir_female:Мадам
-chief_male:главный
+sir_male:Сэр
+sir_female:Сударыня
+chief_male:Вождь
 chief_female:Вождь
 hero_male:Герой
-hero_female:Герой
-adventurer_male:Искатель приключений
-adventurer_female:Искатель приключений
-squire_male:оруженосец
-squire_female:оруженосец
-exitExpeditionConfirmationHeadline:Выездная экспедиция
-exitExpeditionConfirmationText:Вы сохраните все собранные до сих пор предметы. Хотите продолжить?
+hero_female:Героиня
+adventurer_male:Авантюрист
+adventurer_female:Авантюристка
+squire_male:Оруженосец
+squire_female:Оруженосец
+exitExpeditionConfirmationHeadline:Завершить экспедицию
+exitExpeditionConfirmationText:Вы сохраните все собранные предметы. Хотите продолжить?
 possibleResources:Возможные ресурсы:
-howLongDoYouWantToExplore:Как долго вы хотите исследовать окрестности?
-allCommonMaterials:Все распространенные материалы
+howLongDoYouWantToExplore:Сколько вы хотите исследовать?
 noShield:Без щита
 your:Ваш
 history:История
-cooking:Приготовление
-class_slot:Слот для классов
+cooking:Кулинария
+class_slot:Классовое место
 gift:Подарок
 all:Все
-aquatic:Водный
-insect:Насекомое
-humanoid:Гуманоид
-elemental:Элементальный
+aquatic:Водные
+insect:Насекомые
+humanoid:Гуманоиды
+elemental:Элементальная
 slime:Слизь
-beast:Зверь
-plant:Растение
+beast:Звери
+plant:Растения
 undead:Нежить
-construct:Построить
+construct:Конструкты
 abomination:Мерзость
-dragon:Дракон
-mimic:Мимика
-embervale:Embervale # это не следует переводить
-riverlands:Риверлендс
-unknown_lands:Неизвестные земли
+dragon:Драконы
+mimic:Мимики
+embervale:Embervale
+riverlands:Речные земли
+unknown_lands:Неизведанные земли
 forgotten_island:Забытый остров
 shivering_passage:Дрожащий проход
-great_duskwood:Великий Сумерки
+great_duskwood:Великий сумеречный лес
 ashen_lagoon:Пепельная лагуна
 silver_mountains:Серебряные горы
 crownlands:Коронные земли
 boiling_lake:Кипящее озеро
 rare_badges:Редкие значки
-selectYourCharacter:Выберите своего персонажа
-select:Выберите
-loadingTip29:Повышение уровня персонажа позволит вам найти больше рецептов.
-loadingTip30:Боретесь с определенным врагом? Выясните их стихийную слабость!
-loadingTip31:Победа на арене приносит вам не только славу, но и небольшую часть золота соперника!
-loadingTip32:Если вы потеряете золото атакующему на арене, вы будете защищены от потери большего количества золота на некоторое время.
-loadingTip33:Продолжайте свою ежедневную серию наград и получайте все более мощные награды!
-loadingTip34:Магазин получает новую партию товаров бесплатно через 24 часа после последнего пополнения заказа.
-loadingTip35:Первое прохождение подземелья гарантирует вам мифический сундук!
-loadingTip36:В подземельях есть уникальные пулы монстров; соберите их всех, чтобы заполнить свой Бестиарий!
-chrono-badge:Значок «Хроно»
-chrono-badge_desc:Очень редкий значок, который позволяет получать 365 ежедневных наград подряд.
+selectYourCharacter:Выберите вашего персонажа
+select:Выбрать
+loadingTip29:Повышение уровня вашего персонажа позволит вам находить больше рецептов.
+loadingTip30:Трудно справиться с определенным типом врага? Узнайте их элементарную слабость!
+loadingTip31:Победа на арене приносит вам не только Славу, но и небольшую часть золота вашего противника!
+loadingTip32:Если вы потеряли золото от атакующего на арене, вы защищены от дальнейших потерь на некоторое время.
+loadingTip33:Поддерживайте свою ежедневную серию наград и получайте все более мощные награды!
+loadingTip34:Магазин получает новую партию предметов бесплатно через 24 часа после вашей последней перенастройки.
+loadingTip35:Очистка Подземелья впервые гарантирует вам Мифический Сундук!
+loadingTip36:У Подземелий есть уникальные группы монстров; соберите их всех, чтобы заполнить ваш Бестиарий!
+chrono-badge:Значок Хроно
+chrono-badge_desc:Чрезвычайно редкий значок за сбор 365 ежедневных наград подряд.
 founder_male:Основатель
-founder_female:Основатель
+founder_female:Основательница
 harbinger_male:Предвестник
-harbinger_female:Предвестник
+harbinger_female:Предвестница
 voucher:Ваучер
-optional:Опционально
-collect:Соберите
-giftedYou:Подарил тебе
-ayetStudioNoFill:Извините, на данный момент нет рекламы. Пожалуйста, зайдите через несколько минут.
+optional:Необязательно
+collect:Собирать
+giftedYou:Подарил(а) вам
+ayetStudioNoFill:Извините, сейчас рекламы нет. Пожалуйста, проверьте позже через несколько минут.
+referrer:Реферер (имя на Twitch)
+barberRewardRefferer:Я хочу наградить реферера
+referalNameInvalid:Имя реферера недействительно. Пожалуйста, исправьте или удалите его.
+resetStatsLevelTep:Вы можете сбросить свои характеристики бесплатно, пока не достигнете уровня 10!
+anonymously:Анонимно
+hideMyNameInChat:(Это скрывает ваше имя в чате стримера при использовании кода создателя)
+alreadyClaimed:Вы уже забрали эту награду. (Это может произойти, если игра открыта в нескольких окнах.)
+pleaseConfirmNameChange:Пожалуйста, подтвердите, что вы хотите переименовать {current_name} в {new_name} за 25 Arcanites.

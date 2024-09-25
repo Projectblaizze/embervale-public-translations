@@ -1,67 +1,67 @@
-main_mission:Haupt
+main_mission:Hauptmission
 bestiary:Bestiarium
 collector:Sammler
 adventurer:Abenteurer
 combat:Kampf
 level:Stufe
 guild:Gilde
-achievement:Leistung
-todo:Zu erledigen
+achievement:Errungenschaft
+todo:Zu tun
 weekly:Wöchentlich
 newMissionsIn:Neue Missionen in
-complete_achievement:Schließe {amount} Erfolge ab
-complete_weekly_mission:Schließe wöchentliche Missionen in Höhe von {amount} ab
-kill_monster:Töte {Anzahl} Monster
-defeat_monster:Besiege {Anzahl} Monster
-defeat_aquatic_monster:Besiege {Anzahl} Wassermonster
-defeat_insect_monster:Besiege {Anzahl} Insektenmonster
+complete_achievement:Vervollständige {amount} Errungenschaften
+complete_weekly_mission:Schließe {amount} wöchentliche Missionen ab
+kill_monster:Töte {amount} Monster
+defeat_monster:Besiege {amount} Monster
+defeat_aquatic_monster:Besiege {amount} aquatische Monster
+defeat_insect_monster:Besiege {amount} Insektenmonster
 defeat_humanoid_monster:Besiege {amount} humanoide Gegner in Kopfgeldern
-defeat_elemental_monster:Besiege {Anzahl} elementarer Monster
-defeat_slime_monster:Besiege {Menge} Schleimmonster
-defeat_beast_monster:Besiege {Anzahl} Bestienmonster
-defeat_plant_monster:Besiege {Anzahl} Pflanzenmonster
-defeat_undead_monster:Besiege {Anzahl} untoter Monster
-defeat_construct_monster:Besiege {Anzahl} konstruierte Monster
-defeat_abomination_monster:Besiege {Menge} abscheuliche Monster
-defeat_dragon_monster:Besiege {Anzahl} Drachenmonster
-defeat_mimic_monster:Besiege {amount} imitierte Monster
+defeat_elemental_monster:Besiege {amount} Elementarmonster
+defeat_slime_monster:Besiege {amount} Schleim-Monster
+defeat_beast_monster:Besiege {amount} Bestien-Monster
+defeat_plant_monster:Besiege {amount} Pflanzen-Monster
+defeat_undead_monster:Besiege {amount} Untoten-Monster
+defeat_construct_monster:Besiege {amount} Konstrukt-Monster
+defeat_abomination_monster:Besiege {amount} Abscheulichkeiten
+defeat_dragon_monster:Besiege {amount} Drachen-Monster
+defeat_mimic_monster:Besiege {amount} Mimiker
 defeat_rogue_class:Besiege {amount} Schurken
 defeat_mage_class:Besiege {amount} Magier
-defeat_knight_class:Besiege {Anzahl} Ritter
-defeat_ranger_class:Besiege {amount} Ranger
-defeat_warrior_class:Besiege {Anzahl} Krieger
-collect_items_bounties:Sammle {amount} Artikel in Form von Prämien
-collect_items_shop:Kaufe {amount} Artikel im Shop
-collect_mythical_item:Sammle {amount} mythische Gegenstände
-complete_bestiary:Schließe {count}% deines Bestiariums ab
+defeat_knight_class:Besiege {amount} Ritter
+defeat_ranger_class:Besiege {amount} Waldläufer
+defeat_warrior_class:Besiege {amount} Krieger
+collect_items_bounties:Sammle {amount} Gegenstände in Kopfgeldern
+collect_items_shop:Kaufe {amount} Gegenstände aus dem Laden
+collect_mythical_item:Erlange {amount} mythische Gegenstände
+complete_bestiary:Vervollständige {count}% deines Bestiarums
 complete_materials_glossary:Entdecke {count}% der Materialien
-complete_items_glossary:Entdecke {count}% der Artikel
-reach_level:Erreiche Level {lvl}
+complete_items_glossary:Entdecke {count}% der Gegenstände
+reach_level:Erreiche Stufe {lvl}
 participate_in_adventures:Nimm an {amount} Abenteuern teil
-clear_bounties:{amount} Prämien löschen
+clear_bounties:Schließe {amount} Kopfgelder ab
 clear_bounties_difficulty_1:Schließe {amount} Kopfgelder auf Schwierigkeitsgrad 1 ab
 clear_bounties_difficulty_2:Schließe {amount} Kopfgelder auf Schwierigkeitsgrad 2 ab
 clear_bounties_difficulty_3:Schließe {amount} Kopfgelder auf Schwierigkeitsgrad 3 ab
 clear_bounties_difficulty_4:Schließe {amount} Kopfgelder auf Schwierigkeitsgrad 4 ab
 clear_bounties_difficulty_5:Schließe {amount} Kopfgelder auf Schwierigkeitsgrad 5 ab
-defeat_monster_in_dungeon:Besiege {Anzahl} Monster in Dungeons
-win_pvp_battle:Gewinne {Anzahl} PvP-Schlachten
+defeat_monster_in_dungeon:Besiege {amount} Monster in Dungeons
+win_pvp_battle:Gewinne {amount} PvP-Kämpfe
 find_a_mythical_item:Finde {amount} mythische Gegenstände
-distribute_skill_points:Verteile {amount} Skillpunkte
-use_stamina:Nutze {amount} Ausdauer für Kopfgelder
+distribute_skill_points:Verteile {amount} Fertigkeitspunkte
+use_stamina:Verwende {amount} Ausdauer in Kopfgeldern
 complete_an_expedition:Schließe {amount} Expeditionen ab
-battle_in_the_arena:Kämpfe {Anzahl} mal in der Arena
+battle_in_the_arena:Kämpfe {amount} Mal in der Arena
 join_or_create_a_guild:Tritt einer Gilde bei oder gründe eine
 clear_the_first_dungeon:Schließe den ersten Dungeon ab
-wear_full_set_of_uncommon:Trage ein komplettes Set ungewöhnlicher Gegenstände
-wear_full_set_of_common:Tragen Sie einen vollständigen Satz gängiger Gegenstände
-wear_full_set_of_rare:Trage ein komplettes Set seltener Gegenstände
-wear_full_set_of_epic:Trage ein komplettes Set epischer Gegenstände
-wear_full_set_of_legendary:Trage ein komplettes Set legendärer Gegenstände
-wear_full_set_of_mythical:Trage ein komplettes Set mythischer Gegenstände
+wear_full_set_of_uncommon:Trage ein vollständiges Set ungewöhnlicher Gegenstände
+wear_full_set_of_common:Trage ein vollständiges Set gewöhnlicher Gegenstände
+wear_full_set_of_rare:Trage ein vollständiges Set seltener Gegenstände
+wear_full_set_of_epic:Trage ein vollständiges Set epischer Gegenstände
+wear_full_set_of_legendary:Trage ein vollständiges Set legendärer Gegenstände
+wear_full_set_of_mythical:Trage ein vollständiges Set mythischer Gegenstände
 reach_fame:Erreiche {amount} Ruhm
-shop_reroll_5:Die Neugestaltung des Ladens kostet 5% weniger Kupfer
-claim_daily_bonus:Hol dir die täglichen Boni von {amount} in unserem Discord
-claim_daily_bonus_row:Hol dir die täglichen Boni von {amount} in Folge in unserem Discord
-levelUp:Steige auf!
-lose_fights:Verliere {Anzahl} Kämpfe
+shop_reroll_5:Das Neuwürfeln des Shops kostet 5% weniger Kupfer
+claim_daily_bonus:Fordere {amount} tägliche Boni in unserem Discord ein
+claim_daily_bonus_row:Fordere {amount} tägliche Boni hintereinander in unserem Discord ein
+levelUp:Stufe aufgestiegen!
+lose_fights:Verliere {amount} Kämpfe

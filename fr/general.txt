@@ -1,15 +1,15 @@
 en:Anglais
-de:allemand
-es:espagnol
-fr:français
-ru:russe
-pt:portugais
-it:italien
+de:Allemand
+es:Espagnol
+fr:Français
+ru:Russe
+pt:Portugais
+it:Italien
 cancel:Annuler
-exit:Sortir
+exit:Quitter
 close:Fermer
 confirm:Confirmer
-start:Démarrer
+start:Commencer
 confirmation:Confirmation
 continue:Continuer
 back:Retour
@@ -18,19 +18,19 @@ next:Suivant
 delete:Supprimer
 reload:Recharger
 ready:Prêt
-settings:Réglages
+settings:Paramètres
 page:Page
 of:de
 or:ou
 max:Max
-imageResolution:Résolution de l'image
+imageResolution:Résolution d'image
 controls:Contrôles
-currentlyPlaying:Joue actuellement
+currentlyPlaying:Actuellement en cours
 musicVolume:Volume de la musique
 effectsVolume:Volume des effets
-desktopOptimized:Ordinateur de bureau optimisé
-mobileOptimized:Optimisé pour les mobiles
-reloadExtension:Extension de recharge
+desktopOptimized:Optimisé pour bureau
+mobileOptimized:Optimisé pour mobile
+reloadExtension:Recharger l'extension
 version:Version
 langauge:Langue
 credits:Crédits
@@ -41,76 +41,76 @@ class:Classe
 mage:Mage
 knight:Chevalier
 ranger:Ranger
-rogue:Voleur
+rogue:Rogue
 warrior:Guerrier
 human:Humain
 demon:Démon
 elf:Elfe
 stats:Statistiques
-boostYourStats:Augmentez vos statistiques de {points}%
-activeFor:Actif pour:
-battleStats:Statistiques de combat
-hp:Points de santé
+boostYourStats:Augmente tes statistiques de {points}%
+activeFor:Actif pendant:
+battleStats:Statistiques de bataille
+hp:Points de vie
 health:Santé
-doYouWantToResetStats:Voulez-vous réinitialiser vos statistiques?
-noStatsFoundToReset:Aucune statistique à réinitialiser n'a été trouvée.
-thisCosts:Cela coûte:
+doYouWantToResetStats:Veux-tu réinitialiser tes statistiques ?
+noStatsFoundToReset:Aucune statistique trouvée à réinitialiser.
+thisCosts:Cela coûte :
 affinity:Affinité
 weakness:Faiblesse
 resistance:Élémentaire
 infernal:Infernal
 divine:Divin
 necrotic:Nécrotique
-arcane:Arcane
-frost:Frost
-affinityTooltip:Réduit les dégâts {élémentaires} infligés. Augmente les dégâts {élémentaires} si l'arme est infusée d'une rune.
+arcane:Arcanique
+frost:Givre
+affinityTooltip:Réduit les dégâts {elemental} entrants. Augmente les dégâts {elemental} si l'arme est infusée d'une rune.
 vit:Vitalité
-vitEffect:Points de santé
+vitEffect:Points de Vie
 vitDescription:{stat} augmente votre santé totale.
 str:Force
-strEffect:Dégâts physiques
-strDescription:{stat} augmente vos dégâts physiques en tant que Chevalier et Guerrier. Augmente l'armure de toutes les autres classes!
+strEffect:Dégâts Physiques
+strDescription:{stat} augmente vos dégâts physiques en tant que Chevalier & Guerrier. Augmente l'armure pour toutes les autres classes !
 wis:Sagesse
-wisEffect:Dégâts magiques
-wisDescription:{stat} augmente vos dégâts magiques en tant que mage. Augmente la résistance magique de toutes les autres classes!
+wisEffect:Dégâts Magiques
+wisDescription:{stat} augmente vos dégâts magiques en tant que Mage. Augmente la résistance magique pour toutes les autres classes !
 dex:Dextérité
-dexEffect:Dommages de précision
-dexDescription:{stat} augmente vos dégâts de dextérité. À utiliser en tant que Ranger et Rogue. Augmente l'évasion pour toutes les autres classes!
-acc:Exactitude
-accEffect:Précision et chances de réussite
-accDescription:{stat} augmente vos chances d'infliger un coup critique à votre adversaire et réduit ses chances d'esquiver!
-fame:Renommée
-fameEffect:Prix et négociation
-fameDescription:{stat} améliore vos compétences en matière de négociation, améliore les prix de réapprovisionnement et améliore vos résultats dans les aventures!
+dexEffect:Dégâts de Précision
+dexDescription:{stat} augmente vos dégâts de dextérité. À utiliser en tant que Ranger et Rogue. Augmente l'évasion pour toutes les autres classes !
+acc:Précision
+accEffect:Précision & Chance de Critique
+accDescription:{stat} augmente vos chances de réaliser un coup critique sur votre adversaire et réduit ses chances d'esquiver !
+fame:Gloire
+fameEffect:Prix & Négociation
+fameDescription:{stat} améliore vos compétences de négociation, de meilleurs prix de réapprovisionnement et de meilleurs résultats dans les aventures !
 luck:Chance
-luckEffect:Dégâts critiques
-luckDescription:{stat} augmente les dégâts infligés par les frappes critiques.
+luckEffect:Dégâts Critiques
+luckDescription:{stat} augmente les dégâts des coups critiques.
 armor:Armure
 outfit:Tenue
-outfits:tenues
-damage_reduction:Réduit DMG.
-mag_res:Mag. res.
-mag_absorption:Magazin. Absorber.
+outfits:Tenues
+damage_reduction:Réduc. DMG
+mag_res:Rés. mag.
+mag_absorption:Absorp. mag.
 eva:Évasion
-skillPoints:Points de compétence
-current_hp:HP actuel
-crit_chance:Crit perc
-crit_multiplier:Mode critique
-damage:Dommages
-shield_ability_chance:Bloquer Chance
-shield_ability_rate:Taux de blocage
-shield_scaling_bonus:HP maximum
+skillPoints:Points de Comp.
+current_hp:PV actuels
+crit_chance:Chance crit
+crit_multiplier:Modif crit
+damage:Dégâts
+shield_ability_chance:Chance de Blocage
+shield_ability_rate:Taux de Blocage
+shield_scaling_bonus:PV max
 lifestone_ability_chance:Seuil
-lifestone_ability_rate:Life Drain
-lifestone_scaling_bonus:Bonus de dégâts en mêlée
-grimoire_ability_rate:Taux de focalisation
-grimoire_scaling_bonus:Mode critique
-quiver_ability_chance:Chance de tirage rapide
-quiver_scaling_bonus:Critical Chance
-talisman_ability_chance:Chance furtive
-talisman_scaling_bonus:Évasion
+lifestone_ability_rate:Drain de vie
+lifestone_scaling_bonus:Bonus aux Dégâts de Mêlée
+grimoire_ability_rate:Taux de Focalisation
+grimoire_scaling_bonus:Modif Crit
+quiver_ability_chance:Chance de Tir Rapide
+quiver_scaling_bonus:Chance Crit
+talisman_ability_chance:Chance de Furtivité
+talisman_scaling_bonus:Esquive
 common:Commun
-uncommon:Peu fréquent
+uncommon:Peu commun
 rare:Rare
 epic:Épique
 legendary:Légendaire
@@ -119,20 +119,20 @@ royal:Royal
 extraordinary:Extraordinaire
 high:Haut
 medium:Moyen
-low:Faible
-none:Aucune
-bow:Nœud
+low:Bas
+none:Aucun
+bow:Arc
 crossbow:Arbalète
 axe:Hache
 hammer:Marteau
 book:Livre
-staff:Le personnel
-rod:Tige
+staff:Bâton
+rod:Baguette
 sword:Épée
 spear:Lance
-dagger:poignard
+dagger:Dague
 fist:Poing
-item:Article
+item:Objet
 artifact:Artefact
 helmet:Casque
 amulet:Amulette
@@ -143,28 +143,28 @@ shoes:Chaussures
 weapon:Arme
 base:Base
 equip:Équiper
-bonus:Prime
+bonus:Bonus
 glossary:Glossaire
 discovered:Découvert
-glossaryTipMonster:Éliminez des monstres pour remplir votre bestiaire!
-glossaryTipItem:Progressez en recevant l'objet ou en gagnant contre un joueur avec cet objet!
-glossaryTipMaterial:Progressez en obtenant ou en fabriquant les matériaux!
-glossaryTipSkin:Débloquez en battant les joueurs qui portent cette tenue!
+glossaryTipMonster:Vaincre des monstres pour remplir votre Bestiaire !
+glossaryTipItem:Progresse en recevant l'objet ou en gagnant contre un joueur possédant cet objet !
+glossaryTipMaterial:Progresse en obtenant ou en fabriquant les matériaux !
+glossaryTipSkin:Déverrouille en battant des joueurs portant la tenue !
 unknown:Inconnu
-youGainBonusXP:Vous gagnez {percentage}% d'EXP en bonus
-newBestiaryEntry:Nouvelle entrée dans le bestiaire:
-newGlory:Une nouvelle gloire:
-newGlossaryEntries:Nouvelles entrées du glossaire:
-challengeOpponent:Voulez-vous défier {adversaire}?
-confirmReportingPlayer:Pour signaler {adversaire} (twitch.tv/ {twitch_name}), veuillez choisir une raison:
+youGainBonusXP:Tu gagnes {percentage}% de XP bonus
+newBestiaryEntry:Nouvelle entrée de bestiaire :
+newGlory:Nouvelle gloire :
+newGlossaryEntries:Nouvelles entrées de glossaire :
+challengeOpponent:Voulez-vous défier {opponent} ?
+confirmReportingPlayer:Pour signaler {opponent} (twitch.tv/{twitch_name}), veuillez choisir une raison :
 abusive_username:Nom d'utilisateur abusif
 abusive_guild_name:Nom de guilde abusif
-abusive_guild_description:Description abusive de la guilde
-successReport:Nous avons reçu votre rapport! Merci!
+abusive_guild_description:Description de guilde abusive
+successReport:Nous avons reçu votre signalement ! Merci !
 challenge:Défi
-thisIsYourArenaOpponent:Cet adversaire vous attend dans l'arène! Tu ne peux pas les attaquer!
-arenaCooldown:Vous ne pouvez pas attaquer pour le moment car toutes vos attaques sont utilisées!
-attack:Attaque
+thisIsYourArenaOpponent:Cet adversaire vous attend dans l'arène ! Vous ne pouvez pas l'attaquer !
+arenaCooldown:Vous ne pouvez pas attaquer actuellement car toutes vos attaques sont utilisées !
+attack:Attaquer
 navigation:Navigation
 bounties:Primes
 characterMenu:Personnage
@@ -174,54 +174,54 @@ brewery:Brasserie
 adventure:Aventure
 crafting:Artisanat
 dungeon:Donjon
-achievement:Réussite
-startYourJourney:Commencez votre voyage!
-chooseYourClass:Choisissez votre classe!
-pickYourRace:Choisissez votre course!
-customizeYourHero:Personnalisez votre héros!
+achievement:Succès
+startYourJourney:Commence ton voyage !
+chooseYourClass:Choisis ta classe !
+pickYourRace:Choisis ta race !
+customizeYourHero:Personnalise ton héros !
 finalize:Finaliser
-purchaseAnotherCharacter:L'achat d'un autre emplacement de personnage vous coûtera 500 arcanites.
-doYouWantToPurchase:Vous souhaitez acheter?
-slot:Fente
-chooseGender:Choisissez le sexe
-yourSelectedGender:Vous incarnerez {gender}
-decisionNotChangable:Tu ne pourras pas changer ta décision par la suite!
+purchaseAnotherCharacter:L'achat d'un autre emplacement de personnage te coûtera 500 Arcanites.
+doYouWantToPurchase:Veux-tu acheter ?
+slot:Emplacement
+chooseGender:Choisis le genre
+yourSelectedGender:Tu joueras en tant que {gender}
+decisionNotChangable:Tu ne peux plus changer ta décision par la suite !
 male:Masculin
-female:Femme
+female:Féminin
 arcanite:Arcanite
 arcanites:Arcanites
 shop:Boutique
-buyItemConfirmation:Êtes-vous sûr de vouloir acheter {item}?
-sellItemConfirmation:Êtes-vous sûr de vouloir vendre {item}?
+buyItemConfirmation:Es-tu sûr(e) de vouloir acheter {item} ?
+sellItemConfirmation:Es-tu sûr(e) de vouloir vendre {item} ?
 sell:Vendre
 purchase:Acheter
-newItemSlot:Un nouvel emplacement d'objets a été ajouté à la boutique!
-shopRefresh:Actualisation de la boutique
-buyArcanites:Acheter Arcanites
-emeraldShop:Acheter Arcanites
-donate:Faites un don
-reputationExplaination:Faites don du matériel non utilisé au marchand pour améliorer votre réputation et recevoir temporairement de meilleurs articles!
-reputationDonate:Combien souhaitez-vous donner?
-reputationDonateConfirmation:Vous êtes sur le point de faire un don de {MaterialAmountToSpend} à partir de votre {MaterialAmount} {selectedMaterial}:
-useThatCodeToSupport:Utilisez le code {refCode} lors de l'achat pour soutenir {streamerName}.
+newItemSlot:Un nouvel emplacement d'objet a été ajouté à la boutique !
+shopRefresh:Remise à jour de la boutique
+buyArcanites:Acheter des Arcanites
+emeraldShop:Acheter des Arcanites
+donate:Donner
+reputationExplaination:Donnez des matériaux inutilisés au marchand pour augmenter votre réputation et recevoir temporairement de meilleurs objets !
+reputationDonate:Combien voulez-vous donner ?
+reputationDonateConfirmation:Vous êtes sur le point de donner {materialAmountToSpend} sur vos {materialAmount} {selectedMaterial} :
+useThatCodeToSupport:Utilisez le code {refCode} lors de vos achats pour soutenir {streamerName}.
 theStreamerHasntSetupTheRefCode:{streamerName} n'a pas configuré son code de parrainage.
-pressButtonToOpen:Appuyez sur le bouton ci-dessous pour acheter Arcanites sur notre chaîne Twitch EmbervaleTV.
+pressButtonToOpen:Appuyez sur le bouton ci-dessous pour acheter des Arcanites sur notre chaîne Twitch EmbervaleTV.
 confirmingTransaction:Confirmation de la transaction
 confirmingPayment:Confirmation du paiement
-earnArcanites:Gagnez des Arcanites
+earnArcanites:Gagner des Arcanites
 validating:Validation
-freeArcanites:ARCANITES GRATUITES
-watchVideo:Regardez la vidéo
-completeOffers:Offres complètes pour gagner des Arcanites
-creatorCode:Code du créateur
+freeArcanites:ARCANITES GRATUITS
+watchVideo:Regarder une vidéo
+completeOffers:Complétez des offres pour gagner des Arcanites
+creatorCode:Code Créateur
 allPricesIncVat:Tous les prix incluent la TVA.
-confirmGiftingBundle:Êtes-vous sûr de vouloir offrir le {bundleName} à {Playername}? (S'ils ont déjà un abonnement actif, cela prolongera leur abonnement.)
-successGiftingBundle:Merci d'avoir offert le {bundleName} à {Playername}!
-ayetStudioConfirming:Merci d'avoir regardé l'annonce! Vos Arcanites devraient être crédités sur votre compte dans les 60 prochaines secondes. Vous pouvez fermer cette fenêtre. Nous vous informerons dès que les crédits seront ajoutés!
-ayetStudioDailyLimit:Revenez demain pour plus d'Arcanites!
-mythical_bundle:Bundle mythique
-legendary_bundle:Pack légendaire
-epic_bundle:Pack Epic
+confirmGiftingBundle:Es-tu sûr de vouloir offrir le {bundleName} à {Playername} ? (S'il a déjà un abonnement actif, cela prolongera son abonnement.)
+successGiftingBundle:Merci d'avoir offert le {bundleName} à {Playername} !
+ayetStudioConfirming:Merci d'avoir regardé la publicité ! Tes Arcanites devraient être crédités sur ton compte dans les 60 secondes. Tu peux fermer cette fenêtre maintenant—nous te préviendrons une fois les crédits ajoutés !
+ayetStudioDailyLimit:Reviens demain pour obtenir plus d'Arcanites !
+mythical_bundle:Pack Mythique
+legendary_bundle:Pack Légendaire
+epic_bundle:Pack Épique
 username:Nom d'utilisateur
 skin:Peau
 hair:Cheveux
@@ -230,47 +230,47 @@ eyes:Yeux
 nose:Nez
 mouth:Bouche
 accessoire:Accessoire
-extra:Supplémentaire
+extra:Supplément
 beard:Barbe
 readAndAccept:J'ai lu et j'accepte
 tos:ToS
-color:couleur
+color:Couleur
 chooseName:Choisissez votre nom
 badge:Badge
-beast-slayer-badge:Insigne Beast Slayer
-beast-slayer-badge_desc:Disponible à partir des réalisations du bestiaire
+beast-slayer-badge:Badge Tueur de Bêtes
+beast-slayer-badge_desc:Obtenu grâce aux succès du bestiaire
 patreon-badge:Badge Patreon
-patreon-badge_desc:Badge pour être membre de Patreon. Merci pour votre soutien!
+patreon-badge_desc:Badge pour être un membre Patreon. Merci pour votre soutien !
 alpha-badge:Badge Alpha
-alpha-badge_desc:Récompense de participation pour l'Embervale Alpha!
+alpha-badge_desc:Récompense de participation pour l'Alpha d'Embervale !
 obtainedBy:Obtenu par {obtained_by}% des joueurs
-noBadge:Pas de badge
-emptyBadge:Un emplacement pour badge vide
+noBadge:Aucun badge
+emptyBadge:Un emplacement de badge vide
 leaderboard:Classement
 search:Rechercher...
-refill:Recharge
+refill:Remplir
 rank:Rang
 name:Nom
 glory:Gloire
-skip:Ignorer
+skip:Passer
 seconds:Secondes
-second:Deuxième
+second:Seconde
 minutes:Minutes
 minute:Minute
 hours:Heures
 hour:Heure
-days:Journées
-day:Journée
+days:Jours
+day:Jour
 stamina:Endurance
-newStaminaIn:Vous recevrez 1000 points d'endurance en
+newStaminaIn:Vous recevrez 1000 d'endurance dans
 staminaFull:Votre endurance est déjà pleine
 editRoles:Modifier les rôles
-guildFee:Frais d'argent
-you_received:Vous avez reçu:
-youReceived:Vous avez reçu:
-congratulations:Félicitations!
-claim:Réclamation
-claim_reward:Réclamer une récompense
+guildFee:Taxe en argent
+you_received:Vous avez reçu :
+youReceived:Vous avez reçu :
+congratulations:Bravo !
+claim:Réclamer
+claim_reward:Réclamer la récompense
 reward:Récompense
 completed:Terminé
 material:Matériau
@@ -278,166 +278,166 @@ liquid:Liquide
 herb:Herbe
 special_ingredient:Ingrédient spécial
 expedition:Expédition
-errStillInAExpedition:Vous ne pouvez pas le faire pendant que vous êtes en expédition! Terminez ou annulez votre expédition pour continuer!
-errStillInABounty:Tu ne peux pas faire ça pendant que tu es dans une prime! Terminez ou annulez votre expédition pour continuer!
+errStillInAExpedition:Vous ne pouvez pas faire cela pendant que vous êtes en expédition ! Terminez ou annulez votre expédition pour continuer !
+errStillInABounty:Vous ne pouvez pas faire cela pendant que vous êtes en mission ! Terminez ou annulez votre mission pour continuer !
 alchemy_expedition_title_1:Collecter
-cooking_expedition_title_1:Récolte
-smithing_expedition_title_1:Le mien
-followingMaterialsCanSpawnHere:Les matériaux suivants peuvent apparaître dans la zone sélectionnée:
-newDiscovered:Nouvelle découverte!
-newMaterialsDiscovered:Votre glossaire a été mis à jour avec les entrées suivantes:
+cooking_expedition_title_1:Récolter
+smithing_expedition_title_1:Miner
+followingMaterialsCanSpawnHere:Les matériaux suivants peuvent apparaître dans la zone sélectionnée :
+newDiscovered:Nouvelle découverte !
+newMaterialsDiscovered:Votre glossaire a été mis à jour avec les entrées suivantes :
 progress:Progrès
-loadingTip0:Les recettes sont rares, c'est donc une bonne idée de donner la priorité à une prime lorsque vous en voyez une!
-loadingTip1:C'est une bonne idée de commencer une expédition avant de partir pour récolter des ressources!
-loadingTip2:Tu peux toujours réinitialiser tes points de compétence, afin de pouvoir faire correspondre tes points en fonction de ton armure!
-loadingTip3:Rejoignez notre Discord pour recevoir des récompenses quotidiennes!
-loadingTip4:C'est censé être un conseil, mais nous n'avons plus d'idées.
-loadingTip5:Une voix plus élevée réduit le coût de la commande de nouveaux articles de la boutique.
-loadingTip6:Lorsque vous sélectionnez des primes, faites attention au ratio endurance/expérience lorsque vous donnez la priorité à la montée de niveau.
-loadingTip7:Les objets épiques, légendaires et mythiques peuvent avoir des affinités élémentaires qui augmentent vos dégâts et votre résistance.
-loadingTip8:Vous pouvez modifier la vitesse de combat au cours d'une bataille.
+loadingTip0:Les recettes sont rares, il est donc judicieux de prioriser une prime lorsque vous en voyez une !
+loadingTip1:Il est conseillé de commencer une expédition avant de partir pour collecter des ressources !
+loadingTip2:Vous pouvez toujours réinitialiser vos points de compétence afin de les ajuster à votre armure !
+loadingTip3:Rejoignez notre Discord pour recevoir des récompenses quotidiennes !
+loadingTip4:Ceci est censé être un conseil, mais nous sommes à court d'idées.
+loadingTip5:Terminer un donjon pour la première fois garantit un coffre mythique.
+loadingTip6:Lors de la sélection des primes, faites attention au ratio endurance-expérience pour prioriser la montée en niveau.
+loadingTip7:Les objets épiques, légendaires et mythiques peuvent avoir des affinités élémentaires augmentant vos dégâts/résistances.
+loadingTip8:Vous pouvez changer la vitesse du combat pendant une bataille.
 loadingTip9:Vous pouvez vous entraîner au combat contre des joueurs en cliquant sur leur nom dans le classement.
-loadingTip10:Les mages ne ratent jamais leur cible. Seule la furtivité peut les aider à échapper à leurs attaques.
-loadingTip11:La chance augmente les dégâts infligés par les coups critiques.
-loadingTip12:Les chevaliers sont lourdement blindés et portent un bouclier, ce qui leur confère un avantage naturel face aux classes basées sur la dextérité.
-loadingTip13:La capacité de tirage rapide du Ranger lui permet de frapper deux fois de temps en temps.
-loadingTip14:Les guerriers utilisent une pierre de vie pour épuiser les PV de leurs ennemis à chaque coup. Cependant, la puissance de la pierre diminue rapidement.
-loadingTip15:Le Rogue est un maître de la furtivité et de l'évasion, ce qui rend les attaques à distance beaucoup plus difficiles à toucher.
-loadingTip16:Assurez-vous de remplir votre glossaire pour gagner de l'XP plus rapidement!
-loadingTip17:Saviez-vous que vaincre un adversaire dans l'arène ajoutera toutes ses armures, armes et skins à votre glossaire?
-loadingTip18:Toutes les classes ont des niveaux de PV et de dégâts différents. Ils ne peuvent porter qu'un seul type d'armure désigné: lourd, moyen ou léger.
-loadingTip19:N'oubliez pas de consulter les missions hebdomadaires pour gagner du butin bonus!
-loadingTip20:Lorsque vous êtes abonné à un streamer ou que vous jouez sur Embervale.tv, vous gagnez 10% d'or supplémentaires en bounties!
-loadingTip21:Vous pouvez utiliser votre glossaire pour connaître l'affinité et la faiblesse d'un monstre.
-loadingTip22:Votre première prime quotidienne vous permet de gagner un Arcanite gratuit!
-loadingTip23:Vous pouvez regarder des publicités sur Embervale.tv pour gagner des Arcanites gratuitement.
-loadingTip24:Nous avons travaillé pendant plus de 3 ans pour réaliser notre rêve! Merci beaucoup d'avoir joué!
-loadingTip25:Chaque Bounty a une chance de faire tomber une Arcanite! Plus c'est long, plus les chances sont grandes.
-loadingTip26:N'oubliez pas de préparer des potions dans le menu d'artisanat! Cela peut augmenter votre puissance de manière significative!
-loadingTip27:Partagez vos progrès en tapant! evflex dans n'importe quel canal sur lequel Embervale est installé.
-loadingTip28:Nous sommes à l'écoute de vos commentaires. Rejoignez notre serveur Discord pour soumettre vos suggestions!
+loadingTip10:Les mages ne ratent jamais leur cible. Seule la furtivité peut aider à éviter leurs attaques.
+loadingTip11:La chance augmente les dégâts des coups critiques.
+loadingTip12:Les chevaliers sont lourdement armurés et portent un bouclier, leur conférant un avantage naturel contre les classes basées sur la dextérité.
+loadingTip13:La capacité de tir rapide du Ranger leur permet de frapper deux fois de temps en temps.
+loadingTip14:Les guerriers utilisent une pierre de vie pour drainer les PV de leurs ennemis à chaque coup. Cependant, la puissance de la pierre se dégrade rapidement.
+loadingTip15:Le voleur est un maître de la furtivité et de l'évasion, rendant les attaquants à distance beaucoup moins précis.
+loadingTip16:Assurez-vous de remplir votre glossaire pour gagner de l'XP plus rapidement !
+loadingTip17:Savais-tu que vaincre un adversaire dans l'arène ajoutera toutes ses armures, armes et skins à ton Glossaire ?
+loadingTip18:Toutes les classes ont des échelles différentes de PV et de dégâts. Elles ne peuvent porter qu'un seul type d'armure désigné : lourd, moyen ou léger.
+loadingTip19:N'oublie pas de consulter les missions hebdomadaires pour gagner du butin bonus !
+loadingTip20:100 Cuivres équivalent à 1 Argent, et 100 Argents équivalent à 1 Or.
+loadingTip21:Tu peux utiliser ton Glossaire pour voir l'Affinité et la Faiblesse d'un Monstre.
+loadingTip22:Ta première Prime chaque jour t'accorde un Arcanite gratuit !
+loadingTip23:Tu peux regarder des pubs sur Embervale.TV pour gagner des Arcanites gratuitement.
+loadingTip24:Nous avons travaillé pendant plus de 3 ans pour réaliser notre rêve ! Merci beaucoup de jouer !
+loadingTip25:Chaque Prime a une chance de donner un Arcanite ! Plus elle est longue, plus la chance est élevée.
+loadingTip26:N'oublie pas de concocter des potions dans le menu de fabrication ! Cela peut augmenter considérablement ta puissance !
+loadingTip27:Partage tes progrès en tapant !evflex dans n'importe quel canal avec Embervale installé.
+loadingTip28:Nous écoutons tes retours. Rejoins notre serveur Discord pour soumettre tes suggestions !
 youReachedLevel:Vous avez atteint le niveau
-LevelUpShop:Vous pouvez désormais accéder à la boutique!
-levelUpArena:Vous pouvez maintenant entrer dans l'arène!
-levelUpExpedition:Vous pouvez désormais partir en expédition pour collecter des ressources!
-levelUpAdventure:Vous pouvez désormais commencer des aventures en tant que Streamer!
-levelUpCraft:Vous pouvez désormais utiliser vos matériaux pour créer!
-levelUpDungeon:Vous pouvez désormais entrer dans les donjons!
-levelUpGuild:Vous pouvez désormais rejoindre ou créer une guilde!
-skipTutorial:Ignorer le tutoriel
+LevelUpShop:Vous pouvez maintenant entrer dans la boutique !
+levelUpArena:Vous pouvez maintenant entrer dans l'arène !
+levelUpExpedition:Vous pouvez maintenant partir en expéditions pour collecter des ressources !
+levelUpAdventure:Vous pouvez maintenant commencer des aventures en tant que Streamer !
+levelUpCraft:Vous pouvez maintenant utiliser vos matériaux pour fabriquer !
+levelUpDungeon:Vous pouvez maintenant entrer dans les donjons !
+levelUpGuild:Vous pouvez maintenant entrer ou créer une guilde !
+skipTutorial:Passer le didacticiel
 hideTip:Masquer l'astuce
-starterTutorial0:Bienvenue à Embervale! Pour naviguer dans les menus, cliquez sur le bouton de la boussole!
-starterTutorial1:C'est le menu de navigation principal! Commencez par sélectionner l'onglet Bounty.
-starterTutorial2:Sélectionnez la prime de votre choix. Les étoiles derrière le nom du monstre indiquent le niveau de difficulté!
-starterTutorial3:Maintenant, attendez ou sautez le temps de trajet, et votre combat commencera!
+starterTutorial0:Bienvenue à Embervale ! Pour naviguer dans les menus, cliquez sur le bouton de la boussole !
+starterTutorial1:Ceci est le menu de navigation principal ! Commencez en sélectionnant l'onglet des primes.
+starterTutorial2:Sélectionnez la prime de votre choix. Les étoiles derrière le nom du monstre indiquent la difficulté !
+starterTutorial3:Attendez ou passez le temps de voyage, et votre bataille commencera !
 starterTutorial4:-
-starterTutorial5:Vous venez de terminer votre première prime et de terminer le tutoriel de base! Commencez à naviguer dans les menus pour en savoir plus sur le jeu!
-expeditionTutorial0:Les expéditions sont des tâches de longue haleine qui prennent de 1 à 12 heures. Vous pouvez obtenir des matériaux pour l'artisanat ici! Vous ne pouvez pas vous battre pendant une expédition!
+starterTutorial5:Vous venez de terminer votre première prime et complété le didacticiel de base ! Commencez à naviguer dans les menus pour en savoir plus sur le jeu !
+expeditionTutorial0:Les expéditions sont des tâches de longue durée qui prennent de 1 à 12 heures. Vous pouvez obtenir des matériaux pour la fabrication ici ! Vous ne pouvez pas combattre pendant que vous êtes en expédition !
 character:Personnage
-selectBackground:Sélectionnez l'arrière-plan
+selectBackground:Sélectionner l'arrière-plan
 skill:Compétence
-thisActionTakesSkillPoints:Cette action utilisera les points de compétence {PointsToSkillStat} sur la statistique.
-remainingPoints:Points restants: {points} points de compétence
+thisActionTakesSkillPoints:Cette action utilisera { pointsToSkillStat } points de compétence sur la statistique.
+remainingPoints:Points restants: { points } points de compétence
 quick_sell:Vente rapide
 inventory:Inventaire
 weight:Poids
 resetSkillPoints:Réinitialiser les points de compétence
-report:Rapport
+report:Signaler
 equipped:Équipé
-maximumFood:Vous pouvez prendre un maximum de 3 repas par jour.
-todayYouAte:Aujourd'hui, tu as mangé {quantité} repas.
+maximumFood:Vous pouvez manger un maximum de 3 repas par jour.
+todayYouAte:Aujourd'hui vous avez mangé {amount} repas.
 tradeable:Échangeable
-youCanGiftBundle:Vous pouvez offrir un pack à cette personne.
-hasAlreadySubscriptions:{username} possède déjà un ou plusieurs abonnements actifs.
-grantsBenefits:Octroie à {CurrentUser.UserName} 30 jours des avantages suivants.
-receivesOnce:{username} le reçoit une seule fois.
-giftAnonymously:Faites un don anonyme
-giftBundle:Coffret cadeau
+youCanGiftBundle:Vous pouvez offrir un Bundle à cette personne.
+hasAlreadySubscriptions:{ username } a déjà un ou plusieurs abonnements actifs.
+grantsBenefits:Accorde à { currentUser.username } 30 jours des avantages suivants.
+receivesOnce:{ username } reçoit ceci une fois.
+giftAnonymously:Offrir anonymement
+giftBundle:Offrir un Bundle
 items:Objets
 materials:Matériaux
 chests:Coffres
-skins:Skins
+skins:Peaux
 monster:Monstre
 monsters:Monstres
 defense:Défense
-dmg:Dmg
-lvl:LVL
-vs:CONTRE
-boss:Patron
+dmg:Dégâts
+lvl:NIV
+vs:VS
+boss:Boss
 preBoss:Pré-Boss
 virtuous:Vertueux
 advanced:Avancé
 intermediate:Intermédiaire
 novice:Novice
 notification:Notification
-required:Nécessaire
+required:Requis
 found:Trouvé
-login:Se connecter
-createAnotherCharacter:Créez un autre personnage
-consume:Consommez
-eatFoodHeadline:Consommez de la nourriture
-refreshArena:Actualiser
+login:Connexion
+createAnotherCharacter:Créer un autre personnage
+consume:Consommer
+eatFoodHeadline:Consommer de la nourriture
+refreshArena:Rafraîchir
 replayCode:Code de rediffusion
-saveReplay:Enregistrer le replay
-replaySaved:Replay enregistré
-deleteReplay:Supprimer le replay
-spectate:Spectateur
+saveReplay:Sauvegarder la rediffusion
+replaySaved:Rediffusion sauvegardée
+deleteReplay:Supprimer la rediffusion
+spectate:Observer
 errCantSpectate:Cette bataille n'existe pas.
-arenaFightCooldown:Ce bar se remplit toutes les 3 heures!
+arenaFightCooldown:Cette barre se remplit toutes les heures !
 yourSavedBattles:Vos batailles sauvegardées
-battleEnded:La bataille est terminée
-overwhelming:Accablant
-superior:Superior
+battleEnded:Bataille terminée
+overwhelming:Écrasant
+superior:Supérieur
 equivalent:Équivalent
 inferior:Inférieur
 pathetic:Pathétique
 heal:Soigner
-quick_draw:Tirage rapide
-stealth:Furtif
-block:Bloquer
-youWon:Tu as gagné!
-youLost:Tu as perdu!
-confirmDeleteReplay:Êtes-vous sûr de vouloir supprimer cette rediffusion?
-replaySavedMsg:Votre rediffusion a été enregistrée. Vous pouvez le regarder dans l'arène. Code:
-errTooManyReplays:Vous avez enregistré trop de rediffusions. Supprimez-en pour en économiser davantage.
-errReplayAlreadySaved:La rediffusion a déjà été enregistrée.
-warningTooManyReplays:Vous vous rapprochez de la limite de 10 rediffusions enregistrées. Veuillez supprimer certaines d'entre elles pour pouvoir en enregistrer de nouvelles.
-connect:Connecter
-marketNoDiscordConnected:Seuls les joueurs vérifiés peuvent utiliser le marché. Vérifiez dès maintenant en connectant votre Discord!
-starter_shield_description:Le Chevalier porte un bouclier qui réduit les dégâts physiques en bloquant de temps à autre. Attribut amélioré: HP
-starter_quiver_description:Les flèches du Ranger sont toujours prêtes, ce qui leur permet de lancer une attaque supplémentaire de temps à autre. Attribut amélioré: chance de critique.
-starter_grimoire_description:La capacité du mage à se concentrer sur sa cible lui permet de ne jamais la rater. Attribut amélioré: Crit Modificateur.
-starter_lifestone_description:La pierre de vie vous permet de perdre 30% de votre vie en décomposition. Attribut amélioré: dégâts.
-starter_talisman_description:Le Rogue utilise sa capacité de furtivité pour esquiver les attaques à distance et magiques. Attribut amélioré: Évasion.
-heavyArmor:Armure lourde
-mediumArmor:Armure moyenne
-lightArmor:Armure légère
+quick_draw:Dégaine Rapide
+stealth:Furtivité
+block:Blocage
+youWon:Tu as gagné !
+youLost:Tu as perdu !
+confirmDeleteReplay:Es-tu sûr de vouloir supprimer cette rediffusion ?
+replaySavedMsg:Ta rediffusion a été sauvegardée. Tu peux la regarder dans l'arène. Code :
+errTooManyReplays:Tu as trop de rediffusions sauvegardées. Supprime-en quelques-unes pour en sauvegarder davantage.
+errReplayAlreadySaved:La rediffusion a déjà été sauvegardée.
+warningTooManyReplays:Tu approches de la limite de 10 rediffusions sauvegardées. Veuillez en supprimer pour pouvoir en sauvegarder de nouvelles.
+connect:Connecte-toi
+marketNoDiscordConnected:Seuls les joueurs vérifiés peuvent utiliser le marché. Vérifie maintenant en connectant ton Discord !
+starter_shield_description:Le Chevalier porte un bouclier pour réduire les dégâts physiques en bloquant de temps en temps. Attribut boosté : PV
+starter_quiver_description:Le Ranger a toujours ses flèches prêtes, lui permettant de lancer une attaque supplémentaire de temps en temps. Attribut boosté : Chance de crit.
+starter_grimoire_description:La capacité du Mage à se focaliser sur sa cible lui permet de ne jamais manquer. Attribut boosté : Modificateur de crit.
+starter_lifestone_description:La Pierre de Vie te confère 30 % de drain de vie décroissant. Attribut boosté : Dégâts.
+starter_talisman_description:Le Voleur utilise sa capacité de furtivité pour esquiver les attaques à distance et magiques. Attribut boosté : Évasion.
+heavyArmor:Armure Lourde
+mediumArmor:Armure Moyenne
+lightArmor:Armure Légère
 quiver:Carquois
 shield:Bouclier
 grimoire:Grimoire
 lifestone:Pierre de vie
 talisman:Talisman
-guildBattleEffectPlus:L' {effet} de toutes vos unités sera augmenté de {perc}%.
-guildBattleEffectMinus:L' {effet} de toutes les unités adverses sera diminué de {perc}%.
+guildBattleEffectPlus:L'{effect} de toutes vos unités sera augmenté de {perc}%.
+guildBattleEffectMinus:L'{effect} de toutes les unités adverses sera réduite de {perc}%.
 profession:Profession
-pleaseChooseJob:Choisissez votre profession principale! (+50% d'expérience professionnelle)
-pleaseChooseJobConfirmation:Êtes-vous sûr de vouloir que {job} soit votre principale profession? (+50% d'expérience professionnelle)
-pleaseChooseJobWarning:Vous ne pouvez pas changer de profession principale après en avoir choisi une!
-dontOwnRecipe:Vous ne possédez pas encore de recettes dans cette catégorie! Vous pouvez trouver des recettes dans Bounties!
+pleaseChooseJob:Choisis ta profession principale ! (+50% d'expérience de travail)
+pleaseChooseJobConfirmation:Es-tu sûr de vouloir que {job} soit ta profession principale ? (+50% d'expérience de travail)
+pleaseChooseJobWarning:Tu ne peux pas changer ta profession principale après en avoir choisi une !
+dontOwnRecipe:Tu ne possèdes encore aucune recette dans cette catégorie ! Tu peux trouver des recettes dans les primes !
 craft:Artisanat
 cook:Cuisinier
-smith:Smith
+smith:Forgeron
 alchemist:Alchimiste
-successfullyCrafted:Fabriqué avec succès
-yourTitle:Votre titre
+successfullyCrafted:Artisanat réussi
+yourTitle:Ton titre
 title:Titre
 hero:Héros
 veteran:Vétéran
 adventurer:Aventurier
 mercenary:Mercenaire
-squire:écuyer
-legendary_adventurer_male:Aventurier légendaire
-legendary_adventurer_female:Aventurier légendaire
+squire:Écuyer
+legendary_adventurer_male:Aventurier Légendaire
+legendary_adventurer_female:Aventurière Légendaire
 stylist_male:Styliste
 stylist_female:Styliste
 archduke_male:Archiduc
@@ -448,69 +448,76 @@ lord_male:Seigneur
 lord_female:Dame
 baron_male:Baron
 baron_female:Baronne
-sir_male:Monsieur
-sir_female:Madame
+sir_male:Chevalier
+sir_female:Dame
 chief_male:Chef
-chief_female:Cheffesse
+chief_female:Cheffe
 hero_male:Héros
-hero_female:Héros
+hero_female:Héroïne
 adventurer_male:Aventurier
-adventurer_female:Aventurier
-squire_male:écuyer
-squire_female:écuyer
-exitExpeditionConfirmationHeadline:Expédition de sortie
-exitExpeditionConfirmationText:Vous conserverez tous les objets collectés jusqu'à présent. Désirez-vous continuer?
-possibleResources:Ressources possibles:
-howLongDoYouWantToExplore:Combien de temps souhaitez-vous explorer?
-allCommonMaterials:Tous les matériaux courants
+adventurer_female:Aventurière
+squire_male:Écuyer
+squire_female:Écuyère
+exitExpeditionConfirmationHeadline:Quitter l'expédition
+exitExpeditionConfirmationText:Vous conserverez tous les objets collectés jusqu'à présent. Voulez-vous continuer ?
+possibleResources:Ressources possibles :
+howLongDoYouWantToExplore:Combien de temps voulez-vous explorer ?
 noShield:Pas de bouclier
-your:Votre
-history:L'histoire
-cooking:Cuisiner
-class_slot:Classe Slot
+your:Ton
+history:Histoire
+cooking:Cuisine
+class_slot:Emplacement de classe
 gift:Cadeau
 all:Tous
 aquatic:Aquatique
 insect:Insecte
 humanoid:Humanoïde
 elemental:Élémentaire
-slime:Slime
+slime:Gelée
 beast:Bête
 plant:Plante
 undead:Mort-vivant
-construct:Construisez
+construct:Créature artificielle
 abomination:Abomination
 dragon:Dragon
-mimic:Mimer
-embervale:Embervale # cela ne doit pas être traduit
-riverlands:Terres fluviales
-unknown_lands:Terres inconnues
-forgotten_island:Île oubliée
-shivering_passage:Passage tremblant
-great_duskwood:Great Duskwood
-ashen_lagoon:Lagon Ashen
-silver_mountains:Montagnes d'argent
-crownlands:Terres de la Couronne
-boiling_lake:Lac Boiling
-rare_badges:Badges rares
-selectYourCharacter:Sélectionnez votre personnage
-select:Sélectionnez
-loadingTip29:Augmenter le niveau de votre personnage vous permettra de trouver plus de recettes.
-loadingTip30:Aux prises avec un certain type d'ennemi? Découvrez leur faiblesse élémentaire!
-loadingTip31:Gagner dans l'arène vous confère non seulement de la Gloire, mais aussi une petite partie de l'or de votre adversaire!
-loadingTip32:Si vous perdez de l'or face à un attaquant dans l'arène, vous êtes protégé contre toute perte supplémentaire pendant un certain temps.
-loadingTip33:Maintenez votre série de récompenses quotidiennes et obtenez des récompenses de plus en plus puissantes!
-loadingTip34:La boutique reçoit un nouveau lot d'articles gratuitement 24 heures après votre dernière relance.
-loadingTip35:Terminer un donjon pour la première fois vous garantit un coffre mythique!
-loadingTip36:Les donjons regorgent de monstres uniques; collectez-les tous pour remplir votre bestiaire!
+mimic:Mimique
+embervale:Embervale
+riverlands:Les Terres des Rivières
+unknown_lands:Terres Inconnues
+forgotten_island:Île Oubliée
+shivering_passage:Passage Frissonnant
+great_duskwood:Grande Bois-du-Crépuscule
+ashen_lagoon:Lagune Cendrée
+silver_mountains:Montagnes d'Argent
+crownlands:Crownlands
+boiling_lake:Lac Bouillonnant
+rare_badges:Badges Rares
+selectYourCharacter:Sélectionne ton personnage
+select:Sélectionner
+loadingTip29:Augmenter le niveau de ton personnage te permettra de trouver plus de recettes.
+loadingTip30:Tu as du mal avec un certain type d'ennemi ? Découvre sa faiblesse élémentaire !
+loadingTip31:Gagner dans l'arène te rapporte non seulement de la Gloire, mais aussi une petite portion de l'or de ton adversaire !
+loadingTip32:Si tu perds de l'or contre un attaquant dans l'arène, tu es protégé contre d'autres pertes pour un moment.
+loadingTip33:Garde ta série de récompenses quotidiennes intacte et obtiens des récompenses de plus en plus puissantes !
+loadingTip34:La boutique reçoit un nouveau lot d'articles gratuitement 24 heures après ton dernier reroll.
+loadingTip35:Nettoyer un Donjon pour la première fois te garantit un Coffre Mythique !
+loadingTip36:Les Donjons ont des pools uniques de monstres ; collectionne-les tous pour remplir ton Bestiaire !
 chrono-badge:Badge Chrono
-chrono-badge_desc:Badge extrêmement rare pour collecter 365 récompenses quotidiennes d'affilée.
+chrono-badge_desc:Badge extrêmement rare pour avoir collecté 365 récompenses quotidiennes consécutives.
 founder_male:Fondateur
-founder_female:Fondateur
-harbinger_male:Un signe avant-coureur
-harbinger_female:Un signe avant-coureur
-voucher:Bon cadeau
-optional:Facultatif
-collect:Collecter
-giftedYou:Je t'ai offert
-ayetStudioNoFill:Désolé, aucune annonce n'est disponible pour le moment. Veuillez revenir dans quelques minutes.
+founder_female:Fondatrice
+harbinger_male:Présage
+harbinger_female:Présage
+voucher:Bon
+optional:Optionnel
+collect:Collecte
+giftedYou:Vous a offert
+ayetStudioNoFill:Désolé, aucune publicité n'est disponible pour le moment. Merci de vérifier dans quelques minutes.
+referrer:Référent (nom Twitch)
+barberRewardRefferer:Je veux récompenser un référent
+referalNameInvalid:Le nom du référent est invalide. Veuillez le corriger ou le supprimer.
+resetStatsLevelTep:Tu peux réinitialiser tes statistiques gratuitement jusqu'à atteindre le niveau 10 !
+anonymously:Anonymement
+hideMyNameInChat:(Cela cache votre nom dans le chat du streamer lorsque vous utilisez un code créateur)
+alreadyClaimed:Vous avez déjà réclamé cette récompense. (Cela peut se produire si le jeu est ouvert dans plusieurs instances.)
+pleaseConfirmNameChange:Veuillez confirmer que vous voulez renommer {current_name} en {new_name} pour 25 Arcanites.

@@ -1,67 +1,69 @@
 errInvalidAction:Неверное действие!
-tosNotAccepted:Пожалуйста, примите Условия предоставления услуг!
+tosNotAccepted:Пожалуйста, примите Условия использования!
 errUnknownErrorHeadline:Необработанная ошибка!
-errUnknownError:Произошла неизвестная ошибка! Пожалуйста, попробуйте обновить веб-страницу! Если проблема не исчезнет, сообщите нам об этом в нашем Discord: https://discord.com/invite/Gum9bS2dyw
-tokenExpired:Срок действия токена аутентификации Twitch истек. Пожалуйста, перезагрузите веб-сайт или перезапустите приложение.
-invalidToken:<h3>Ошибка аутентификации</h3> Убедитесь, что ваши системные часы синхронизированы! <br>В противном случае аутентификация завершится неудачно! <br><br>Другие решения: <br>1) Обновите страницу <br>2) Отключите расширения браузера <br>3) Отмените расширение и предоставьте разрешение на его использование <br>4) Входите в Twitch и выходите из него <br>5) Попробуйте использовать другой браузер. <br><br>Для получения дополнительной помощи присоединяйтесь к нашему Discord: https://discord.gg/cT3ThCj
-errTwitchAccessNotGranted:Пожалуйста, предоставьте доступ к своему Twitch ID, нажав на маленький человеческий значок в правом нижнем углу!
+errUnknownError:Произошла неизвестная ошибка! Попробуйте обновить страницу! Если проблема сохраняется, сообщите об этом на нашем Discord: https://discord.com/invite/Gum9bS2dyw
+tokenExpired:Срок действия токена аутентификации Twitch истек. Пожалуйста, перезагрузите сайт или перезапустите приложение.
+invalidToken:<h3>Аутентификация не удалась</h3> Пожалуйста, убедитесь, что системные часы синхронизированы! <br> В противном случае аутентификация не удастся!<br><br>Решения:<br>1) Обновите страницу<br>2) Отключите расширения браузера<br>3) Отмените и снова предоставьте разрешения для расширений<br>4) Войдите и выйдите из Twitch<br>5) Попробуйте использовать другой браузер<br><br>Для получения дополнительной помощи присоединяйтесь к нашему Discord: https://discord.gg/cT3ThCj
+errTwitchAccessNotGranted:Пожалуйста, предоставьте доступ к вашему Twitch ID, нажав на значок человечка в нижнем правом углу!
 errNoInventoryItem:Инвентарь пуст!
-errInventoryIsFull:Ваш инвентарь полон! Пожалуйста, продайте некоторые предметы!
-errMaterialInventoryIsFull:Ваш инвентарь материалов полон! Вы можете продать их торговцу в магазине или изготовить что-нибудь!
-errConsumableInventoryIsFull:Ваш инвентарь расходных материалов полон!
-errNotEnoughArcanites:У вас недостаточно арканитов.
-errNotEnoughMoney:У тебя недостаточно золота, чтобы купить это!
-errNotEnoughGold:У тебя недостаточно золота, чтобы купить это!
+errInventoryIsFull:Ваш инвентарь полон! Продайте некоторые предметы!
+errMaterialInventoryIsFull:Инвентарь материалов полон! Вы можете продать их Торговцу в магазине или создать что-нибудь!
+errConsumableInventoryIsFull:Инвентарь использования полон!
+errNotEnoughArcanites:У вас недостаточно Arcanite.
+errNotEnoughMoney:У вас недостаточно золота для покупки!
+errNotEnoughGold:У вас недостаточно золота для покупки!
 errNotEnoughSkillPoints:У вас недостаточно очков навыков для выполнения этого действия!
-errStatDoesNotExist:Вы не можете увеличить этот показатель!
-errBountyDoesNotExist:Награды (больше) не существует! Это может означать, что ваша веб-страница открыта более 24 часов или ваши часы не синхронизированы!
-errOpponentDoesNotExist:Врага больше нет!
-errItemDoesNotExist:Предмет либо вам не принадлежит, либо его больше нет!
-errLevelToLowToEquip:Ваш уровень слишком низок, чтобы экипировать этот предмет!
-errCantFindRandomOpponent:Не можете найти случайного соперника в своем дивизионе!
+errStatDoesNotExist:Вы не можете увеличить эту характеристику!
+errBountyDoesNotExist:Похоже, этот награда не найдена! Это может произойти, если: a) ваши системные часы не синхронизированы, или b) у вас открыт Embervale в нескольких вкладках браузера, и вы уже завершили этот награда.
+errOpponentDoesNotExist:Этого врага больше не существует!
+errItemDoesNotExist:Этот предмет либо не принадлежит вам, либо больше не существует!
+errLevelToLowToEquip:Ваш уровень слишком низкий, чтобы экипировать этот предмет!
+errCantFindRandomOpponent:Не могу найти случайного противника в вашем дивизионе!
 errCantFindCharacter:Не могу найти этого персонажа.
 errCantFindGuild:Не могу найти эту гильдию.
-errBountyAlreadyStarted:Награждение уже началось.
-errInvalidAppearance:Внешний вид недействителен!
+errBountyAlreadyStarted:Эта награда уже началась.
+errInvalidAppearance:Внешность недействительна!
 errInvalidAppearanceName:Этот атрибут недействителен!
-errInvalidAppearanceType:Этот тип внешнего вида недействителен!
-errInvalidAppearanceColor:Этот цвет внешнего вида недействителен!
-errNoStamina:У тебя больше нет выносливости!
-errDungeonNotFound:Подземелья не найдены.
-errItemAlreadyInInventory:Вы можете купить этот товар только один раз!
-errUserAtFullHealth:Вы уже в полном здравии!
+errInvalidAppearanceType:Этот тип внешности недействителен!
+errInvalidAppearanceColor:Этот цвет внешности недействителен!
+errNoStamina:У вас не осталось выносливости!
+errDungeonNotFound:Подземелье не найдено.
+errItemAlreadyInInventory:Вы можете купить этот предмет только один раз!
+errUserAtFullHealth:У вас уже полное здоровье!
 open:Открыть
-use:Используйте
+use:Использовать
 noShield:Без щита
 youAreAboutToBuy:Вы собираетесь купить:
-arenaShieldExplaination:Этот щит защищает вас в течение {дней} дней. В это время вы не можете потерять деньги, если кто-то нападет на вас и победит!
-arenaNotEnoughEmeralds:Чтобы купить этот щит, вам нужно еще {осколков}.
+arenaShieldExplaination:Этот щит защищает вас на протяжении {days} дней. В это время вы не можете потерять деньги, если кто-то нападет и победит вас!
+arenaNotEnoughEmeralds:Вам нужно еще {shards} осколков, чтобы купить этот щит.
 errYourNotHungry:Вы не голодны!
 activateShield:Активировать щит
-arenaShieldActiveTooltip:У игрока есть активный щит, поэтому вы не получите никаких денег за сражение.
-ranks:Звания
-errTokenExpired:Ваш токен недействителен! Попробуйте обновить страницу или отозвать ее и снова предоставить доступ (нажав на рисунок в правом нижнем углу)!
-errAccessNotGranted:Пожалуйста, предоставьте доступ (нажав на рисунок в правом нижнем углу)!
-errTwitchAccountAlreadyExists:У вас уже подключен аккаунт Twitch!
-errNameNoSpace:Имя не должно содержать пробелов!
+arenaShieldActiveTooltip:У игрока активный щит, поэтому вы не получите деньги за битву.
+ranks:Ранги
+errTokenExpired:Ваш токен недействителен! Попробуйте обновить страницу или отозвать и снова предоставить доступ (нажав на фигуру в нижнем правом углу)!
+errAccessNotGranted:Пожалуйста, предоставьте доступ (нажав на фигуру в нижнем правом углу)!
+errTwitchAccountAlreadyExists:Вы уже связали свой аккаунт Twitch!
+errNameNoSpace:Имя не может содержать пробелы!
 errNameRegexInvalid:Имя может содержать только буквы (A-Z) и цифры (0-9).
 errCantUseThisName:Вы не можете использовать это имя!
 errThatNameIsTooLong:Ваше имя может содержать до 16 символов!
-errThatNameIsTooShort:Ваше имя должно содержать не менее 4 символов!
-errThatNameIsAlreadyInUse:Это имя больше не доступно!
+errThatNameIsTooShort:Ваше имя должно содержать минимум 4 символа!
+errThatNameIsAlreadyInUse:Это имя уже недоступно!
 errAlreadyInvitedToGuild:Этот человек уже приглашен в вашу гильдию!
-errGuildBattleLineIsFull:Линия фронта заполнена!
+errGuildBattleLineIsFull:Линия битвы заполнена!
 noHealPotions:У вас нет лечебных зелий!
-yourStomachFull:Ваш желудок полон!
-youDontHaveMaterials:У вас нет материалов в этой категории.
-youDontHaveChests:У тебя нет сундуков! Выполняйте задания или подземелья, чтобы получить их!
-connectionLost:Соединение потеряно. Повторное подключение через {TimeLeft} секунд...
-reconnectingFailedRetry:Сбой при повторном подключении. Попытка повторного подключения: {reconnectAmount}. Повторное подключение через {TimeLeft} секунд...
-reconnectingFailed:Сбой при повторном подключении. Пожалуйста, перезагрузите браузер.
+yourStomachFull:Твой желудок полон!
+youDontHaveMaterials:У тебя нет материалов в этой категории.
+youDontHaveChests:У тебя нет сундуков! Выполняй достижения или проходи подземелья, чтобы получить их!
+connectionLost:Соединение потеряно. Повторное подключение через {timeLeft} секунд...
+reconnectingFailedRetry:Не удалось переподключиться. Попытка переподключения: {reconnectAmount}. Повторное подключение через {timeLeft} секунд...
+reconnectingFailed:Не удалось переподключиться. Пожалуйста, перезагрузи браузер.
 error:Ошибка
-connectTwitchBrowser:В вашем браузере открылось новое окно. Войдите в свою учетную запись Twitch, а затем подключите свою учетную запись Steam.
+connectTwitchBrowser:В твоем браузере открылось новое окно. Пожалуйста, войди в аккаунт Twitch, а затем подключи аккаунт Steam.
 connectTwitchConfirm:Когда закончите, нажмите кнопку подтверждения ниже.
 isSteamRunning:Произошла ошибка. Запущен ли Steam?
-errNoPermission:У вас нет на это разрешения!
-errUnknownErrorChatbot:Произошла неизвестная ошибка! Если проблема не исчезнет, сообщите нам об этом в нашем Discord: https://discord.com/invite/Gum9bS2dyw
-twitchBotRemoved:Теперь бот уйдет. Спасибо, что играете в Embervale.
+errNoPermission:У вас нет разрешения на это!
+errUnknownErrorChatbot:Произошла неизвестная ошибка! Если проблема сохраняется, сообщите об этом на нашем Discord: https://discord.com/invite/Gum9bS2dyw
+twitchBotRemoved:Бот покидает игру. Спасибо за игру в Embervale.
+errPleaseRenameYourCharacter:Вам нужно переименовать вашего персонажа!
+errConsumableInventoryWouldBeFull:Эта вещь сделает вашу сумку слишком тяжелой!

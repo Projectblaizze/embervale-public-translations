@@ -1,780 +1,781 @@
-iron_protector:Eisenschutz
-wise_mens_charm:Wise Charm für Herren
+iron_protector:Eisenbeschützer
+wise_mens_charm:Talisman der weisen Männer
 amulet_of_the_unbroken:Amulett der Ungebrochenen
 ruby_heart:Rubinherz
-sabretooth_talisman:Säbelzahn-Talisman
-miners_charm:Zauber des Bergmanns
-topaz_amulet:Topas-Amulett
-emerald_necklace:Smaragd-Halskette
+sabretooth_talisman:Säbelzahntalisman
+miners_charm:Talisman des Minenarbeiters
+topaz_amulet:Topasamulett
+emerald_necklace:Smaragdkette
 sealed_pearl_of_the_abyss:Versiegelte Perle des Abgrunds
-queens_wrath:Der Zorn der Königin
+queens_wrath:Zorn der Königin
 the_human_jaw:Der menschliche Kiefer
-blue_prism_necklace:Blaue Prism-Halskette
+blue_prism_necklace:Blaue Prismenkette
 minor_talisman:Kleiner Talisman
-blacksmiths_mark:Schmiedezeichen
-ward_stone:Ward Stone
-amethyst_necklace:Amethyst-Halskette
-scholars_necklace:Halskette eines Gelehrten
-wolf_fang_talisman:Wolf Fang Talisman
+blacksmiths_mark:Zeichen des Schmieds
+ward_stone:Schutzstein
+amethyst_necklace:Amethystkette
+scholars_necklace:Gelehrtenhalskette
+wolf_fang_talisman:Wolfszahn-Talisman
 heart_of_gaia:Herz von Gaia
 petrified_shell:Versteinerte Schale
 unholy_cross:Unheiliges Kreuz
-spirit_tear:Geisterträne
+spirit_tear:Träne des Geistes
 jade_dragonfly:Jade-Libelle
-ocean_shard:Meeresscherbe
+ocean_shard:Ozeansplitter
 silver_breeze:Silberne Brise
-sea_serpents_eye:Das Auge der Seeschlange
+sea_serpents_eye:Auges der Seeschlange
 old_fishing_hook:Alter Angelhaken
-ancient_ruby_necklace:Uralte Rubin-Halskette
-fishermens_charm:Der Zauber der Fischer
+ancient_ruby_necklace:Antike Rubin-Halskette
+fishermens_charm:Fischer-Glücksbringer
 scarlet_medallion:Scharlachrotes Medaillon
-amulet_of_the_water_spirit:Amulett des Wassergeistes
-darkthorn_necklace:Darkthorn Halskette
+amulet_of_the_water_spirit:Amulett des Wassergeists
+darkthorn_necklace:Finsterdorn-Halskette
 sapphire_amulet:Saphir-Amulett
-alchemists_trump:Der Trump des Alchemisten
-glowberry_charm:Glühbeer-Anhänger
-rune_of_ascension:Rune der Himmelfahrt
-rune_of_thunder:Rune des Donners
-rune_of_life:Rune des Lebens
-gravestone_fragment:Grabsteinfragment
-blacksmiths_charm:Zauber des Schmieds
-all_seeing_eye:Alles sehende Auge
-tricksters_charm:Der Zauber des Tricksters
-lucky_charm_of_the_gambler:Der Glücksbringer des Spielers
-gift_from_the_reaper:Geschenk vom Sensenmann
+alchemists_trump:Trumpf des Alchemisten
+glowberry_charm:Leuchtbeeren-Talisman
+rune_of_ascension:Aufstiegsrune
+rune_of_thunder:Donnerrune
+rune_of_life:Lebensrune
+gravestone_fragment:Grabstein-Fragment
+blacksmiths_charm:Glücksbringer des Schmieds
+all_seeing_eye:Allsehendes Auge
+tricksters_charm:Amulett des Tricksters
+lucky_charm_of_the_gambler:Glücksbringer des Glückspielers
+gift_from_the_reaper:Geschenk des Schnitters
 necklace_of_the_duchess:Halskette der Herzogin
-leviathans_eyes:Die Augen des Leviathans
-protective_runes:Schützende Runen
+leviathans_eyes:Augen des Leviathans
+protective_runes:Schutzrunen
 golden_scarab:Goldener Skarabäus
-protective_shell:Schützende Schale
-shell_talisman:Muschel-Talisman
-insignia_of_the_sun:Insignien der Sonne
-oyster_pearl:Austernperle
-insignia_of_the_moon:Insignien des Mondes
-scorpio_necklace:Skorpion-Halskette
-novices_necklace:Halskette für Anfänger
+protective_shell:Schutzhülle
+shell_talisman:Schalentalisman
+insignia_of_the_sun:Insignie der Sonne
+oyster_pearl:Austerperle
+insignia_of_the_moon:Insignie des Mondes
+scorpio_necklace:Skorpionhalskette
+novices_necklace:Halskette des Novizen
 false_temptress:Falsche Verführerin
-lifestone_necklace:Lifestone Halskette
+lifestone_necklace:Lebenstein-Halskette
 amulet_of_the_vampire_queen:Amulett der Vampirkönigin
-wolf_ward:Wolf Ward
+wolf_ward:Wolfsschutz
 mushroom_pickers_lucky_charm:Glücksbringer des Pilzsammlers
-golden_lizard_band:Goldene Echsenband
+golden_lizard_band:Goldenes Echsenband
 lost_family_heirloom:Verlorenes Familienerbstück
 elven_neckband:Elfenhalsband
-shamans_lucky_charm:Glücksbringer für Schamanen
-amulet_of_the_wind_spirit:Amulett des Windgeistes
+shamans_lucky_charm:Glücksbringer des Schamanen
+amulet_of_the_wind_spirit:Amulett des Windgeists
 amazonite_talisman:Amazonit-Talisman
 pearl_necklace:Perlenkette
 false_abyss_stone:Falscher Abgrundstein
 witches_eye:Hexenauge
-hunters_charm:Der Zauber des Jägers
+hunters_charm:Jägerzauber
 heart_of_the_underworld:Herz der Unterwelt
 prayer_beads:Gebetsperlen
-azurite_protector:Azurit-Protektor
-blind_dragon_eye:Blindes Drachenauge
-prisoners_mark:Häftlingszeichen
+azurite_protector:Azuritbeschützer
+blind_dragon_eye:Blaues Drachenauge
+prisoners_mark:Zeichen des Gefangenen
 warlocks_necklace:Halskette des Hexenmeisters
-cultist_stone:Stein des Kultisten
-alchemists_token:Zeichen des Alchemisten
-foragers_orb:Kugel des Sammlers
-medallion_of_fortune:Glücksmedaillon
+cultist_stone:Kultistenstein
+alchemists_token:Alchemistensymbol
+foragers_orb:Sammlerorb
+medallion_of_fortune:Medaille des Glücks
 eye_of_chaos:Auge des Chaos
 golden_chain:Goldene Kette
-abyssal_ore:Abgrunderz
-gem_of_harmony:Juwel der Harmonie
-gem_of_nature:Juwel der Natur
+abyssal_ore:Abyssales Erz
+gem_of_harmony:Edelstein der Harmonie
+gem_of_nature:Edelstein der Natur
 ancient_collar:Uraltes Halsband
-paladins_honour:Die Ehre des Paladins
-gem_of_renewal:Juwel der Erneuerung
+paladins_honour:Ehre des Paladins
+gem_of_renewal:Edelstein der Erneuerung
 archmages_necklace:Halskette des Erzmagiers
-eye_of_the_storm:Das Auge des Sturms
+eye_of_the_storm:Auge des Sturms
 iron_band:Eisenband
-brass_band:Blaskapelle
-vanity_of_the_abyss:Die Eitelkeit des Abgrunds
-monks_pearls:Mönchsperlen
-bards_thread:Der Faden des Barden
-tortoise_heart:Schildkrötenherz
+brass_band:Messingband
+vanity_of_the_abyss:Eitelkeit des Abgrunds
+monks_pearls:Perlen des Mönchs
+bards_thread:Faden des Barden
+tortoise_heart:Herz der Schildkröte
 ancient_ashes:Uralte Asche
-mystics_amulet:Mystisches Amulett
-trees_bounty:Die Bounty des Baumes
-shield_charm:Schildanhänger
-grandmasters_necklace:Halskette des Großmeisters
-rune_of_tides:Rune der Gezeiten
+mystics_amulet:Amulett des Mystikers
+trees_bounty:Gaben des Baums
+shield_charm:Schildzauber
+grandmasters_necklace:Großmeisters Halskette
+rune_of_tides:Runen der Gezeiten
 princes_amulet:Amulett des Prinzen
 princess_amulet:Amulett der Prinzessin
 lunas_gift:Lunas Geschenk
-kings_crest:Königswappen
+kings_crest:Wappen des Königs
 queens_crest:Wappen der Königin
 servants_crest:Wappen des Dieners
 cursed_runestone:Verfluchter Runenstein
-gem_of_vitality:Juwel der Vitalität
-eye_of_pandora:Das Auge der Pandora
-dragons_ire:Der Zorn des Drachen
-spirit_essence:Geisteressenz
-journeys_end:Das Ende der Reise
-pharmacists_mark:Apothekermarke
-ring_of_binding:Ring des Einbands
-constricting_band:Einschnürendes Band
-apprentice_ring:Ring „Lehrling“
-valkyrie_ring:Ring Walküre
-beasts_maw:Schlund der Biest
-abyssal_ring:Ring des Abgrunds
-channeling_ring:Channeling-Ring
+gem_of_vitality:Edelstein der Vitalität
+eye_of_pandora:Auge von Pandora
+dragons_ire:Drachenwut
+spirit_essence:Geistesessenz
+journeys_end:Reiseziel
+pharmacists_mark:Zeichen des Apothekers
+ring_of_binding:Ring der Bindung
+constricting_band:Einengendes Band
+apprentice_ring:Lehrlingsring
+valkyrie_ring:Walkürenring
+beasts_maw:Maul des Tieres
+abyssal_ring:Abyssaler Ring
+channeling_ring:Kanalisierungsring
 engraved_gold_ring:Gravierter Goldring
-rusted_ring:Verrosteter Ring
-appraised_ring:Ring mit Bewertung
+rusted_ring:Rostiger Ring
+appraised_ring:Bewerteter Ring
 queens_ring:Ring der Königin
 cats_eye:Katzenauge
 cursed_ring:Verfluchter Ring
-amber_ring:Bernstein-Ring
-merchants_ring:Ring des Händlers
-copper_ring:Ring aus Kupfer
-ring_of_mana:Ring des Mana
+amber_ring:Amber Ring
+merchants_ring:Händlerring
+copper_ring:Kupferring
+ring_of_mana:Ring des Manas
 ring_of_vitality:Ring der Vitalität
-ring_of_rage:Ring der Wut
-ring_of_clairvoyance:Ring des Hellsehens
-notched_ring:Gekerbter Ring
+ring_of_rage:Ring des Zorns
+ring_of_clairvoyance:Ring der Hellseherei
+notched_ring:Kerbenring
 ancient_ring:Uralter Ring
-ring_of_necromancy:Ring der Totenbeschwörung
-dragonhunters_ring:Ring des Drachenjägers
+ring_of_necromancy:Ring der Nekromantie
+dragonhunters_ring:Drachenjägerring
 sirens_ring:Ring der Sirene
-gold_band:Goldener Ring
+gold_band:Goldenes Band
 gold_ring:Goldener Ring
-turquoise_ring:Türkisfarbener Ring
+turquoise_ring:Türkisring
 monarchs_ring:Ring des Monarchen
 dance_of_the_deep:Tanz der Tiefe
-pharaohs_curse:Der Fluch des Pharao
-ring_of_ouroboros:Ring von Ouroboros
-gargoyles_ring:Gargoyles Ring
-fragment_of_the_abyss:Fragment des Abgrunds
-sanded_serpentine_ring:Geschliffener Serpentinenring
-vermillion_merchant_ring:Zinnoberrot Händlerring
-snake_bite_ring:Ring mit Schlangenbiss
-living_deep_sea_ring:Lebendiger Tiefseering
+pharaohs_curse:Fluch des Pharaos
+ring_of_ouroboros:Ring des Ouroboros
+gargoyles_ring:Ring der Gargoyle
+fragment_of_the_abyss:Fragment der Abgrund
+sanded_serpentine_ring:Geschliffener Schlangenring
+vermillion_merchant_ring:Vermillion-Händlerring
+snake_bite_ring:Schlangenbiss-Ring
+living_deep_sea_ring:Lebender Tiefseering
 forest_warden_ring:Ring des Waldhüters
-anti_magic_ring:Antimagischer Ring
+anti_magic_ring:Anti-Magie-Ring
 shard_of_eternal_ice:Scherbe des ewigen Eises
-novices_ring:Ring für Anfänger
-scholars_ring:Ring eines Gelehrten
-studded_bronze_ring:Bronzering mit Nieten
+novices_ring:Ring des Novizen
+scholars_ring:Ring des Gelehrten
+studded_bronze_ring:Nieterbronze-Ring
 alchemy_ring:Alchemie-Ring
 celtic_ring:Keltischer Ring
-abyss_servant_ring:Abyss Dienerring
-honeycomb_ring:Ring mit Wabenmuster
-iron_bull_ring:Eiserne Stierkampfarena
-brass_bull_ring:Stierkampfarena aus Messing
-cobalt_bull_ring:Kobaltfarbener Stierring
+abyss_servant_ring:Ring des Abyss-Dieners
+honeycomb_ring:Honigwabenring
+iron_bull_ring:Eisenbullenring
+brass_bull_ring:Messingbullenring
+cobalt_bull_ring:Kobaltbullenring
 geode_ring:Geodenring
-bone_ring:Ring aus Knochen
-band_of_smithing:Band of Smithing
-claw_ring:Krallenring
+bone_ring:Knochenring
+band_of_smithing:Band der Schmiedekunst
+claw_ring:Klauenring
 ring_of_good_fortune:Ring des Glücks
-moon_aegis_ring:Mond-Ägi-Ring
-eclipse_ring:Sonnenfinsternis-Ring
+moon_aegis_ring:Ring der Mond-Aegis
+eclipse_ring:Eklipsenring
 helios:Helios
-troglodyte_ring:Troglodyten-Ring
+troglodyte_ring:Troglodytenring
 tigers_eye_ring:Tigeraugenring
 turtle_shell_ring:Schildkrötenpanzer-Ring
 elegant_cheese_ring:Eleganter Käsering
 old_spool:Alte Spule
-wyvern_egg_ring:Wyvern-Eiering
-the_awakened_abyss:Der erwachte Abgrund
+wyvern_egg_ring:Wyvernei-Ring
+the_awakened_abyss:Der Erwachte Abgrund
 horseshoe_ring:Hufeisenring
 ruby_ring:Rubinring
-emerald_ring:Smaragd-Ring
-rough_gold_ring:Grober Goldring
+emerald_ring:Smaragdring
+rough_gold_ring:Rauer Goldring
 soul_of_nature:Seele der Natur
-void_ring:Ring „Void“
-ring_of_the_reaper:Der Ring des Sensenmanns
-silver_garnet_ring:Silberner Granatring
-ring_of_bloodlust:Ring des Blutrausches
+void_ring:Leerenring
+ring_of_the_reaper:Ring des Sensenmannes
+silver_garnet_ring:Silber-Granatring
+ring_of_bloodlust:Ring der Blutgier
 maw_of_the_abyss:Schlund des Abgrunds
-vampire_ring:Vampir-Ring
-sepia_ring:Ring mit Sepia-Motiv
+vampire_ring:Vampirring
+sepia_ring:Sepiaring
 heir_of_the_abyss:Erbe des Abgrunds
-ring_of_nightmares:Ring der Albträume
+ring_of_nightmares:Ring der Alpträume
 ring_of_learning:Ring des Lernens
-dormant_abyss_ring:Ring „Schlafender Abgrund“
-wooden_ring:Ring aus Holz
-ring_of_rot:Ring von Rot
-darkstar_ring:Darkstar Ring
-old_cog:Altes Rädchen
+dormant_abyss_ring:Ruhender Abgrundring
+wooden_ring:Holzring
+ring_of_rot:Ring des Verfalls
+darkstar_ring:Darkstar-Ring
+old_cog:Altes Zahnrad
 ring_of_the_duchess:Ring der Herzogin
 deformed_gold_ring:Deformierter Goldring
 lizards_eye_ring:Echsenaugenring
-ring_of_embers:Ring der Glut
+ring_of_embers:Ring der Ember
 kings_seal:Siegel des Königs
-ivory_ring:Ring aus Elfenbein
-travellers_ring:Ring für Reisende
-iron_sun_ring:Sonnenring aus Eisen
-sapphire_ring:Saphir-Ring
-ring_of_the_demon_lord:Ring des Dämonenfürsten
+ivory_ring:Elfenbeinring
+travellers_ring:Ring des Reisenden
+iron_sun_ring:Eisensonnenring
+sapphire_ring:Saphirring
+ring_of_the_demon_lord:Ring des Dämonenlords
 boulder_ring:Felsenring
 opal_ring:Opalring
-symbol_of_love:Symbol der Liebe
-abyss_watcher:Abgrundbeobachter
-frost_ring:Ring „Frost“
-circle_of_thorns:Dornenkreis
-ring_of_dusk:Ring der Abenddämmerung
+symbol_of_love:Liebessymbol
+abyss_watcher:Abyss-Wächter
+frost_ring:Frostring
+circle_of_thorns:Kreis der Dornen
+ring_of_dusk:Ring der Dämmerung
 ring_of_dawn:Ring der Morgendämmerung
-crystal_ring:Kristall-Ring
-ring_of_eternal_winter:Ring des Ewigen Winters
+crystal_ring:Kristallring
+ring_of_eternal_winter:Ring des ewigen Winters
 dead_coral_ring:Ring aus toter Koralle
 ring_of_divinity:Ring der Göttlichkeit
-genesis_of_life:Genese des Lebens
+genesis_of_life:Genesis des Lebens
 unyielding_defender:Unnachgiebiger Verteidiger
-centurions_plate:Teller des Zenturios
+centurions_plate:Kampfplatte des Zenturios
 tunic:Tunika
 mystics_robe:Robe des Mystikers
 bear_pelt:Bärenfell
 torn_tunic:Zerrissene Tunika
 novices_robe:Robe des Novizen
-scholars_robe:Gewand eines Gelehrten
-warlocks_robe:Robe des Hexers
-archmages_robe:Gewand des Erzmagiers
-cultists_robe:Gewand des Kultisten
+scholars_robe:Robe des Gelehrten
+warlocks_robe:Robe des Hexenmeisters
+archmages_robe:Robe des Erzmagiers
+cultists_robe:Robe des Kultisten
 grandmasters_robe:Robe des Großmeisters
 brown_tunic:Braune Tunika
-elven_magicians_robe:Robe des Elfenzauberers
+elven_magicians_robe:Robe des elfischen Magiers
 shamans_robe:Robe des Schamanen
 robe_of_the_healer:Robe des Heilers
-sorcerers_robe:Zaubererrobe
-magic_mercenarys_robe:Magisches Söldnergewand
-elven_tunic:Elfentunika
-cloak_of_aspiration:Umhang der Aspiration
-robe_of_deceit:Robe der Täuschung
-elven_kings_armor:Rüstung des Elfenkönigs
-crimson_knights_plate:Purpurroter Ritterteller
-dragon_scale_cuirass:Drachenschuppenkürass
+sorcerers_robe:Roben des Zauberers
+magic_mercenarys_robe:Roben des magischen Söldners
+elven_tunic:Elbentunika
+cloak_of_aspiration:Umhang der Erhebung
+robe_of_deceit:Roben des Betrugs
+elven_kings_armor:Armschienen des Elbenkönigs
+crimson_knights_plate:Brustpanzer des purpurnen Ritters
+dragon_scale_cuirass:Drachenschuppenpanzer
 generals_chestplate:Brustplatte des Generals
-diplomats_robe:Gewand des Diplomaten
+diplomats_robe:Roben des Diplomaten
 sharpshooters_armor:Rüstung des Scharfschützen
-abyss_wanderers_armor:Rüstung des Abyss-Wanderers
-vagabonds_robe:Robe des Vagabunden
+abyss_wanderers_armor:Rüstung des Abgrundwanderers
+vagabonds_robe:Roben des Vagabunden
 brown_leather_armor:Braune Lederrüstung
 barbarians_armor:Rüstung des Barbaren
-black_velvet_robe:Robe aus schwarzem Samt
+black_velvet_robe:Schwarze Samtroben
 rogues_armor:Rüstung des Schurken
-iron_plackart:Iron Plackart
-priests_robe:Priesterrobe
-warriors_chestplate:Brustplatte des Kriegers
-crested_emerald_armor:Smaragdrüstung mit Haube
-kindled_armor:Entfaltete Rüstung
+iron_plackart:Eiserne Plackart
+priests_robe:Roben des Priesters
+warriors_chestplate:Brustpanzer des Kriegers
+crested_emerald_armor:Geprägte Smaragd-Rüstung
+kindled_armor:Entfachte Rüstung
 desert_warriors_armor:Rüstung des Wüstenkriegers
 nightbringers_armor:Rüstung des Nachtbringers
 necromancers_robe:Robe des Nekromanten
-legendary_adventurers_armor:Rüstung des legendären Abenteurers
-iron_plate_armor:Eisenplattenpanzerung
-kings_guard_armor:Rüstung der Königsgarde
-worn_bronze_mail:Abgenutzte bronzene Post
-seastone_armor:Seastone-Rüstung
-dyed_leather_armor:Rüstung aus gefärbtem Leder
+legendary_adventurers_armor:Legendäre Abenteurerrüstung
+iron_plate_armor:Eisenplatten-Rüstung
+kings_guard_armor:Rüstung der Königswache
+worn_bronze_mail:Getragene Bronze-Kettenrüstung
+seastone_armor:Seestein-Rüstung
+dyed_leather_armor:Gefärbte Lederrüstung
 executioners_armor:Rüstung des Henkers
-gargoyles_armor:Gargoyles Rüstung
-pearl_plackart:Perle Plackart
-suit_of_the_faded_dragon:Der Anzug des verblassten Drachen
+gargoyles_armor:Rüstung des Gargoyles
+pearl_plackart:Perlenbrustplatte
+suit_of_the_faded_dragon:Anzug des verblichenen Drachen
 rangers_armor:Rüstung des Waldläufers
 occult_robe:Okkulte Robe
 bards_tunic:Barden-Tunika
 armor_of_the_undefeated:Rüstung der Unbesiegten
 assassins_armor:Rüstung des Assassinen
-composite_breastplate:Komposit-Brustplatte
-infiltrators_armor:Rüstung des Infiltrators
-traitors_armor:Rüstung des Verräters
-lower_nobles_tunic:Tunika von Lower Noble
-emperors_protector:Beschützer des Kaisers
-dark_steel_plate:Dunkle Stahlplatte
-hide_armor:Rüstung verstecken
-grey_scorpions_armor:Rüstung des grauen Skorpions
+composite_breastplate:Verbundbrustplatte
+infiltrators_armor:Rüstzeug des Infiltrators
+traitors_armor:Rüstzeug des Verräters
+lower_nobles_tunic:Tunika des niederen Adligen
+emperors_protector:Schutz des Kaisers
+dark_steel_plate:Dunkelstahlplatte
+hide_armor:Lederharnisch
+grey_scorpions_armor:Rüstung des Grauen Skorpions
 reinforced_rhino_plate:Verstärkte Rhino-Platte
 heavy_iron_plate:Schwere Eisenplatte
-reapers_skin:Die Haut des Sensenmanns
+reapers_skin:Haut des Schnitters
 undead_knights_armor:Rüstung des Untoten Ritters
-phantom_steel_plate:Phantom-Stahlplatte
-coral_iron_armor:Korallenrote Eisenrüstung
-scouts_armor:Rüstung des Pfadfinders
-archers_armor:Rüstung des Bogenschützen
-legionnaires_armor:Rüstung des Legionärs
-shadow_blades_armor:Rüstung der Schattenklinge
-mercenaries_bracers:Armschienen des Söldners
-ominous_bracelet:Ominous Armreif
-sharpshooters_bracelet:Scharfschützen-Armband
-illusionists_robe:Robe für Illusionisten
-abyss_wanderers_bracer:Armreif des Abyss-Wanderers
-gloves_of_deceit:Handschuhe der Täuschung
-novices_bracers:Armschienen für Anfänger
-composite_gloves:Handschuhe aus Verbundwerkstoff
+phantom_steel_plate:Phantomstahlplatte
+coral_iron_armor:Koralleisenrüstung
+scouts_armor:Rüstzeug des Spähers
+archers_armor:Rüstzeug des Bogenschützen
+legionnaires_armor:Rüstzeug des Legionärs
+shadow_blades_armor:Rüstzeug der Schattenklinge
+mercenaries_bracers:Söldnerarmschienen
+ominous_bracelet:Unheilvolles Armband
+sharpshooters_bracelet:Armband des Scharfschützen
+illusionists_robe:Robe des Illusionisten
+abyss_wanderers_bracer:Armschiene des Abgrundwanderers
+gloves_of_deceit:Handschuhe des Betrugs
+novices_bracers:Armschienen des Novizen
+composite_gloves:Komposithandschuhe
 vagabonds_gloves:Handschuhe des Vagabunden
-grey_scorpions_gloves:Graue Skorpionhandschuhe
+grey_scorpions_gloves:Handschuhe des Grauen Skorpions
 desert_warriors_gloves:Handschuhe des Wüstenkriegers
-phantom_steel_gloves:Phantom Steel Handschuhe
-scholars_gloves:Handschuhe für Gelehrte
-rhinos_crush_claw:Rhino's Crush Claw
-shadow_blades_gloves:Handschuhe von Shadow Blade
+phantom_steel_gloves:Handschuhe aus Phantomstahl
+scholars_gloves:Handschuhe des Gelehrten
+rhinos_crush_claw:Zerkleinernde Klaue des Nashorns
+shadow_blades_gloves:Handschuhe der Schattenklinge
 warlocks_gloves:Handschuhe des Hexenmeisters
 mummified_hands:Mumifizierte Hände
 grandmasters_gloves:Handschuhe des Großmeisters
 guardians_bracers:Armschienen des Wächters
-hide_bracelet:Armband ausblenden
-iron_bracelet:Armreif aus Eisen
-wooden_coil:Spule aus Holz
-elven_kings_bracer:Armreif des Elfenkönigs
-simple_bracer:Einfacher Armreif
-generals_gauntlets:Handschuhe des Generals
-dark_steel_gauntlets:Stulpen aus dunklem Stahl
-elven_bracelet:Elven Armreif
+hide_bracelet:Lederarmband
+iron_bracelet:Eisenarmband
+wooden_coil:Holzspule
+elven_kings_bracer:Armschiene des Elfenkönigs
+simple_bracer:Einfache Armschiene
+generals_gauntlets:Panzerhandschuhe des Generals
+dark_steel_gauntlets:Dunkelstahlpanzerhandschuhe
+elven_bracelet:Elfisches Armband
 padded_bracers:Gepolsterte Armschienen
-archers_bracers:Armschienen für Bogenschützen
-sunborn_bracers:Sonnenschutz-Armschienen
-cultist_gloves:Cultist-Handschuhe
+archers_bracers:Armschienen des Bogenschützen
+sunborn_bracers:Armschienen der Sonngeborenen
+cultist_gloves:Handschuhe des Kultisten
 bear_grip:Bärengriff
-whisperers_gloves:Whisperer-Handschuhe
+whisperers_gloves:Handschuhe des Flüsterers
 archmages_gloves:Handschuhe des Erzmagiers
-nightbringers_bracelet:Nightbringer's Armreif
-copper_bracelet:Kupfer-Armband
+nightbringers_bracelet:Armband des Nachbringens
+copper_bracelet:Kupferarmband
 painful_bracelet:Schmerzhaftes Armband
-crimson_bracelet:Crimson Armreif
-mystics_bracers:Armschienen von Mystic
-elven_magicians_bracers:Armschienen des Elfenzauberers
-touch_of_nature:Ein Hauch von Natur
+crimson_bracelet:Purpurarmband
+mystics_bracers:Armschienen des Mystikers
+elven_magicians_bracers:Armschienen des elfischen Magiers
+touch_of_nature:Berührung der Natur
 combat_bracelet:Kampfarmband
-healers_gloves:Handschuhe für Heiler
-heavy_iron_gloves:Handschuhe aus schwerem Eisen
+healers_gloves:Handschuhe des Heilers
+heavy_iron_gloves:Schwere Eisenhandschuhe
 dyed_bracers:Gefärbte Armschienen
-oceans_touch:Der Hauch des Ozeans
-leather_bracer:Armreif aus Leder
-diplomats_gloves:Handschuhe für Diplomaten
-warriors_gloves:Krieger-Handschuhe
+oceans_touch:Berührung des Ozeans
+leather_bracer:Lederarmschiene
+diplomats_gloves:Handschuhe des Diplomaten
+warriors_gloves:Handschuhe des Kriegers
 infiltrators_gloves:Handschuhe des Infiltrators
-seastone_gloves:Seastone Handschuhe
+seastone_gloves:Seesteinhandschuhe
 gloves_of_the_undefeated:Handschuhe der Unbesiegten
 brown_gloves:Braune Handschuhe
-sinister_gloves:Finister Handschuhe
-steel_gauntlets:Stulpen aus Stahl
+sinister_gloves:Finstere Handschuhe
+steel_gauntlets:Stahlstulpen
 executioners_gauntlets:Stulpen des Henkers
-dark_steel_gloves:Handschuhe aus dunklem Stahl
+dark_steel_gloves:Dunkle Stahlhandschuhe
 gloves_of_the_temptress:Handschuhe der Verführerin
-fist_of_theft:Die Faust des Diebstahls
+fist_of_theft:Faust des Diebstahls
 fist_of_wrath:Faust des Zorns
 fist_of_vengeance:Faust der Rache
-gloves_of_aspiration:Aspirationshandschuhe
-gloves_of_the_scout:Handschuhe des Pfadfinders
-undead_knights_claws:Klauen des Untoten Ritters
-pearl_gauntlets:Perlenstulpen
+gloves_of_aspiration:Handschuhe der Sehnsucht
+gloves_of_the_scout:Handschuhe des Kundschafters
+undead_knights_claws:Klauen des untoten Ritters
+pearl_gauntlets:Perlenhandschuhe
 monks_gloves:Mönchshandschuhe
-beggars_gloves:Handschuhe des Bettlers
-crimson_knights_gloves:Crimson Knight's Handschuhe
-magic_repellent_gauntlets:Magische Schutzhandschuhe
-illusionists_gloves:Handschuhe für Illusionisten
-protectors_of_the_forest:Beschützer des Waldes
+beggars_gloves:Bettlerhandschuhe
+crimson_knights_gloves:Handschuhe des purpurnen Ritters
+magic_repellent_gauntlets:Magieabweisende Handschuhe
+illusionists_gloves:Handschuhe des Illusionisten
+protectors_of_the_forest:Schützer des Waldes
 bone_breakers:Knochenbrecher
 noble_leather_gloves:Edle Lederhandschuhe
-leather_gloves:Handschuhe aus Leder
-blood_magic_gloves:Blood Magic-Handschuhe
+leather_gloves:Lederhandschuhe
+blood_magic_gloves:Blutmagiehandschuhe
 sorcerers_gloves:Handschuhe des Zauberers
 reinforced_bracers:Verstärkte Armschienen
-knights_gauntlets:Ritterstulpen
+knights_gauntlets:Handschuhe des Ritters
 yeti_paws:Yeti-Pfoten
-iron_bracers:Armschienen aus Eisen
+iron_bracers:Eiserne Armschienen
 illusionists_bracelets:Armbänder des Illusionisten
-iron_plate_gloves:Handschuhe aus Eisenblech
+iron_plate_gloves:Eisenplattenhandschuhe
 barbarians_gloves:Handschuhe des Barbaren
-gold_painted_gloves:Goldlackierte Handschuhe
-heavy_iron_gauntlets:Schwere Eisenhandschuhe
-thieves_gloves:Handschuhe des Diebes
-coral_iron_gloves:Korallenrote Eisenhandschuhe
-straw_bracelet:Stroh-Armband
+gold_painted_gloves:Goldbemalte Handschuhe
+heavy_iron_gauntlets:Schwere Eisernen Panzerhandschuhe
+thieves_gloves:Diebeshandschuhe
+coral_iron_gloves:Korallen-Eisenhandschuhe
+straw_bracelet:Stroharmband
 tormenters:Peiniger
 elven_kings_gloves:Handschuhe des Elfenkönigs
 decorated_bracelet:Verziertes Armband
 legendary_adventurers_gloves:Legendäre Abenteurerhandschuhe
-fist_of_midas:Die Faust von Midas
-reapers_bracelet:Reapers Armreif
+fist_of_midas:Faust von Midas
+reapers_bracelet:Schnitterarmband
 warlocks_hood:Kapuze des Hexenmeisters
-novices_hat:Hut für Anfänger
+novices_hat:Hut des Novizen
 peasants_hat:Bauernhut
 elven_kings_helmet:Helm des Elfenkönigs
 witch_hunters_hat:Hut des Hexenjägers
-beggars_cap:Bettlermütze
-archers_cap:Bogenschützenmütze
+beggars_cap:Bettelnde Mütze
+archers_cap:Schützenmütze
 gladiators_helmet:Helm des Gladiators
 iron_helmet:Eisenhelm
 leather_helmet:Lederhelm
-crested_emerald_helmet:Smaragdhelm mit Haube
+crested_emerald_helmet:Helm mit smaragdener Zier
 centurions_helmet:Helm des Zenturios
 barbarians_helmet:Helm des Barbaren
 mask_of_treachery:Maske des Verrats
-spearmens_helmet:Helm des Speerträgers
-grizzly_helmet:Grizzly-Helm
-partisan_hood:Partisanen-Kapuze
-elven_magicians_hood:Kapuze des Elfenzauberers
+spearmens_helmet:Helm der Speerträger
+grizzly_helmet:Grizzlyhelm
+partisan_hood:Kapuzenmantel des Partisanen
+elven_magicians_hood:Kapuze des Elfischen Magiers
 mask_of_stubbornness:Maske der Sturheit
-gamblers_hat:Hut für Spieler
-dark_steel_helmet:Dunkler Stahlhelm
-heavy_infantry_helmet:Schwerer Infanteriehelm
-diplomats_hood:Kapuze des Diplomaten
-foot_soldier_helmet:Fußsoldatenhelm
-coral_iron_helmet:Korallenroter Eisenhelm
+gamblers_hat:Hut des Glücksritters
+dark_steel_helmet:Helm aus dunklem Stahl
+heavy_infantry_helmet:Helm der schweren Infanterie
+diplomats_hood:Kapuzenmantel des Diplomaten
+foot_soldier_helmet:Infanteristenhelm
+coral_iron_helmet:Koralleneisenhelm
 archmages_hood:Kapuze des Erzmagiers
 mask_of_fear:Maske der Angst
 helmet_of_the_undefeated:Helm der Unbesiegten
 grandmasters_hat:Hut des Großmeisters
 healers_hood:Kapuze des Heilers
 sharpshooters_hood:Kapuze des Scharfschützen
-miners_helmet:Bergarbeiterhelm
+miners_helmet:Helm des Minenarbeiters
 occult_hood:Okkulte Kapuze
-phantom_steel_helmet:Phantom Stahlhelm
-nightbringers_hood:Nachtbringerkapuze
-composite_helmet:Helm aus Verbundwerkstoff
+phantom_steel_helmet:Phantomstahlhelm
+nightbringers_hood:Kapuze des Nachtbringers
+composite_helmet:Verbundhelm
 merchants_hat:Hut des Kaufmanns
-chain_hood:Kettenhaube
+chain_hood:Kettenkapuze
 illusionist_hood:Kapuze des Illusionisten
-summer_knights_helmet:Sommerritterhelm
+summer_knights_helmet:Helm des Sommerritters
 brown_wizard_hat:Brauner Zaubererhut
-purple_wizard_hat:Violetter Zaubererhut
+purple_wizard_hat:Lila Zaubererhut
 red_wizard_hat:Roter Zaubererhut
-dwarven_warrior_helmet:Zwergenkriegerhelm
-pink_cap:Rosafarbene Kappe
-shamans_hood:Schamanenkapuze
+dwarven_warrior_helmet:Helm des Zwergenkriegers
+pink_cap:Rosa Kappe
+shamans_hood:Kapuze des Schamanen
 hood_of_the_void:Kapuze der Leere
 hardened_helmet:Gehärteter Helm
-scouts_helmet:Helm des Pfadfinders
-rogues_helmet:Helm des Schurken
+scouts_helmet:Kundschafterhelm
+rogues_helmet:Schurkenhelm
 warriors_helmet:Kriegerhelm
 knights_helmet:Ritterhelm
-northern_helmet:Nördlicher Helm
-desert_warriors_turban:Turban des Wüstenkriegers
-legionnaires_helmet:Helm des Legionärs
-executioners_helmet:Helm des Henkers
-spys_hood:Spionagekapuze
-noble_turban:Edler Turban
+northern_helmet:Nordenhelm
+desert_warriors_turban:Wüstenkrieger-Turban
+legionnaires_helmet:Legionärshelm
+executioners_helmet:Henkershelm
+spys_hood:Spionhood
+noble_turban:Adeliger Turban
 elven_helmet:Elfenhelm
-crushers_helmet:Crusher's Helm
-desert_champions_crown:Krone des Wüstenmeisters
-wasteland_helmet:Wasteland-Helm
+crushers_helmet:Zerschmetterers Helm
+desert_champions_crown:Wüstenchampionskrone
+wasteland_helmet:Ödlandhelm
 polished_steel_helmet:Polierter Stahlhelm
-city_watch_helmet:City Watch Helm
-crusaders_helmet:Helm des Kreuzritters
-vagabonds_hood:Kapuze des Vagabunden
-hide_hood:Kapuze verstecken
-scorpions_helmet:Helm des Skorpions
-cultists_hood:Kapuze des Kultisten
+city_watch_helmet:Stadtwache-Helm
+crusaders_helmet:Kreuzritterhelm
+vagabonds_hood:Vagabundenhood
+hide_hood:Lederhood
+scorpions_helmet:Skorpionhelm
+cultists_hood:Kutte des Kultisten
 grandmasters_hood:Kapuze des Großmeisters
-imperial_guards_helmet:Helm der Imperialen Garde
-battered_helmet:Zerschlagener Helm
-patched_hood:Aufgeflickte Kapuze
-fur_helmet:Pelzhelm
+imperial_guards_helmet:Helm der kaiserlichen Wache
+battered_helmet:Zerbeulter Helm
+patched_hood:Flickenkapuze
+fur_helmet:Fellhelm
 generals_helmet:Helm des Generals
-brawlers_helmet:Brawler-Helm
-autumn_knights_helmet:Herbstritterhelm
-spring_knights_helmet:Helm des Frühlingsritters
-abyss_wanderers_hood:Abyss Wanderers Kapuze
-ancient_witch's_hat:Uralter Hexenhut
-crimson_knights_helmet:Helm des Purpurritters
+brawlers_helmet:Helm des Kämpfers
+autumn_knights_helmet:Helm des Herbst-Ritters
+spring_knights_helmet:Helm des Frühlings-Ritters
+abyss_wanderers_hood:Kapuze des Abgrundwanderers
+ancient_witch's_hat:Hut der uralten Hexe
+crimson_knights_helmet:Helm des purpurroten Ritters
 emperors_helmet:Helm des Kaisers
 helmet_of_the_unseen:Helm des Unsichtbaren
-legendary_adventurers_helmet:Helm eines legendären Abenteurers
-mask_of_terror:Maske des Terrors
-dusk_mages_hood:Kapuze des Abenddämmerungsmagiers
+legendary_adventurers_helmet:Helm des legendären Abenteurers
+mask_of_terror:Maske des Schreckens
+dusk_mages_hood:Kapuze des Zwielicht-Magiers
 warlords_helmet:Helm des Kriegsherrn
 beggars_shoes:Schuhe des Bettlers
-novices_shoes:Schuhe für Anfänger
-leather_boots:Stiefel aus Leder
+novices_shoes:Schuhe des Novizen
+leather_boots:Lederstiefel
 iron_boots:Eisenstiefel
-coral_iron_boots:Korallenrote Eisenstiefel
-scholars_shoes:Schuhe für Stipendiaten
-rangers_boots:Ranger-Stiefel
+coral_iron_boots:Korallen-Eisenstiefel
+scholars_shoes:Schuhe des Gelehrten
+rangers_boots:Stiefel des Waldläufers
 illusionists_shoes:Schuhe des Illusionisten
-heavy_rhino_boots:Schwere Nashornstiefel
+heavy_rhino_boots:Schwere Rhinozerosstiefel
 traitors_boots:Stiefel des Verräters
-foot_of_midas:Fuß von Midas
-boots_of_aspiration:Stiefel der Aspiration
-crimson_knights_boots:Purpurrote Ritterstiefel
+foot_of_midas:Fuß des Midas
+boots_of_aspiration:Stiefel der Bestrebung
+crimson_knights_boots:Stiefel des Purpurritters
 necromancers_boots:Stiefel des Nekromanten
-archers_boots:Bogenschützenstiefel
-boots_of_silence:Stiefel des Schweigens
-elven_magicians_shoes:Schuhe des Elfenzauberers
+archers_boots:Stiefel des Bogenschützen
+boots_of_silence:Stiefel der Stille
+elven_magicians_shoes:Schuhe des Elfenmagiers
 worn_shoes:Abgenutzte Schuhe
 vagabonds_shoes:Schuhe des Vagabunden
-kindled_boots:Kindled-Stiefel
-steel_boots:Stiefel aus Stahl
+kindled_boots:Entfachte Stiefel
+steel_boots:Stahlstiefel
 infiltrators_boots:Stiefel des Infiltrators
-gargoyles_boots:Gargoyles Stiefel
+gargoyles_boots:Gargoylenstiefel
 cultists_boots:Stiefel des Kultisten
 healers_boots:Stiefel des Heilers
-knights_boots:Ritterstiefel
-boots_of_the_undefeated:Stiefel der Unbesiegten
-commoners_boots:Commoner's Boots
-dyed_leather_shoes:Schuhe aus gefärbtem Leder
+knights_boots:Stiefel des Ritters
+boots_of_the_undefeated:Stiefel des Unbesiegten
+commoners_boots:Stiefel des Gemeinen
+dyed_leather_shoes:Gefärbte Lederschuhe
 heavy_iron_boots:Schwere Eisenstiefel
 desert_boots:Wüstenstiefel
-grey_scorpions_boots:Graue Skorpionstiefel
-blood_magic_boots:Stiefel von Blood Magic
-scrap_metal_boots:Stiefel aus Altmetall
+grey_scorpions_boots:Stiefel des Grauen Skorpions
+blood_magic_boots:Blutmagierstiefel
+scrap_metal_boots:Altmetallstiefel
 emperors_boots:Stiefel des Kaisers
 undead_knights_boots:Stiefel des Untoten Ritters
-iron_plate_boots:Stiefel aus Eisenplatte
-hide_boots:Stiefel verstecken
+iron_plate_boots:Eisenplattenstiefel
+hide_boots:Lederstiefel
 executioners_boots:Stiefel des Henkers
-mystics_boots:Stiefel von Mystic
+mystics_boots:Stiefel des Mystikers
 simple_leather_boots:Einfache Lederstiefel
 dwarven_boots:Zwergenstiefel
-dark_steel_boots:Stiefel aus dunklem Stahl
+dark_steel_boots:Dunkelstahl-Stiefel
 archmages_boots:Stiefel des Erzmagiers
 captains_boots:Stiefel des Kapitäns
-crushers_boots:Crusher's Boots
-elven_archers_boots:Elfen Bogenschützenstiefel
+crushers_boots:Stiefel des Zermalmers
+elven_archers_boots:Stiefel des Elfenbogenschützen
 shoes_of_deceit:Schuhe der Täuschung
-whisperers_boots:Whisperer-Stiefel
+whisperers_boots:Stiefel des Flüsterers
 brown_boots:Braune Stiefel
 desert_warriors_boots:Stiefel des Wüstenkriegers
 blunt_axe:Stumpfe Axt
-wooden_hammer:Hölzerner Hammer
-cutthroats_club:Cutthroats Club
+wooden_hammer:Holzhammer
+cutthroats_club:Knüppel des Meuchelmörders
 round_wooden_hammer:Runder Holzhammer
 soapstone_hammer:Specksteinhammer
-handcrafted_mace:Handgefertigte Streitkolben
-wooden_club:Club aus Holz
-gilded_mace:Vergoldete Keule
+handcrafted_mace:Handgefertigte Keule
+wooden_club:Holzkeule
+gilded_mace:Vergoldeter Morgenstern
 butchers_cleaver:Metzgerbeil
 morning_star:Morgenstern
-iron_bludgeon:Eiserner Knüppel
-iron_mace:Eiserne Streitkolben
-deep_sea_smiths_hammer:Tiefsee-Schmiedehammer
-platecrusher_hammer:Plattenbrecher, Hammer
+iron_bludgeon:Eisenkeule
+iron_mace:Eisenstreitkolben
+deep_sea_smiths_hammer:Tiefsee Schmiedehammer
+platecrusher_hammer:Plattenschläger Hammer
 flail:Flegel
-simple_war_pick:Einfacher War Pick
-soul_breaker:Soul Breaker
-iron_war_hammer:Eiserner Kriegshammer
-steel_war_hammer:Kriegshammer aus Stahl
-dwarven_kings_companion:Gefährte des Zwergenkönigs
+simple_war_pick:Einfache Kriegshacke
+soul_breaker:Seelenbrecher
+iron_war_hammer:Eisenkriegshammer
+steel_war_hammer:Stahlkriegshammer
+dwarven_kings_companion:Begleiter des Zwergenkönigs
 stone_mace:Steinstreitkolben
-wooden_mallet:Holzhammer
-executioners_hammer:Hammer des Henkers
-war_gavel:Kriegshaber
+wooden_mallet:Hölzerner Schlägel
+executioners_hammer:Henkerhammer
+war_gavel:Kriegsschlägel
 divine_weapon_aurora:Göttliche Waffe Aurora
-wooden_mace:Streitkolben aus Holz
+wooden_mace:Hölzerner Streitkolben
 broadaxe:Breitaxt
-pale_broadaxe:Blasse Breitaxt
-profaned_decapitater:Profanierter Enthaupteter
+pale_broadaxe:Blassbreitaxt
+profaned_decapitater:Entweihter Enthaupter
 mercenary_axe:Söldneraxt
-ivory_broadaxe:Elfenbeinfarbene Breitaxt
-reapers_axe:Axt des Sensenmanns
+ivory_broadaxe:Elfenbeinbreitaxt
+reapers_axe:Sensenaxt
 golden_bardiche:Goldene Bardiche
-moonlight_axe:Mondscheinaxt
-dwarven_warhammer:Warhammer der Zwerge
+moonlight_axe:Mondlichtaxt
+dwarven_warhammer:Zwergenkriegshammer
 amethyst_harvester:Amethyst-Erntemaschine
 emperors_judgement:Urteil des Kaisers
 undead_generals_axe:Axt des untoten Generals
-wooden_warhammer:Kriegshammer aus Holz
+wooden_warhammer:Hölzerner Kriegshammer
 deadly_diamond:Tödlicher Diamant
-ritual_dualblade:Ritual Doppelklinge
-bearded_twin_axe:Bärtige Zwillingsaxt
-spiderweb_twin_axe:Spinnennetz-Zwillingsaxt
-demonic_reaver:Dämonischer Räuber
-sunshine_twin_axe:Sunshine Twin Axe
-ember_storm:Glutsturm
+ritual_dualblade:Ritualpaarling
+bearded_twin_axe:Bärtige Doppelaxt
+spiderweb_twin_axe:Spinnweb-Doppelaxt
+demonic_reaver:Dämonischer Plünderer
+sunshine_twin_axe:Sonnenschein-Doppelaxt
+ember_storm:Ember-Sturm
 engraved_axe:Gravierte Axt
-elven_axe:Elfenaxt
-mirror_axe:Spiegelaxt
-guild_hammer:Gilde: Hammer
+elven_axe:Elfen Axt
+mirror_axe:Spiegel Axt
+guild_hammer:Zunfthammer
 blunt_iron_sword:Stumpfes Eisenschwert
-iron_spear:Eiserner Speer
+iron_spear:Eisenspeer
 goblin_spear:Goblinspeer
-cracked_spear:Gebrochener Speer
-wooden_spear:Speer aus Holz
-lance:Lance
+cracked_spear:Gesprungener Speer
+wooden_spear:Holzspeer
+lance:Lanze
 infantry_spear:Infanteriespeer
-handcrafted_glaive:Handgefertigter Glaive
-reinforced_glaive:Verstärkte Gleve
-sharktooth_balisong:Sharktooth Balisong
+handcrafted_glaive:Handgefertigte Glefe
+reinforced_glaive:Verstärkte Glefe
+sharktooth_balisong:Haifischzahn Balisong
 stone_spear:Steinspeer
 limestone_spear:Kalksteinspeer
 battle_spear:Kampfspeer
-orc_spear:Speer der Orks
-huntsmens_gem:Das Juwel der Jäger
-nomads_spear:Speer des Nomaden
-arrowhead_spear:Speer mit Pfeilspitze
-frostborn_spear:Frostborn Speer
-captains_hook:Haken des Kapitäns
-abyssal_lance:Lanze des Abgrunds
-darksteel_spear:Speer aus Dunkelstahl
-iron_pike:Eisenhecht
-wooden_glaive:Holzglaive
-sea_ruler:Herrscher des Meeres
-godsbane:Godsbane
-blade_of_the_undead:Die Klinge der Untoten
+orc_spear:Orkspeer
+huntsmens_gem:Edelstein der Jäger
+nomads_spear:Speer der Nomaden
+arrowhead_spear:Pfeilspitzenspeer
+frostborn_spear:Frostgeborener Speer
+captains_hook:Kapitänshaken
+abyssal_lance:Abysslanze
+darksteel_spear:Dunkelstahlspeer
+iron_pike:Eisenlanze
+wooden_glaive:Holzscheibe
+sea_ruler:Meeresbeherrscher
+godsbane:Götterbane
+blade_of_the_undead:Klinge der Untoten
 mercenary_sword:Söldnerschwert
-gladiators_sword:Schwert des Gladiators
+gladiators_sword:Gladiatorenschwert
 cursed_blade:Verfluchte Klinge
-abyssal_sword:Schwert des Abgrunds
-blade_of_the_dark_lord:Die Klinge des Dunklen Lords
-primitive_sword:Primitives Schwert
-demon_infantryman_sword:Schwert des Dämoneninfanteristen
-rusty_curved_sword:Rostiges gebogenes Schwert
+abyssal_sword:Abyss-Schwert
+blade_of_the_dark_lord:Klinge des Dunklen Lords
+primitive_sword:Urzeitliches Schwert
+demon_infantryman_sword:Dämoneninfanterieschwert
+rusty_curved_sword:Rostiges Krummschwert
 iron_scimitar:Eisensäbel
-darksteel_axe:Dunkelstahl-Axt
-dawn_blade:Dawn Blade
-barbed_sword:Schwert mit Stachel
-army_sword:Armeeschwert
-training_sword:Trainingsschwert
-city_watch_sword:City Watch Schwert
-elegant_bronze_sword:Elegantes Bronzeschwert
+darksteel_axe:Dunkelstahlaxt
+dawn_blade:Morgenschwert
+barbed_sword:Dornenschwert
+army_sword:Heeresschwert
+training_sword:Übungsschwert
+city_watch_sword:Stadtwacheschwert
+elegant_bronze_sword:Elegantes Bronzenes Schwert
 deep_sea_sword:Tiefseeschwert
 golden_protector:Goldener Beschützer
 carved_wooden_bow:Geschnitzter Holzbogen
-rangers_bow:Bogen des Waldläufers
-harmony_bow:Harmony Bow
-wooden_crossbow:Armbrust aus Holz
+rangers_bow:Waldläuferbogen
+harmony_bow:Harmoniebogen
+wooden_crossbow:Holzarmbrust
 ebony_bow:Ebenholzbogen
-scouts_bow:Bogen des Pfadfinders
+scouts_bow:Späherbogen
 silver_crossbow:Silberne Armbrust
 elven_bow:Elfenbogen
 outworn_crossbow:Abgenutzte Armbrust
 ivory_bow:Elfenbeinbogen
-divine_weapon_artemis:Göttliche Waffe: Artemis
-orc_bow:Ork-Bogen
-scorpions_bow:Bogen des Skorpions
-assassins_crossbow:Armbrust der Assassinen
-sharpshooters_bow:Bogen des Scharfschützen
-frostborn_bow:Frostborn Bow
-nightbringers_bow:Bogen des Nachtbringers
-composite_bow:Bogen aus Verbundwerkstoff
+divine_weapon_artemis:Heilige Waffe: Artemis
+orc_bow:Orkbogen
+scorpions_bow:Skorpionsbogen
+assassins_crossbow:Assassinenarmbrust
+sharpshooters_bow:Meisterschützenbogen
+frostborn_bow:Frostgeborener Bogen
+nightbringers_bow:Nachtbringerbogen
+composite_bow:Kompositbogen
 judgement:Urteil
-barbed_crossbow:Armbrust mit Widerhaken
+barbed_crossbow:Stachelarmbrust
 dreaded_bow:Gefürchteter Bogen
-serpent_eye_bow:Augenbogen mit Schlangenmotiv
+serpent_eye_bow:Schlangenaugenbogen
 bison_bow:Bisonbogen
 modern_crossbow:Moderne Armbrust
 harp_bow:Harfenbogen
-birch_bow:Birkenbogen
+birch_bow:Birkbogen
 primitive_crossbow:Primitive Armbrust
 nightbringers_ace:Ass des Nachtbringers
-demise_from_below:Untergang von unten
+demise_from_below:Ende von Unten
 demon_hunter:Dämonenjäger
 old_wooden_staff:Alter Holzstab
-wooden_stick:Stab aus Holz
+wooden_stick:Holzstab
 vagabonds_staff:Stab des Vagabunden
-druids_rod:Rute des Druiden
-goblin_staff:Goblin-Mitarbeiter
-shepherds_staff:Hirtenstab
-carved_rod:Geschnitzte Stange
+druids_rod:Druidenstab
+goblin_staff:Goblinstab
+shepherds_staff:Schaft des Schäfers
+carved_rod:Geschnitzter Stab
 bronze_rod:Bronzestab
-novices_staff:Mitarbeiter des Novizen
-scholars_staff:Mitarbeiter des Stipendiaten
-warlocks_staff:Stab des Hexers
+novices_staff:Stab des Novizen
+scholars_staff:Stab des Gelehrten
+warlocks_staff:Stab des Hexenmeisters
 grandmasters_staff:Stab des Großmeisters
-iron_staff:Eiserner Stab
-imperial_wizards_staff:Stab des Imperialen Zauberers
-broken_rod:Gebrochener Stab
+iron_staff:Eisenstab
+imperial_wizards_staff:Stab des Kaiserzauberers
+broken_rod:Zerbrochene Rute
 walking_stick:Gehstock
-cursed_ancient_rod:Verfluchte Uralte Rute
+cursed_ancient_rod:Verfluchte alte Rute
 golden_claw:Goldene Klaue
-rotten_staff:Rottes Personal
-frostborn_staff:Frostborn Mitarbeiter
+rotten_staff:Verrotteter Stab
+frostborn_staff:Frostgeborgener Stab
 lunar_rod:Mondrute
-rod_of_regeneration:Stab der Regeneration
-staff_of_life:Mitarbeiter von Life
+rod_of_regeneration:Rute der Regeneration
+staff_of_life:Stab des Lebens
 volcanic_heart:Vulkanisches Herz
-emerald_staff:Smaragd-Mitarbeiter
-crystal_clear_staff:Kristallklares Personal
-staff_of_whispers:Mitarbeiter von Whispers
-silver_mountain_staff:Mitarbeiter von Silver Mountain
-staff_of_corruption:Mitarbeiter der Korruptionsabteilung
-abyssal_void:Abgründige Leere
-amethyst_staff:Amethyst-Stab
-root_staff:Root-Mitarbeiter
-dried_root_staff:Getrocknetes Wurzelpersonal
-frauds_staff:Mitarbeiter von Fraud
-vital_staff:Vitales Personal
-firefly_staff:Mitarbeiter von Firefly
-talisman_staff:Talisman-Mitarbeiter
-necromancers_staff:Stab des Nekromanten
-deepsea_rod:Tiefseestrute
-# cold_ruler:Kalter Herrscher
-bone_staff:Mitarbeiter von Bone
-ember_heart_staff:Ember Heart Mitarbeiter
-archmages_staff:Mitarbeiter der Erzmagier
-gold_ore_staff:Gold Ore Mitarbeiter
-alchemists_staff:Stab des Alchemisten
-overseer_staff:Mitarbeiter des Aufsehers
-eternal_ice_rod:Ewiger Eisstab
-unholy_desecrator staff:Mitarbeiter von Unholy Desecrator
-tempestforged_staff:Tempestforged Mitarbeiter
-runebound_rod:Runengebundene Rute
+emerald_staff:Smaragdstab
+crystal_clear_staff:Kristallklarer Stab
+staff_of_whispers:Stab des Flüsterns
+silver_mountain_staff:Silberbergstab
+staff_of_corruption:Stab der Verderbnis
+abyssal_void:Abyssale Leere
+amethyst_staff:Amethyststab
+root_staff:Wurzelstab
+dried_root_staff:Getrockneter Wurzelstab
+frauds_staff:Stab des Betrügers
+vital_staff:Vitalstab
+firefly_staff:Glühwürmchenstab
+talisman_staff:Talismanstab
+necromancers_staff:Nekromantenstab
+deepsea_rod:Tiefseerute
+# cold_ruler:Cold Ruler
+bone_staff:Knochenstab
+ember_heart_staff:Ember Herz Stab
+archmages_staff:Erzmagierstab
+gold_ore_staff:Golderzstab
+alchemists_staff:Alchemistenstab
+overseer_staff:Aufseherstab
+eternal_ice_rod:Ewige Eisrute
+unholy_desecrator staff:Unheiliger Entweiherstab
+tempestforged_staff:Sturmgeschmiedeter Stab
+runebound_rod:Runenbann-Rute
 enigma_scepter:Enigma-Zepter
-centurial_rod:Centurial Rod
-spear_rod:Speerrute
-eonwoven_rod:Gewebter Stab
-elysian_luminary_wand:Elysischer Leuchtstab
-emberglow_wand:Emberglow Zauberstab
+centurial_rod:Hundertjährige Rute
+spear_rod:Lanzenträger-Rute
+eonwoven_rod:Eonengespinst-Rute
+elysian_luminary_wand:Elysianischer Leuchtstab
+emberglow_wand:Emberschein-Zauberstab
 kitchen_knife:Küchenmesser
 corkscrew:Korkenzieher
-volcanic_dagger:Vulkanischer Dolch
+volcanic_dagger:Vulkan-Dolch
 filleting_knife:Filetiermesser
 butter_knife:Buttermesser
 steel_dagger:Stahldolch
-ancient_dagger:Uralter Dolch
-captains_knife:Messer des Kapitäns
-rogues_dagger:Dolch des Schurken
-silver_severance:Silberne Abfindung
-wyvern_dirk:Wyvern Dirk
-runestone_dagger:Runensteindolch
-assassins_dagger:Dolch des Assassinen
-iron_knuckles:Eiserne Knöchel
-golden_knuckles:Goldene Fingerknöchel
-brass_knuckles:Schlagringe
+ancient_dagger:Antiker Dolch
+captains_knife:Kapitänsmesser
+rogues_dagger:Schurken-Dolch
+silver_severance:Silbertrennung
+wyvern_dirk:Wyverndolch
+runestone_dagger:Runenstein-Dolch
+assassins_dagger:Assassinen Dolch
+iron_knuckles:Eisenknöchel
+golden_knuckles:Goldknöchel
+brass_knuckles:Messingknöchel
 horned_dagger:Gehörnter Dolch
-cutthroats_knife:Das Messer des Halsabschneiders
-steel_shortblade:Kurzmesser aus Stahl
-kindled_blade:Entfaltete Klinge
-jagged_knife:Gezacktes Messer
-reavers_knife:Schneidermesser
-brass_claws:Messingkrallen
-iron_dirk:Iron Dirk
-blunt_dirk:Stumpfer Dirk
+cutthroats_knife:Meuchelmördermesser
+steel_shortblade:Stahlkurzklinge
+kindled_blade:Entfachte Klinge
+jagged_knife:Zackiges Messer
+reavers_knife:Plünderermesser
+brass_claws:Messingklauen
+iron_dirk:Eisendolch
+blunt_dirk:Stumpfer Dolch
 razor_knife:Rasiermesser
-bear_claws:Bärenkrallen
+bear_claws:Bärenklauen
 fading_splendor:Verblassende Pracht
-profaned_doomblade:Profaniertes Doomblade
-lovers_gift:Geschenk für einen Liebhaber
+profaned_doomblade:Enweihte Todesklinge
+lovers_gift:Liebesgabe
 elven_dagger:Elfendolch
-predator_fang:Raubtier Fang
-amber_knife:Bernsteinmesser
-iron_scalpel:Eisernes Skalpell
-crimson_slicer:Karminroter Hobel
+predator_fang:Raubtierfänge
+amber_knife:Embermesser
+iron_scalpel:Eisenskalpell
+crimson_slicer:Karmesinschneider
 twin_fang:Zwillingsfang
-aquamarine_carver:Aquamarin-Schnitzer
-elven_kings_insurance:Die Versicherung des Elfenkönigs
+aquamarine_carver:Aquamarinmeißel
+elven_kings_insurance:Versicherung des Elfenkönigs
 forkblade:Gabelklinge
 heartbeat:Herzschlag
-forests_curse:Der Fluch des Waldes
-moonlight_blade:Mondscheinklinge
-deepsea_executioner:Deepsea Executioner
-embers_edge:Embers Edge
-moonsteel_razor:Moonsteel Rasiermesser
-starter_shield:Starterschild
-starter_quiver:Starter Quiver
-starter_grimoire:Anlasser Grimoire
-starter_lifestone:Anlasser Lifestone
-starter_talisman:Starter Talisman
-final_crown:Letzte Krone
-mjolnir:Mjölnir
-bonebreaker_blossom:Bonebreaker Blossom
-dragonsong_blade:Dragonsong Blade
+forests_curse:Fluch des Waldes
+moonlight_blade:Mondlichtklinge
+deepsea_executioner:Tiefseehenker
+embers_edge:Kante von Ember
+moonsteel_razor:Mondstahlrasierer
+starter_shield:Anfängerschild
+starter_quiver:Anfänger-Köcher
+starter_grimoire:Anfängergrimoire
+starter_lifestone:Anfänger-Lebensstein
+starter_talisman:Anfänger-Talisman
+final_crown:Endkrone
+mjolnir:Mjolnir
+bonebreaker_blossom:Knochenbrecher Blüte
+dragonsong_blade:Drachengesang-Klinge
 lightbringer:Lichtbringer
-wrath_of_the_sun_god:Der Zorn des Sonnengottes
-skysunder_blade:Skysunder Blade
+wrath_of_the_sun_god:Zorn des Sonnengottes
+skysunder_blade:Himmelssturz-Klinge
 gilded_horizon:Vergoldeter Horizont
 graceful_hunter:Anmutiger Jäger
-nightshade_whisper:Nachtschattengeflüster
-crimson_bolt:Purpurroter Bolzen
+nightshade_whisper:Nachtschattenflüstern
+crimson_bolt:Purpurner Blitz
 seraphims_wing:Seraphims Flügel
-stormhawk:Stormhawk
-silverwing:Silberner Flügel
-evershift_scepter:Evershift-Zepter
-hellscream_blade:Höllscream-Klinge
-soulreaver_talons:Seelenreaver-Krallen
-crystalline_blade:Kristalline Klinge
-abyss_dancers_boots:Stiefel des Abyss-Tänzers
-nightblade_boots:Nightblade-Stiefel
+stormhawk:Sturmhauk
+silverwing:Silberflügel
+evershift_scepter:Ewigwandel-Zepter
+hellscream_blade:Höllenschrei-Klinge
+soulreaver_talons:Seelenräuberklauen
+crystalline_blade:Kristallklinge
+abyss_dancers_boots:Stiefel der Abgrundtänzerin
+nightblade_boots:Nachtklingenstiefel
+undersea_crown:Unterwasserkrone

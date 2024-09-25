@@ -1,780 +1,781 @@
-iron_protector:Железный протектор
-wise_mens_charm:Подвеска для мудрецов
-amulet_of_the_unbroken:Амулет непоколебимого
-ruby_heart:Рубиновое сердце
-sabretooth_talisman:Саблезубый талисман
-miners_charm:Шарм шахтера
-topaz_amulet:Амулет с топазом
-emerald_necklace:Ожерелье с
-sealed_pearl_of_the_abyss:Запечатанная жемчужина бездны
-queens_wrath:Гнев королевы
-the_human_jaw:Человеческая челюсть
-blue_prism_necklace:Ожерелье с голубой призмой
-minor_talisman:Малый талисман
-blacksmiths_mark:Знак кузнеца
-ward_stone:Уорд Стоун
-amethyst_necklace:Ожерелье с аметистом
-scholars_necklace:Ожерелье ученого
-wolf_fang_talisman:Талисман «Волчий клык»
+iron_protector:Железный Защитник
+wise_mens_charm:Оберег Мудрецов
+amulet_of_the_unbroken:Амулет Непокорных
+ruby_heart:Рубиновое Сердце
+sabretooth_talisman:Талисман Саблезуба
+miners_charm:Оберег Шахтера
+topaz_amulet:Топазовый Амулет
+emerald_necklace:Изумрудное Ожерелье
+sealed_pearl_of_the_abyss:Запечатанная Жемчужина Бездны
+queens_wrath:Гнев Королевы
+the_human_jaw:Челюсть Человека
+blue_prism_necklace:Ожерелье Голубого Призмы
+minor_talisman:Малый Талисман
+blacksmiths_mark:Клеймо Кузнеца
+ward_stone:Камень Охраны
+amethyst_necklace:Аметистовое Ожерелье
+scholars_necklace:Ожерелье Ученого
+wolf_fang_talisman:Талисман Волчьего Клыка
 heart_of_gaia:Сердце Геи
-petrified_shell:Окаменевшая раковина
+petrified_shell:Окаменелая Раковина
 unholy_cross:Нечестивый крест
 spirit_tear:Слеза духа
 jade_dragonfly:Нефритовая стрекоза
 ocean_shard:Осколок океана
-silver_breeze:Сильвер Бриз
-sea_serpents_eye:Глаз морского змея
+silver_breeze:Серебряный бриз
+sea_serpents_eye:Глаз морской змеи
 old_fishing_hook:Старый рыболовный крючок
-ancient_ruby_necklace:Ожерелье из древнего
-fishermens_charm:Очарование рыбака
+ancient_ruby_necklace:Древнее рубиновое ожерелье
+fishermens_charm:Талисман рыбаков
 scarlet_medallion:Алый медальон
 amulet_of_the_water_spirit:Амулет водного духа
-darkthorn_necklace:Ожерелье из темного
-sapphire_amulet:Амулет с сапфи
-alchemists_trump:Трамп алхимика
-glowberry_charm:Подвеска «Глоуберри»
-rune_of_ascension:Руна Вознесения
+darkthorn_necklace:Ожерелье Темного Шипа
+sapphire_amulet:Сапфировый амулет
+alchemists_trump:Козырь алхимика
+glowberry_charm:Талисман светочника
+rune_of_ascension:Руна вознесения
 rune_of_thunder:Руна грома
 rune_of_life:Руна жизни
 gravestone_fragment:Фрагмент надгробия
-blacksmiths_charm:Оберег кузнеца
-all_seeing_eye:Всевидящее око
-tricksters_charm:Очарование трикстера
-lucky_charm_of_the_gambler:Счастливый талисман игрока
-gift_from_the_reaper:Подарок от Жнеца
-necklace_of_the_duchess:Ожерелье герцогини
+blacksmiths_charm:Талисман кузнеца
+all_seeing_eye:Всевидящее Око
+tricksters_charm:Амулет Трикстера
+lucky_charm_of_the_gambler:Счастливый Талисман Игрока
+gift_from_the_reaper:Дар Жнеца
+necklace_of_the_duchess:Ожерелье Герцогини
 leviathans_eyes:Глаза Левиафана
-protective_runes:Защитные руны
-golden_scarab:Золотой скарабей
-protective_shell:Защитная оболочка
-shell_talisman:Талисман из ракушек
-insignia_of_the_sun:Знак отличия Солнца
-oyster_pearl:Устричный жемчуг
-insignia_of_the_moon:Знак отличия Луны
-scorpio_necklace:Ожерелье скорпиона
-novices_necklace:Ожерелье новичка
-false_temptress:Ложная искусительница
-lifestone_necklace:Ожерелье Lifestone
-amulet_of_the_vampire_queen:Амулет королевы вампиров
-wolf_ward:Вольф Уорд
-mushroom_pickers_lucky_charm:Счастливый талисман грибника
-golden_lizard_band:Группа «Золотая ящерица»
-lost_family_heirloom:Потерянная семейная реликвия
-elven_neckband:Эльфийский шейный ободок
-shamans_lucky_charm:Счастливый талисман шамана
-amulet_of_the_wind_spirit:Амулет духа ветра
-amazonite_talisman:Талисман из амазонита
-pearl_necklace:Ожерелье из
-false_abyss_stone:Фальшивый камень бездны
-witches_eye:Глаз ведьмы
-hunters_charm:Охотничий талисман
-heart_of_the_underworld:Сердце подземного мира
-prayer_beads:Бусы для молитвы
-azurite_protector:Протектор из азурита
-blind_dragon_eye:Глаз слепого дракона
-prisoners_mark:Знак заключенного
-warlocks_necklace:Ожерелье чернокнижника
-cultist_stone:Культист Стоун
-alchemists_token:Жетон алхимика
-foragers_orb:Сфера фуражера
-medallion_of_fortune:Медальон удачи
-eye_of_chaos:Глаз хаоса
-golden_chain:Золотая цепочка
-abyssal_ore:Абиссальная руда
-gem_of_harmony:Жемчужина гармонии
-gem_of_nature:Жемчужина природы
-ancient_collar:Древний ошейник
-paladins_honour:Честь паладина
-gem_of_renewal:Жемчужина обновления
-archmages_necklace:Ожерелье верховного мага
-eye_of_the_storm:Око шторма
-iron_band:Железная лента
-brass_band:Духовой оркестр
+protective_runes:Защитные Руны
+golden_scarab:Золотой Скарабей
+protective_shell:Защитная Раковина
+shell_talisman:Талисман из Раковины
+insignia_of_the_sun:Знак Солнца
+oyster_pearl:Жемчужина Устрицы
+insignia_of_the_moon:Знак Луны
+scorpio_necklace:Ожерелье Скорпиона
+novices_necklace:Ожерелье Новичка
+false_temptress:Лживая Искусительница
+lifestone_necklace:Ожерелье из Камня Жизни
+amulet_of_the_vampire_queen:Амулет Королевы Вампиров
+wolf_ward:Оберег Волка
+mushroom_pickers_lucky_charm:Счастливый Талисман Грибника
+golden_lizard_band:Золотой Обруч Ящерицы
+lost_family_heirloom:Потерянная Семейная Реликвия
+elven_neckband:Эльфийский Ошейник
+shamans_lucky_charm:Счастливый Талисман Шамана
+amulet_of_the_wind_spirit:Амулет Духа Ветра
+amazonite_talisman:Талисман из Амазонита
+pearl_necklace:Жемчужное Ожерелье
+false_abyss_stone:Искусственный Камень Бездны
+witches_eye:Глаз Ведьмы
+hunters_charm:Талисман Охотника
+heart_of_the_underworld:Сердце Подземного Мира
+prayer_beads:Четки для Молитвы
+azurite_protector:Азуритовый Защитник
+blind_dragon_eye:Глаз Слепого Дракона
+prisoners_mark:Знак Узника
+warlocks_necklace:Ожерелье Колдуна
+cultist_stone:Камень Культиста
+alchemists_token:Знак Алхимика
+foragers_orb:Сфера Собирателя
+medallion_of_fortune:Медальон Удачи
+eye_of_chaos:Око Хаоса
+golden_chain:Золотая Цепь
+abyssal_ore:Бездна Руда
+gem_of_harmony:Камень Гармонии
+gem_of_nature:Камень Природы
+ancient_collar:Древний Ошейник
+paladins_honour:Честь Паладина
+gem_of_renewal:Камень Обновления
+archmages_necklace:Ожерелье Архимага
+eye_of_the_storm:Око Шторма
+iron_band:Железное Кольцо
+brass_band:Латунное Кольцо
 vanity_of_the_abyss:Тщеславие Бездны
-monks_pearls:Жемчужины монаха
+monks_pearls:Монашеские Жемчуга
 bards_thread:Нить Барда
-tortoise_heart:Сердце черепахи
-ancient_ashes:Древний пепел
-mystics_amulet:Амулет мистика
-trees_bounty:Щедрость дерева
-shield_charm:Оберег щита
-grandmasters_necklace:Ожерелье магистра
-rune_of_tides:Руна приливов
-princes_amulet:Амулет принца
-princess_amulet:Амулет принцессы
-lunas_gift:Подарок Луны
-kings_crest:Королевский герб
-queens_crest:Герб королевы
-servants_crest:Герб слуги
-cursed_runestone:Проклятый рунный камень
-gem_of_vitality:Жемчужина жизненной силы
+tortoise_heart:Сердце Черепахи
+ancient_ashes:Древние Пепел
+mystics_amulet:Амулет Мистика
+trees_bounty:Дары Дерева
+shield_charm:Заклинание Щита
+grandmasters_necklace:Ожерелье Великого Мастера
+rune_of_tides:Руна Приливов
+princes_amulet:Амулет Принца
+princess_amulet:Амулет Принцессы
+lunas_gift:Дар Луны
+kings_crest:Герб Короля
+queens_crest:Герб Королевы
+servants_crest:Герб Слуги
+cursed_runestone:Проклятый Рунический Камень
+gem_of_vitality:Камень Жизненной Силы
 eye_of_pandora:Глаз Пандоры
-dragons_ire:Гнев дракона
-spirit_essence:Духовная сущность
-journeys_end:Конец путешествия
-pharmacists_mark:Знак фармацевта
-ring_of_binding:Переплетное кольцо
-constricting_band:Сужающая лента
-apprentice_ring:Кольцо «Ученик»
-valkyrie_ring:Кольцо «Валькирия»
-beasts_maw:Чудовищная пасть
+dragons_ire:Гнев Дракона
+spirit_essence:Эссенция Духа
+journeys_end:Конец Путешествия
+pharmacists_mark:Знак Аптекаря
+ring_of_binding:Кольцо Связывания
+constricting_band:Стягивающее Кольцо
+apprentice_ring:Кольцо Ученика
+valkyrie_ring:Кольцо Валькирии
+beasts_maw:Пасть Зверя
 abyssal_ring:Кольцо Бездны
-channeling_ring:Кольцо для ченнелинга
-engraved_gold_ring:Золотое кольцо с гравировкой
-rusted_ring:Ржавое кольцо
-appraised_ring:Оценочное кольцо
-queens_ring:Кольцо королевы
-cats_eye:Кошачий глаз
-cursed_ring:Проклятое кольцо
-amber_ring:Янтарное кольцо
-merchants_ring:Кольцо торговца
-copper_ring:Медное кольцо
-ring_of_mana:Кольцо маны
-ring_of_vitality:Кольцо жизненной силы
-ring_of_rage:Кольцо ярости
-ring_of_clairvoyance:Кольцо ясновидения
-notched_ring:Зубчатое кольцо
-ancient_ring:Древнее кольцо
-ring_of_necromancy:Кольцо некромантии
-dragonhunters_ring:Кольцо охотника на драконов
-sirens_ring:Кольцо сирены
-gold_band:Золотая лента
+channeling_ring:Кольцо Канализации
+engraved_gold_ring:Гравированное Золотое Кольцо
+rusted_ring:Ржавое Кольцо
+appraised_ring:Оцененное Кольцо
+queens_ring:Кольцо Королевы
+cats_eye:Кошачий Глаз
+cursed_ring:Проклятое Кольцо
+amber_ring:Кольцо Янтаря
+merchants_ring:Кольцо Торговца
+copper_ring:Медное Кольцо
+ring_of_mana:Кольцо Маны
+ring_of_vitality:Кольцо Живучести
+ring_of_rage:Кольцо Ярости
+ring_of_clairvoyance:Кольцо Ясновидения
+notched_ring:Зазубренное Кольцо
+ancient_ring:Древнее Кольцо
+ring_of_necromancy:Кольцо Некромантии
+dragonhunters_ring:Кольцо Драконоборца
+sirens_ring:Кольцо Сирены
+gold_band:Золотой ободок
 gold_ring:Золотое кольцо
 turquoise_ring:Бирюзовое кольцо
 monarchs_ring:Кольцо монарха
 dance_of_the_deep:Танец глубин
 pharaohs_curse:Проклятие фараона
 ring_of_ouroboros:Кольцо Уробороса
-gargoyles_ring:Кольцо горгульи
+gargoyles_ring:Кольцо гаргульи
 fragment_of_the_abyss:Фрагмент бездны
-sanded_serpentine_ring:Шлифованное змеевидное кольцо
-vermillion_merchant_ring:Кольцо торговцев киноварём
-snake_bite_ring:Кольцо «Укус зме
-living_deep_sea_ring:Живое глубоководное кольцо
-forest_warden_ring:Кольцо «Лесной смотритель»
-anti_magic_ring:Антимагическое кольцо
+sanded_serpentine_ring:Отшлифованное змеевиковое кольцо
+vermillion_merchant_ring:Кольцо багрового купца
+snake_bite_ring:Кольцо укуса змеи
+living_deep_sea_ring:Кольцо живого глубокого моря
+forest_warden_ring:Кольцо лесного стража
+anti_magic_ring:Анти-магическое кольцо
 shard_of_eternal_ice:Осколок вечного льда
-novices_ring:Кольцо для новичков
-scholars_ring:Кольцо ученого
-studded_bronze_ring:Бронзовое кольцо с шипами
-alchemy_ring:Кольцо «Алхимия»
-celtic_ring:Кельтское кольцо
-abyss_servant_ring:Кольцо «Слуга Бездны»
-honeycomb_ring:Кольцо с сотами
-iron_bull_ring:«Железный бык ринг»
-brass_bull_ring:Медное кольцо для быков
-cobalt_bull_ring:Кобальтовое кольцо для бы
-geode_ring:Кольцо «Жеода»
-bone_ring:Костяное кольцо
-band_of_smithing:Оркестр кузнечного дела
-claw_ring:Кольцо с ког
-ring_of_good_fortune:Кольцо удачи
-moon_aegis_ring:Кольцо «Эгида Луны»
-eclipse_ring:Кольцо Затм
+novices_ring:Кольцо новичка
+scholars_ring:Кольцо учёного
+studded_bronze_ring:Клёпанное бронзовое кольцо
+alchemy_ring:Кольцо алхимика
+celtic_ring:Кельтское Кольцо
+abyss_servant_ring:Кольцо Слуги Бездна
+honeycomb_ring:Кольцо Сотов
+iron_bull_ring:Кольцо Железного Быка
+brass_bull_ring:Кольцо Латунного Быка
+cobalt_bull_ring:Кольцо Кобальтового Быка
+geode_ring:Геодное Кольцо
+bone_ring:Костяное Кольцо
+band_of_smithing:Кольцо Кузнечного Мастерства
+claw_ring:Когтевая Кольцо
+ring_of_good_fortune:Кольцо Удачи
+moon_aegis_ring:Кольцо Лунного Эгида
+eclipse_ring:Кольцо Затмения
 helios:Гелиос
-troglodyte_ring:Кольцо троглодитов
-tigers_eye_ring:Кольцо «Тигровый глаз»
-turtle_shell_ring:Кольцо из черепахи
-elegant_cheese_ring:Элегантное сырное кольцо
-old_spool:Старая шпуля
-wyvern_egg_ring:Кольцо с яйцом «Виверна»
-the_awakened_abyss:Пробужденная бездна
+troglodyte_ring:Кольцо Троглодита
+tigers_eye_ring:Кольцо Тигрового Глаза
+turtle_shell_ring:Кольцо Черепашьего Панциря
+elegant_cheese_ring:Кольцо Изысканного Сыра
+old_spool:Старая Катушка
+wyvern_egg_ring:Кольцо Яйца Виверны
+the_awakened_abyss:Пробудившаяся Бездна
 horseshoe_ring:Кольцо в форме подковы
-ruby_ring:кольцо с рубином
+ruby_ring:Рубиновое кольцо
 emerald_ring:Изумрудное кольцо
-rough_gold_ring:Кольцо из необработанного золота
+rough_gold_ring:Грубое золотое кольцо
 soul_of_nature:Душа природы
-void_ring:Кольцо пустоты
+void_ring:Кольцо Пустоты
 ring_of_the_reaper:Кольцо Жнеца
 silver_garnet_ring:Серебряное кольцо с гранатом
-ring_of_bloodlust:Кольцо жажды крови
-maw_of_the_abyss:«Ласть бездны»
+ring_of_bloodlust:Кольцо Жажды Крови
+maw_of_the_abyss:Пасть Бездны
 vampire_ring:Кольцо вампира
-sepia_ring:Кольцо с сепией
+sepia_ring:Сепиевое кольцо
 heir_of_the_abyss:Наследник Бездны
-ring_of_nightmares:Кольцо кошмаров
-ring_of_learning:Кольцо обучения
-dormant_abyss_ring:Кольцо «Спящая бездна»
+ring_of_nightmares:Кольцо Кошмаров
+ring_of_learning:Кольцо Учёности
+dormant_abyss_ring:Спящее Кольцо Бездны
 wooden_ring:Деревянное кольцо
-ring_of_rot:Кольцо гнили
-darkstar_ring:Кольцо «Темная звезда»
-old_cog:Старый винтик
-ring_of_the_duchess:Кольцо герцогини
-deformed_gold_ring:Деформированное золотое кольцо
-lizards_eye_ring:Кольцо «Глаз ящерицы»
-ring_of_embers:Кольцо углей
-kings_seal:Королевская печать
-ivory_ring:Кольцо слоновой кости
-travellers_ring:Кольцо путешественника
-iron_sun_ring:Железное солнцезащитное кольцо
-sapphire_ring:Сапфировое
-ring_of_the_demon_lord:Кольцо Повелителя демонов
-boulder_ring:Кольцо Боулдер
-opal_ring:Кольцо с опалом
-symbol_of_love:Символ любви
-abyss_watcher:Наблюдатель за бездной
-frost_ring:Кольцо мороза
-circle_of_thorns:Круг тернов
-ring_of_dusk:Кольцо заката
-ring_of_dawn:Кольцо рассвета
-crystal_ring:Хрустальное кольцо
-ring_of_eternal_winter:Кольцо вечной зимы
-dead_coral_ring:Кольцо мертвых кораллов
-ring_of_divinity:Кольцо божественности
-genesis_of_life:Генезис жизни
-unyielding_defender:Непоколебимый защитник
-centurions_plate:Тарелка центуриона
+ring_of_rot:Кольцо Гниения
+darkstar_ring:Кольцо Тёмной Звезды
+old_cog:Старое Колесо
+ring_of_the_duchess:Кольцо Герцогини
+deformed_gold_ring:Деформированное Золотое Кольцо
+lizards_eye_ring:Кольцо Глаз Ящерицы
+ring_of_embers:Кольцо Embers
+kings_seal:Печать Короля
+ivory_ring:Кольцо из Слоновой Кости
+travellers_ring:Кольцо Путешественника
+iron_sun_ring:Кольцо Железного Солнца
+sapphire_ring:Сапфировое Кольцо
+ring_of_the_demon_lord:Кольцо Лорда Демонов
+boulder_ring:Кольцо Скалы
+opal_ring:Опаловое Кольцо
+symbol_of_love:Символ Любви
+abyss_watcher:Страж Бездны
+frost_ring:Кольцо Мороза
+circle_of_thorns:Круг Шипов
+ring_of_dusk:Кольцо Сумерек
+ring_of_dawn:Кольцо Зари
+crystal_ring:Кристальное Кольцо
+ring_of_eternal_winter:Кольцо Вечной Зимы
+dead_coral_ring:Кольцо Мертвого Коралла
+ring_of_divinity:Кольцо Божественности
+genesis_of_life:Зачатие Жизни
+unyielding_defender:Несгибаемый Защитник
+centurions_plate:Доспех Центуриона
 tunic:Туника
-mystics_robe:Одеяние мистика
-bear_pelt:Медвежья шкура
-torn_tunic:Разорванная туника
-novices_robe:Халат новичка
-scholars_robe:Халат ученого
-warlocks_robe:Одеяние чернокнижника
-archmages_robe:Одеяние верховного мага
-cultists_robe:Одеяние культиста
-grandmasters_robe:Халат гроссмейстера
-brown_tunic:Коричневая туника
-elven_magicians_robe:Одеяние эльфийского волшебника
-shamans_robe:Одеяние шамана
-robe_of_the_healer:Одеяние целителя
-sorcerers_robe:Одеяние чародея
-magic_mercenarys_robe:Одеяние волшебного наемника
-elven_tunic:Эльфийская туника
-cloak_of_aspiration:Плащ аспирации
-robe_of_deceit:Одеяние обмана
-elven_kings_armor:Доспехи Эльфийского короля
-crimson_knights_plate:Тарелка «Багровый рыцарь»
-dragon_scale_cuirass:Кираса в драконьей чешуе
-generals_chestplate:Нагрудник генерала
-diplomats_robe:Халат дипломата
-sharpshooters_armor:Доспехи снайпера
-abyss_wanderers_armor:Доспехи странника бездны
-vagabonds_robe:Халат бродяги
-brown_leather_armor:Коричневый кожаный бро
-barbarians_armor:Доспехи варвара
-black_velvet_robe:Черный бархатный халат
-rogues_armor:Доспехи разбойника
-iron_plackart:Железный плакарт
-priests_robe:Одеяние священника
-warriors_chestplate:Нагрудник воина
-crested_emerald_armor:Хохлатая изумрудная броня
-kindled_armor:Зажжённая броня
-desert_warriors_armor:Доспехи воина пустыни
-nightbringers_armor:Доспехи Ночного приносца
+mystics_robe:Одеяние Мистика
+bear_pelt:Медвежья Шкура
+torn_tunic:Рваная Туника
+novices_robe:Одеяние Новичка
+scholars_robe:Одеяние Ученого
+warlocks_robe:Одеяние Колдуна
+archmages_robe:Одеяние Архимага
+cultists_robe:Одеяние Культиста
+grandmasters_robe:Одеяние Гроссмейстера
+brown_tunic:Коричневая Туника
+elven_magicians_robe:Одеяние Эльфийского Магa
+shamans_robe:Одеяние Шамана
+robe_of_the_healer:Одеяние Целителя
+sorcerers_robe:Роба Чародея
+magic_mercenarys_robe:Роба Магического Наемника
+elven_tunic:Эльфийская Туника
+cloak_of_aspiration:Плащ Стремлений
+robe_of_deceit:Роба Обмана
+elven_kings_armor:Доспехи Эльфийского Короля
+crimson_knights_plate:Латы Алого Рыцаря
+dragon_scale_cuirass:Кираса из Драконьих Чешуек
+generals_chestplate:Нагрудник Генерала
+diplomats_robe:Роба Дипломата
+sharpshooters_armor:Доспехи Меткого Стрелка
+abyss_wanderers_armor:Доспехи Скитальца Пропасти
+vagabonds_robe:Роба Бродяги
+brown_leather_armor:Броня из Коричневой Кожи
+barbarians_armor:Доспехи Варвара
+black_velvet_robe:Черная Бархатная Роба
+rogues_armor:Доспехи Разбойника
+iron_plackart:Железный Плакарь
+priests_robe:Роба Жреца
+warriors_chestplate:Нагрудник Воина
+crested_emerald_armor:Доспехи с изумрудным гребнем
+kindled_armor:Доспехи горящих углей
+desert_warriors_armor:Доспехи пустынного воина
+nightbringers_armor:Доспехи ночного странника
 necromancers_robe:Одеяние некроманта
 legendary_adventurers_armor:Доспехи легендарного искателя приключений
-iron_plate_armor:Броня из железных пластин
-kings_guard_armor:Броня королевской гвардии
-worn_bronze_mail:Изношенная бронзовая почта
-seastone_armor:Броня из морского камня
-dyed_leather_armor:Окрашенная кожаная броня
+iron_plate_armor:Железный латный доспех
+kings_guard_armor:Доспехи стража короля
+worn_bronze_mail:Истёртая бронзовая кольчуга
+seastone_armor:Доспехи из морского камня
+dyed_leather_armor:Красочные кожаные доспехи
 executioners_armor:Доспехи палача
 gargoyles_armor:Доспехи горгульи
-pearl_plackart:Перл Плакарт
-suit_of_the_faded_dragon:Костюм выцветшего дракона
-rangers_armor:Доспехи рейнджера
-occult_robe:Оккультный халат
+pearl_plackart:Жемчужный наперсник
+suit_of_the_faded_dragon:Костюм угасающего дракона
+rangers_armor:Доспехи следопыта
+occult_robe:Оккультное одеяние
 bards_tunic:Туника барда
-armor_of_the_undefeated:Доспехи непобежденных
+armor_of_the_undefeated:Доспехи непобеждённого
 assassins_armor:Доспехи ассасина
-composite_breastplate:Композитный нагрудник
-infiltrators_armor:Доспехи лазутчика
-traitors_armor:Доспехи предателя
-lower_nobles_tunic:Туника Нижнего Нобла
-emperors_protector:Защитник императора
-dark_steel_plate:Темная стальная пластина
-hide_armor:Скрыть броню
-grey_scorpions_armor:Доспехи серого скорпиона
-reinforced_rhino_plate:Усиленная пластина Rhino
-heavy_iron_plate:Тяжелая железная пластина
-reapers_skin:Кожа жнеца
-undead_knights_armor:Доспехи рыцаря-нежити
+composite_breastplate:Комбинированный нагрудник
+infiltrators_armor:Броня Инфильтратора
+traitors_armor:Броня Предателя
+lower_nobles_tunic:Туника Младшего Дворянина
+emperors_protector:Защитник Императора
+dark_steel_plate:Тёмная стальная пластина
+hide_armor:Кожаная броня
+grey_scorpions_armor:Броня Серого Скорпиона
+reinforced_rhino_plate:Усиленная пластина носорога
+heavy_iron_plate:Тяжёлая железная пластина
+reapers_skin:Кожа Жнеца
+undead_knights_armor:Броня Рыцаря Нежити
 phantom_steel_plate:Фантомная стальная пластина
-coral_iron_armor:Железная броня из коралла
-scouts_armor:Доспехи разведчика
-archers_armor:Доспехи лучника
-legionnaires_armor:Доспехи легионера
-shadow_blades_armor:Доспехи Теневого клинка
-mercenaries_bracers:Наручи наемника
+coral_iron_armor:Кораловая железная броня
+scouts_armor:Броня Разведчика
+archers_armor:Броня Лучника
+legionnaires_armor:Броня Легиона
+shadow_blades_armor:Броня Теневого Клинка
+mercenaries_bracers:Наручи Наёмника
 ominous_bracelet:Зловещий браслет
-sharpshooters_bracelet:Браслет снайпера
-illusionists_robe:Халат иллюзиониста
-abyss_wanderers_bracer:Наручи странника бездны
-gloves_of_deceit:Перчатки обмана
-novices_bracers:Наручи для новичков
-composite_gloves:Композитные перчатки
-vagabonds_gloves:Перчатки бродяги
-grey_scorpions_gloves:Перчатки серого скорпиона
-desert_warriors_gloves:Перчатки воина пустыни
-phantom_steel_gloves:Стальные перчатки Phantom
-scholars_gloves:Перчатки ученого
-rhinos_crush_claw:Коготь носорога
-shadow_blades_gloves:Перчатки Шэдоу Блэйда
-warlocks_gloves:Перчатки чернокнижника
-mummified_hands:Мумифицированные руки
-grandmasters_gloves:Перчатки гроссмейстера
-guardians_bracers:Наручи от Guardian
-hide_bracelet:Скрыть браслет
-iron_bracelet:Железный браслет
-wooden_coil:Деревянная катушка
-elven_kings_bracer:Наручи эльфийского короля
-simple_bracer:Простой нарукавник
-generals_gauntlets:Перчатки генерала
-dark_steel_gauntlets:Рукавицы из темной стали
+sharpshooters_bracelet:Браслет Меткого Стрелка
+illusionists_robe:Мантия Иллюзиониста
+abyss_wanderers_bracer:Наручи Странника Бездны
+gloves_of_deceit:Перчатки Обмана
+novices_bracers:Наручи Новичка
+composite_gloves:Композитные Перчатки
+vagabonds_gloves:Перчатки Скитальца
+grey_scorpions_gloves:Перчатки Серого Скорпиона
+desert_warriors_gloves:Перчатки Пустынного Воина
+phantom_steel_gloves:Перчатки Призрачной Стали
+scholars_gloves:Перчатки Учёного
+rhinos_crush_claw:Клешня Носорога
+shadow_blades_gloves:Перчатки Теневого Лезвия
+warlocks_gloves:Перчатки Колдуна
+mummified_hands:Мумифицированные Руки
+grandmasters_gloves:Перчатки Великого Мастера
+guardians_bracers:Наручи Стража
+hide_bracelet:Кожаный Браслет
+iron_bracelet:Железный Браслет
+wooden_coil:Деревянная Катушка
+elven_kings_bracer:Наруч короля эльфов
+simple_bracer:Простой наруч
+generals_gauntlets:Рукавицы генерала
+dark_steel_gauntlets:Рукавицы из тёмной стали
 elven_bracelet:Эльфийский браслет
 padded_bracers:Мягкие наручи
 archers_bracers:Наручи лучника
-sunborn_bracers:Наручи Sunborn
-cultist_gloves:Перчатки для культистов
-bear_grip:Медвежья ручка
-whisperers_gloves:Перчатки шепчущего
-archmages_gloves:Перчатки архимага
-nightbringers_bracelet:Браслет ночного предвестника
+sunborn_bracers:Наручи Солнечного рождения
+cultist_gloves:Перчатки культиста
+bear_grip:Медвежья хватка
+whisperers_gloves:Перчатки шёпота
+archmages_gloves:Перчатки верховного мага
+nightbringers_bracelet:Браслет Ночных носителей
 copper_bracelet:Медный браслет
-painful_bracelet:Болевой браслет
-crimson_bracelet:Малиновый браслет
-mystics_bracers:Наручи Мистика
-elven_magicians_bracers:Наручи эльфийского волшебника
+painful_bracelet:Мучительный браслет
+crimson_bracelet:Багровый браслет
+mystics_bracers:Наручи мистика
+elven_magicians_bracers:Наручи эльфийского мага
 touch_of_nature:Прикосновение природы
 combat_bracelet:Боевой браслет
-healers_gloves:Перчатки целителя
-heavy_iron_gloves:Тяжелые железные перчатки
-dyed_bracers:Окрашенные наручи
-oceans_touch:Прикосновение океана
-leather_bracer:Кожаный нарукавник
-diplomats_gloves:Перчатки дипломата
-warriors_gloves:Перчатки воина
-infiltrators_gloves:Перчатки лазутчика
-seastone_gloves:Перчатки Seastone
-gloves_of_the_undefeated:Перчатки непобежденных
-brown_gloves:Коричневые перчатки
-sinister_gloves:Зловещие перчатки
-steel_gauntlets:Стальные рукавицы
-executioners_gauntlets:Рукавицы палача
-dark_steel_gloves:Темные стальные перчатки
-gloves_of_the_temptress:Перчатки искусительницы
-fist_of_theft:Кулак кражи
-fist_of_wrath:Кулак гнева
-fist_of_vengeance:Кулак мести
-gloves_of_aspiration:Перчатки аспирации
-gloves_of_the_scout:Перчатки разведчика
-undead_knights_claws:Когти рыцаря-нежити
-pearl_gauntlets:Перламутровые рукавицы
-monks_gloves:Перчатки монаха
-beggars_gloves:Перчатки нищего
-crimson_knights_gloves:Перчатки малинового рыцаря
-magic_repellent_gauntlets:Волшебные репеллентные рукавицы
-illusionists_gloves:Перчатки иллюзионистов
-protectors_of_the_forest:Защитники леса
-bone_breakers:Разрушители костей
-noble_leather_gloves:Перчатки из благородной кожи
-leather_gloves:Кожаные перчатки
-blood_magic_gloves:Волшебные перчатки Blood
-sorcerers_gloves:Перчатки чародея
-reinforced_bracers:Усиленные наручи
-knights_gauntlets:Рыцарские рукавицы
+healers_gloves:Перчатки Лекаря
+heavy_iron_gloves:Тяжелые Железные Перчатки
+dyed_bracers:Окрашенные Наручи
+oceans_touch:Прикосновение Океана
+leather_bracer:Кожаный Наруч
+diplomats_gloves:Перчатки Дипломата
+warriors_gloves:Перчатки Воина
+infiltrators_gloves:Перчатки Инфильтратора
+seastone_gloves:Перчатки Из Морского Камня
+gloves_of_the_undefeated:Перчатки Непобежденного
+brown_gloves:Коричневые Перчатки
+sinister_gloves:Зловещие Перчатки
+steel_gauntlets:Стальные Рукавицы
+executioners_gauntlets:Рукавицы Палача
+dark_steel_gloves:Перчатки Из Темной Стали
+gloves_of_the_temptress:Перчатки Искусительницы
+fist_of_theft:Кулак Воровства
+fist_of_wrath:Кулак Гнева
+fist_of_vengeance:Кулак Мести
+gloves_of_aspiration:Перчатки Стремления
+gloves_of_the_scout:Перчатки Разведчика
+undead_knights_claws:Когти Неживого Рыцаря
+pearl_gauntlets:Жемчужные Рукавицы
+monks_gloves:Перчатки Монаха
+beggars_gloves:Перчатки Нищего
+crimson_knights_gloves:Перчатки Багрового Рыцаря
+magic_repellent_gauntlets:Рукавицы Защиты от Магии
+illusionists_gloves:Перчатки Иллюзиониста
+protectors_of_the_forest:Защитники Леса
+bone_breakers:Костоломы
+noble_leather_gloves:Перчатки Из Благородной Кожи
+leather_gloves:Кожаные Перчатки
+blood_magic_gloves:Перчатки Магии Крови
+sorcerers_gloves:Перчатки Колдуна
+reinforced_bracers:Усиленные Налокотники
+knights_gauntlets:Рукавицы Рыцаря
 yeti_paws:Лапы Йети
-iron_bracers:Железные наручи
-illusionists_bracelets:Браслеты иллюзиониста
-iron_plate_gloves:Железные пластинчатые перчатки
-barbarians_gloves:Перчатки варвара
-gold_painted_gloves:Окрашенные золотом перчатки
-heavy_iron_gauntlets:Тяжелые железные рукавицы
-thieves_gloves:Воровские перчатки
-coral_iron_gloves:Коралловые железные перчатки
-straw_bracelet:Соломенный браслет
+iron_bracers:Железные Налокотники
+illusionists_bracelets:Браслеты Иллюзиониста
+iron_plate_gloves:Железные Латные Перчатки
+barbarians_gloves:Перчатки Варвара
+gold_painted_gloves:Окрашенные в Золото Перчатки
+heavy_iron_gauntlets:Тяжелые Железные Рукавицы
+thieves_gloves:Перчатки Вора
+coral_iron_gloves:Кораллово-Железные Перчатки
+straw_bracelet:Соломенный Браслет
 tormenters:Мучители
-elven_kings_gloves:Перчатки Эльфийского короля
-decorated_bracelet:Украшенный браслет
-legendary_adventurers_gloves:Перчатки легендарного искателя приключений
+elven_kings_gloves:Перчатки Эльфийского Короля
+decorated_bracelet:Украшенный Браслет
+legendary_adventurers_gloves:Перчатки Легендарного Авантюриста
 fist_of_midas:Кулак Мидаса
-reapers_bracelet:Браслет «Жнецы»
-warlocks_hood:Капюшон колдуна
-novices_hat:Шляпа новичка
-peasants_hat:Крестьянская шляпа
-elven_kings_helmet:Шлем эльфийского короля
-witch_hunters_hat:Шляпа охотника на ведьм
-beggars_cap:Шапка нищего
-archers_cap:Кепка лучника
-gladiators_helmet:Шлем гладиатора
-iron_helmet:Железный шлем
-leather_helmet:Кожаный шлем
-crested_emerald_helmet:Хохлатый изумрудный шлем
-centurions_helmet:Шлем центуриона
-barbarians_helmet:Шлем варвара
-mask_of_treachery:Маска предательства
-spearmens_helmet:Шлем копейщика
+reapers_bracelet:Браслет Жнеца
+warlocks_hood:Капюшон Колдуна
+novices_hat:Шляпа Новичка
+peasants_hat:Шляпа Крестьянина
+elven_kings_helmet:Шлем Эльфийского Короля
+witch_hunters_hat:Шляпа Охотника на Ведьм
+beggars_cap:Колпак Нищего
+archers_cap:Колпак Лучника
+gladiators_helmet:Шлем Гладиатора
+iron_helmet:Железный Шлем
+leather_helmet:Кожаный Шлем
+crested_emerald_helmet:Шлем с Изумрудным Гребнем
+centurions_helmet:Шлем Центуриона
+barbarians_helmet:Шлем Варвара
+mask_of_treachery:Маска Предательства
+spearmens_helmet:Шлем Копейщиков
 grizzly_helmet:Шлем Гризли
-partisan_hood:Капюшон
-elven_magicians_hood:Капюшон эльфийского волшебника
-mask_of_stubbornness:Маска упрямства
-gamblers_hat:Шляпа игрока
-dark_steel_helmet:Шлем из темной стали
-heavy_infantry_helmet:Тяжелый пехотный шлем
-diplomats_hood:Капюшон дипломата
-foot_soldier_helmet:Шлем пехотинца
-coral_iron_helmet:Шлем из кораллового железа
-archmages_hood:Капюшон архимага
-mask_of_fear:Маска страха
-helmet_of_the_undefeated:Шлем непобежденных
-grandmasters_hat:Шляпа гроссмейстера
-healers_hood:Капюшон целителя
-sharpshooters_hood:Капюшон снайпера
-miners_helmet:Шлем шахтера
-occult_hood:Оккультный капюшон
-phantom_steel_helmet:Стальной шлем Phantom
-nightbringers_hood:Капюшон ночного носителя
-composite_helmet:Композитный шлем
-merchants_hat:Шляпа торговца
-chain_hood:Цепной капот
-illusionist_hood:Капюшон иллюзиониста
-summer_knights_helmet:Шлем летнего рыцаря
-brown_wizard_hat:Коричневый колпак
-purple_wizard_hat:Фиолетовая шляпа волшебника
-red_wizard_hat:Шляпа красного волшебника
-dwarven_warrior_helmet:Шлем воина-гнома
-pink_cap:Розовая кепка
-shamans_hood:Капюшон шамана
-hood_of_the_void:Капюшон пустоты
-hardened_helmet:Закаленный шлем
-scouts_helmet:Шлем разведчика
-rogues_helmet:Шлем разбойника
-warriors_helmet:Шлем воина
-knights_helmet:Рыцарский шлем
-northern_helmet:Северный шлем
-desert_warriors_turban:Тюрбан «Воин пустыни»
-legionnaires_helmet:Шлем легионера
-executioners_helmet:Шлем палача
-spys_hood:Капюшон шпиона
-noble_turban:Благородный тюрбан
-elven_helmet:Эльфийский шлем
-crushers_helmet:Шлем Крашера
-desert_champions_crown:Корона чемпиона пустыни
-wasteland_helmet:Шлем «Пустошь»
-polished_steel_helmet:Шлем из полированной стали
-city_watch_helmet:Городской часовой шлем
-crusaders_helmet:Шлем крестоносца
-vagabonds_hood:Капюшон бродяги
-hide_hood:Скрыть капот
-scorpions_helmet:Шлем скорпиона
-cultists_hood:Капюшон культиста
-grandmasters_hood:Капюшон магистра
-imperial_guards_helmet:Шлем Императорской гвардии
-battered_helmet:Потертый шлем
-patched_hood:Заплатный капюшон
-fur_helmet:Меховой шлем
-generals_helmet:Шлем генерала
-brawlers_helmet:Шлем скандалиста
-autumn_knights_helmet:Шлем осеннего рыцаря
-spring_knights_helmet:Шлем весеннего рыцаря
-abyss_wanderers_hood:Капюшон странников Бездны
-ancient_witch's_hat:Шляпа древней ведьмы
-crimson_knights_helmet:Шлем малинового рыцаря
-emperors_helmet:Шлем императора
-helmet_of_the_unseen:Шлем невидимого
-legendary_adventurers_helmet:Шлем легендарного искателя приключений
-mask_of_terror:Маска ужаса
-dusk_mages_hood:Капюшон мага в сумерках
-warlords_helmet:Шлем военачальника
-beggars_shoes:Обувь нищего
-novices_shoes:Обувь для новичков
-leather_boots:кожаные сапоги
-iron_boots:Железные сапоги
-coral_iron_boots:Коралловые чугунные
-scholars_shoes:Обувь ученого
-rangers_boots:Ботинки рейнджера
-illusionists_shoes:Обувь иллюзиониста
-heavy_rhino_boots:Тяжелые ботинки-носороги
-traitors_boots:Сапоги предателя
-foot_of_midas:Подножие Мидаса
-boots_of_aspiration:Сапоги аспирации
-crimson_knights_boots:Сапоги малинового рыцаря
-necromancers_boots:Сапоги некроманта
-archers_boots:Сапоги лучника
-boots_of_silence:Сапоги тишины
-elven_magicians_shoes:Туфли эльфийского волшебника
-worn_shoes:Изношенная обувь
-vagabonds_shoes:Обувь бродяги
-kindled_boots:Зажгленные сапоги
-steel_boots:Стальные сапоги
-infiltrators_boots:Сапоги лазутчика
-gargoyles_boots:Сапоги «Гаргульи»
-cultists_boots:Сапоги культиста
-healers_boots:Сапоги целителя
-knights_boots:Рыцарские сапоги
-boots_of_the_undefeated:Сапоги непобежденных
-commoners_boots:Сапоги простолюдина
-dyed_leather_shoes:Окрашенная кожаная обувь
-heavy_iron_boots:тяжелые железные сапоги
-desert_boots:Сапоги пустыни
-grey_scorpions_boots:Сапоги серого скорпиона
-blood_magic_boots:Волшебные сапоги крови
-scrap_metal_boots:Сапоги из металлолома
-emperors_boots:Императорские сапоги
-undead_knights_boots:Сапоги рыцаря-нежити
-iron_plate_boots:Сапоги из железной пластины
-hide_boots:Скрыть обувь
-executioners_boots:Сапоги палача
-mystics_boots:Сапоги мистика
-simple_leather_boots:Простые кожаные сапоги
-dwarven_boots:Сапоги гномов
-dark_steel_boots:Темные стальные сапоги
-archmages_boots:Сапоги верховного мага
-captains_boots:Сапоги капитана
-crushers_boots:Сапоги дробилки
-elven_archers_boots:Сапоги эльфийского лучника
-shoes_of_deceit:Обувь обмана
-whisperers_boots:Сапоги шепчущего
-brown_boots:коричневые сапоги
-desert_warriors_boots:Сапоги воина пустыни
-blunt_axe:Тупой топор
-wooden_hammer:Деревянный молоток
-cutthroats_club:Клуб «Головорезы»
-round_wooden_hammer:Круглый деревянный молоток
-soapstone_hammer:Молоток из мыльного камня
-handcrafted_mace:Булава ручной работы
-wooden_club:Деревянный клуб
+partisan_hood:Капюшон Партизана
+elven_magicians_hood:Капюшон Эльфийского Мага
+mask_of_stubbornness:Маска Упрямства
+gamblers_hat:Шляпа Игрока
+dark_steel_helmet:Шлем из Темной Стали
+heavy_infantry_helmet:Шлем Тяжелой Пехоты
+diplomats_hood:Капюшон Дипломата
+foot_soldier_helmet:Шлем Пехотинца
+coral_iron_helmet:Кораллово-Железный Шлем
+archmages_hood:Капюшон Архимага
+mask_of_fear:Маска Страха
+helmet_of_the_undefeated:Шлем Непобежденного
+grandmasters_hat:Шляпа Гроссмейстера
+healers_hood:Капюшон Целителя
+sharpshooters_hood:Капюшон Снайпера
+miners_helmet:Шлем Шахтера
+occult_hood:Капюшон Оккультиста
+phantom_steel_helmet:Шлем из Фантомной Стали
+nightbringers_hood:Капюшон Тьмы
+composite_helmet:Композитный Шлем
+merchants_hat:Шляпа Торговца
+chain_hood:Цепной Капюшон
+illusionist_hood:Капюшон Иллюзиониста
+summer_knights_helmet:Шлем Летнего Рыцаря
+brown_wizard_hat:Коричневая Шляпа Волшебника
+purple_wizard_hat:Фиолетовая Шляпа Волшебника
+red_wizard_hat:Красная Шляпа Волшебника
+dwarven_warrior_helmet:Шлем Дварфийского Воина
+pink_cap:Розовая Шапка
+shamans_hood:Капюшон Шамана
+hood_of_the_void:Капюшон Пустоты
+hardened_helmet:Закаленный Шлем
+scouts_helmet:Шлем Скаута
+rogues_helmet:Шлем Разбойника
+warriors_helmet:Шлем Воина
+knights_helmet:Шлем Рыцаря
+northern_helmet:Северный Шлем
+desert_warriors_turban:Тюрбан Пустынного Воина
+legionnaires_helmet:Шлем Легионера
+executioners_helmet:Шлем Палача
+spys_hood:Капюшон Шпиона
+noble_turban:Тюрбан Знатного
+elven_helmet:Эльфийский Шлем
+crushers_helmet:Шлем Дробителя
+desert_champions_crown:Корона Пустынного Чемпиона
+wasteland_helmet:Шлем Пустоши
+polished_steel_helmet:Полированный Стальной Шлем
+city_watch_helmet:Шлем Городской Стражи
+crusaders_helmet:Шлем Крестоносца
+vagabonds_hood:Капюшон Скитальца
+hide_hood:Капюшон Из Шкуры
+scorpions_helmet:Шлем Скорпиона
+cultists_hood:Капюшон Культиста
+grandmasters_hood:Капюшон Гроссмейстера
+imperial_guards_helmet:Шлем Имперского Гвардейца
+battered_helmet:Потрёпанный Шлем
+patched_hood:Латанный Капюшон
+fur_helmet:Меховой Шлем
+generals_helmet:Шлем Генерала
+brawlers_helmet:Шлем Драчуна
+autumn_knights_helmet:Шлем Осеннего Рыцаря
+spring_knights_helmet:Шлем Весеннего Рыцаря
+abyss_wanderers_hood:Капюшон Скитальцев Бездны
+ancient_witch's_hat:Шляпа Древней Ведьмы
+crimson_knights_helmet:Шлем Багрового Рыцаря
+emperors_helmet:Шлем Императора
+helmet_of_the_unseen:Шлем Невидимого
+legendary_adventurers_helmet:Шлем Легендарного Приключенца
+mask_of_terror:Маска Ужаса
+dusk_mages_hood:Капюшон Магов Сумерек
+warlords_helmet:Шлем Военачальника
+beggars_shoes:Башмаки Нищего
+novices_shoes:Ботинки Новичка
+leather_boots:Кожаные Ботинки
+iron_boots:Железные Ботинки
+coral_iron_boots:Коралловые Железные Ботинки
+scholars_shoes:Туфли Учёного
+rangers_boots:Сапоги Следопыта
+illusionists_shoes:Туфли Иллюзиониста
+heavy_rhino_boots:Тяжёлые Ботинки Носорога
+traitors_boots:Ботинки Предателя
+foot_of_midas:Нога Мидаса
+boots_of_aspiration:Ботинки Стремления
+crimson_knights_boots:Ботинки Багрового Рыцаря
+necromancers_boots:Ботинки Некроманта
+archers_boots:Сапоги Лучника
+boots_of_silence:Ботинки Тишины
+elven_magicians_shoes:Туфли Эльфийского Магов
+worn_shoes:Поношенные Туфли
+vagabonds_shoes:Ботинки Бродяги
+kindled_boots:Подожжённые Ботинки
+steel_boots:Стальные Ботинки
+infiltrators_boots:Сапоги Инфильтратора
+gargoyles_boots:Сапоги Гаргульи
+cultists_boots:Сапоги Культиста
+healers_boots:Сапоги Лекаря
+knights_boots:Сапоги Рыцаря
+boots_of_the_undefeated:Сапоги Непобежденного
+commoners_boots:Сапоги Простолюдина
+dyed_leather_shoes:Крашеные Кожаные Туфли
+heavy_iron_boots:Тяжелые Железные Сапоги
+desert_boots:Пустынные Сапоги
+grey_scorpions_boots:Сапоги Серого Скорпиона
+blood_magic_boots:Сапоги Кровавой Магии
+scrap_metal_boots:Сапоги из Металлолома
+emperors_boots:Сапоги Императора
+undead_knights_boots:Сапоги Нежити Рыцаря
+iron_plate_boots:Железные Латные Сапоги
+hide_boots:Сапоги из Шкуры
+executioners_boots:Сапоги Палача
+mystics_boots:Сапоги Мистика
+simple_leather_boots:Простые Кожаные Сапоги
+dwarven_boots:Дворфские Ботинки
+dark_steel_boots:Ботинки из Тёмной Стали
+archmages_boots:Ботинки Архимага
+captains_boots:Ботинки Капитана
+crushers_boots:Ботинки Крушителя
+elven_archers_boots:Ботинки Эльфийского Лучника
+shoes_of_deceit:Туфли Обмана
+whisperers_boots:Ботинки Шептуна
+brown_boots:Коричневые Ботинки
+desert_warriors_boots:Ботинки Пустынного Воина
+blunt_axe:Тупой Топор
+wooden_hammer:Деревянный Молот
+cutthroats_club:Дубинка Головореза
+round_wooden_hammer:Круглый Деревянный Молот
+soapstone_hammer:Тальковый Молот
+handcrafted_mace:Ручная Булава
+wooden_club:Деревянная Дубинка
 gilded_mace:Позолоченная булава
-butchers_cleaver:Тесак мясника
-morning_star:Утренняя звезда
-iron_bludgeon:Железная дубинка
+butchers_cleaver:Мясницкий тесак
+morning_star:Моргенштерн
+iron_bludgeon:Железное дубьё
 iron_mace:Железная булава
-deep_sea_smiths_hammer:Молот глубоководного кузнеца
-platecrusher_hammer:Молоток для измельчения пластин
-flail:цеп
-simple_war_pick:Простой военный выбор
+deep_sea_smiths_hammer:Молот кузнеца глубокого моря
+platecrusher_hammer:Молот пластодроб
+flail:Цеп
+simple_war_pick:Простой боевой кирка
 soul_breaker:Разрушитель душ
-iron_war_hammer:Молот железной войны
+iron_war_hammer:Железный боевой молот
 steel_war_hammer:Стальной боевой молот
-dwarven_kings_companion:Спутник Короля Гномов
+dwarven_kings_companion:Спутник короля гномов
 stone_mace:Каменная булава
-wooden_mallet:Деревянный молоток
+wooden_mallet:Деревянная киянка
 executioners_hammer:Молот палача
-war_gavel:Военный молоток
+war_gavel:Боевой молот
 divine_weapon_aurora:Божественное оружие Аврора
 wooden_mace:Деревянная булава
-broadaxe:Широкий топор
-pale_broadaxe:Бледный топор
-profaned_decapitater:Оскверненный декапитатор
-mercenary_axe:Топор наемника
-ivory_broadaxe:Бродяга цвета слоновой кости
-reapers_axe:Топор жнеца
-golden_bardiche:Золотая Бардиша
-moonlight_axe:Топор при лунном свете
-dwarven_warhammer:Вархаммер гномов
-amethyst_harvester:Комбайн для уборки аметистов
-emperors_judgement:Приговор императора
-undead_generals_axe:Топор генерала мертвецов
+broadaxe:Секира
+pale_broadaxe:Бледный широкий топор
+profaned_decapitater:Осквернённый обезглавливатель
+mercenary_axe:Топор наёмника
+ivory_broadaxe:Бивневой широкий топор
+reapers_axe:Топор Жнеца
+golden_bardiche:Золотая бердыш
+moonlight_axe:Топор лунного света
+dwarven_warhammer:Дворфийский боевой молот
+amethyst_harvester:Аметистовый жнец
+emperors_judgement:Суд Императора
+undead_generals_axe:Топор генерала нежити
 wooden_warhammer:Деревянный боевой молот
-deadly_diamond:Смертельный бриллиант
-ritual_dualblade:Ритуальный двойной клинок
+deadly_diamond:Смертоносный алмаз
+ritual_dualblade:Ритуальный двулезвийный меч
 bearded_twin_axe:Бородатый двойной топор
-spiderweb_twin_axe:Двойной топор «Паутинка»
-demonic_reaver:Демонический почитатель
-sunshine_twin_axe:Двойной топор «Саншайн»
-ember_storm:Угольный шторм
+spiderweb_twin_axe:Двойной топор паутины
+demonic_reaver:Демонический громила
+sunshine_twin_axe:Двойной топор солнечного света
+ember_storm:Эмбер шторм
 engraved_axe:Гравированный топор
-elven_axe:Эльфийский топор
-mirror_axe:Зеркальный топор
-guild_hammer:Молот Гильдии
-blunt_iron_sword:Тупой железный меч
-iron_spear:Железное копье
-goblin_spear:Копье гоблина
-cracked_spear:Треснувшее копье
-wooden_spear:Деревянное копье
-lance:копье
-infantry_spear:Пехотное копье
-handcrafted_glaive:Глифе ручной работы
-reinforced_glaive:Усиленный глянцевый
-sharktooth_balisong:Акулозубый балисон
-stone_spear:Каменное копье
-limestone_spear:Известняковое копье
-battle_spear:Боевое копье
-orc_spear:Копье орка
-huntsmens_gem:Драгоценный камень охотника
-nomads_spear:Копье кочевника
-arrowhead_spear:Копье со стреловидным наконечником
-frostborn_spear:Копье ледяного рога
-captains_hook:Капитанский крючок
-abyssal_lance:Копье бездны
-darksteel_spear:Копье из темной стали
-iron_pike:Железная щука
-wooden_glaive:Деревянная глина
-sea_ruler:Морской правитель
-godsbane:Божий проклятие
-blade_of_the_undead:Лезвие мертвецов
-mercenary_sword:Меч наемника
+elven_axe:Эльфийский Топор
+mirror_axe:Зеркальный Топор
+guild_hammer:Гильдейский Молот
+blunt_iron_sword:Тупой Железный Меч
+iron_spear:Железное Копье
+goblin_spear:Гоблинское Копье
+cracked_spear:Треснувшее Копье
+wooden_spear:Деревянное Копье
+lance:Копье
+infantry_spear:Пехотное Копье
+handcrafted_glaive:Ручная Глефа
+reinforced_glaive:Усиленная Глефа
+sharktooth_balisong:Бабочка с Акулиным Зубом
+stone_spear:Каменное Копье
+limestone_spear:Известняковое Копье
+battle_spear:Боевое Копье
+orc_spear:Орочье Копье
+huntsmens_gem:Глаз охотника
+nomads_spear:Копьё кочевника
+arrowhead_spear:Копьё с наконечником стрелы
+frostborn_spear:Копьё ледорождённых
+captains_hook:Крюк капитана
+abyssal_lance:Бездонное копьё
+darksteel_spear:Копьё из тёмной стали
+iron_pike:Железная пика
+wooden_glaive:Деревянная глефа
+sea_ruler:Владыка морей
+godsbane:Бич богов
+blade_of_the_undead:Клинок нежити
+mercenary_sword:Меч наёмника
 gladiators_sword:Меч гладиатора
 cursed_blade:Проклятый клинок
-abyssal_sword:Меч Бездны
-blade_of_the_dark_lord:Лезвие Темного Лорда
-primitive_sword:Первобытный меч
+abyssal_sword:Бездонный меч
+blade_of_the_dark_lord:Клинок тёмного властелина
+primitive_sword:Примитивный меч
 demon_infantryman_sword:Меч демона-пехотинца
 rusty_curved_sword:Ржавый изогнутый меч
 iron_scimitar:Железный ятаган
-darksteel_axe:Темный стальной топор
-dawn_blade:Дон Блэйд
-barbed_sword:Колючий меч
+darksteel_axe:Тёмностальной топор
+dawn_blade:Клинок Рассвета
+barbed_sword:Зазубренный меч
 army_sword:Армейский меч
-training_sword:Учебный меч
-city_watch_sword:Меч городского дозора
+training_sword:Тренировочный меч
+city_watch_sword:Меч городской стражи
 elegant_bronze_sword:Элегантный бронзовый меч
-deep_sea_sword:Глубоководный меч
-golden_protector:Золотой протектор
+deep_sea_sword:Меч глубокого моря
+golden_protector:Золотой защитник
 carved_wooden_bow:Резной деревянный лук
-rangers_bow:Лук рейнджера
-harmony_bow:лук «Гармония»
+rangers_bow:Лук следопыта
+harmony_bow:Лук Гармонии
 wooden_crossbow:Деревянный арбалет
-ebony_bow:Эбеновый бант
+ebony_bow:Чёрный лук
 scouts_bow:Лук разведчика
-silver_crossbow:Серебряный арбалет
-elven_bow:Эльфийский лук
-outworn_crossbow:Изношенный арбалет
-ivory_bow:Лук цвета слоновой
-divine_weapon_artemis:Божественное оружие: Артемида
-orc_bow:Лук орков
-scorpions_bow:Лук скорпиона
-assassins_crossbow:Арбалет ассасинов
-sharpshooters_bow:Лук снайпера
-frostborn_bow:Лук Фростборн
-nightbringers_bow:Лук ночного предвестника
-composite_bow:Композитный лук
-judgement:Суждение
-barbed_crossbow:Колючий арбалет
-dreaded_bow:Ужасный лук
-serpent_eye_bow:Бантик «Змеиный глаз»
-bison_bow:Лук бизона
-modern_crossbow:Современный арбалет
-harp_bow:Смычок для арфы
-birch_bow:Березовый лук
+silver_crossbow:Серебряный Арбалет
+elven_bow:Эльфийский Лук
+outworn_crossbow:Изношенный Арбалет
+ivory_bow:Слоновый Лук
+divine_weapon_artemis:Божественное Оружие: Артемида
+orc_bow:Орочий Лук
+scorpions_bow:Лук Скорпиона
+assassins_crossbow:Арбалет Ассасинов
+sharpshooters_bow:Лук Меткого Стрелка
+frostborn_bow:Лук Морозного Рождения
+nightbringers_bow:Лук Ночной Хмари
+composite_bow:Составной Лук
+judgement:Правосудие
+barbed_crossbow:Шипастый Арбалет
+dreaded_bow:Лук Ужаса
+serpent_eye_bow:Лук Змеиного Глаза
+bison_bow:Лук Бизона
+modern_crossbow:Современный Арбалет
+harp_bow:Лук Арфы
+birch_bow:Берёзовый Лук
 primitive_crossbow:Примитивный арбалет
-nightbringers_ace:Туз ночного предвестника
-demise_from_below:Смерть снизу
+nightbringers_ace:Туз Ночной Тени
+demise_from_below:Кончина из Подземелья
 demon_hunter:Охотник на демонов
 old_wooden_staff:Старый деревянный посох
-wooden_stick:Деревянная палочка
-vagabonds_staff:Персонал бродяги
+wooden_stick:Деревянная палка
+vagabonds_staff:Посох Бродяги
 druids_rod:Жезл друида
 goblin_staff:Посох гоблина
-shepherds_staff:Пастуший посох
-carved_rod:Резной стержень
-bronze_rod:Бронзовая штанга
-novices_staff:Персонал новичка
-scholars_staff:Сотрудники стипендиата
-warlocks_staff:Посох чернокнижника
-grandmasters_staff:Штаб гроссмейстера
-iron_staff:Железный посох
-imperial_wizards_staff:Посох императорского волшебника
-broken_rod:Сломанная удочка
+shepherds_staff:Посох пастуха
+carved_rod:Резной жезл
+bronze_rod:Бронзовый жезл
+novices_staff:Посох новичка
+scholars_staff:Посох Ученого
+warlocks_staff:Посох Чернокнижника
+grandmasters_staff:Посох Великого Мастера
+iron_staff:Железный Посох
+imperial_wizards_staff:Посох Имперского Волшебника
+broken_rod:Сломанный Жезл
 walking_stick:Трость
-cursed_ancient_rod:Проклятый древний жезл
-golden_claw:Золотой коготь
-rotten_staff:Гнилой посох
-frostborn_staff:Персонал Фростборна
-lunar_rod:Лунная удочка
-rod_of_regeneration:Стержень регенерации
-staff_of_life:Персонал жизни
-volcanic_heart:Вулканическое сердце
-emerald_staff:Изумрудный посо
-crystal_clear_staff:Кристально чистый персонал
-staff_of_whispers:Персонал шепотов
-silver_mountain_staff:Посох Силвер Маунтин
-staff_of_corruption:Сотрудники по борьбе с коррупцией
-abyssal_void:Пустота Бездны
-amethyst_staff:Аметистовый посох
-root_staff:Корневой персонал
-dried_root_staff:Сушеный корнеплод
-frauds_staff:Сотрудники отдела по борьбе с мошенничеством
-vital_staff:Жизненно важный персонал
-firefly_staff:Персонал светлячка
-talisman_staff:посох талисмана
-necromancers_staff:Посох некроманта
-deepsea_rod:Глубоководная удочка
-# cold_ruler:Холодный правитель
-bone_staff:Костяной посох
-ember_heart_staff:Персонал Эмбер Харт
-archmages_staff:Сотрудники архимагов
-gold_ore_staff:Сотрудники по добыче золотой руды
-alchemists_staff:Посох алхимика
-overseer_staff:Персонал контролера
-eternal_ice_rod:Вечная ледяная удочка
-unholy_desecrator staff:Нечестивый персонал осквернителя
-tempestforged_staff:Буря кованый посох
-runebound_rod:Рунная удочка
-enigma_scepter:Скипетр «Энигма»
-centurial_rod:Центриальная дорога
-spear_rod:Удочка для копья
-eonwoven_rod:Нетканый стержень
-elysian_luminary_wand:Елисейская люминесцентная палочка
-emberglow_wand:Мемберная палочка
-kitchen_knife:Кухонный нож
+cursed_ancient_rod:Проклятый Древний Жезл
+golden_claw:Золотой Коготь
+rotten_staff:Гнилой Посох
+frostborn_staff:Посох Ледорожденного
+lunar_rod:Лунный Жезл
+rod_of_regeneration:Жезл Регенерации
+staff_of_life:Посох Жизни
+volcanic_heart:Вулканическое Сердце
+emerald_staff:Изумрудный Посох
+crystal_clear_staff:Кристально Чистый Посох
+staff_of_whispers:Посох Шепотов
+silver_mountain_staff:Посох Серебряной Горы
+staff_of_corruption:Посох Порчи
+abyssal_void:Бездна Бездны
+amethyst_staff:Аметистовый Посох
+root_staff:Корневой Посох
+dried_root_staff:Высушенный Корневой Посох
+frauds_staff:Посох Мошенника
+vital_staff:Жизненный Посох
+firefly_staff:Посох Светлячка
+talisman_staff:Амулетный Посох
+necromancers_staff:Посох Некроманта
+deepsea_rod:Удочка Глубоководья
+# cold_ruler:Cold Ruler
+bone_staff:Костяной Посох
+ember_heart_staff:Посох Сердца Ember
+archmages_staff:Посох Архимага
+gold_ore_staff:Посох Золотой Руды
+alchemists_staff:Посох Алхимика
+overseer_staff:Посох Надзирателя
+eternal_ice_rod:Удочка Вечного Льда
+unholy_desecrator staff:Посох Осквернителя
+tempestforged_staff:Посох Кованый Бурей
+runebound_rod:Жезл Рунных Оков
+enigma_scepter:Скипетр Тайны
+centurial_rod:Жезл Столетий
+spear_rod:Жезл Копья
+eonwoven_rod:Жезл Веков
+elysian_luminary_wand:Элизианский Светоч
+emberglow_wand:Палочка Угольного Света
+kitchen_knife:Кухонный Нож
 corkscrew:Штопор
-volcanic_dagger:Вулканический кинжал
-filleting_knife:Нож для филетирования
-butter_knife:Нож для масла
-steel_dagger:Стальной кинжал
-ancient_dagger:Древний кинжал
-captains_knife:Капитанский нож
-rogues_dagger:Кинжал разбойника
-silver_severance:Серебряное сечение
-wyvern_dirk:Виверна Дирк
-runestone_dagger:Кинжал из рунного камня
-assassins_dagger:Кинжал убийцы
-iron_knuckles:Железные кастеты
-golden_knuckles:Золотые кастеты
-brass_knuckles:Латунные кастеты
-horned_dagger:Рогатый кинжал
-cutthroats_knife:Нож головореза
-steel_shortblade:Стальное короткое лезвие
-kindled_blade:Зажгленное лезвие
-jagged_knife:Зубчатый нож
-reavers_knife:Нож Ривера
-brass_claws:Латунные когти
-iron_dirk:Айрон Дирк
-blunt_dirk:Блант Дирк
-razor_knife:Бритвенный нож
-bear_claws:Когти медведя
-fading_splendor:Увядающее великолепие
-profaned_doomblade:Очерненный Doomblade
-lovers_gift:Подарок любовнику
-elven_dagger:Эльфийский кинжал
-predator_fang:Клык хищника
-amber_knife:Янтарный нож
+volcanic_dagger:Вулканический Кинжал
+filleting_knife:Нож для Филе
+butter_knife:Нож для Масла
+steel_dagger:Стальной Кинжал
+ancient_dagger:Древний Кинжал
+captains_knife:Капитанский Нож
+rogues_dagger:Кинжал Разбойника
+silver_severance:Серебряный Разрыв
+wyvern_dirk:Кинжал Виверны
+runestone_dagger:Кинжал Рунного Камня
+assassins_dagger:Кинжал Ассасина
+iron_knuckles:Железные Кастеты
+golden_knuckles:Золотые Кастеты
+brass_knuckles:Латунные Кастеты
+horned_dagger:Кинжал с Рогами
+cutthroats_knife:Нож Головореза
+steel_shortblade:Стальной Короткий Клинок
+kindled_blade:Воспламенённый Клинок
+jagged_knife:Зазубренный Нож
+reavers_knife:Нож Рейдера
+brass_claws:Латунные Когти
+iron_dirk:Железный Кортик
+blunt_dirk:Тупой Кортик
+razor_knife:Бритвенный Нож
+bear_claws:Медвежьи Когти
+fading_splendor:Исчезающая Слава
+profaned_doomblade:Осквернённый Клинок Рока
+lovers_gift:Подарок Любовника
+elven_dagger:Эльфийский Кинжал
+predator_fang:Клык Хищника
+amber_knife:Нож Ember
 iron_scalpel:Железный скальпель
-crimson_slicer:Малиновый слайсер
-twin_fang:Твин Клык
-aquamarine_carver:Резчик по аквамарину
-elven_kings_insurance:Страхование Эльфийского короля
-forkblade:вилочное лезвие
+crimson_slicer:Багровый резак
+twin_fang:Двойной клык
+aquamarine_carver:Аквамариновый резец
+elven_kings_insurance:Страхование эльфийского короля
+forkblade:Вилка-клинок
 heartbeat:Сердцебиение
-forests_curse:Проклятие леса
-moonlight_blade:Лезвие лунного света
+forests_curse:Проклятье леса
+moonlight_blade:Лунный клинок
 deepsea_executioner:Глубоководный палач
-embers_edge:Край Эмбера
-moonsteel_razor:Бритва Moonsteel
-starter_shield:Стартовый щит
-starter_quiver:Стартовый колчан
-starter_grimoire:Гримуар для закусок
-starter_lifestone:Стартовый спасательный камень
-starter_talisman:Стартовый талисман
-final_crown:Финальная корона
+embers_edge:Острие Ember
+moonsteel_razor:Лунностальной бритва
+starter_shield:Начальный щит
+starter_quiver:Начальный колчан
+starter_grimoire:Начальный гримуар
+starter_lifestone:Начальный камень жизни
+starter_talisman:Начальный Талисман
+final_crown:Последняя Корона
 mjolnir:Мьёльнир
-bonebreaker_blossom:Цветок бродяги
-dragonsong_blade:Лезвие драконьей песни
+bonebreaker_blossom:Костоломный Цветок
+dragonsong_blade:Клинок Песни Дракона
 lightbringer:Светоносец
 wrath_of_the_sun_god:Гнев Бога Солнца
-skysunder_blade:Лезвие под небом
-gilded_horizon:Позолоченный горизонт
-graceful_hunter:Грациозный охотник
-nightshade_whisper:Шепот паслена
-crimson_bolt:Багровый болт
+skysunder_blade:Клинок Небесного Раза
+gilded_horizon:Золотой горизонт
+graceful_hunter:Изящный охотник
+nightshade_whisper:Шепот Погибели
+crimson_bolt:Багровая молния
 seraphims_wing:Крыло Серафима
-stormhawk:Стормхок
+stormhawk:Грозовой ястреб
 silverwing:Серебряное крыло
-evershift_scepter:Скипетр Evershift
-hellscream_blade:Клинок «Адский крик»
-soulreaver_talons:Когти Тобывателя душ
-crystalline_blade:кристаллический клинок
-abyss_dancers_boots:Сапоги танцовщицы бездны
-nightblade_boots:Ботинки Nightblade
+evershift_scepter:Скипетр Вечного Сдвига
+hellscream_blade:Клинок адского крика
+soulreaver_talons:Когти пожирателя душ
+crystalline_blade:Кристальный клинок
+abyss_dancers_boots:Ботинки Танцора Бездны
+nightblade_boots:Ботинки Ночной Клинок
+undersea_crown:Подводная Корона

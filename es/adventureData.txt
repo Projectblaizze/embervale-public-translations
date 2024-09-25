@@ -1,197 +1,211 @@
-morale:Moral
-changeWindowSize:Aumente el tamaño de la ventana.
+morale:Morale
+changeWindowSize:Por favor, aumenta el tamaño de la ventana.
 threePlayersRequired:¡Se requieren 3 jugadores!
 fight:Luchar
 surrender:Rendirse
-ended:Finalizado
+ended:Terminado
 leader:Líder
-welcomeToAdventures:Bienvenido a las aventuras
-yourHighscore:Tu puntuación más alta
-beforeAdventureStartsText:Adventures es el modo de juego desarrollado explícitamente para los streamers. Tu comunidad puede unirse a través de «! ¡Únete!» a tu aventura. El límite máximo actual de participantes es de 50.
-wrongAdventureLeader:Has iniciado sesión con un personaje diferente al que inició la aventura. Cambia a {username} para continuar
-currentLoggedIn:Actualmente estás conectado como
-youCanSelectRecipient:¡Puedes seleccionar al destinatario del botín raro o superior!
-selectRandomPlayer:Selecciona un jugador aleatorio
-treasureOf:Tesoro de
-banishConfirmation:¿Estás seguro de que quieres desterrar a {{playerToBanish.char.Username}} de esta aventura?
+welcomeToAdventures:Bienvenidos a aventuras
+yourHighscore:Tu puntaje más alto
+beforeAdventureStartsText:Adventures es un modo de juego desarrollado explícitamente para streamers. Tu comunidad puede unirse a través de "!ev join" a tu aventura. El límite máximo actual de participación es de 50.
+wrongAdventureLeader:Estás conectado con un personaje diferente al que comenzó la aventura. Por favor cambia a {username} para continuar.
+currentLoggedIn:Actualmente estás conectado como:
+youCanSelectRecipient:¡Puedes seleccionar al destinatario de botines raros o superiores!
+selectRandomPlayer:Seleccionar jugador aleatorio
+treasureOf:Tesoros de
+banishConfirmation:¿Estás seguro de que quieres desterrar a {{ playerToBanish.char.username }} de esta aventura?
 areYouSure:¿Estás seguro?
 banish:Desterrar
-youCanStartNewAdventureIn:Puedes crear uno nuevo en:
-partyInventory:Inventario de fiestas
-noLootObtained:Tu grupo aún no ha obtenido el botín
-chooseRewardRecipient:Elija el destinatario de la recompensa
+youCanStartNewAdventureIn:Puedes empezar una nueva en:
+partyInventory:Inventario de la partida
+noLootObtained:Tu grupo aún no ha obtenido botín.
+chooseRewardRecipient:Elije al destinatario de la recompensa
 voting:Votación
-adventureEndMessageMoraleZero:La moral del grupo es demasiado baja para continuar la aventura. Decides volver a casa.
-adventureEndMessageAllDead:El grupo ya no puede seguir luchando. Decides volver a casa.
-adventureEndMessageSurrender:Decidiste volver a casa con tu grupo.
-youWonTheAdventureFight:¡Ganaste la pelea de aventuras!
+adventureEndMessageMoraleZero:La moral del grupo es demasiado baja para continuar la aventura. Decides regresar a casa.
+adventureEndMessageAllDead:El grupo ya no puede continuar luchando. Decides regresar a casa.
+adventureEndMessageSurrender:Decidiste regresar a casa con tu grupo.
+youWonTheAdventureFight:¡Ganaste la pelea de la aventura!
 youLoseTheAdventureFight:¡Tu grupo perdió la pelea!
-yourGroupObtained:Su grupo obtuvo:
+yourGroupObtained:Tu grupo obtuvo:
 yourGroupLost:Tu grupo perdió:
 ThePlayerWillReceiveReward:¿Estás seguro de que quieres darle la recompensa a §player0§?
-noAdventureStarted:El streamer no organiza ninguna aventura en este momento.
-waitingForVoting:Esperando la próxima votación de la aventura de {LeaderName}...
-alreadyVoted:Ya has votado
-check:Comprobar
-required:Necesario
+noAdventureStarted:El streamer no está organizando una aventura en este momento.
+waitingForVoting:Esperando la siguiente votación en la aventura de {leaderName}...
+alreadyVoted:Ya votaste.
+check:Revisar
+required:Requerido
 successful:Exitoso
-failed:Falló
+failed:Fallido
 critical_success:Éxito crítico
 critical_failure:Fallo crítico
 joined:Se unió
 room:Habitación
 wantToFight:¡Dile al streamer si quieres pelear!
-mentToPlayedWithCommunity:Las aventuras están pensadas para jugarlas en streaming con tu comunidad
-happened:Sucedió
-effectsApplied:Efecto (s) aplicado (s)
-effectsRemoved:Efecto (s) eliminado (s)
+mentToPlayedWithCommunity:Las aventuras están destinadas a jugarse en stream con tu comunidad.
+happened:Ocurrió
+effectsApplied:Efecto(s) aplicado(s)
+effectsRemoved:Efecto(s) removido(s)
 coin_stack:Moneda
 errNoCoinStack:¡Tu grupo no tiene suficientes monedas!
-moralePlus:Moral +
+moralePlus:Morale +
 effect_moralePlus:todo
-moraleMinus:Moral -
+moraleMinus:Morale -
 effect_moraleMinus:todo
 remainingTurns:Turnos restantes:
-effect_drunk:El jugador está borracho.//33% de probabilidad de hacerte daño
-drunk:Borracho
-effect_hungover:El jugador tiene resaca.//-50% de evasión
-hungover:Resaca
-effect_drowsy:El jugador se siente somnoliento.//Siempre va en segundo lugar
+effect_drunk:El jugador está borracho. // 33% de probabilidad de lastimarte a ti mismo
+drunk:Ebrio
+effect_hungover:El jugador está resacoso. // -50% evasión
+hungover:Resacoso
+effect_drowsy:El jugador se siente somnoliento. // Siempre va segundo
 drowsy:Somnoliento
-effect_agile:Este jugador se siente ágil.//Siempre va primero
+effect_agile:El jugador se siente ágil. // Siempre va primero
 agile:Ágil
-effect_silenced:El jugador está silenciado.//Desactiva las habilidades
+effect_silenced:El jugador está silenciado. // Desactiva habilidades
 silenced:Silenciado
-effect_shaky:El jugador es inestable.//Solo guardabosques, +20% de probabilidad de perder
+effect_shaky:El jugador está tembloroso. // Solo arquero, +20% probabilidad de fallar
 shaky:Tembloroso
-effect_precise:Este jugador tiene una precisión avanzada.//Solo guardabosques, tu oponente no puede esquivar los ataques
+effect_precise:El jugador tiene una precisión avanzada. // Solo arquero, tu oponente no puede esquivar ataques
 precise:Preciso
-effect_furious:El jugador está furioso.//+25% de daño, 33% de probabilidad de hacerse daño
+effect_furious:El jugador está furioso. // +25% daño, 33% de probabilidad de hacerse daño a sí mismo
 furious:Furioso
-effect_healthy:Este jugador se siente excepcionalmente sano.//+25% de salud máxima
+effect_healthy:El jugador se siente excepcionalmente saludable. // +25% salud máxima
 healthy:Saludable
-effect_lucky:Este jugador se siente afortunado.//+25% de suerte, probabilidad de caída rara aumentada
+effect_lucky:El jugador se siente con suerte. // +25% suerte
 lucky:Afortunado
-effect_regenerating:Este jugador está regenerando su salud y no puede participar en batallas.//+25% de salud por ronda
-regenerating:Regenerador
-effect_astral_healing:Este jugador está recibiendo una curación mágica de otro jugador.// +50% de salud por ronda
-astral_healing:Sanación astral
-effect_astral_stasis:Este jugador usa magia para curar a un compañero.//No puede luchar
-astral_stasis:Estasis astral
-effect_ambushed:Este jugador sufrió una emboscada recientemente//Inflige el doble de daño
+effect_regenerating:El jugador está regenerando salud y no puede participar en batallas. // +25% salud por ronda
+regenerating:Regenerando
+effect_astral_healing:El jugador está recibiendo sanación mágica de otro jugador. // +50% salud por ronda
+astral_healing:Sanación Astral
+effect_astral_stasis:El jugador está usando magia para sanar a un compañero. // No puede luchar
+astral_stasis:Estasis Astral
+effect_ambushed:El jugador fue emboscado recientemente. // Recibe el doble de daño
 ambushed:Emboscado
-effect_healer:Este jugador se curó recientemente de una terrible enfermedad.//Todos los miembros del grupo se curan un 10% por turno
+effect_healer:El jugador curó recientemente una enfermedad terrible. // Todos los miembros del grupo se sanan un 10% por turno
 healer:Sanador
-effect_upset:Este jugador está molesto por las decisiones del líder.//-1 de moral por ronda
+effect_upset:El jugador está molesto por las decisiones del líder. // -1 moral por ronda
 upset:Molesto
-effect_terrified:Este jugador ha visto algo muy inquietante.//-2 de moral por ronda
+effect_terrified:El jugador ha visto algo altamente inquietante. // -2 moral por ronda
 terrified:Aterrado
-effect_vigilant:Este jugador está más alerta.//+5% de evasión
+effect_vigilant:El jugador está extra vigilante. // +5% evasión
 vigilant:Vigilante
-effect_thief:Este jugador es un ladrón conocido y lo vigilan con recelo.//+10% de destreza, -3 de moral por ronda
+effect_thief:El jugador es un conocido ladrón y es observado con sospecha. // +30% destreza, -3 moral por ronda
 thief:Ladrón
-effect_blacksmith:Este jugador ha demostrado ser un herrero habilidoso.//Prioridad para los cheques de herrería, 10 veces más habilidad de herrería para la aventura
+effect_blacksmith:El jugador ha demostrado ser un herrero capaz. // Prioridad para controles de forja, 10 veces la habilidad de forja en la aventura
 blacksmith:Herrero
-effect_ancient_knowledge:Este jugador se inspira en un conocimiento perdido hace mucho tiempo.//+ 10% de sabiduría
-ancient_knowledge:Conocimientos antiguos
-effect_cursed:Este jugador está afectado por una misteriosa maldición.//- 100% de suerte
+effect_ancient_knowledge:El jugador está inspirado por conocimientos perdidos hace mucho tiempo. // +30% sabiduría
+ancient_knowledge:Conocimiento Ancestral
+effect_cursed:El jugador está afectado por una maldición misteriosa. // -100% suerte
 cursed:Maldito
-effect_enhanced_magic:Este jugador ha mejorado su comprensión de la magia.//+10% de daño mágico, -10% de daño mágico recibido
-enhanced_magic:Magia mejorada
-effect_empathic:Este jugador ha aumentado su empatía y comprensión.//+1 de moral por ronda, +5% de sabiduría
+effect_enhanced_magic:El jugador tiene una comprensión mejorada de la magia. // +20% daño mágico, -20% daño mágico recibido
+enhanced_magic:Magia Mejorada
+effect_empathic:El jugador tiene una empatía y comprensión aumentadas. // +1 de moral por ronda, +15% sabiduría
 empathic:Empático
-effect_uncomfortable:Este jugador se siente incómodo o fuera de lugar.//-10% de voz
+effect_uncomfortable:El jugador se siente incómodo o fuera de lugar. // -50% discurso
 uncomfortable:Incómodo
-effect_diplomatic:Este jugador sobresale en la negociación y la resolución de conflictos.//+10% de discurso, +2 en todas las listas de discursos
+effect_diplomatic:El jugador sobresale en negociación y resolución de conflictos. // +30% discurso, +5 en todas las tiradas de discurso
 diplomatic:Diplomático
-unavailable:No disponible
-effect_unavailable:Este jugador está ocupado actualmente en otro lugar y, por el momento, no puede participar en las batallas.//# TODO
-dark_blessing:Bendición oscura
-effect_dark_blessing:Este jugador ha sido bendecido por una deidad siniestra.//+ 20% en todas las estadísticas + 10% de daño recibido
+unavailable:No Disponible
+effect_unavailable:El jugador está ocupado en otro lugar y temporalmente no puede participar en batallas. // # TODO
+dark_blessing:Bendición Oscura
+effect_dark_blessing:El jugador fue bendecido por una deidad siniestra. // +20% en todas las estadísticas, +10% daño recibido
 enlightened:Iluminado
-effect_enlightened:Este jugador logró una comprensión más profunda de lo divino y de todo lo sagrado.//+2 en todas las tiradas de sabiduría
-famished:Hambriento
-effect_famished:Este jugador está debilitado por no haber comido adecuadamente durante mucho tiempo.//-50% de fuerza: 2 a todas las tiradas de fuerza
+effect_enlightened:El jugador ha alcanzado una comprensión más profunda de los divinos y todo lo sagrado. // +4 en todas las tiradas de sabiduría
+famished:Famélico
+effect_famished:El jugador está debilitado por no haber comido adecuadamente en un tiempo. // -50% fuerza, -2 a todas las tiradas de fuerza
 plagued:Plagado
-effect_plagued:Al sufrir una plaga desconocida, la vitalidad y la fuerza de este jugador se reducen considerablemente.//-50% de vitalidad, -30% de fuerza
-guardian_angel:Ángel guardián
-effect_guardian_angel:Protegido por una deidad divina, este jugador regresará una vez más tras caer en combate.
-protective_blessing:Bendición protectora
-effect_protective_blessing:Una bendición menor que protege a los afectados de cualquier daño.//-5% de daño recibido
-dragon_slayer:Cazador de dragones
-effect_dragon_slayer:Este jugador es conocido por matar dragones en combate individual.//500% de daño contra dragones
-berserk:Enloquecido
-effect_berserk:Herido gravemente, este jugador cayó en cólera ancestral.//+200% de daño mientras esté gravemente herido o mutilado
+effect_plagued:Sufriendo de una plaga desconocida, la vitalidad y la fuerza del jugador están muy reducidas. // -50% vitalidad, -30% fuerza
+guardian_angel:Ángel Guardián
+effect_guardian_angel:Protegido por una deidad divina, el jugador está destinado a regresar una vez más después de caer en combate.
+protective_blessing:Bendición Protectora
+effect_protective_blessing:Una bendición menor que protege al afectado del daño. // -5% daño recibido
+dragon_slayer:Asesino de Dragones
+effect_dragon_slayer:El jugador es conocido por matar a un dragón en combate singular. // 500% daño contra dragones
+berserk:Frenesí
+effect_berserk:Gravemente herido, el jugador cayó en una antigua ira. // +200% daño mientras esté gravemente herido o mutilado
 ambivalent:Ambivalente
-effect_ambivalent:Este personaje es conocido por sus ideas contradictorias que conducen a resultados dispares en sus acciones.//-2 a +2 en cualquier tirada
-effect_drained:El jugador se siente agotado y ya no podrá recuperarse por completo.//-25% de salud máxima
-drained:Drenado
-effect_shattered:La armadura del jugador está destrozada.//-75% de armadura y resistencia mágica
+effect_ambivalent:El personaje es conocido por sus ideas contradictorias, lo que lleva a resultados mixtos en sus acciones. // -10 a +10 en cualquier tirada
+effect_drained:El jugador se siente agotado y no podrá recuperarse completamente nunca más. // -25% salud máxima
+drained:Agotado
+effect_shattered:La armadura del jugador está destrozada. // -75% armadura y resistencia mágica
 shattered:Destrozado
-effect_overloaded:El tesoro recolectado pesa sobre el jugador.//-25% de destreza
-overloaded:Sobrecargado
-effect_damaged_weapon:El arma de este jugador ha tenido días mejores y necesita ser reparada.//-25% de daño
-damaged_weapon:Arma dañada
-effect_improved_weapon:El arma de este jugador se ha mejorado recientemente.//+ 10% de daño
-improved_weapon:Arma mejorada
-effect_disarmed:El arma del jugador está en pésimo estado.//-75% de daño
+effect_overloaded:El jugador está abrumado por el tesoro recolectado. // -25% destreza
+overloaded:Abrumado
+effect_damaged_weapon:El arma del jugador ha visto mejores días y necesita ser reparada. // -25% daño
+damaged_weapon:Arma Dañada
+effect_improved_weapon:El arma del jugador fue mejorada recientemente. // +10% de daño
+improved_weapon:Arma Mejorada
+effect_disarmed:El arma del jugador está en terrible estado. // -75% de daño
 disarmed:Desarmado
-effect_vampiristic:Se sospecha que este jugador es un vampiro.//Se cura con un 75% del daño infligido, -10 de moral por cada batalla, -50% de salud
-vampiristic:vampírico
-effect_banished:Este jugador fue expulsado del grupo.//Ya no forma parte de la aventura # TODO No Voting Power
+effect_vampiristic:Se sospecha que el jugador es un vampiro. // Cura el 75% del daño infligido, -10 §morale§ por cada batalla, -50% de salud
+vampiristic:Vampirístico
+effect_banished:El jugador fue desterrado del grupo. // Ya no es parte de la aventura
 banished:Desterrado
-strong_leader:Líder fuerte
-effect_strong_leader:Este líder ha demostrado una fuerza excepcional.//+10% en todas las estadísticas
+strong_leader:Líder Fuerte
+effect_strong_leader:El líder ha demostrado una fuerza excepcional. // +25% a todas las estadísticas
 usurper:Usurpador
-effect_usurper:Este jugador derrocó a su líder y ahora dirige el grupo.//# TODO 3x Voting Power
-bonded_friendship:Amistad unida
-effect_bonded_friendship:Este jugador ha entablado una estrecha amistad con otro miembro del grupo, lo que ha mejorado su trabajo en equipo y su moral.//+5% en todas las estadísticas y +1 de moral en la misma batalla con otro amigo unido
-effect_transformed:El jugador se transforma en una criatura.//???
+effect_usurper:El jugador derrocó a su líder y ahora comanda el grupo. // TODO: 3x Poder de Votación
+bonded_friendship:Amistad Vinculada
+effect_bonded_friendship:El jugador ha formado una amistad cercana con otro miembro del grupo, mejorando su trabajo en equipo y moral. // +50% a todas las estadísticas y +1 §morale§ cuando está en la misma batalla con su amigo vinculado
+effect_transformed:El jugador se transforma en una criatura. // ???
 transformed:Transformado
-effect_wounded:El jugador está herido.//-25% de salud máxima
+effect_wounded:El jugador está herido. // -25% de salud máxima
 wounded:Herido
-effect_badly_wounded:El jugador está gravemente herido.//-50% de salud máxima
-badly_wounded:Herido gravemente
-effect_maimed:El jugador está mutilado.//-75% de salud máxima
+effect_badly_wounded:El jugador está gravemente herido. // -50% de salud máxima
+badly_wounded:Gravemente Herido
+effect_maimed:El jugador está mutilado. // -75% de salud máxima
 maimed:Mutilado
-effect_fainted:El jugador se ha desmayado.//Ya no puedes luchar.
-fainted:Se desmayó
+effect_fainted:El jugador ha desmayado. // No puede combatir más.
+fainted:Desmayado
 check_strength:Se requiere mucha fuerza física.
 strength:Fuerza
-check_alchemist:Los expertos en alquimia tienen más probabilidades de triunfar.
+check_alchemist:Aquellos con habilidades en alquimia tendrán más probabilidades de éxito.
 alchemist:Alquimista
-check_smith:Aquellos con talento para la herrería prosperarán.
-smith:Herrero
-check_cook:Aquellos con talento para la cocina prosperarán.
+check_smith:Aquellos con un talento para la herrería prosperarán.
+smith:Herrer@
+check_cook:Aquellos con un talento para la cocina prosperarán.
 cook:Cocinero
-check_wisdom:Los sabios de entre nosotros pueden tener una respuesta a este problema.
+check_wisdom:Los sabios entre nosotros podrían tener una respuesta a este problema.
 wisdom:Sabiduría
 check_luck:¿Te sientes afortunado hoy?
 luck:Suerte
 check_vitality:Aquellos bendecidos con una vitalidad extraordinaria prosperarán.
 vitality:Vitalidad
-check_mag_resistance:Los dotados de una formidable resistencia mágica prevalecerán.
-mag_resistance:Resistencia mágica
-check_speech:Resolver este problema requerirá un poco de carisma.
-speech:Discurso
-check_dexterity:Los que posean una destreza excepcional sobresaldrán.
+check_mag_resistance:Quienes posean una resistencia mágica formidable prevalecerán.
+mag_resistance:Resistencia Mágica
+check_speech:Resolver este problema requerirá algo de carisma.
+speech:Carisma
+check_dexterity:Quienes posean una destreza excepcional sobresaldrán.
 dexterity:Destreza
-check_morale:¿La moral del partido es lo suficientemente alta como para superar este obstáculo?
-check_fame:Los aventureros más experimentados conocerán la solución.
+check_morale:¿Es la moral del grupo lo suficientemente alta para superar este obstáculo?
+check_fame:Los aventureros más experimentados sabrán la solución.
 fame:Fama
-bright_hair:El cabello de todos está coloreado de colores brillantes
-effect_bright_hair:Cabello brillante
-check_coin_stack:Esta opción requiere una pila de monedas
-adventurePlayerCheck:Comprobar
-errNotEnoughVotings:¡No puedes continuar sin votar por nada!
+bright_hair:El cabello de todos está teñido de colores brillantes.
+effect_bright_hair:Cabello Brillante
+check_coin_stack:Esta opción requiere una pila de monedas.
+adventurePlayerCheck:Chequeo
+errNotEnoughVotings:¡No puedes continuar sin votar por algo!
 combat_won:Combate ganado
-effect_combat_won:Has ganado el combate//+ Moral
-adventureCooldownRoyal:El tiempo de reutilización de Aventura es un 50% más corto
-adventureCooldownMythical:El tiempo de reutilización de Aventura es un 50% más corto
-adventureCooldownLegendary:El tiempo de reutilización de Aventura es un 25% más corto
-adventureCooldownEpic:Tiempo de reutilización de Aventura un 10% más corto
-adventureEndMessageTimeout:Los aventureros se cansaron de quedarse sin hacer nada y el grupo se disolvió. (Se ha agotado el tiempo)
+effect_combat_won:Ganaste el combate. // +Moral
+adventureCooldownRoyal:50% de reducción en el tiempo de espera de la aventura.
+adventureCooldownMythical:50% de reducción en el tiempo de espera de la aventura.
+adventureCooldownLegendary:25% de reducción en el tiempo de espera de la aventura.
+adventureCooldownEpic:10% de reducción en el tiempo de espera de la aventura.
+adventureEndMessageTimeout:Los aventureros se cansaron de estar sentados sin hacer nada y la fiesta se ha disuelto. (Tiempo agotado)
 vote:Votar
 choose:Elige
 sick:Enfermo
-effect_sick:Este jugador sufre una enfermedad.//-10% en todas las estadísticas
+effect_sick:El jugador está sufriendo de una enfermedad. // -10% en todas las estadísticas
+major_blessing:Bendición Mayor
+effect_major_blessing:Una bendición divina mayor. // +20% a todas las estadísticas
+profaned:Profanado
+effect_profaned:Abandonado por los dioses por intentar comunicarse con un dios exterior. // -20% a todas las estadísticas
+denounced:Denunciado
+effect_denounced:El jugador es marcado como enemigo de la corona. // -10 en todas las tiradas de fama
+alreadyReceivedDailyAdventureRewards:Este jugador ya ha recibido sus recompensas diarias de la aventura. Por favor, asígnalas a otra persona.
+adventureNotLive:¡Necesitas estar en vivo en Twitch para comenzar la aventura!
+divine_staff:Báculo Divino
+effect_divine_staff:El jugador empuña un báculo antiguo diseñado para arrasar todas las abominaciones. // +500% de daño contra abominaciones
+check_min_morale:Tu moral necesita ser más alta para seleccionar esta opción.
+min_morale:Morale mínima requerida
+check_max_morale:Tu moral debe ser más baja para seleccionar esta opción.
+max_morale:Máxima moral permitida

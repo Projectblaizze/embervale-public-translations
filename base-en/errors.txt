@@ -11,12 +11,12 @@ errUnknownErrorChatbot:An unknown error occurred! If the problem persists, repor
 tokenExpired:The Twitch authentication token has expired. Please reload the website or restart your app.
 invalidToken:<h3>Authentication failed</h3> Please ensure that your system clock is synced! <br> Otherwise, the authentication will fail!<br><br>More solutions:<br>1) Refresh the page<br>2) Disable browser extensions<br>3) Revoke and grant the extension permission<br>4) Log in and out of Twitch<br>5) Try using a different browser<br><br>For more help, join our Discord: https://discord.gg/cT3ThCj
 
-
 errTwitchAccessNotGranted:Please grant access to your Twitch ID by clicking the little human icon on the bottom right!
 errNoInventoryItem:Inventory is empty!
 errInventoryIsFull:Your inventory is full! Please sell some items!
 errMaterialInventoryIsFull:Your material inventory is full! You can sell them to the Merchant in the shop or craft something!
 errConsumableInventoryIsFull:Your consumable inventory is full!
+errConsumableInventoryWouldBeFull:This craft would make your bag too heavy!
 
 errNotEnoughArcanites:You don't have enough Arcanites.
 errNotEnoughMoney:You don't have enough gold to buy this!
@@ -24,7 +24,7 @@ errNotEnoughGold:You don't have enough gold to buy this!
 errNotEnoughSkillPoints:You don't have enough skill points to perform this action!
 
 errStatDoesNotExist:You can't increase this stat!
-errBountyDoesNotExist:The bounty doesn't exist (anymore)! This could mean you've had the webpage open for more than 24 hours, or your clock is not synchronized!
+errBountyDoesNotExist:It looks like this bounty can’t be found! This may happen if: a) your system clock is out of sync, or b) you have Embervale open in multiple browser tabs and have already completed this bounty.
 errOpponentDoesNotExist:The enemy doesn't exist (anymore)!
 errItemDoesNotExist:The item either doesn't belong to you or no longer exists!
 errLevelToLowToEquip:Your level is too low to equip that item!
@@ -72,6 +72,7 @@ errCantUseThisName:You cannot use this name!
 errThatNameIsTooLong:Your name can be up to 16 characters long!
 errThatNameIsTooShort:Your name must have at least 4 characters!
 errThatNameIsAlreadyInUse:This name is no longer available!
+errPleaseRenameYourCharacter:You need to rename your character!
 
 // Guild
 errAlreadyInvitedToGuild:This person is already invited to your guild!

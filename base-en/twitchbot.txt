@@ -10,10 +10,16 @@ twitchbotNoActiveChar:Please select your active character in the Embervale exten
 // Adventure
 adventureNotActive:There is no active adventure!
 adventureAlreadyIn:You are already in an adventure!
-adventureMultipleCharactersAlreadyIn:You have already joined an adventure with one of your characters!
+adventureCooldown:You are on cooldown:
 adventureNoActiveVoting:There is no active voting!
 adventureYouAreNotIn:You are not currently in an adventure!
 adventureInvalidVoting:Your vote was invalid!
+adventureFull:The adventure is full!
+adventureAlreadyJoined:You already joined!
+adventureJoined:joined
+adventureCanStart:can start an Adventure
+adventureInProgress:is hosting an Adventure right now
+adventureCanJoin:You can join an Adventure
 
 // Flex
 achievements:Achievements
@@ -27,3 +33,6 @@ defeated:Defeated
 cantFindMonster:Cannot find this monster!
 
 cmdJoinDiscord:Visit our Discord to claim exciting rewards every day.
+
+// adventure start -> no bot
+chatBotNeedsSetup:Enable our chatbot at embervale.tv/commands to unlock adventures!

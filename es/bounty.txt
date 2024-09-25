@@ -1,51 +1,51 @@
-BountyHumanMage0:Un acólito turbio culpable de usar magia negra. Visto por última vez deambulando por las tierras fluviales.
-BountyHumanMage1:Sobre aviso: El alquimista de las artes oscuras, incursionando en la magia prohibida y buscando el robo de tomos antiguos de la Biblioteca Real.
-BountyHumanMage2:Mago que intentó fusionar ilegalmente la magia de la luz y la oscuridad.
-BountyHumanMage3:Mago que intentó fusionar ilegalmente la magia de fuego y hielo.
-BountyHumanMage4:Un nigromante intenta convocar a un ejército de muertos vivientes.
-BountyHumanMage5:Bruja sin licencia que convierte a la gente en ranas.
-BountyHumanMage6:Mago, acosa pueblos con mágicas tormentas de nieve.
-BountyHumanMage7:Mago, acosa a las comunidades con su magia de tormenta.
-BountyHumanMage8:Mago, culpable de pagar con monedas de oro falsas.
-BountyHumanMage9:Un mago embaucador que estafaba a la gente con productos ilusorios.
+BountyHumanMage0:Acólito sombrío culpable de usar magia negra. Última vez visto deambulando por las tierras ribereñas.
+BountyHumanMage1:En busca: El Alquimista de Artes Oscuras, involucrado en magia prohibida y buscado por el robo de tomos antiguos de la Biblioteca Real.
+BountyHumanMage2:Mago que intentó fusionar ilegalmente magia de luz y oscuridad.
+BountyHumanMage3:Mago que intentó fusionar ilegalmente magia de fuego y hielo.
+BountyHumanMage4:Nigromante tratando de invocar un ejército de no-muertos.
+BountyHumanMage5:Bruja sin licencia, transformando personas en ranas.
+BountyHumanMage6:Hechicero, hostigando aldeas con tormentas de nieve mágicas.
+BountyHumanMage7:Hechicero, acosando comunidades con su magia de tormenta.
+BountyHumanMage8:Hechicero, culpable de pagar con monedas de oro falsas.
+BountyHumanMage9:Mago embaucador, estafando a la gente con bienes ilusorios.
 BountyHumanRogue0:Bandido sentenciado. Extraordinariamente peligroso.
 BountyHumanRogue1:Un ladrón de poca monta sospechoso de robar suministros.
 BountyHumanRogue2:Un ladrón de poca monta que robó un artefacto sagrado.
 BountyHumanRogue3:Un ladrón de poca monta que robó el bastón de un mago.
-BountyHumanRogue4:Líder de un grupo de bandidos que ataca a los comerciantes.
-BountyHumanRogue5:Un sinvergüenza que roba carteras en el mercado.
+BountyHumanRogue4:Jefe de banda, atacando a mercaderes.
+BountyHumanRogue5:Un bribón, robando carteras en el mercado.
 BountyHumanRogue6:Ladrón, robando oro en la puerta de la ciudad.
-BountyHumanRogue7:El Bandido Escarlata, un maestro del disfraz conocido por saquear caravanas de mercaderes en King's Road.
-BountyHumanRogue8:Se busca: El ladrón de las sombras, conocido por desaparecer con las joyas reales al amparo de la noche.
-BountyHumanRogue9:Captura inmediata: El ruiseñor, un famoso bardo con talento para el espionaje, es buscado por revelar secretos reales.
-BountyHumanKnight0:El renacido de hierro, un caballero deshonrado que deambula por las tierras y desafía a cualquiera a batirse en duelo por sus tierras y títulos.
-BountyHumanKnight1:Caballero abandonado y antiguo comandante del ejército real.
-BountyHumanKnight2:Un soldado desertor del ejército de King, que se ha dedicado al saqueo
-BountyHumanKnight3:El Paladín Caído, perseguido por la herejía y los oscuros rituales que han maldecido las tierras que estaba obligado a proteger.
-BountyHumanKnight4:Ex guardia municipal, abusó de su posición para robar el dinero de la gente
-BountyHumanKnight5:Los templarios renegados, conocidos por saquear reliquias sagradas y ejercer su poder contra la iglesia.
-BountyHumanKnight6:El Caballero de Plata, una leyenda convertida en traidor, acusado de asesinar a un noble de alto rango con el pretexto de la paz.
-BountyHumanKnight7:El señor de la guerra de las Tierras Baldías reúne a exiliados y criminales para forjar un reino propio, desafiando la autoridad real.
-BountyHumanKnight8:El rompejuramentos, que alguna vez fue guardián del reino y ahora es su adversario más temido, buscaba romper los votos sagrados e incitar a la rebelión.
-BountyHumanKnight9:La Vanguardia Crepuscular desapareció de su puesto en vísperas de la batalla y ahora lidera un ejército en la sombra contra sus antiguos camaradas.
+BountyHumanRogue7:El Bandido Escarlata, un maestro del disfraz conocido por saquear caravanas de mercaderes en el Camino del Rey.
+BountyHumanRogue8:Se busca: El Ladrón Sombrío, notorio por desvanecerse con las joyas reales bajo el amparo de la noche.
+BountyHumanRogue9:Captura Inmediata: El Ruiseñor, un famoso bardo con talento para el espionaje, buscado por filtrar secretos reales.
+BountyHumanKnight0:El Revenante de Hierro, un caballero deshonrado que recorre las tierras, desafiando a cualquiera a un duelo por sus tierras y títulos.
+BountyHumanKnight1:Caballero desierto y excomandante del ejército real.
+BountyHumanKnight2:Un soldado desertor del ejército del Rey, que se ha dedicado al saqueo.
+BountyHumanKnight3:El Paladín Caído, buscado por herejía y los oscuros rituales que han maldecido las tierras que debía proteger.
+BountyHumanKnight4:Ex guardia de la ciudad, abusó de su posición para robar el dinero de la gente.
+BountyHumanKnight5:El Templario Renegado, conocido por saquear reliquias sagradas y usar su poder contra la iglesia.
+BountyHumanKnight6:El Caballero de Plata, una leyenda convertida en traidor, acusado de asesinar a un noble de alto rango bajo la apariencia de paz.
+BountyHumanKnight7:El Señor de la Guerra de los Yermos, reuniendo exiliados y criminales para crear su propio reino, desafiando la autoridad real.
+BountyHumanKnight8:El Rompejuramentos, una vez guardián del reino, ahora su adversario más temido, buscado por romper votos sagrados e incitar a la rebelión.
+BountyHumanKnight9:La Vanguardia del Crepúsculo, desapareció de su puesto en la víspera de la batalla, ahora lidera un ejército de sombras contra sus antiguos camaradas.
 BountyHumanRanger0:Ladrón, robando a la gente en el bosque.
-BountyHumanRanger1:For Justice: The Phantom Archer, que ataca desde las sombras y deja una estela de caos en el corazón de la ciudad.
-BountyHumanRanger2:Asesino, trabajando como falso guía forestal.
-BountyHumanRanger3:Wanted Dead or Alive: The Wolf of the Wilds, un llanero solitario acusado de liderar una rebelión contra la corona.
-BountyHumanRanger4:Gran recompensa: El fantasma del Bosque Oscuro, una figura escurridiza que roba a los ricos y desaparece sin dejar rastro.
-BountyHumanRanger5:La Flecha del Norte, famosa por su precisión letal desde distancias invisibles, interrumpe las patrullas reales.
-BountyHumanRanger6:Guardián del Valle Escondido, acusado de proteger las tierras prohibidas con fuerza letal contra los intrusos.
-BountyHumanRanger7:The Wandering Bow, un arquero nómada acusado de haber derribado la preciada presa de un noble en una cacería prohibida.
-BountyHumanRanger8:The Silent Step, un fantasma en los bosques que roba a los ricos y elude su captura con un sigilo sin igual.
-BountyHumanRanger9:Whisperwind, un guardabosques con la habilidad de moverse como la brisa, se dedica al espionaje contra la corona.
-BountyHumanRanger999:Nailguns, antiguo héroe de Embervale.
-BountyHumanWarrior0:Busca y detiene: La sirena de los mares, un capitán pirata con una voz que atrae a los marineros hacia su perdición.
-BountyHumanWarrior1:Urgent Bounty: The Iron Fist, un despiadado mercenario que deja un camino de destrucción a su paso, es buscado por cometer crímenes contra el reino.
-BountyHumanWarrior2:El Hacha del Este, que empuña un arma que se ha abierto paso entre las filas de muchos ejércitos, ahora se ha vuelto contra el reino.
-BountyHumanWarrior3:El Coloso de Hierro, un mercenario de inmensa fuerza, acusado de derribar una fortaleza sin ayuda de nadie para conseguir oro.
-BountyHumanWarrior4:El Stormcaller, que invocaba la furia de la naturaleza en la batalla, quería desatar una tempestad en una flota naval.
-BountyHumanWarrior5:El Gladiador de la Arena de los Renegados ha escapado de las fosas y ahora demuestra su valía desafiando a los más poderosos del reino.
-BountyHumanWarrior6:Los Puños de la Montaña, conocidos por su fuerza y voluntad inquebrantables, intentaron aplastar a un batallón con una victoria aplastante.
-BountyHumanWarrior7:El Reaver sediento de sangre, un pirata convertido en señor de la guerra, aterroriza las costas con brutales incursiones.
-BountyHumanWarrior8:El Merodeador Carmesí, al frente de una banda de desertores, saquea el campo, dejando devastación a su paso.
-BountyHumanWarrior9:Se busca al Berserker del Bosque Boreal, conocido por su furia que puede cambiar el rumbo de la batalla, por desafiar el servicio militar obligatorio del rey.
+BountyHumanRanger1:Por Justicia: El Arquero Fantasma, que ataca desde las sombras, dejando un rastro de caos en el corazón de la ciudad.
+BountyHumanRanger2:Asesino, trabaja como falso guía forestal.
+BountyHumanRanger3:Se Busca Vivo o Muerto: El Lobo de las Tierras Salvajes, un guardabosques solitario acusado de liderar una rebelión contra la corona.
+BountyHumanRanger4:Alta Recompensa: El Fantasma de Duskwood, una figura esquiva que roba a los ricos y desaparece sin dejar rastro.
+BountyHumanRanger5:La Flecha del Norte, famosa por su precisión mortal desde distancias invisibles, interrumpiendo patrullas reales.
+BountyHumanRanger6:Guardián del Valle Oculto, acusado de proteger tierras prohibidas con fuerza letal contra los intrusos.
+BountyHumanRanger7:El Arco Errante, un arquero nómada acusado de derribar el juego preciado de un noble en una cacería prohibida.
+BountyHumanRanger8:El Pasosilencioso, un fantasma en los bosques, roba a los ricos y elude la captura con sigilo inigualable.
+BountyHumanRanger9:Susurraviento, un guardabosques con la habilidad de moverse como la brisa, involucrado en espionaje contra la corona.
+BountyHumanRanger999:Clavopistolas, antiguo héroe de Embervale.
+BountyHumanWarrior0:Busca y Captura: La Sirena de los Mares, un capitán pirata con una voz que atrae a los marineros a su perdición.
+BountyHumanWarrior1:Recompensa Urgente: El Puño de Hierro, un mercenario despiadado que deja un rastro de destrucción a su paso, buscado por crímenes contra el reino.
+BountyHumanWarrior2:El Hacha del Este, portando un arma que ha rajado las filas de muchos ejércitos, ahora vuelta contra el reino.
+BountyHumanWarrior3:El Coloso de Hierro, un mercenario de inmensa fuerza, acusado de derribar una fortaleza él solo por oro.
+BountyHumanWarrior4:El Invocador de Tormentas, llamando la furia de la naturaleza en batalla, buscado por desatar una tempestad sobre una flota naval.
+BountyHumanWarrior5:El Gladiador de la Arena Abandonada, escapado de los fosos, ahora demostrando su valía desafiando a los más poderosos del reino.
+BountyHumanWarrior6:El Puño de la Montaña, conocido por su voluntad y fuerza inquebrantables, buscado por aplastar un batallón con un deslizamiento de tierra.
+BountyHumanWarrior7:El Saqueador Sediento de Sangre, un pirata convertido en señor de la guerra, aterrorizando las costas con brutales incursiones.
+BountyHumanWarrior8:El Merodeador Carmesí, liderando una banda de desertores, saqueando a lo largo y ancho del campo, dejando devastación a su paso.
+BountyHumanWarrior9:El Berserker del Bosque Boreal, conocido por una rabia que puede cambiar el curso de la batalla, buscado por desafiar la conscripción del rey.

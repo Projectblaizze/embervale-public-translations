@@ -1,124 +1,130 @@
 consumables:Расходные материалы
-consumable:Расходный материал
-other:Другой
-small_health_potion:Маленькое лечебное зелье
-small_health_potion_craft_description:В подземельях исцеляет вас на {amount_min1}% до {amount_max1}%
-small_health_potion_description:В подземельях исцеляет вас на {amount_min1}%
-medium_health_potion:Зелье среднего уровня здоровья
-medium_health_potion_craft_description:В подземельях исцеляет вас на {amount_min1}% до {amount_max1}%
-medium_health_potion_description:В подземельях исцеляет вас на {amount_min1}%
-large_health_potion:Большое лечебное зелье
-large_health_potion_craft_description:В подземельях исцеляет вас на {amount_min1}% до {amount_max1}%
-large_health_potion_description:В подземельях исцеляет вас на {amount_min1}%
-small_accuracy_potion:Зелье малой точности
-small_accuracy_potion_craft_description:Увеличивает точность на {amount_min1}% до {amount_max1}%.
-small_accuracy_potion_description:Увеличивает точность на {amount_min1}% за {время}.
-medium_accuracy_potion:Зелье средней точности
-medium_accuracy_potion_craft_description:Увеличивает точность на {amount_min 1%} до {amount_max1}%.
-medium_accuracy_potion_description:Увеличивает точность на {amount_min1}% за {время}.
-large_accuracy_potion:Зелье большой точности
-large_accuracy_potion_craft_description:Увеличивает точность на {amount_min1}% до {amount_max1}%.
-large_accuracy_potion_description:Увеличивает точность на {amount_min1}% за {время}.
-small_dexterity_potion:Маленькое зелье для ловкости
-small_dexterity_potion_craft_description:Увеличивает ловкость на {amount_min1}% до {amount_max1}%.
-small_dexterity_potion_description:Увеличивает ловкость на {amount_min1}% в течение {времени}.
-medium_dexterity_potion:Зелье для средней ловкости
-medium_dexterity_potion_craft_description:Увеличивает ловкость на {amount_min1}% до {amount_max1}%.
-medium_dexterity_potion_description:Увеличивает ловкость на {amount_min1}% в течение {времени}.
-large_dexterity_potion:Большое зелье для ловкости
-large_dexterity_potion_craft_description:Увеличивает ловкость на {amount_min1}% до {amount_max1}%.
-large_dexterity_potion_description:Увеличивает ловкость на {amount_min1}% в течение {времени}.
-small_luck_potion:Маленькое зелье удачи
-small_luck_potion_craft_description:Увеличивает удачу на {amount_min1}% до {amount_max1}%.
-small_luck_potion_description:Увеличивает удачу на {amount_min1}% в течение {времени}.
-medium_luck_potion:Зелье средней удачи
-medium_luck_potion_craft_description:Увеличивает удачу на {amount_min1}% до {amount_max1}%.
-medium_luck_potion_description:Увеличивает удачу на {amount_min1}% в течение {времени}.
-large_luck_potion:Большое зелье удачи
-large_luck_potion_craft_description:Увеличивает удачу на {amount_min1}% до {amount_max1}%.
-large_luck_potion_description:Увеличивает удачу на {amount_min1}% в течение {времени}.
-small_strength_potion:Зелье малой крепости
-small_strength_potion_craft_description:Увеличивает прочность на {amount_min1}% до {amount_max1}%.
-small_strength_potion_description:Увеличивает прочность на {amount_min1}% в течение {времени}.
-medium_strength_potion:Зелье средней крепости
-medium_strength_potion_craft_description:Увеличивает прочность на {amount_min1}% до {amount_max1}%.
-medium_strength_potion_description:Увеличивает прочность на {amount_min1}% в течение {времени}.
-large_strength_potion:Зелье большой силы
-large_strength_potion_craft_description:Увеличивает прочность на {amount_min1}% до {amount_max1}%.
-large_strength_potion_description:Увеличивает прочность на {amount_min1}% в течение {времени}.
-small_vitality_potion:Маленькое зелье жизненной силы
-small_vitality_potion_craft_description:Увеличивает жизненный тонус на {amount_min1}% до {amount_max1}%.
-small_vitality_potion_description:Увеличивает жизненный тонус на {amount_min1}% в течение {времени}.
-medium_vitality_potion:Зелье средней жизненной силы
-medium_vitality_potion_craft_description:Увеличивает жизненный тонус на {amount_min1}% до {amount_max1}%.
-medium_vitality_potion_description:Увеличивает жизненный тонус на {amount_min1}% в течение {времени}.
+consumable:Расходный предмет
+other:Другое
+small_health_potion:Малое зелье здоровья
+small_health_potion_craft_description:Восстанавливает {amount_min1}% до {amount_max1}% здоровья в подземельях.
+small_health_potion_description:Восстанавливает {amount_min1}% здоровья в подземельях.
+medium_health_potion:Среднее зелье здоровья
+medium_health_potion_craft_description:Восстанавливает {amount_min1}% до {amount_max1}% здоровья в подземельях.
+medium_health_potion_description:Восстанавливает {amount_min1}% здоровья в подземельях.
+large_health_potion:Большое зелье здоровья
+large_health_potion_craft_description:Восстанавливает {amount_min1}% до {amount_max1}% здоровья в подземельях.
+large_health_potion_description:Восстанавливает {amount_min1}% здоровья в подземельях.
+small_accuracy_potion:Малое зелье меткости
+small_accuracy_potion_craft_description:Увеличивает меткость на {amount_min1}% до {amount_max1}%.
+small_accuracy_potion_description:Увеличивает меткость на {amount_min1}% на {time}.
+medium_accuracy_potion:Среднее зелье меткости
+medium_accuracy_potion_craft_description:Увеличивает меткость на {amount_min1}% до {amount_max1}%.
+medium_accuracy_potion_description:Увеличивает меткость на {amount_min1}% на {time}.
+large_accuracy_potion:Большое зелье меткости
+large_accuracy_potion_craft_description:Увеличивает меткость на {amount_min1}% до {amount_max1}%.
+large_accuracy_potion_description:Увеличивает точность на {amount_min1}% на {time}.
+small_dexterity_potion:Малое Зелье Ловкости
+small_dexterity_potion_craft_description:Увеличивает ловкость от {amount_min1}% до {amount_max1}%.
+small_dexterity_potion_description:Увеличивает ловкость на {amount_min1}% на {time}.
+medium_dexterity_potion:Среднее Зелье Ловкости
+medium_dexterity_potion_craft_description:Увеличивает ловкость от {amount_min1}% до {amount_max1}%.
+medium_dexterity_potion_description:Увеличивает ловкость на {amount_min1}% на {time}.
+large_dexterity_potion:Большое Зелье Ловкости
+large_dexterity_potion_craft_description:Увеличивает ловкость от {amount_min1}% до {amount_max1}%.
+large_dexterity_potion_description:Увеличивает ловкость на {amount_min1}% на {time}.
+small_luck_potion:Малое Зелье Удачи
+small_luck_potion_craft_description:Увеличивает удачу от {amount_min1}% до {amount_max1}%.
+small_luck_potion_description:Увеличивает удачу на {amount_min1}% на {time}.
+medium_luck_potion:Среднее Зелье Удачи
+medium_luck_potion_craft_description:Увеличивает удачу от {amount_min1}% до {amount_max1}%.
+medium_luck_potion_description:Увеличивает удачу на {amount_min1}% на {time}.
+large_luck_potion:Большое Зелье Удачи
+large_luck_potion_craft_description:Увеличивает удачу от {amount_min1}% до {amount_max1}%.
+large_luck_potion_description:Увеличивает удачу на {amount_min1}% на {time}.
+small_strength_potion:Малое Зелье Силы
+small_strength_potion_craft_description:Увеличивает силу от {amount_min1}% до {amount_max1}%.
+small_strength_potion_description:Увеличивает силу на {amount_min1}% в течение {time}.
+medium_strength_potion:Среднее зелье силы
+medium_strength_potion_craft_description:Увеличивает силу от {amount_min1}% до {amount_max1}%.
+medium_strength_potion_description:Увеличивает силу на {amount_min1}% в течение {time}.
+large_strength_potion:Большое зелье силы
+large_strength_potion_craft_description:Увеличивает силу от {amount_min1}% до {amount_max1}%.
+large_strength_potion_description:Увеличивает силу на {amount_min1}% в течение {time}.
+small_vitality_potion:Малое зелье жизненной силы
+small_vitality_potion_craft_description:Увеличивает жизненную силу от {amount_min1}% до {amount_max1}%.
+small_vitality_potion_description:Увеличивает жизненную силу на {amount_min1}% в течение {time}.
+medium_vitality_potion:Среднее зелье жизненной силы
+medium_vitality_potion_craft_description:Увеличивает жизненную силу от {amount_min1}% до {amount_max1}%.
+medium_vitality_potion_description:Увеличивает жизненную силу на {amount_min1}% в течение {time}.
 large_vitality_potion:Большое зелье жизненной силы
-large_vitality_potion_craft_description:Увеличивает жизненный тонус на {amount_min1}% до {amount_max1}%.
-large_vitality_potion_description:Увеличивает жизненный тонус на {amount_min1}% в течение {времени}.
-small_wisdom_potion:Маленькое зелье мудрости
-small_wisdom_potion_craft_description:Увеличивает мудрость на {amount_min1}% до {amount_max1}%.
-small_wisdom_potion_description:Увеличивает мудрость на {amount_min1}% в течение {времени}.
-medium_wisdom_potion:Зелье мудрости среднего размера
+large_vitality_potion_craft_description:Увеличивает жизненную силу от {amount_min1}% до {amount_max1}%.
+large_vitality_potion_description:Увеличивает жизненную силу на {amount_min1}% в течение {time}.
+small_wisdom_potion:Малое зелье мудрости
+small_wisdom_potion_craft_description:Увеличивает мудрость от {amount_min1}% до {amount_max1}%.
+small_wisdom_potion_description:Увеличивает мудрость на {amount_min1}% в течение {time}.
+medium_wisdom_potion:Зелье Средней Мудрости
 medium_wisdom_potion_craft_description:Увеличивает мудрость на {amount_min1}% до {amount_max1}%.
-medium_wisdom_potion_description:Увеличивает мудрость на {amount_min1}% в течение {времени}.
-large_wisdom_potion:Большое зелье мудрости
+medium_wisdom_potion_description:Увеличивает мудрость на {amount_min1}% в течение {time}.
+large_wisdom_potion:Зелье Большой Мудрости
 large_wisdom_potion_craft_description:Увеличивает мудрость на {amount_min1}% до {amount_max1}%.
-large_wisdom_potion_description:Увеличивает мудрость на {amount_min1}% в течение {времени}.
-pumpkin_soup:Тыквенный суп
-pumpkin_soup_craft_description:Восстанавливает выносливость от {amount_min1} до {amount_max1}.
-pumpkin_soup_description:Восстанавливает выносливость {amount_min1}.
-chicken_stew:Тушеная курица
-chicken_stew_craft_description:Восстанавливает выносливость от {amount_min1} до {amount_max1}.
-chicken_stew_description:Восстанавливает выносливость {amount_min1}.
-fruit_basket:Корзина с фруктами
-fruit_basket_craft_description:Восстанавливает выносливость от {amount_min1} до {amount_max1}.
-fruit_basket_description:Восстанавливает выносливость {amount_min1}.
-pork_sausage:Свиная колбаса
-pork_sausage_craft_description:Восстанавливает выносливость от {amount_min1} до {amount_max1}.
-pork_sausage_description:Восстанавливает выносливость {amount_min1}.
-salad:салат
-salad_craft_description:Восстанавливает выносливость от {amount_min1} до {amount_max1}.
-salad_description:Восстанавливает выносливость {amount_min1}.
+large_wisdom_potion_description:Увеличивает мудрость на {amount_min1}% в течение {time}.
+pumpkin_soup:Тыквенный Суп
+pumpkin_soup_craft_description:Восстанавливает {amount_min1} до {amount_max1} выносливости.
+pumpkin_soup_description:Восстанавливает {amount_min1} выносливости.
+chicken_stew:Куриное Рагу
+chicken_stew_craft_description:Восстанавливает {amount_min1} до {amount_max1} выносливости.
+chicken_stew_description:Восстанавливает {amount_min1} выносливости.
+fruit_basket:Корзина Фруктов
+fruit_basket_craft_description:Восстанавливает {amount_min1} до {amount_max1} выносливости.
+fruit_basket_description:Восстанавливает {amount_min1} выносливости.
+pork_sausage:Свиная Колбаса
+pork_sausage_craft_description:Восстанавливает {amount_min1} до {amount_max1} выносливости.
+pork_sausage_description:Восстанавливает {amount_min1} выносливости.
+salad:Салат
+salad_craft_description:Восстанавливает {amount_min1} до {amount_max1} выносливости.
+salad_description:Восстанавливает {amount_min1} выносливости.
 sea_platter:Морское блюдо
-sea_platter_craft_description:Восстанавливает выносливость от {amount_min1} до {amount_max1}.
-sea_platter_description:Восстанавливает выносливость {amount_min1}.
-coin_stack:Стек монет
-coin_stack_description:Используйте его для получения меди. Уровень {уровень}
-medium_xp_potion:Зелье среднего размера XP
-medium_xp_potion_description:Это зелье увеличивает ваш опыт на {процент}% за {количество} боев!
+sea_platter_craft_description:Восстанавливает от {amount_min1} до {amount_max1} выносливости.
+sea_platter_description:Восстанавливает {amount_min1} выносливости.
+coin_stack:Куча монет
+coin_stack_description:Используйте, чтобы получить медь. Уровень {level}
+medium_xp_potion:Среднее зелье опыта
+medium_xp_potion_description:Это зелье увеличивает ваш опыт на {percent}% на {amount} боёв!
 recipe:Рецепт
-small_heal_potion_recipe:Рецепт маленького лечебного зелья
+small_heal_potion_recipe:Рецепт малого зелья исцеления
 fruit_basket_recipe:Рецепт корзины с фруктами
 pumpkin_soup_recipe:Рецепт тыквенного супа
 salad_recipe:Рецепт салата
-chicken_stew_recipe:Рецепт тушеной курицы
+chicken_stew_recipe:Рецепт куриного рагу
 pork_sausage_recipe:Рецепт свиной колбасы
 sea_platter_recipe:Рецепт морского блюда
-small_accuracy_potion_recipe:Рецепт маленького зелья для ловкости
-medium_accuracy_potion_recipe:Рецепт зелья средней ловкости
-large_accuracy_potion_recipe:Рецепт большого зелья для ловкости
-small_luck_potion_recipe:Рецепт маленького зелья удачи
-medium_luck_potion_recipe:Рецепт зелья удачи среднего размера
-large_luck_potion_recipe:Рецепт большого зелья удачи
-small_strength_potion_recipe:Рецепт зелья малой крепости
-medium_strength_potion_recipe:Рецепт зелья средней крепости
-large_strength_potion_recipe:Рецепт зелья большой крепости
-small_vitality_potion_recipe:Рецепт маленького витального зелья
-medium_vitality_potion_recipe:Рецепт зелья средней жизненной силы
-large_vitality_potion_recipe:Рецепт большого витального зелья
-small_wisdom_potion_recipe:Рецепт маленького зелья мудрости
-medium_wisdom_potion_recipe:Рецепт зелья мудрости среднего размера
-large_wisdom_potion_recipe:Рецепт большого зелья мудрости
-wooden_chest:Деревянный сундук
-fabled_chest:Легендарный сундук
-decorated_chest:Украшенный сундук
-mythical_chest:Мифический сундук
-weapon_chest:сундук с оружием
-armor_chest:Сундук с
-mythical_material_chest:Сундук с мифическими материалами
-epic_material_chest:Эпический сундук с материалами
-uncommon_material_chest:Необычный материальный сундук
+small_accuracy_potion_recipe:Рецепт малого зелья ловкости
+medium_accuracy_potion_recipe:Рецепт среднего зелья ловкости
+large_accuracy_potion_recipe:Рецепт большого зелья ловкости
+small_luck_potion_recipe:Рецепт малого зелья удачи
+medium_luck_potion_recipe:Рецепт Среднего Зелья Удачи
+large_luck_potion_recipe:Рецепт Большого Зелья Удачи
+small_strength_potion_recipe:Рецепт Малого Зелья Силы
+medium_strength_potion_recipe:Рецепт Среднего Зелья Силы
+large_strength_potion_recipe:Рецепт Большого Зелья Силы
+small_vitality_potion_recipe:Рецепт Малого Зелья Жизни
+medium_vitality_potion_recipe:Рецепт Среднего Зелья Жизни
+large_vitality_potion_recipe:Рецепт Большого Зелья Жизни
+small_wisdom_potion_recipe:Рецепт Малого Зелья Мудрости
+medium_wisdom_potion_recipe:Рецепт Среднего Зелья Мудрости
+large_wisdom_potion_recipe:Рецепт Большого Зелья Мудрости
+wooden_chest:Деревянный Сундук
+fabled_chest:Легендарный Сундук
+decorated_chest:Украшенный Сундук
+mythical_chest:Мифический Сундук
+weapon_chest:Сундук с Оружием
+armor_chest:Сундук с Броней
+mythical_material_chest:Сундук с Мифическими Материалами
+epic_material_chest:Сундук с Эпическими Материалами
+uncommon_material_chest:Сундук с редкими материалами
 potion:Зелье
-chest:сундук
+chest:Сундук
 food:Еда
-royal_chest:Королевский сундук
+royal_chest:Королевский Сундук
+epic_bundle:Эпический набор
+epic_bundle_description:Даёт вам {arcanites} Arcanites при использовании и активирует подписку на 30 дней.
+legendary_bundle:Легендарный набор
+legendary_bundle_description:Даёт вам {arcanites} Arcanites при использовании и активирует подписку на 30 дней.
+mythical_bundle:Мифический набор
+mythical_bundle_description:Даёт вам {arcanites} Arcanites при использовании и активирует подписку на 30 дней.

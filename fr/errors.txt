@@ -1,67 +1,69 @@
-errInvalidAction:Action non valide!
-tosNotAccepted:Veuillez accepter les conditions d'utilisation!
+errInvalidAction:Action invalide!
+tosNotAccepted:Merci d'accepter les conditions d'utilisation!
 errUnknownErrorHeadline:Erreur non gérée!
-errUnknownError:Une erreur inconnue s'est produite! Essayez de rafraîchir la page Web! Si le problème persiste, signalez-le-nous sur notre Discord: https://discord.com/invite/Gum9bS2dyw
-tokenExpired:Le jeton d'authentification Twitch a expiré. Rechargez le site Web ou redémarrez votre application.
-invalidToken:<h3>L'authentification a échoué</h3>. Assurez-vous que l'horloge de votre système est synchronisée! Dans le <br>cas contraire, l'authentification échouera! <br><br>Autres solutions: <br>1) Actualiser la page <br>2) Désactiver les extensions de navigateur <br>3) Révoquer et accorder l'autorisation de l'extension <br>4) Connectez-vous et déconnectez-vous de Twitch <br>5) Essayez d'utiliser un autre navigateur <br><br>Pour plus d'aide, rejoignez notre Discord: https://discord.gg/cT3ThCj
-errTwitchAccessNotGranted:Veuillez autoriser l'accès à votre identifiant Twitch en cliquant sur la petite icône humaine en bas à droite!
+errUnknownError:Une erreur inconnue s'est produite! Merci de rafraîchir la page! Si le problème persiste, signale-le nous sur notre Discord : https://discord.com/invite/Gum9bS2dyw
+tokenExpired:Le jeton d'authentification Twitch a expiré. Merci de recharger le site ou de redémarrer ton application.
+invalidToken:<h3>Échec de l'authentification</h3> Merci de vérifier que l'horloge de ton système est synchronisée! <br> Sinon, l'authentification échouera!<br><br>Plus de solutions:<br>1) Rafraîchir la page<br>2) Désactiver les extensions du navigateur<br>3) Révoquer et accorder de nouveau les permissions des extensions<br>4) Se connecter et se déconnecter de Twitch<br>5) Essayer un autre navigateur<br><br>Pour plus d'aide, rejoins notre Discord : https://discord.gg/cT3ThCj
+errTwitchAccessNotGranted:Merci d'accorder l'accès à ton identifiant Twitch en cliquant sur l'icône du petit bonhomme en bas à droite!
 errNoInventoryItem:L'inventaire est vide!
-errInventoryIsFull:Votre inventaire est complet! Vendez quelques articles!
-errMaterialInventoryIsFull:Votre inventaire de matériel est complet! Vous pouvez les vendre au marchand dans la boutique ou fabriquer quelque chose!
-errConsumableInventoryIsFull:Votre inventaire de consommables est plein!
+errInventoryIsFull:Ton inventaire est plein! Merci de vendre des objets!
+errMaterialInventoryIsFull:Ton inventaire de matériaux est plein! Tu peux les vendre au Marchand ou fabriquer quelque chose!
+errConsumableInventoryIsFull:Ton inventaire de consommables est plein!
 errNotEnoughArcanites:Tu n'as pas assez d'Arcanites.
-errNotEnoughMoney:Tu n'as pas assez d'or pour l'acheter!
-errNotEnoughGold:Tu n'as pas assez d'or pour l'acheter!
-errNotEnoughSkillPoints:Vous n'avez pas assez de points de compétence pour effectuer cette action!
-errStatDoesNotExist:Vous ne pouvez pas augmenter cette statistique!
-errBountyDoesNotExist:La prime n'existe pas (plus)! Cela peut signifier que la page Web est ouverte depuis plus de 24 heures ou que votre horloge n'est pas synchronisée!
-errOpponentDoesNotExist:L'ennemi n'existe (plus)!
-errItemDoesNotExist:L'objet ne vous appartient pas ou n'existe plus!
-errLevelToLowToEquip:Votre niveau est trop bas pour équiper cet objet!
-errCantFindRandomOpponent:Impossible de trouver un adversaire au hasard dans votre division!
+errNotEnoughMoney:Tu n'as pas assez d'or pour acheter cela!
+errNotEnoughGold:Tu n'as pas assez d'or pour acheter cela!
+errNotEnoughSkillPoints:Tu n'as pas assez de points de compétence pour effectuer cette action!
+errStatDoesNotExist:Tu ne peux pas augmenter cette statistique!
+errBountyDoesNotExist:Il semble que cette prime ne puisse pas être trouvée ! Cela peut arriver si : a) l'horloge de ton système n'est pas synchronisée, ou b) tu as Embervale ouvert dans plusieurs onglets de navigateur et que tu as déjà terminé cette prime.
+errOpponentDoesNotExist:L'ennemi n'existe plus !
+errItemDoesNotExist:L'objet n'est plus en votre possession ou n'existe plus !
+errLevelToLowToEquip:Votre niveau est trop bas pour équiper cet objet !
+errCantFindRandomOpponent:Impossible de trouver un adversaire aléatoire dans votre division !
 errCantFindCharacter:Impossible de trouver ce personnage.
 errCantFindGuild:Impossible de trouver cette guilde.
-errBountyAlreadyStarted:Le bounty a déjà commencé.
-errInvalidAppearance:L'apparence n'est pas valide!
-errInvalidAppearanceName:Cet attribut n'est pas valide!
-errInvalidAppearanceType:Ce type d'apparence n'est pas valide!
-errInvalidAppearanceColor:Cette couleur d'apparence n'est pas valide!
-errNoStamina:Il ne te reste plus d'endurance!
-errDungeonNotFound:Aucun donjon n'a été trouvé.
-errItemAlreadyInInventory:Vous ne pouvez acheter cet article qu'une seule fois!
-errUserAtFullHealth:Vous êtes déjà en pleine santé!
+errBountyAlreadyStarted:La prime a déjà été commencée.
+errInvalidAppearance:L'apparence est invalide !
+errInvalidAppearanceName:Cette attribut est invalide !
+errInvalidAppearanceType:Ce type d'apparence est invalide !
+errInvalidAppearanceColor:Cette couleur d'apparence est invalide !
+errNoStamina:Vous n'avez plus de stamina !
+errDungeonNotFound:Aucun donjon trouvé.
+errItemAlreadyInInventory:Vous ne pouvez acheter cet objet qu'une seule fois !
+errUserAtFullHealth:Vous êtes déjà en pleine santé !
 open:Ouvrir
 use:Utiliser
 noShield:Pas de bouclier
-youAreAboutToBuy:Vous êtes sur le point d'acheter:
-arenaShieldExplaination:Ce bouclier vous protège pendant {jours} jour (s). Pendant ce temps, vous ne pouvez pas perdre d'argent lorsque quelqu'un vous attaque et vous bat!
-arenaNotEnoughEmeralds:Il te faut {éclats} plus d'éclats pour acheter ce bouclier.
-errYourNotHungry:Tu n'as pas faim!
-activateShield:Activez le bouclier
-arenaShieldActiveTooltip:Le joueur possède un bouclier actif, vous ne recevrez donc aucun argent pendant la bataille.
+youAreAboutToBuy:Vous êtes sur le point d'acheter :
+arenaShieldExplaination:Ce bouclier vous protège pendant {days} jour(s). Pendant cette période, vous ne pouvez pas perdre d'argent lorsqu'on vous attaque et vous bat !
+arenaNotEnoughEmeralds:Vous avez besoin de {shards} éclats de plus pour acheter ce bouclier.
+errYourNotHungry:Vous n'avez pas faim !
+activateShield:Activer le bouclier
+arenaShieldActiveTooltip:Le joueur a un bouclier actif, donc vous ne recevrez pas d'argent du combat.
 ranks:Rangs
-errTokenExpired:Votre jeton n'est pas valide! Essayez d'actualiser la page ou révoquez-la et accordez à nouveau l'accès (en cliquant sur la figure en bas à droite)!
-errAccessNotGranted:Veuillez autoriser l'accès (en cliquant sur la figure en bas à droite)!
-errTwitchAccountAlreadyExists:Vous avez déjà un compte Twitch connecté!
-errNameNoSpace:Le nom ne peut pas contenir d'espaces!
-errNameRegexInvalid:Le nom ne peut contenir que des lettres (A à Z) et des chiffres (0 à 9).
-errCantUseThisName:Vous ne pouvez pas utiliser ce nom!
-errThatNameIsTooLong:Votre nom peut comporter jusqu'à 16 caractères!
-errThatNameIsTooShort:Votre nom doit comporter au moins 4 caractères!
-errThatNameIsAlreadyInUse:Ce nom n'est plus disponible!
-errAlreadyInvitedToGuild:Cette personne est déjà invitée dans votre guilde!
-errGuildBattleLineIsFull:La ligne de bataille est pleine!
-noHealPotions:Tu n'as aucune potion de guérison!
-yourStomachFull:Tu as l'estomac plein!
-youDontHaveMaterials:Vous n'avez aucun matériel dans cette catégorie.
-youDontHaveChests:Tu n'as pas de coffres! Terminez des succès ou des donjons pour en obtenir!
+errTokenExpired:Votre jeton est invalide ! Essayez de rafraîchir la page ou révoquez et accordez de nouveau l'accès (en cliquant sur la figure en bas à droite) !
+errAccessNotGranted:Veuillez accorder l'accès (en cliquant sur la figure en bas à droite) !
+errTwitchAccountAlreadyExists:Vous avez déjà un compte Twitch connecté !
+errNameNoSpace:Le nom ne peut pas contenir d'espaces !
+errNameRegexInvalid:Le nom ne peut contenir que des lettres (A-Z) et des chiffres (0-9).
+errCantUseThisName:Vous ne pouvez pas utiliser ce nom !
+errThatNameIsTooLong:Votre nom peut contenir jusqu'à 16 caractères !
+errThatNameIsTooShort:Votre nom doit contenir au moins 4 caractères !
+errThatNameIsAlreadyInUse:Ce nom n'est plus disponible !
+errAlreadyInvitedToGuild:Cette personne est déjà invitée dans votre guilde !
+errGuildBattleLineIsFull:La ligne de bataille est pleine !
+noHealPotions:Vous n'avez pas de potions de soin !
+yourStomachFull:Ton estomac est plein !
+youDontHaveMaterials:Tu n'as pas de matériaux dans cette catégorie.
+youDontHaveChests:Tu n'as pas de coffres ! Achève des succès ou des donjons pour en obtenir !
 connectionLost:Connexion perdue. Reconnexion dans {timeLeft} secondes...
 reconnectingFailedRetry:La reconnexion a échoué. Tentative de reconnexion: {reconnectAmount}. Reconnexion dans {timeLeft} secondes...
 reconnectingFailed:La reconnexion a échoué. Veuillez recharger votre navigateur.
 error:Erreur
-connectTwitchBrowser:Une nouvelle fenêtre s'est ouverte dans votre navigateur. Connectez-vous avec votre compte Twitch, puis connectez votre compte Steam.
+connectTwitchBrowser:Une nouvelle fenêtre s'est ouverte dans ton navigateur. Veuillez te connecter avec ton compte Twitch, puis connecte ton compte Steam.
 connectTwitchConfirm:Lorsque vous avez terminé, veuillez appuyer sur le bouton de confirmation ci-dessous.
-isSteamRunning:Une erreur s'est produite. Est-ce que Steam fonctionne?
-errNoPermission:Vous n'êtes pas autorisé à le faire!
-errUnknownErrorChatbot:Une erreur inconnue s'est produite! Si le problème persiste, signalez-le-nous sur notre Discord: https://discord.com/invite/Gum9bS2dyw
+isSteamRunning:Une erreur est survenue. Est-ce que Steam est en cours d'exécution ?
+errNoPermission:Tu n'as pas la permission de faire cela!
+errUnknownErrorChatbot:Une erreur inconnue s'est produite! Si le problème persiste, signale-le nous sur notre Discord : https://discord.com/invite/Gum9bS2dyw
 twitchBotRemoved:Le bot va partir maintenant. Merci d'avoir joué à Embervale.
+errPleaseRenameYourCharacter:Vous devez renommer votre personnage !
+errConsumableInventoryWouldBeFull:Cette fabrication rendrait ton sac trop lourd!

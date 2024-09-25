@@ -10,15 +10,15 @@ statDMG-rogue:The range of physical damage you can deal.
 statDMG-F-rogue:Damage = Weapon damage * (dexterity / 60 + 1)
 
 statVIT-mage:The amount of damage you can take.
-statVIT-F-mage:(1 + hp * 0.08) * (1 + 0.01 * lvl) * 11.5
+statVIT-F-mage:(1 + vit * 0.1) * (1 + 0.01 * lvl) * 11.5 + 10
 statVIT-knight:The amount of damage you can take.
-statVIT-F-knight:(1 + hp * 0.08) * (1 + 0.01 * lvl) * 22
+statVIT-F-knight:(1 + vit * 0.1) * (1 + 0.01 * lvl) * 22 + 10
 statVIT-ranger:The amount of damage you can take.
-statVIT-F-ranger:(1 + hp * 0.08) * (1 + 0.01 * lvl) * 15
+statVIT-F-ranger:(1 + vit * 0.1) * (1 + 0.01 * lvl) * 15 + 10
 statVIT-warrior:The amount of damage you can take.
-statVIT-F-warrior:(1 + hp * 0.08) * (1 + 0.01 * lvl) * 18
+statVIT-F-warrior:(1 + vit * 0.1) * (1 + 0.01 * lvl) * 18 + 10
 statVIT-rogue:The amount of damage you can take.
-statVIT-F-rogue:(1 + hp * 0.08) * (1 + 0.01 * lvl) * 15
+statVIT-F-rogue:(1 + vit * 0.1) * (1 + 0.01 * lvl) * 15 + 10
 
 statArmor-mage:Reduces all physical damage.
 statArmor-M-mage:Maximum value 50%.
@@ -30,6 +30,7 @@ statArmor-ranger:Reduces all physical damage.
 statArmor-F-ranger:(Armor + Strength/4) / lvl * 0.08
 statArmor-M-ranger:Maximum value 50%.
 statArmor-warrior:Reduces all physical damage.
+statArmor-F-warrior:Armor / lvl * 0.08
 statArmor-M-warrior:Maximum value 50%.
 statArmor-rogue:Reduces all physical damage.
 statArmor-F-rogue:(Armor + Strength/4) / lvl * 0.08
@@ -52,7 +53,7 @@ statMagRes-F-rogue:(Mag. Res +  Wisdom/4) / lvl * 0.08
 statMagRes-M-rogue:Maximum value 50%.
 
 statCritMod-mage:Determinates the power of critical hits.
-statCritMod-F-mage:Luck / ((lvl + 1) * 2) + 1.1
+statCritMod-F-mage:Luck / ((lvl + 1) * 2) + 1.2
 statCritMod-M-mage:Maximum value x3.0.
 statCritMod-knight:Determinates the power of critical hits.
 statCritMod-F-knight:Luck / ((lvl + 1) * 2) + 1.1
@@ -96,5 +97,5 @@ statEvasion-warrior:Chance to dodge a physical strike.
 statEvasion-F-warrior:(Evasion + dexterity/3) / lvl * 0.05
 statEvasion-M-warrior:Maximum value 15%.
 statEvasion-rogue:Chance to dodge a physical strike.
-statEvasion-F-rogue:Evasion / lvl * 0.0875
+statEvasion-F-rogue:Evasion / lvl * 0.1
 statEvasion-M-rogue:Maximum value 30%.

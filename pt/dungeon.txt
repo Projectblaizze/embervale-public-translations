@@ -1,32 +1,32 @@
-dungeonName1:Jardins infestados
-dungeonName2:Terras fluviais secas
-dungeonName3:Travessia do rio ocupado
-dungeonName4:Incêndios marítimos encalhados
-dungeonName5:Passagem em águas profundas
-dungeonName6:Reino oculto
+dungeonName1:Jardins Infestados
+dungeonName2:Terras Fluviais Secas
+dungeonName3:Cruzamento Fluvial Ocupado
+dungeonName4:Mar de Fogo Encalhado
+dungeonName5:Passagem das Águas Profundas
+dungeonName6:Reino Oculto
 dungeonName7:Ilha das Feras
-dungeonName8:Gelo eterno
-dungeonName9:Montanhas de prata
-dungeonName10:Terrenos baldios abandonados
-dungeonName11:Madeira do crepúsculo
+dungeonName8:Gelo Eterno
+dungeonName9:Montanhas Prateadas
+dungeonName10:Terras Abandonadas
+dungeonName11:Floresta do Crepúsculo
 dungeonName12:Cemitério dos Sem Nome
 dungeonName13:Bastião da Luz
 dungeonName14:Embervale
 dungeon:Masmorra
-startDungeon:Comece a masmorra
-dungeonAutoSell:Ainda há alguns itens em seu inventário de masmorras! Se você sair da masmorra agora, eles estarão perdidos!
-selectConsumablesForDungeon:Selecione as poções que você quer levar para o calabouço. Isso não pode ser revertido! Todos os itens que você trouxer para as masmorras serão perdidos.
-youDontHaveHealPotions:Você não tem nenhuma poção de saúde.
-effect_gem_blessing:O jogador é abençoado por {rodadas} rodadas.//+25% em todas as estatísticas
-gem_blessing:Benção de gemas
-lost_fairy_blessing:Bênção da fada perdida
-effect_lost_fairy_blessing:O jogador é abençoado pela Fada Perdida por {rodadas} rodadas.//+10% HP em cada quarto
-gem_curse:Maldição de gemas
-effect_gem_curse:O jogador é amaldiçoado por {rodadas} rodadas.//-5% em todas as estatísticas
-strength_buff:Buff de força
-effect_strength_buff:O jogador recebe bônus por {rodadas} rodadas.//+20% de força
-wisdom_buff:Aficionado por sabedoria
-effect_wisdom_buff:O jogador recebe bônus por {rodadas} rodadas.//+20% de sabedoria
-cluttered_mind:Mente desordenada
-effect_cluttered_mind:O jogador fica confuso com {rodadas} rodadas.//-20% de precisão
-recommendedLevel:Nível recomendado
+startDungeon:Começar Masmorra
+dungeonAutoSell:Ainda há alguns itens em seu inventário de masmorra! Se você sair da masmorra agora, eles serão perdidos!
+selectConsumablesForDungeon:Selecione as poções que você quer levar para a masmorra. Isso não pode ser desfeito! Todos os itens que você levar para as masmorras serão perdidos.
+youDontHaveHealPotions:Você não tem nenhuma poção de cura.
+effect_gem_blessing:O jogador está abençoado por {rounds} rodadas.
+gem_blessing:Bênção da Gema
+lost_fairy_blessing:Bênção da Fada Perdida
+effect_lost_fairy_blessing:O jogador é abençoado pela Fada Perdida por {rounds} rodadas. // +10% HP em cada sala
+gem_curse:Maldição da Gema
+effect_gem_curse:O jogador está amaldiçoado por {rounds} rodadas.  // -5% em todas as estatísticas
+strength_buff:Aumento de Força
+effect_strength_buff:O jogador recebe um aumento de força por {rounds} rodadas.  // +20% força
+wisdom_buff:Aumento de Sabedoria
+effect_wisdom_buff:O jogador recebe um aumento de sabedoria por {rounds} rodadas.  // +20% sabedoria
+cluttered_mind:Mente Confusa
+effect_cluttered_mind:O jogador está confuso por {rounds} rodadas.  // -20% precisão
+recommendedLevel:Nível Recomendado

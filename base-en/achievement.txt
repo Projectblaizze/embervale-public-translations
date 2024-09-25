@@ -9,7 +9,7 @@ guild:Guild
 achievement:Achievement
 todo:To-do
 weekly:Weekly
-newMissionsIn:New Missions in
+newMissionsIn:New missions in
 levelUp:Level up!
 
 // Achievements
@@ -33,7 +33,6 @@ defeat_abomination_monster:Defeat {amount} abomination monsters
 defeat_dragon_monster:Defeat {amount} dragon monsters
 defeat_mimic_monster:Defeat {amount} mimic monsters
 
-
 defeat_rogue_class:Defeat {amount} rogues
 defeat_mage_class:Defeat {amount} mages
 defeat_knight_class:Defeat {amount} knights
@@ -50,11 +49,11 @@ complete_bestiary:Complete {count}% of your Bestiary
 complete_materials_glossary:Discover {count}% of materials
 complete_items_glossary:Discover {count}% of items
 
-# Main
+// Main
 reach_level:Reach level {lvl}
 participate_in_adventures:Participate in {amount} adventures
 
-# Combat
+// Combat
 clear_bounties:Clear {amount} bounties
 clear_bounties_difficulty_1:Clear {amount} bounties at difficulty level 1
 clear_bounties_difficulty_2:Clear {amount} bounties at difficulty level 2
@@ -66,10 +65,10 @@ lose_fights:Lose {amount} fights
 defeat_monster_in_dungeon:Defeat {amount} monsters in dungeons
 win_pvp_battle:Win {amount} PvP battles
 
-# Collect
+// Collect
 find_a_mythical_item:Find {amount} mythical items
 
-# Main Mission
+// Main Mission
 distribute_skill_points:Distribute {amount} skill points
 use_stamina:Use {amount} stamina in bounties
 complete_an_expedition:Complete {amount} expeditions
@@ -86,9 +85,9 @@ wear_full_set_of_mythical:Wear a full set of mythical items
 
 reach_fame:Reach {amount} fame
 
-# Shop
+// Shop
 shop_reroll_5:Rerolling the shop costs 5% less copper
 
-# Extra
+// Extra
 claim_daily_bonus:Claim {amount} daily bonuses in our Discord
 claim_daily_bonus_row:Claim {amount} daily bonuses in a row in our Discord

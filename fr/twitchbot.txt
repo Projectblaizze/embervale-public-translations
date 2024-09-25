@@ -6,7 +6,6 @@ twitchbotNoAccount:Créez votre personnage dans l'extension Embervale!
 twitchbotNoActiveChar:Sélectionnez votre personnage actif dans l'extension Embervale.
 adventureNotActive:Il n'y a pas d'aventure active!
 adventureAlreadyIn:Vous êtes déjà dans une aventure!
-adventureMultipleCharactersAlreadyIn:Vous avez déjà rejoint une aventure avec l'un de vos personnages!
 adventureNoActiveVoting:Il n'y a pas de vote actif!
 adventureYouAreNotIn:Vous n'êtes pas dans une aventure en ce moment!
 adventureInvalidVoting:Votre vote n'était pas valide!
@@ -18,3 +17,11 @@ bestiary:Bestiaire
 defeated:Vaincu
 cantFindMonster:Impossible de trouver ce monstre!
 cmdJoinDiscord:Rendez-vous sur notre Discord pour obtenir des récompenses intéressantes chaque jour.
+chatBotNeedsSetup:Activez notre chatbot sur embervale.tv/commands pour débloquer des aventures!
+adventureCooldown:Tu es en période de récupération :
+adventureFull:L'aventure est complète !
+adventureAlreadyJoined:Tu as déjà rejoint !
+adventureJoined:rejoint
+adventureCanStart:peut commencer une aventure
+adventureInProgress:héberge une aventure en ce moment
+adventureCanJoin:Tu peux rejoindre une aventure

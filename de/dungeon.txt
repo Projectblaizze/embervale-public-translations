@@ -1,32 +1,32 @@
-dungeonName1:Befallene Gärten
-dungeonName2:Ausgetrocknete Flusslandschaften
+dungeonName1:Verseuchte Gärten
+dungeonName2:Ausgetrocknete Flusslande
 dungeonName3:Besetzter Flussübergang
-dungeonName4:Gestrandetes Seafire
-dungeonName5:Tiefwasserpassage
-dungeonName6:Verborgenes Königreich
+dungeonName4:Gestrandetes Seefeuer
+dungeonName5:Tiefwasser-Passage
+dungeonName6:Verstecktes Königreich
 dungeonName7:Insel der Bestien
 dungeonName8:Ewiges Eis
-dungeonName9:Silberne Berge
-dungeonName10:Verlassene Ödländer
-dungeonName11:Abenddämmerung
-dungeonName12:Der Friedhof der Namenlosen
+dungeonName9:Silberberge
+dungeonName10:Verlassene Ödlande
+dungeonName11:Dämmerwald
+dungeonName12:Friedhof der Namenlosen
 dungeonName13:Bastion des Lichts
 dungeonName14:Embervale
 dungeon:Dungeon
-startDungeon:Dungeon starten
-dungeonAutoSell:Es gibt noch einige Gegenstände in deinem Dungeon-Inventar! Wenn du den Dungeon jetzt verlässt, sind sie verloren!
-selectConsumablesForDungeon:Wähle die Zaubertränke aus, die du mit in den Dungeon nehmen möchtest. Das kann nicht rückgängig gemacht werden! Alle Gegenstände, die du in Dungeons mitbringst, gehen verloren.
+startDungeon:Dungeon beginnen
+dungeonAutoSell:Es befinden sich noch einige Gegenstände in deinem Dungeon-Inventar! Wenn du jetzt den Dungeon verlässt, gehen diese verloren!
+selectConsumablesForDungeon:Wähle die Tränke aus, die du mit in den Dungeon nehmen möchtest. Dies kann nicht rückgängig gemacht werden! Alle Gegenstände, die du in Dungeons mitnimmst, gehen verloren.
 youDontHaveHealPotions:Du hast keine Heiltränke.
-effect_gem_blessing:Der Spieler wird für {Runden} Runden gesegnet.//+25% auf alle Statistiken
-gem_blessing:Edelsteinsegen
-lost_fairy_blessing:Verlorener Feensegen
-effect_lost_fairy_blessing:Der Spieler wird für {Runden} Runden von der Verlorenen Fee gesegnet.//+10% HP in jedem Raum
-gem_curse:Edelsteinfluch
-effect_gem_curse:Der Spieler ist für {Runden} Runden verflucht.//-5% zu allen Statistiken
-strength_buff:Stärkebonus
-effect_strength_buff:Der Spieler wird für {Runden} Runden gebufft.//+20% Stärke
-wisdom_buff:Wissbegabter
-effect_wisdom_buff:Der Spieler wird für {Runden} Runden gebufft.//+20% Weisheit
-cluttered_mind:Überfüllter Geist
-effect_cluttered_mind:Der Spieler ist verwirrt über {Runden} Runden.//-20% Genauigkeit
-recommendedLevel:Empfohlene Stufe
+effect_gem_blessing:Der Spieler ist für {rounds} Runden gesegnet.  // +25% auf alle Werte
+gem_blessing:Juvelensegen
+lost_fairy_blessing:Segen der verlorenen Fee
+effect_lost_fairy_blessing:Der Spieler wird für {rounds} Runden von der verlorenen Fee gesegnet.  // +10% HP pro Raum
+gem_curse:Juwelenfluch
+effect_gem_curse:Der Spieler ist für {rounds} Runden verflucht.  // -5% auf alle Werte
+strength_buff:Stärkungsbonus
+effect_strength_buff:Der Spieler hat für {rounds} Runden einen Stärkungsbonus.  // +20% Stärke
+wisdom_buff:Weisheitsbonus
+effect_wisdom_buff:Der Spieler hat für {rounds} Runden einen Weisheitsbonus.  // +20% Weisheit
+cluttered_mind:Verwirrter Geist
+effect_cluttered_mind:Der Spieler ist für {rounds} Runden verwirrt.  // -20% Genauigkeit
+recommendedLevel:Empfohlenes Level

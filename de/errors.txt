@@ -1,67 +1,69 @@
 errInvalidAction:Ungültige Aktion!
-tosNotAccepted:Bitte akzeptieren Sie die Nutzungsbedingungen!
+tosNotAccepted:Bitte akzeptiere die Nutzungsbedingungen!
 errUnknownErrorHeadline:Unbehandelter Fehler!
-errUnknownError:Ein unbekannter Fehler ist aufgetreten! Bitte versuchen Sie, die Webseite zu aktualisieren! Wenn das Problem weiterhin besteht, melde es uns auf unserem Discord: https://discord.com/invite/Gum9bS2dyw
-tokenExpired:Das Twitch-Authentifizierungstoken ist abgelaufen. Bitte lade die Website neu oder starte deine App neu.
-invalidToken:<h3>Authentifizierung fehlgeschlagen</h3> Bitte stellen Sie sicher, dass Ihre Systemuhr synchronisiert ist! <br>Andernfalls schlägt die Authentifizierung fehl! <br><br>Weitere Lösungen: <br>1) Aktualisiere die Seite <br>2) Deaktiviere Browsererweiterungen <br>3) Widerrufe und erteile die Erweiterungserlaubnis <br>4) Melde dich bei Twitch an und ab <br>5) Versuche es mit einem anderen Browser <br><br>Für weitere Hilfe trete unserem Discord bei: https://discord.gg/cT3ThCj
-errTwitchAccessNotGranted:Bitte gewähren Sie Zugriff auf Ihre Twitch-ID, indem Sie auf das kleine menschliche Symbol unten rechts klicken!
+errUnknownError:Ein unbekannter Fehler ist aufgetreten! Bitte versuche, die Webseite neu zu laden! Wenn das Problem weiterhin besteht, melde es uns auf unserem Discord: https://discord.com/invite/Gum9bS2dyw
+tokenExpired:Das Twitch-Authentifizierungstoken ist abgelaufen. Bitte lade die Webseite neu oder starte deine App.
+invalidToken:<h3>Authentifizierung fehlgeschlagen</h3> Bitte stelle sicher, dass deine Systemuhr synchronisiert ist! <br> Andernfalls wird die Authentifizierung scheitern!<br><br>Weitere Lösungen:<br>1) Aktualisiere die Seite<br>2) Deaktiviere Browser-Erweiterungen<br>3) Widerrufe und erteile der Erweiterung die Berechtigung erneut<br>4) Melde dich bei Twitch an und ab<br>5) Versuche es mit einem anderen Browser<br><br>Für weitere Hilfe, tritt unserem Discord bei: https://discord.gg/cT3ThCj
+errTwitchAccessNotGranted:Bitte gewähre Zugriff auf deine Twitch-ID, indem du unten rechts auf das kleine Mensch-Icon klickst!
 errNoInventoryItem:Inventar ist leer!
-errInventoryIsFull:Dein Inventar ist voll! Bitte verkaufe ein paar Artikel!
-errMaterialInventoryIsFull:Ihr Materialbestand ist voll! Du kannst sie im Laden an den Händler verkaufen oder etwas herstellen!
-errConsumableInventoryIsFull:Dein Verbrauchsmaterial-Inventar ist voll!
-errNotEnoughArcanites:Du hast nicht genug Arkaniten.
+errInventoryIsFull:Dein Inventar ist voll! Bitte verkaufe einige Gegenstände!
+errMaterialInventoryIsFull:Dein Materialinventar ist voll! Du kannst sie beim Händler im Laden verkaufen oder etwas herstellen!
+errConsumableInventoryIsFull:Dein Verbrauchsgegenstand- Inventar ist voll!
+errNotEnoughArcanites:Du hast nicht genug Arcanite.
 errNotEnoughMoney:Du hast nicht genug Gold, um das zu kaufen!
 errNotEnoughGold:Du hast nicht genug Gold, um das zu kaufen!
-errNotEnoughSkillPoints:Du hast nicht genug Skillpunkte, um diese Aktion auszuführen!
+errNotEnoughSkillPoints:Du hast nicht genug Fertigkeitspunkte, um diese Aktion auszuführen!
 errStatDoesNotExist:Du kannst diesen Wert nicht erhöhen!
-errBountyDoesNotExist:Das Kopfgeld gibt es nicht (mehr)! Das könnte bedeuten, dass die Webseite länger als 24 Stunden geöffnet ist oder dass deine Uhr nicht synchronisiert ist!
+errBountyDoesNotExist:Es sieht so aus, als ob diese Kopfgeld nicht gefunden werden kann! Dies kann passieren, wenn: a) deine Systemuhr nicht synchronisiert ist, oder b) du Embervale in mehreren Browser-Tabs geöffnet hast und dieses Kopfgeld bereits abgeschlossen hast.
 errOpponentDoesNotExist:Der Feind existiert nicht (mehr)!
-errItemDoesNotExist:Der Artikel gehört dir entweder nicht oder existiert nicht mehr!
+errItemDoesNotExist:Der Gegenstand gehört entweder nicht dir oder existiert nicht mehr!
 errLevelToLowToEquip:Dein Level ist zu niedrig, um diesen Gegenstand auszurüsten!
-errCantFindRandomOpponent:Du kannst keinen zufälligen Gegner in deiner Division finden!
-errCantFindCharacter:Ich kann diesen Charakter nicht finden.
-errCantFindGuild:Ich kann diese Gilde nicht finden.
-errBountyAlreadyStarted:Das Bounty wurde bereits gestartet.
-errInvalidAppearance:Das Erscheinungsbild ist ungültig!
+errCantFindRandomOpponent:Kann keinen zufälligen Gegner in deiner Division finden!
+errCantFindCharacter:Kann diesen Charakter nicht finden.
+errCantFindGuild:Kann diese Gilde nicht finden.
+errBountyAlreadyStarted:Das Kopfgeld wurde bereits gestartet.
+errInvalidAppearance:Das Aussehen ist ungültig!
 errInvalidAppearanceName:Dieses Attribut ist ungültig!
-errInvalidAppearanceType:Dieser Darstellungstyp ist ungültig!
-errInvalidAppearanceColor:Diese Darstellungsfarbe ist ungültig!
+errInvalidAppearanceType:Dieser Aussehens-Typ ist ungültig!
+errInvalidAppearanceColor:Diese Aussehensfarbe ist ungültig!
 errNoStamina:Du hast keine Ausdauer mehr!
 errDungeonNotFound:Kein Dungeon gefunden.
-errItemAlreadyInInventory:Du kannst diesen Artikel nur einmal kaufen!
-errUserAtFullHealth:Du bist schon bei voller Gesundheit!
-open:Offen
+errItemAlreadyInInventory:Du kannst diesen Gegenstand nur einmal kaufen!
+errUserAtFullHealth:Du bist bereits bei voller Gesundheit!
+open:Öffnen
 use:Benutzen
 noShield:Kein Schild
-youAreAboutToBuy:Du bist im Begriff zu kaufen:
-arenaShieldExplaination:Dieser Schild schützt dich für {Tage} Tag (e). Während dieser Zeit kannst du kein Geld verlieren, wenn dich jemand angreift und besiegt!
-arenaNotEnoughEmeralds:Du benötigst {Scherben} mehr Scherben, um diesen Schild zu kaufen.
-errYourNotHungry:Du hast keinen Hunger!
+youAreAboutToBuy:Du bist dabei zu kaufen:
+arenaShieldExplaination:Dieser Schild schützt dich für {days} Tag(e). Während dieser Zeit kannst du kein Geld verlieren, wenn dich jemand angreift und besiegt!
+arenaNotEnoughEmeralds:Du benötigst noch {shards} Splitter, um diesen Schild zu kaufen.
+errYourNotHungry:Du bist nicht hungrig!
 activateShield:Schild aktivieren
 arenaShieldActiveTooltip:Der Spieler hat einen aktiven Schild, sodass du kein Geld aus dem Kampf erhältst.
-errTokenExpired:Ihr Token ist ungültig! Versuche die Seite zu aktualisieren oder widerrufe und gewähre den Zugriff erneut (indem du auf die Abbildung unten rechts klickst)!
-errAccessNotGranted:Bitte gewähren Sie Zugriff (indem Sie auf die Abbildung unten rechts klicken)!
-errTwitchAccountAlreadyExists:Du hast bereits ein Twitch-Konto verknüpft!
+errTokenExpired:Dein Token ist ungültig! Versuche, die Seite zu aktualisieren oder den Zugriff erneut zu gewähren (indem du auf die Figur unten rechts klickst)!
+errAccessNotGranted:Bitte gewähre den Zugriff (indem du auf die Figur unten rechts klickst)!
+errTwitchAccountAlreadyExists:Du hast bereits ein Twitch-Konto verbunden!
 errNameNoSpace:Der Name darf keine Leerzeichen enthalten!
 errNameRegexInvalid:Der Name darf nur Buchstaben (A-Z) und Zahlen (0-9) enthalten.
 errCantUseThisName:Du kannst diesen Namen nicht verwenden!
-errThatNameIsTooLong:Dein Name kann bis zu 16 Zeichen lang sein!
+errThatNameIsTooLong:Dein Name darf bis zu 16 Zeichen lang sein!
 errThatNameIsTooShort:Dein Name muss mindestens 4 Zeichen lang sein!
 errThatNameIsAlreadyInUse:Dieser Name ist nicht mehr verfügbar!
 errAlreadyInvitedToGuild:Diese Person ist bereits in deine Gilde eingeladen!
 errGuildBattleLineIsFull:Die Kampflinie ist voll!
 noHealPotions:Du hast keine Heiltränke!
 yourStomachFull:Dein Magen ist voll!
-youDontHaveMaterials:Sie haben keine Materialien in dieser Kategorie.
-youDontHaveChests:Du hast keine Truhen! Schließe Erfolge oder Dungeons ab, um welche zu erhalten!
-connectionLost:Die Verbindung wurde unterbrochen. Die Verbindung wird in {timeLeft} Sekunden wiederhergestellt...
-reconnectingFailedRetry:Die Verbindung konnte nicht wiederhergestellt werden. Versuch, erneut eine Verbindung herzustellen: {reconnectAmount}. Die Verbindung wird in {timeLeft} Sekunden wiederhergestellt...
-reconnectingFailed:Die Verbindung konnte nicht wiederhergestellt werden. Bitte laden Sie Ihren Browser neu.
+youDontHaveMaterials:Du hast keine Materialien in dieser Kategorie.
+youDontHaveChests:Du hast keine Truhen! Schließe Erfolge oder Verliese ab, um welche zu bekommen!
+connectionLost:Verbindung verloren. Erneute Verbindung in {timeLeft} Sekunden...
+reconnectingFailedRetry:Erneutes Verbinden fehlgeschlagen. Verbindungsversuch: {reconnectAmount}. Erneute Verbindung in {timeLeft} Sekunden...
+reconnectingFailed:Erneutes Verbinden fehlgeschlagen. Bitte lade deinen Browser neu.
 ranks:Ränge
 error:Fehler
 connectTwitchBrowser:Ein neues Fenster in Ihrem Browser hat sich geöffnet. Bitte melde dich mit deinem Twitch-Konto an und verbinde dann dein Steam-Konto.
-connectTwitchConfirm:Wenn Sie fertig sind, drücken Sie bitte die unten stehende Bestätigungstaste.
-isSteamRunning:Es ist ein Fehler aufgetreten. Läuft Steam?
-errNoPermission:Du hast keine Erlaubnis dazu!
+connectTwitchConfirm:Wenn du fertig bist, drücke bitte den Bestätigungs-Knopf unten.
+isSteamRunning:Ein Fehler ist aufgetreten. Läuft Steam?
+errNoPermission:Du hast keine Berechtigung, das zu tun!
 errUnknownErrorChatbot:Ein unbekannter Fehler ist aufgetreten! Wenn das Problem weiterhin besteht, melde es uns auf unserem Discord: https://discord.com/invite/Gum9bS2dyw
-twitchBotRemoved:Der Bot wird jetzt gehen. Danke, dass du Embervale spielst.
+twitchBotRemoved:Der Bot wird jetzt gehen. Danke, dass du Embervale gespielt hast.
+errPleaseRenameYourCharacter:Du musst deinen Charakter umbenennen!
+errConsumableInventoryWouldBeFull:Diese Herstellung würde deine Tasche zu schwer machen!

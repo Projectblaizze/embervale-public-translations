@@ -44,7 +44,7 @@ ice_yeti:Eisyeti
 ice_ogre:Eisoger
 ice_golem:Eisgolem
 frozen_invader:Gefrorener Eindringling
-frost_sickle_mantis:Frostsichelmantie
+frost_sickle_mantis:Frostsichelschrecke
 frost_wing:Frostflügel
 ice_avian:Eisvogel
 berserker_dwarf:Berserkerzwerg
@@ -53,11 +53,11 @@ miner_dwarf:Zwergenminer
 executioner_dwarf:Henkerzwerg
 possessed_dwarf:Besessener Zwerg
 silvershield:Silberschild
-aiming_dwarf:Zielzwerg
+aiming_dwarf:Zielender Zwerg
 enchanted_ore:Verzaubertes Erz
 orc_warlock:Orkhexenmeister
-orc_marauder:Orkmarodierer
-orc_archer:Orkbogenjäger
+orc_marauder:Orkmarodeur
+orc_archer:Orkbogenschütze
 orc_warrior:Orkkrieger
 alpha_orc:Alpha Ork
 green_wyvern:Grüner Wyvern
@@ -78,7 +78,7 @@ deepwater_berserk:Tiefwasser-Berserker
 deepwater_crab:Tiefwasser-Krabbe
 deepwater_crab_warrior:Tiefwasser-Krabbenkrieger
 deepwater_dark_star:Tiefwasser-Dunkelstern
-deepwater_lurker:Tiefwasserkauer
+deepwater_lurker:Tiefwasserlauerer
 deepwater_urchin:Tiefwasser-Seeigel
 deepwater_watcher:Tiefwasserwächter
 desert_rock_lizard:Wüstenfelsenechse
@@ -113,10 +113,10 @@ thorn_cutter:Dornenhacker
 wall_mimic:Wandmimik
 toxic_carnivorous_plant:Toxische Fleischfressende Pflanze
 spider_crab:Spinnenkrabbe
-black_ant_protector:Schwarze Ameisenschützer
-venomous_centipede:Giftige Hundertfüßer
+black_ant_protector:Schwarze Ameisenbeschützer
+venomous_centipede:Giftiger Hundertfüßer
 sand_devourer:Sandschlinger
-cactus_abomination:Kaktus-Missgeburt
+cactus_abomination:Kaktus-Abscheulichkeit
 goblin_captain:Goblin-Hauptmann
 general_gogz:General Gogz
 accursed_captain_hawk:Verfluchter Captain Hawk
@@ -137,7 +137,7 @@ inferno_wing:Infernoflügel
 fire_snake:Feuerschlange
 lunar_wing:Lunarflügel
 fur_wing:Fellflügel
-colossal_red_snake:Kolossale Rote Schlange
+colossal_red_snake:Kolossale rote Schlange
 colossal_purple_snake:Kolossale violette Schlange
 colossal_black_snake:Kolossale schwarze Schlange
 gnoll_archer:Gnoll Bogenschütze
@@ -147,7 +147,7 @@ goblin_reaper:Goblin Schnitter
 goblin_rider:Goblin Reiter
 goblin_sorcerer:Goblin Zauberer
 flying_leech:Fliegender Blutegel
-behemoth:Koloss
+behemoth:Behemoth
 ice_snake:Eisschlange
 gnoll_shaman:Gnoll Schamane
 undead_gnoll:Untoter Gnoll
@@ -160,7 +160,7 @@ city_watch_ward:Stadtwache-Schützer
 city_watch_commander:Stadtwache-Kommandant
 city_watch_gate_keeper:Stadtwache Torwächter
 colossal_bat:Kolossale Fledermaus
-colossal_dark_crow:Kolossaler Dunkelkrähe
+colossal_dark_crow:Kolossale Dunkelkrähe
 colossal_scorpion:Kolossaler Skorpion
 forest_fox:Waldfuchs
 forest_deer:Waldhirsch
@@ -170,7 +170,7 @@ forest_catermoth:Waldraupe
 forest_ghost:Waldgeist
 forest_darkluff:Wald-Dunkelluff
 forest_fairy_dragon:Wald-Feendrachen
-forest_grasshopper:Waldfeldheuschrecke
+forest_grasshopper:Wald-Heuschrecke
 forest_imperial_widow:Wald-Kaiserspinnenwitwe
 forest_mageshroom:Wald-Magierpilz
 forest_panda:Waldpanda
@@ -190,8 +190,8 @@ forest_white_flower:Weiße Waldblume
 forest_wolf:Waldwolf
 ice_serpent:Eisschlange
 ice_wolf:Eiswolf
-ice_snow_golem:Schnee-Eisgolem
-ice_snowman:Schneemann
+ice_snow_golem:Eisschneegolem
+ice_snowman:Eisschneemann
 ice_wisp:Eisgeist
 ice_spike:Eisspitze
 plague_rat:Seuchenratte
@@ -240,25 +240,25 @@ fox_crook:Fuchsdieb
 fox_rogue:Fuchsschurke
 shark_frog:Haifrosch
 bull_lion:Stierlöwe
-tiger_dragon:Tigerdrachen
-gargoyle_grifos:Gargoyle Grifos
+tiger_dragon:Tigerdrache
+gargoyle_grifos:Gargoyle Greif
 garuda_garunix:Garuda Garunix
 ghost_puppet:Geisterpuppe
 ghost_revelator:Geisteroffenbarer
-storm_hawk:Sturmhauk
+storm_hawk:Sturmfalke
 colossal_frog:Kolossaler Frosch
 flightless_bird:Flugunfähiger Vogel
-demon_critter_fox:Dämonenkritzel Fuchs
-demon_critter_rabbit:Dämonenkritzel Kaninchen
-demon_critter_squirrel:Dämonenkritzel Eichhörnchen
+demon_critter_fox:Dämonenwesen Fuchs
+demon_critter_rabbit:Dämonenwesen Kaninchen
+demon_critter_squirrel:Dämonenwesen Eichhörnchen
 demon_imp:Dämonenwicht
 bighorn:Großhorn
 darkness_gargoyle:Dunkelheitsgargoyle
-devilimp:Devilimp
+devilimp:Teufelskobold
 dragon_wyrm:Drachenwyrm
-blue_wyvern:Blaue Wyvern
-brown_wyvern:Braune Wyvern
-red_wyvern:Rote Wyvern
+blue_wyvern:Blauer Wyvern
+brown_wyvern:Brauner Wyvern
+red_wyvern:Roter Wyvern
 dryads_companion:Dryadenbegleiter
 mountain_snail:Bergschnecke
 mountain_warthog:Bergwarzenschwein
@@ -270,7 +270,7 @@ squirrel_warrior:Eichhörnchenkrieger
 squirrel_defender:Eichhörnchenverteidiger
 root_shield:Wurzelschild
 cave_dweller_worm:Höhlenbewohnerwurm
-fire_vulture:Feuergier
+fire_vulture:Feuergeier
 fire_wisp:Feuergeist
 ant_knight:Ameisenritter
 frozen_robber:Gefrorener Räuber
@@ -312,23 +312,23 @@ toxic_spreader:Toxischer Verbreiter
 cape_sundew:Kap-Sonnentau
 beach_spore:Strandspore
 seagull:Möwe
-sea_lurker:Meeresschleicher
-sea_jellyfish:Meeresschleim
+sea_lurker:Meereslauerer
+sea_jellyfish:Meeresqualle
 sea_horse:Seepferd
 sea_lickitoad:Seeleckkröte
 sea_shark:Seehai
 sea_spheria:Seespheria
 sea_tortoad:Seetortoad
 sea_turtle:Seeschildkröte
-sea_shelltacke:Seemuscheltacke
+sea_shelltacke:Seemuschelzecke
 sea_octi:Seeokti
 sea_octopus:Seetintenfisch
 sea_fatoad:Seefettkröte
 sea_crab:Seekrabbe
-sea_blue_dragon:See-Blauer-Drache
+sea_blue_dragon:See-Blaudrache
 turtle_golem:Schildkrötengolem
 beach_pelican:Strandpelikan
-sea_abismos:Sea Abismos
+sea_abismos:See Abismos
 star_shell:Sternmuschel
 sea_star_trio:Seestern-Trio
 arcane_slime:Arkaner Schleim
@@ -337,7 +337,7 @@ undead_longshot:Untoter Weitschuss
 undead_axe:Untote Axt
 undead_blade:Untote Klinge
 plant_exotic_flyer:Pflanzenexotischer Flieger
-blood_orc_slaughterer:Blutorc Schlachter
+blood_orc_slaughterer:Blutorc Schlächter
 blood_orc_ravager:Blutorc Verwüster
 blood_orc_impaler:Blutorc Pfähler
 orc_war_drummer:Orc Kriegstrommler
@@ -349,7 +349,7 @@ black_roc:Schwarzer Roc
 bee:Biene
 sand_caterpillar:Sandraupe
 caterpillar:Raupe
-eyehopper:Augenspringer
+eyehopper:Augenhüpfer
 death_worm:Todeswurm
 lion_roach:Löwenschabe
 flame_monkey:Flammenaffe
@@ -363,7 +363,7 @@ spiked_caterpillar:Stachelraupe
 toucan_panther:Tukanpanther
 rocktail_demolisher:Felsenschwanzzerstörer
 roaming_salamander:Umherstreifender Salamander
-void_gargoyle:Leeres Gargoyle
+void_gargoyle:Leere Gargoyle
 white_minotaur:Weißer Minotaurus
 avian_elephant:Vogelelefant
 black_lance_knight:Schwarzlanzenritter
@@ -375,13 +375,13 @@ lava_spawn:Lavabrut
 fire_ogre:Feueroger
 dwarf_dragon:Zwergdrache
 darkness_fox:Dunkelheitsfuchs
-light_fox:Leuchtfuchs
+light_fox:Lichtfuchs
 void_fox:Leerenfuchs
 stone_knight_alpha:Steinritter Alpha
 stone_knight_zeta:Steinritter Zeta
 stone_knight_beta:Steinritter Beta
 tree_magical:Magischer Baum
-melee_tree:Kampfer Baum
+melee_tree:Kämpfer Baum
 tree_skirmisher:Scharmützler Baum
 arcane_tree:Arkaner Baum
 twin_snow_golem:Zwillings-Schneegolem
@@ -403,9 +403,9 @@ knight_sword_elite:Schwertelite der Ritter
 knights_spear_common:Gewöhnliche Ritterspeer
 knights_sword_common:Gewöhnliche Ritterschwert
 masked_demon_giant:Maskierter Dämonenriese
-crocoknight:Krokoknight
+crocoknight:Krokoritter
 razortail_eagle:Rasierklingenschwanzadler
-bull_dragon:Bulldrache
+bull_dragon:Stierdrache
 rabbit_knight:Hasenritter
 rabbit_bandit:Hasenbandit
 sea_fish:Meerfisch
@@ -451,10 +451,10 @@ feathered_razor:Gefiederte Klinge
 wind_harpy:Windharpyie
 wind_lion:Windlöwe
 wind_mantis:Windmantis
-wind_spawn:Winds Brut
+wind_spawn:Wind Brut
 wooden_doll_warrior:Holzpuppe Krieger
 wooden_doll_ranger:Holzpuppe Waldläufer
-wooden_doll_berserk:Hölzerne Puppe Berserker
+wooden_doll_berserk:Holzpuppe Berserker
 spirit_boar:Geisterschwein
 spirit_wolf:Geisterwolf
 spirit_baboon:Geisterpavian
@@ -490,7 +490,7 @@ alpha_orc_bestiary:Die Trophäenjagd eines Orks kennt nur zwei Probleme: Das Gle
 awakened_sand_bestiary:Hüte dich vor Sand an unbequemen Stellen
 barbarian_slime_bestiary:Ihr Schulterpolster scheint dekorativ zu sein, echte Barbaren tragen keine Rüstung
 berserker_dwarf_bestiary:Der Unterschied zu einem normalen Zwerg liegt nur in der Größe ihrer Axt
-black_ant_protector_bestiary:Ameisen können das Vielfache ihres Körpergewichts heben, diese Blätter werden sie nicht davon abhalten, dich zu zerquetschen
+black_ant_protector_bestiary:Ameisen können das Vielfache ihres Körpergewichts heben. Diese Blätter werden sie nicht davon abhalten, dich zu zerquetschen
 black_wolf_bestiary:Du solltest besser ein paar Hundeleckereien haben
 blue_dragonfly_bestiary:Ihre blaue Farbe tarnt ihren schnellen Anflug
 blue_slime_bestiary:Sein unschuldiges Pfeifen lenkt von seinem angeborenen Potenzial für Ärger ab
@@ -499,14 +499,14 @@ carnivorous_plant_bestiary:Das wirft die Frage auf, ob es vergleichbare Pflanzen
 cold_ruler_bestiary:Nur der Umhang macht ihn wirklich cool
 competitive_dodo_bestiary:Triffst du es in der Wildnis, wird einer von euch aussterben
 dark_ruler_of_the_wastelands_bestiary:Mit so breiten Schultern, wie könnte ein Wesen nach etwas anderem als totaler Herrschaft streben?
-descended_dragon_bestiary:Irgendetwas hat diesem Wesen die Flügel genommen, für immer an den Boden gebunden
-dwarf_captain_bestiary:Schau dir diese Haltung an, schau dir diesen Bart an!
+descended_dragon_bestiary:Irgendetwas hat diesem Wesen die Flügel genommen und für immer an den Boden gebunden
+dwarf_captain_bestiary:Schau dir diese Haltung und schau dir diesen Bart an!
 enchanted_ore_bestiary:Du wirst mehr als nur eine Spitzhacke brauchen
 executioner_dwarf_bestiary:Das gesamte Axt-Schwinger-Talent der Zwerge auf ein Ziel gerichtet: Deinen Hals
 fire_ant_bestiary:Ein einziger Bau kann einen ganzen Wald verwüsten
-frost_sickle_mantis_bestiary:Viele Insektenarten halten während der kalten Monate Winterschlaf, dieses wird aktiver
+frost_sickle_mantis_bestiary:Viele Insektenarten halten während der kalten Monate Winterschlaf. Dieses wird jedoch aktiv in dieser Zeit
 frost_spirit_bestiary:Zieh immer ein Hemd an, bevor du in die Kälte gehst, sonst endest du wie dieses Wesen
-frost_wing_bestiary:Jeder Flügel eine einzelne Schneeflocke eines Schneesturms, ein ganzer Schwarm kann ein Land begraben
+frost_wing_bestiary:Jeder Flügel eine einzelne Schneeflocke eines Schneesturms und ein ganzer Schwarm kann ein Land begraben
 frozen_invader_bestiary:Du solltest besser eine Mauer bauen, um diese Kreaturen draußen zu halten
 general_gogz_bestiary:Drachentöter, Millionär, Modeikone und höchstbewerteter Wettkampf-Kapeisenieur des Reiches, wie kannst du da mithalten?
 giant_rat_bestiary:Eine bestätigte Bedrohung der Kanalisation
@@ -516,9 +516,9 @@ goblin_grunt_bestiary:Sie wollen deine Wertsachen, Ausrüstung, Zehen und Leben,
 goblin_knight_bestiary:Zwei Schilde sind besser als einer, der Eimer ist nur das Sahnehäubchen
 goblin_mage_bestiary:Sie stechen dich nicht nur mit physischen Dolchen in den Rücken
 goblin_ranger_bestiary:Fürchte es, laufe davor weg, der Goblin-Stamm wird trotzdem ankommen
-goblin_rogue_bestiary:Ungefähr doppelt so heimtückisch wie ein gewöhnlicher Goblin, und etwa doppelt so stichfreudig
+goblin_rogue_bestiary:Ungefähr doppelt so heimtückisch wie ein gewöhnlicher Goblin und etwa doppelt so stichfreudig
 god-king_hubertus_III_bestiary:Wie hat ein Schleim seine formlose Gliedmaße auf diese Krone bekommen?
-grandmaster_udabras_bestiary:Moment mal, Schleime sollen doch kein Gehirn haben
+grandmaster_udabras_bestiary:Moment mal! Schleime sollen doch kein Gehirn haben
 greed_incarnation_bestiary:Umherwandernd in längst vergessenen Hallen aus Stein, das Symbol einer zu tief gegrabenen Mine
 green_dragonfly_bestiary:Fast unsichtbar zwischen der Vegetation
 grumpy_cactus_bestiary:Wenn der Gesichtsausdruck dich nicht schon auf Abstand hält, dann werden es die Dornen tun

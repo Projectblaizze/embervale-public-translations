@@ -248,7 +248,7 @@ hour:Stunde
 days:Tage
 day:Tag
 stamina:Ausdauer
-newStaminaIn:Du wirst in {time} 1000 Ausdauer erhalten
+newStaminaIn:Du wirst in {time} volle Ausdauer erhalten
 staminaFull:Deine Ausdauer ist bereits voll
 editRoles:Rollen bearbeiten
 guildFee:Gildenbeitrag
